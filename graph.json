@@ -1,0 +1,4656 @@
+{
+ "nodes": [
+  {
+   "id": "Claim:6977098",
+   "label": "Claim",
+   "name": "6977098"
+  },
+  {
+   "id": "Claimant:CLMT-6977098",
+   "label": "Claimant",
+   "name": "Jordan Lee"
+  },
+  {
+   "id": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "label": "Carrier",
+   "name": "STATE INSURANCE FUND"
+  },
+  {
+   "id": "Injury:10",
+   "label": "Injury",
+   "name": "CONTUSION"
+  },
+  {
+   "id": "BodyPart:54",
+   "label": "BodyPart",
+   "name": "LOWER LEG"
+  },
+  {
+   "id": "InjuryCause:46",
+   "label": "InjuryCause",
+   "name": "MOTOR VEHICLE - COLLISION WITH A FIXED OBJECT"
+  },
+  {
+   "id": "County:NASSAU",
+   "label": "County",
+   "name": "NASSAU"
+  },
+  {
+   "id": "Industry:62",
+   "label": "Industry",
+   "name": "HEALTH CARE AND SOCIAL ASSISTANCE"
+  },
+  {
+   "id": "Employer:EMP-HARBORVIEW-COMMUNITY-HEALTH",
+   "label": "Employer",
+   "name": "Harborview Community Health"
+  },
+  {
+   "id": "Adjuster:ADJ-MAYA-PATEL",
+   "label": "Adjuster",
+   "name": "Maya Patel"
+  },
+  {
+   "id": "Provider:PRV-NORTH-SHORE-OCCUPATIONAL-HEALTH",
+   "label": "Provider",
+   "name": "North Shore Occupational Health"
+  },
+  {
+   "id": "Location:LOC-NASSAU-COUNTY-FACILITY-PARKING-AREA",
+   "label": "Location",
+   "name": "Nassau County facility parking area"
+  },
+  {
+   "id": "Claim:6977099",
+   "label": "Claim",
+   "name": "6977099"
+  },
+  {
+   "id": "Claimant:CLMT-6977099",
+   "label": "Claimant",
+   "name": "Avery Chen"
+  },
+  {
+   "id": "Carrier:CAR-HIGHVIEW-NATIONAL-INSURANCE",
+   "label": "Carrier",
+   "name": "HIGHVIEW NATIONAL INSURANCE"
+  },
+  {
+   "id": "Injury:52",
+   "label": "Injury",
+   "name": "STRAIN OR TEAR"
+  },
+  {
+   "id": "BodyPart:42",
+   "label": "BodyPart",
+   "name": "LOWER BACK AREA"
+  },
+  {
+   "id": "InjuryCause:56",
+   "label": "InjuryCause",
+   "name": "STRAIN OR INJURY BY - LIFTING"
+  },
+  {
+   "id": "County:WESTCHESTER",
+   "label": "County",
+   "name": "WESTCHESTER"
+  },
+  {
+   "id": "Employer:EMP-METROCLEAN-SERVICES",
+   "label": "Employer",
+   "name": "MetroClean Services"
+  },
+  {
+   "id": "Adjuster:ADJ-DANIEL-BROOKS",
+   "label": "Adjuster",
+   "name": "Daniel Brooks"
+  },
+  {
+   "id": "Provider:PRV-HUDSON-VALLEY-ORTHO-REHAB",
+   "label": "Provider",
+   "name": "Hudson Valley Ortho & Rehab"
+  },
+  {
+   "id": "Location:LOC-WESTCHESTER-COUNTY-PATIENT-CARE-UNIT",
+   "label": "Location",
+   "name": "Westchester County patient-care unit"
+  },
+  {
+   "id": "Claim:6977100",
+   "label": "Claim",
+   "name": "6977100"
+  },
+  {
+   "id": "Claimant:CLMT-6977100",
+   "label": "Claimant",
+   "name": "Marcus Reed"
+  },
+  {
+   "id": "Carrier:CAR-WESCO-INSURANCE-CO",
+   "label": "Carrier",
+   "name": "WESCO INSURANCE CO"
+  },
+  {
+   "id": "Injury:59",
+   "label": "Injury",
+   "name": "ALL OTHER SPECIFIC INJURIES, NOC"
+  },
+  {
+   "id": "BodyPart:35",
+   "label": "BodyPart",
+   "name": "HAND"
+  },
+  {
+   "id": "InjuryCause:31",
+   "label": "InjuryCause",
+   "name": "FALL, SLIP OR TRIP INJURY - FALL, SLIP OR TRIP, NOC"
+  },
+  {
+   "id": "Industry:56",
+   "label": "Industry",
+   "name": "ADMINISTRATIVE AND SUPPORT AND WASTE MANAGEMENT AND REMEDIAT"
+  },
+  {
+   "id": "Employer:EMP-HUDSON-PUBLIC-SERVICES",
+   "label": "Employer",
+   "name": "Hudson Public Services"
+  },
+  {
+   "id": "Adjuster:ADJ-PRIYA-SHAH",
+   "label": "Adjuster",
+   "name": "Priya Shah"
+  },
+  {
+   "id": "Provider:PRV-BROOKLYN-OCCUPATIONAL-MEDICINE",
+   "label": "Provider",
+   "name": "Brooklyn Occupational Medicine"
+  },
+  {
+   "id": "Location:LOC-NASSAU-COUNTY-SERVICE-SITE",
+   "label": "Location",
+   "name": "Nassau County service site"
+  },
+  {
+   "id": "Claim:6977101",
+   "label": "Claim",
+   "name": "6977101"
+  },
+  {
+   "id": "Claimant:CLMT-6977101",
+   "label": "Claimant",
+   "name": "Ethan Walker"
+  },
+  {
+   "id": "Carrier:CAR-HARTFORD-ACCIDENT-INDEMNITY",
+   "label": "Carrier",
+   "name": "HARTFORD ACCIDENT & INDEMNITY"
+  },
+  {
+   "id": "BodyPart:52",
+   "label": "BodyPart",
+   "name": "UPPER LEG"
+  },
+  {
+   "id": "InjuryCause:60",
+   "label": "InjuryCause",
+   "name": "STRAIN OR INJURY BY - STRAIN OR INJURY BY, NOC"
+  },
+  {
+   "id": "County:NEW YORK",
+   "label": "County",
+   "name": "NEW YORK"
+  },
+  {
+   "id": "Industry:54",
+   "label": "Industry",
+   "name": "PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES"
+  },
+  {
+   "id": "Employer:EMP-CITY-OPERATIONS-DEPARTMENT",
+   "label": "Employer",
+   "name": "City Operations Department"
+  },
+  {
+   "id": "Adjuster:ADJ-OLIVIA-GRANT",
+   "label": "Adjuster",
+   "name": "Olivia Grant"
+  },
+  {
+   "id": "Provider:PRV-UPSTATE-HEARING-BALANCE-CENTER",
+   "label": "Provider",
+   "name": "Upstate Hearing & Balance Center"
+  },
+  {
+   "id": "Location:LOC-NEW-YORK-COUNTY-PUBLIC-FACILITY",
+   "label": "Location",
+   "name": "New York County public facility"
+  },
+  {
+   "id": "Claim:6977117",
+   "label": "Claim",
+   "name": "6977117"
+  },
+  {
+   "id": "Claimant:CLMT-6977117",
+   "label": "Claimant",
+   "name": "Sofia Martinez"
+  },
+  {
+   "id": "BodyPart:32",
+   "label": "BodyPart",
+   "name": "ELBOW"
+  },
+  {
+   "id": "InjuryCause:74",
+   "label": "InjuryCause",
+   "name": "STRUCK OR INJURED BY - FELLOW WORKER, PATIENT OR OTHER PERSON"
+  },
+  {
+   "id": "County:DUTCHESS",
+   "label": "County",
+   "name": "DUTCHESS"
+  },
+  {
+   "id": "Industry:92",
+   "label": "Industry",
+   "name": "PUBLIC ADMINISTRATION"
+  },
+  {
+   "id": "Employer:EMP-WESTERN-GRID-UTILITIES",
+   "label": "Employer",
+   "name": "Western Grid Utilities"
+  },
+  {
+   "id": "Adjuster:ADJ-MARCUS-HILL",
+   "label": "Adjuster",
+   "name": "Marcus Hill"
+  },
+  {
+   "id": "Provider:PRV-ROCHESTER-WORK-INJURY-CLINIC",
+   "label": "Provider",
+   "name": "Rochester Work Injury Clinic"
+  },
+  {
+   "id": "Location:LOC-DUTCHESS-COUNTY-OPERATIONS-FACILITY",
+   "label": "Location",
+   "name": "Dutchess County operations facility"
+  },
+  {
+   "id": "Claim:6977118",
+   "label": "Claim",
+   "name": "6977118"
+  },
+  {
+   "id": "Claimant:CLMT-6977118",
+   "label": "Claimant",
+   "name": "Nina Foster"
+  },
+  {
+   "id": "Carrier:CAR-POLICE-FIRE-SANITATION",
+   "label": "Carrier",
+   "name": "POLICE, FIRE, SANITATION"
+  },
+  {
+   "id": "Injury:49",
+   "label": "Injury",
+   "name": "SPRAIN OR TEAR"
+  },
+  {
+   "id": "BodyPart:-9",
+   "label": "BodyPart",
+   "name": "MULTIPLE"
+  },
+  {
+   "id": "InjuryCause:12",
+   "label": "InjuryCause",
+   "name": "CAUGHT IN, UNDER OR BETWEEN - OBJECT HANDLED"
+  },
+  {
+   "id": "County:KINGS",
+   "label": "County",
+   "name": "KINGS"
+  },
+  {
+   "id": "Employer:EMP-ORANGE-SUPPLY-COOPERATIVE",
+   "label": "Employer",
+   "name": "Orange Supply Cooperative"
+  },
+  {
+   "id": "Adjuster:ADJ-ELENA-CRUZ",
+   "label": "Adjuster",
+   "name": "Elena Cruz"
+  },
+  {
+   "id": "Provider:PRV-UPSTATE-JOINT-REHAB-CENTER",
+   "label": "Provider",
+   "name": "Upstate Joint & Rehab Center"
+  },
+  {
+   "id": "Location:LOC-KINGS-COUNTY-OFFICE-STAIRWELL",
+   "label": "Location",
+   "name": "Kings County office stairwell"
+  },
+  {
+   "id": "Claim:6977119",
+   "label": "Claim",
+   "name": "6977119"
+  },
+  {
+   "id": "Claimant:CLMT-6977119",
+   "label": "Claimant",
+   "name": "Robert Hayes"
+  },
+  {
+   "id": "Carrier:CAR-CNY-OTHER-THAN-ED-HED-WATER",
+   "label": "Carrier",
+   "name": "CNY OTHER THAN ED, HED WATER"
+  },
+  {
+   "id": "InjuryCause:45",
+   "label": "InjuryCause",
+   "name": "MOTOR VEHICLE - COLLISION OR SIDESWIPE WITH ANOTHER VEHICLE"
+  },
+  {
+   "id": "Employer:EMP-MONROE-PRECISION-MANUFACTURING",
+   "label": "Employer",
+   "name": "Monroe Precision Manufacturing"
+  },
+  {
+   "id": "Provider:PRV-EMPIRE-PHYSICAL-MEDICINE",
+   "label": "Provider",
+   "name": "Empire Physical Medicine"
+  },
+  {
+   "id": "Location:LOC-KINGS-COUNTY-UTILITY-SITE",
+   "label": "Location",
+   "name": "Kings County utility site"
+  },
+  {
+   "id": "Claim:6977121",
+   "label": "Claim",
+   "name": "6977121"
+  },
+  {
+   "id": "Claimant:CLMT-6977121",
+   "label": "Claimant",
+   "name": "Leo Morgan"
+  },
+  {
+   "id": "Carrier:CAR-HARTFORD-CASUALTY-INSURANCE-CO",
+   "label": "Carrier",
+   "name": "HARTFORD CASUALTY INSURANCE CO"
+  },
+  {
+   "id": "County:QUEENS",
+   "label": "County",
+   "name": "QUEENS"
+  },
+  {
+   "id": "Industry:61",
+   "label": "Industry",
+   "name": "EDUCATIONAL SERVICES"
+  },
+  {
+   "id": "Employer:EMP-LAKESIDE-COFFEE-RETAIL",
+   "label": "Employer",
+   "name": "Lakeside Coffee Retail"
+  },
+  {
+   "id": "Provider:PRV-CAPITAL-REGION-OCCUPATIONAL-HEALTH",
+   "label": "Provider",
+   "name": "Capital Region Occupational Health"
+  },
+  {
+   "id": "Location:LOC-QUEENS-COUNTY-WAREHOUSE",
+   "label": "Location",
+   "name": "Queens County warehouse"
+  },
+  {
+   "id": "Claim:6977123",
+   "label": "Claim",
+   "name": "6977123"
+  },
+  {
+   "id": "Claimant:CLMT-6977123",
+   "label": "Claimant",
+   "name": "Grace Kim"
+  },
+  {
+   "id": "Carrier:CAR-FDM-PREFERRED-INSURANCE",
+   "label": "Carrier",
+   "name": "FDM PREFERRED INSURANCE"
+  },
+  {
+   "id": "County:SUFFOLK",
+   "label": "County",
+   "name": "SUFFOLK"
+  },
+  {
+   "id": "Employer:EMP-BROOKLYN-RETAIL-GROUP",
+   "label": "Employer",
+   "name": "Brooklyn Retail Group"
+  },
+  {
+   "id": "Location:LOC-SUFFOLK-COUNTY-PRODUCTION-FLOOR",
+   "label": "Location",
+   "name": "Suffolk County production floor"
+  },
+  {
+   "id": "Claim:6977137",
+   "label": "Claim",
+   "name": "6977137"
+  },
+  {
+   "id": "Claimant:CLMT-6977137",
+   "label": "Claimant",
+   "name": "Noah Bennett"
+  },
+  {
+   "id": "BodyPart:53",
+   "label": "BodyPart",
+   "name": "KNEE"
+  },
+  {
+   "id": "County:FRANKLIN",
+   "label": "County",
+   "name": "FRANKLIN"
+  },
+  {
+   "id": "Employer:EMP-BUFFALO-CARE-NETWORK",
+   "label": "Employer",
+   "name": "Buffalo Care Network"
+  },
+  {
+   "id": "Location:LOC-FRANKLIN-COUNTY-RETAIL-STORE",
+   "label": "Location",
+   "name": "Franklin County retail store"
+  },
+  {
+   "id": "Claim:6977138",
+   "label": "Claim",
+   "name": "6977138"
+  },
+  {
+   "id": "Claimant:CLMT-6977138",
+   "label": "Claimant",
+   "name": "Isabella Torres"
+  },
+  {
+   "id": "Carrier:CAR-XL-INSURANCE-AMERICA-INC",
+   "label": "Carrier",
+   "name": "XL INSURANCE AMERICA INC"
+  },
+  {
+   "id": "BodyPart:65",
+   "label": "BodyPart",
+   "name": "INSUFFICIENT INFO TO PROPERLY IDENTIFY - UNCLASSIFIED"
+  },
+  {
+   "id": "InjuryCause:33",
+   "label": "InjuryCause",
+   "name": "FALL, SLIP OR TRIP INJURY - ON STAIRS"
+  },
+  {
+   "id": "Employer:EMP-EMPIRE-LOGISTICS",
+   "label": "Employer",
+   "name": "Empire Logistics"
+  },
+  {
+   "id": "Location:LOC-KINGS-COUNTY-STOCKROOM",
+   "label": "Location",
+   "name": "Kings County stockroom"
+  },
+  {
+   "id": "Claim:6977139",
+   "label": "Claim",
+   "name": "6977139"
+  },
+  {
+   "id": "Claimant:CLMT-6977139",
+   "label": "Claimant",
+   "name": "Rachel Adams"
+  },
+  {
+   "id": "Carrier:CAR-HEALTH-HOSPITAL-CORP",
+   "label": "Carrier",
+   "name": "HEALTH & HOSPITAL CORP."
+  },
+  {
+   "id": "BodyPart:56",
+   "label": "BodyPart",
+   "name": "FOOT"
+  },
+  {
+   "id": "Employer:EMP-NORTHSTAR-MANUFACTURING",
+   "label": "Employer",
+   "name": "Northstar Manufacturing"
+  },
+  {
+   "id": "Location:LOC-NEW-YORK-COUNTY-LOADING-AREA",
+   "label": "Location",
+   "name": "New York County loading area"
+  },
+  {
+   "id": "Claim:6977140",
+   "label": "Claim",
+   "name": "6977140"
+  },
+  {
+   "id": "Claimant:CLMT-6977140",
+   "label": "Claimant",
+   "name": "Maya Patel"
+  },
+  {
+   "id": "BodyPart:31",
+   "label": "BodyPart",
+   "name": "UPPER ARM"
+  },
+  {
+   "id": "Employer:EMP-HUDSON-VALLEY-HOSPITALITY",
+   "label": "Employer",
+   "name": "Hudson Valley Hospitality"
+  },
+  {
+   "id": "Location:LOC-QUEENS-COUNTY-FACILITY-PARKING-AREA",
+   "label": "Location",
+   "name": "Queens County facility parking area"
+  },
+  {
+   "id": "Claim:6977141",
+   "label": "Claim",
+   "name": "6977141"
+  },
+  {
+   "id": "Claimant:CLMT-6977141",
+   "label": "Claimant",
+   "name": "Daniel Brooks"
+  },
+  {
+   "id": "Carrier:CAR-NYC-HOUSING-AUTHORITY",
+   "label": "Carrier",
+   "name": "NYC HOUSING AUTHORITY"
+  },
+  {
+   "id": "Employer:EMP-METRO-FACILITIES-GROUP",
+   "label": "Employer",
+   "name": "Metro Facilities Group"
+  },
+  {
+   "id": "Location:LOC-KINGS-COUNTY-PATIENT-CARE-UNIT",
+   "label": "Location",
+   "name": "Kings County patient-care unit"
+  },
+  {
+   "id": "Claim:6977144",
+   "label": "Claim",
+   "name": "6977144"
+  },
+  {
+   "id": "Claimant:CLMT-6977144",
+   "label": "Claimant",
+   "name": "Priya Shah"
+  },
+  {
+   "id": "Carrier:CAR-WEGMANS-FOOD-MARKETS-INC",
+   "label": "Carrier",
+   "name": "WEGMANS FOOD MARKETS, INC."
+  },
+  {
+   "id": "County:MONROE",
+   "label": "County",
+   "name": "MONROE"
+  },
+  {
+   "id": "Industry:44",
+   "label": "Industry",
+   "name": "RETAIL TRADE"
+  },
+  {
+   "id": "Employer:EMP-RIVERSIDE-FOOD-SERVICES",
+   "label": "Employer",
+   "name": "Riverside Food Services"
+  },
+  {
+   "id": "Location:LOC-MONROE-COUNTY-SERVICE-SITE",
+   "label": "Location",
+   "name": "Monroe County service site"
+  },
+  {
+   "id": "Claim:6977155",
+   "label": "Claim",
+   "name": "6977155"
+  },
+  {
+   "id": "Claimant:CLMT-6977155",
+   "label": "Claimant",
+   "name": "Lucas Collins"
+  },
+  {
+   "id": "Carrier:CAR-MALONE-CSD",
+   "label": "Carrier",
+   "name": "MALONE CSD"
+  },
+  {
+   "id": "Injury:1",
+   "label": "Injury",
+   "name": "NO PHYSICAL INJURY"
+  },
+  {
+   "id": "InjuryCause:29",
+   "label": "InjuryCause",
+   "name": "FALL, SLIP OR TRIP INJURY - ON SAME LEVEL"
+  },
+  {
+   "id": "Employer:EMP-ALBANY-PUBLIC-WORKS",
+   "label": "Employer",
+   "name": "Albany Public Works"
+  },
+  {
+   "id": "Location:LOC-FRANKLIN-COUNTY-PUBLIC-FACILITY",
+   "label": "Location",
+   "name": "Franklin County public facility"
+  },
+  {
+   "id": "Claim:6977156",
+   "label": "Claim",
+   "name": "6977156"
+  },
+  {
+   "id": "Claimant:CLMT-6977156",
+   "label": "Claimant",
+   "name": "Emma Rivera"
+  },
+  {
+   "id": "Location:LOC-QUEENS-COUNTY-OPERATIONS-FACILITY",
+   "label": "Location",
+   "name": "Queens County operations facility"
+  },
+  {
+   "id": "Claim:6977157",
+   "label": "Claim",
+   "name": "6977157"
+  },
+  {
+   "id": "Claimant:CLMT-6977157",
+   "label": "Claimant",
+   "name": "Olivia Murphy"
+  },
+  {
+   "id": "Carrier:CAR-TECHNOLOGY-INSURANCE-CO-INC",
+   "label": "Carrier",
+   "name": "TECHNOLOGY INSURANCE CO INC"
+  },
+  {
+   "id": "Injury:91",
+   "label": "Injury",
+   "name": "MULTIPLE INJURIES INCLUDING BOTH PHYSICAL AND PSYCHOLOGICAL"
+  },
+  {
+   "id": "BodyPart:61",
+   "label": "BodyPart",
+   "name": "ABDOMEN INCLUDING GROIN"
+  },
+  {
+   "id": "Claim:6977159",
+   "label": "Claim",
+   "name": "6977159"
+  },
+  {
+   "id": "Claimant:CLMT-6977159",
+   "label": "Claimant",
+   "name": "Henry Stewart"
+  },
+  {
+   "id": "Carrier:CAR-CLEAR-SPRING-PROPERTY-AND",
+   "label": "Carrier",
+   "name": "CLEAR SPRING PROPERTY AND"
+  },
+  {
+   "id": "Claim:6977160",
+   "label": "Claim",
+   "name": "6977160"
+  },
+  {
+   "id": "Claimant:CLMT-6977160",
+   "label": "Claimant",
+   "name": "Chloe Nguyen"
+  },
+  {
+   "id": "County:ROCKLAND",
+   "label": "County",
+   "name": "ROCKLAND"
+  },
+  {
+   "id": "Location:LOC-ROCKLAND-COUNTY-WAREHOUSE",
+   "label": "Location",
+   "name": "Rockland County warehouse"
+  },
+  {
+   "id": "Claim:6977161",
+   "label": "Claim",
+   "name": "6977161"
+  },
+  {
+   "id": "Claimant:CLMT-6977161",
+   "label": "Claimant",
+   "name": "Liam Carter"
+  },
+  {
+   "id": "County:ONEIDA",
+   "label": "County",
+   "name": "ONEIDA"
+  },
+  {
+   "id": "Location:LOC-ONEIDA-COUNTY-PRODUCTION-FLOOR",
+   "label": "Location",
+   "name": "Oneida County production floor"
+  },
+  {
+   "id": "Claim:6977163",
+   "label": "Claim",
+   "name": "6977163"
+  },
+  {
+   "id": "Claimant:CLMT-6977163",
+   "label": "Claimant",
+   "name": "Mia Lopez"
+  },
+  {
+   "id": "Carrier:CAR-NEW-HAMPSHIRE-INSURANCE-CO",
+   "label": "Carrier",
+   "name": "NEW HAMPSHIRE INSURANCE CO"
+  },
+  {
+   "id": "Injury:72",
+   "label": "Injury",
+   "name": "LOSS OF HEARING"
+  },
+  {
+   "id": "BodyPart:13",
+   "label": "BodyPart",
+   "name": "EAR(S)"
+  },
+  {
+   "id": "InjuryCause:99",
+   "label": "InjuryCause",
+   "name": "MISCELLANEOUS CAUSES - OTHER - MISCELLANEOUS, NOC"
+  },
+  {
+   "id": "County:ALLEGANY",
+   "label": "County",
+   "name": "ALLEGANY"
+  },
+  {
+   "id": "Industry:22",
+   "label": "Industry",
+   "name": "UTILITIES"
+  },
+  {
+   "id": "Location:LOC-ALLEGANY-COUNTY-RETAIL-STORE",
+   "label": "Location",
+   "name": "Allegany County retail store"
+  },
+  {
+   "id": "Claim:6977166",
+   "label": "Claim",
+   "name": "6977166"
+  },
+  {
+   "id": "Claimant:CLMT-6977166",
+   "label": "Claimant",
+   "name": "Owen Price"
+  },
+  {
+   "id": "Carrier:CAR-CEDAR-INSURANCE-COMPANY",
+   "label": "Carrier",
+   "name": "CEDAR INSURANCE COMPANY"
+  },
+  {
+   "id": "InjuryCause:70",
+   "label": "InjuryCause",
+   "name": "STRIKING AGAINST OR STEPPING ON - STRIKING AGAINST OR STEPPING ON, NOC"
+  },
+  {
+   "id": "County:ONONDAGA",
+   "label": "County",
+   "name": "ONONDAGA"
+  },
+  {
+   "id": "Location:LOC-ONONDAGA-COUNTY-STOCKROOM",
+   "label": "Location",
+   "name": "Onondaga County stockroom"
+  },
+  {
+   "id": "Claim:6977174",
+   "label": "Claim",
+   "name": "6977174"
+  },
+  {
+   "id": "Claimant:CLMT-6977174",
+   "label": "Claimant",
+   "name": "Zoe Ross"
+  },
+  {
+   "id": "Carrier:CAR-SAFETY-NATIONAL-CASUALTY-CORP",
+   "label": "Carrier",
+   "name": "SAFETY NATIONAL CASUALTY CORP"
+  },
+  {
+   "id": "Injury:7",
+   "label": "Injury",
+   "name": "CONCUSSION"
+  },
+  {
+   "id": "BodyPart:11",
+   "label": "BodyPart",
+   "name": "SKULL"
+  },
+  {
+   "id": "InjuryCause:75",
+   "label": "InjuryCause",
+   "name": "STRUCK OR INJURED BY - FALLING OR FLYING OBJECT"
+  },
+  {
+   "id": "County:ORANGE",
+   "label": "County",
+   "name": "ORANGE"
+  },
+  {
+   "id": "Industry:42",
+   "label": "Industry",
+   "name": "WHOLESALE TRADE"
+  },
+  {
+   "id": "Location:LOC-ORANGE-COUNTY-LOADING-AREA",
+   "label": "Location",
+   "name": "Orange County loading area"
+  },
+  {
+   "id": "Claim:6977175",
+   "label": "Claim",
+   "name": "6977175"
+  },
+  {
+   "id": "Claimant:CLMT-6977175",
+   "label": "Claimant",
+   "name": "Caleb Ward"
+  },
+  {
+   "id": "County:WARREN",
+   "label": "County",
+   "name": "WARREN"
+  },
+  {
+   "id": "Location:LOC-WARREN-COUNTY-FACILITY-PARKING-AREA",
+   "label": "Location",
+   "name": "Warren County facility parking area"
+  },
+  {
+   "id": "Claim:6977177",
+   "label": "Claim",
+   "name": "6977177"
+  },
+  {
+   "id": "Claimant:CLMT-6977177",
+   "label": "Claimant",
+   "name": "Natalie Gray"
+  },
+  {
+   "id": "Carrier:CAR-INDEMNITY-INSURANCE-CO-OF",
+   "label": "Carrier",
+   "name": "INDEMNITY INSURANCE CO OF"
+  },
+  {
+   "id": "BodyPart:21",
+   "label": "BodyPart",
+   "name": "VERTEBRAE"
+  },
+  {
+   "id": "InjuryCause:81",
+   "label": "InjuryCause",
+   "name": "STRUCK OR INJURED BY - STRUCK OR INJURED, NOC"
+  },
+  {
+   "id": "Location:LOC-NASSAU-COUNTY-PATIENT-CARE-UNIT",
+   "label": "Location",
+   "name": "Nassau County patient-care unit"
+  },
+  {
+   "id": "Claim:6977178",
+   "label": "Claim",
+   "name": "6977178"
+  },
+  {
+   "id": "Claimant:CLMT-6977178",
+   "label": "Claimant",
+   "name": "Julian Bell"
+  },
+  {
+   "id": "Carrier:CAR-AMTRUST-INSURANCE-COMPANY",
+   "label": "Carrier",
+   "name": "AMTRUST INSURANCE COMPANY"
+  },
+  {
+   "id": "BodyPart:62",
+   "label": "BodyPart",
+   "name": "BUTTOCKS"
+  },
+  {
+   "id": "InjuryCause:32",
+   "label": "InjuryCause",
+   "name": "FALL, SLIP OR TRIP INJURY - ON ICE OR SNOW"
+  },
+  {
+   "id": "County:RICHMOND",
+   "label": "County",
+   "name": "RICHMOND"
+  },
+  {
+   "id": "Industry:48",
+   "label": "Industry",
+   "name": "TRANSPORTATION AND WAREHOUSING"
+  },
+  {
+   "id": "Location:LOC-RICHMOND-COUNTY-SERVICE-SITE",
+   "label": "Location",
+   "name": "Richmond County service site"
+  },
+  {
+   "id": "Claim:6977180",
+   "label": "Claim",
+   "name": "6977180"
+  },
+  {
+   "id": "Claimant:CLMT-6977180",
+   "label": "Claimant",
+   "name": "Elena Diaz"
+  },
+  {
+   "id": "Carrier:CAR-TRUMBULL-INSURANCE-COMPANY",
+   "label": "Carrier",
+   "name": "TRUMBULL INSURANCE COMPANY"
+  },
+  {
+   "id": "BodyPart:34",
+   "label": "BodyPart",
+   "name": "WRIST"
+  },
+  {
+   "id": "InjuryCause:55",
+   "label": "InjuryCause",
+   "name": "STRAIN OR INJURY BY - HOLDING OR CARRYING"
+  },
+  {
+   "id": "Industry:32",
+   "label": "Industry",
+   "name": "MANUFACTURING"
+  },
+  {
+   "id": "Location:LOC-MONROE-COUNTY-PUBLIC-FACILITY",
+   "label": "Location",
+   "name": "Monroe County public facility"
+  },
+  {
+   "id": "Claim:6977182",
+   "label": "Claim",
+   "name": "6977182"
+  },
+  {
+   "id": "Claimant:CLMT-6977182",
+   "label": "Claimant",
+   "name": "Aaron Wood"
+  },
+  {
+   "id": "BodyPart:33",
+   "label": "BodyPart",
+   "name": "LOWER ARM"
+  },
+  {
+   "id": "Location:LOC-MONROE-COUNTY-OPERATIONS-FACILITY",
+   "label": "Location",
+   "name": "Monroe County operations facility"
+  },
+  {
+   "id": "Claim:6977185",
+   "label": "Claim",
+   "name": "6977185"
+  },
+  {
+   "id": "Claimant:CLMT-6977185",
+   "label": "Claimant",
+   "name": "Layla James"
+  },
+  {
+   "id": "Carrier:CAR-DELHAIZE-AMERICA-LLC",
+   "label": "Carrier",
+   "name": "DELHAIZE AMERICA, LLC"
+  },
+  {
+   "id": "Injury:25",
+   "label": "Injury",
+   "name": "FOREIGN BODY"
+  },
+  {
+   "id": "BodyPart:14",
+   "label": "BodyPart",
+   "name": "EYE(S)"
+  },
+  {
+   "id": "InjuryCause:1",
+   "label": "InjuryCause",
+   "name": "BURN OR SCALD - HEAT OR COLD - CHEMICALS"
+  },
+  {
+   "id": "Location:LOC-ONEIDA-COUNTY-OFFICE-STAIRWELL",
+   "label": "Location",
+   "name": "Oneida County office stairwell"
+  },
+  {
+   "id": "Claim:6977193",
+   "label": "Claim",
+   "name": "6977193"
+  },
+  {
+   "id": "Claimant:CLMT-6977193",
+   "label": "Claimant",
+   "name": "Miles Cook"
+  },
+  {
+   "id": "Carrier:CAR-ARCH-INDEMNITY-INSURANCE-CO",
+   "label": "Carrier",
+   "name": "ARCH INDEMNITY INSURANCE CO."
+  },
+  {
+   "id": "Injury:71",
+   "label": "Injury",
+   "name": "ALL OTHER OCCUPATIONAL DISEASE INJURY, NOC"
+  },
+  {
+   "id": "County:ALBANY",
+   "label": "County",
+   "name": "ALBANY"
+  },
+  {
+   "id": "Location:LOC-ALBANY-COUNTY-UTILITY-SITE",
+   "label": "Location",
+   "name": "Albany County utility site"
+  },
+  {
+   "id": "Claim:6977194",
+   "label": "Claim",
+   "name": "6977194"
+  },
+  {
+   "id": "Claimant:CLMT-6977194",
+   "label": "Claimant",
+   "name": "Naomi Bailey"
+  },
+  {
+   "id": "Location:LOC-WARREN-COUNTY-WAREHOUSE",
+   "label": "Location",
+   "name": "Warren County warehouse"
+  },
+  {
+   "id": "Claim:6977196",
+   "label": "Claim",
+   "name": "6977196"
+  },
+  {
+   "id": "Claimant:CLMT-6977196",
+   "label": "Claimant",
+   "name": "Adrian Cooper"
+  },
+  {
+   "id": "Injury:28",
+   "label": "Injury",
+   "name": "FRACTURE"
+  },
+  {
+   "id": "Industry:23",
+   "label": "Industry",
+   "name": "CONSTRUCTION"
+  },
+  {
+   "id": "Location:LOC-NEW-YORK-COUNTY-PRODUCTION-FLOOR",
+   "label": "Location",
+   "name": "New York County production floor"
+  },
+  {
+   "id": "Claim:6977197",
+   "label": "Claim",
+   "name": "6977197"
+  },
+  {
+   "id": "Claimant:CLMT-6977197",
+   "label": "Claimant",
+   "name": "Camila Morris"
+  },
+  {
+   "id": "Carrier:CAR-STARBUCKS-CORPORATION",
+   "label": "Carrier",
+   "name": "STARBUCKS CORPORATION"
+  },
+  {
+   "id": "InjuryCause:27",
+   "label": "InjuryCause",
+   "name": "FALL, SLIP OR TRIP INJURY - FROM LIQUID OR GREASE SPILLS"
+  },
+  {
+   "id": "Location:LOC-NASSAU-COUNTY-RETAIL-STORE",
+   "label": "Location",
+   "name": "Nassau County retail store"
+  },
+  {
+   "id": "Document:SYN-6977098-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977098"
+  },
+  {
+   "id": "Document:SYN-6977098-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977098"
+  },
+  {
+   "id": "Document:SYN-6977098-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977098"
+  },
+  {
+   "id": "Document:SYN-6977099-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977099"
+  },
+  {
+   "id": "Document:SYN-6977099-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977099"
+  },
+  {
+   "id": "Document:SYN-6977099-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977099"
+  },
+  {
+   "id": "Document:SYN-6977100-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977100"
+  },
+  {
+   "id": "Document:SYN-6977100-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977100"
+  },
+  {
+   "id": "Document:SYN-6977100-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977100"
+  },
+  {
+   "id": "Document:SYN-6977101-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977101"
+  },
+  {
+   "id": "Document:SYN-6977101-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977101"
+  },
+  {
+   "id": "Document:SYN-6977101-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977101"
+  },
+  {
+   "id": "Document:SYN-6977117-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977117"
+  },
+  {
+   "id": "Document:SYN-6977117-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977117"
+  },
+  {
+   "id": "Document:SYN-6977117-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977117"
+  },
+  {
+   "id": "Document:SYN-6977118-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977118"
+  },
+  {
+   "id": "Document:SYN-6977118-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977118"
+  },
+  {
+   "id": "Document:SYN-6977118-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977118"
+  },
+  {
+   "id": "Document:SYN-6977119-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977119"
+  },
+  {
+   "id": "Document:SYN-6977119-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977119"
+  },
+  {
+   "id": "Document:SYN-6977119-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977119"
+  },
+  {
+   "id": "Document:SYN-6977121-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977121"
+  },
+  {
+   "id": "Document:SYN-6977121-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977121"
+  },
+  {
+   "id": "Document:SYN-6977121-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977121"
+  },
+  {
+   "id": "Document:SYN-6977123-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977123"
+  },
+  {
+   "id": "Document:SYN-6977123-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977123"
+  },
+  {
+   "id": "Document:SYN-6977123-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977123"
+  },
+  {
+   "id": "Document:SYN-6977137-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977137"
+  },
+  {
+   "id": "Document:SYN-6977137-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977137"
+  },
+  {
+   "id": "Document:SYN-6977137-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977137"
+  },
+  {
+   "id": "Document:SYN-6977138-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977138"
+  },
+  {
+   "id": "Document:SYN-6977138-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977138"
+  },
+  {
+   "id": "Document:SYN-6977138-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977138"
+  },
+  {
+   "id": "Document:SYN-6977139-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977139"
+  },
+  {
+   "id": "Document:SYN-6977139-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977139"
+  },
+  {
+   "id": "Document:SYN-6977139-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977139"
+  },
+  {
+   "id": "Document:SYN-6977140-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977140"
+  },
+  {
+   "id": "Document:SYN-6977140-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977140"
+  },
+  {
+   "id": "Document:SYN-6977140-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977140"
+  },
+  {
+   "id": "Document:SYN-6977141-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977141"
+  },
+  {
+   "id": "Document:SYN-6977141-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977141"
+  },
+  {
+   "id": "Document:SYN-6977141-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977141"
+  },
+  {
+   "id": "Document:SYN-6977144-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977144"
+  },
+  {
+   "id": "Document:SYN-6977144-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977144"
+  },
+  {
+   "id": "Document:SYN-6977144-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977144"
+  },
+  {
+   "id": "Document:SYN-6977155-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977155"
+  },
+  {
+   "id": "Document:SYN-6977155-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977155"
+  },
+  {
+   "id": "Document:SYN-6977155-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977155"
+  },
+  {
+   "id": "Document:SYN-6977156-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977156"
+  },
+  {
+   "id": "Document:SYN-6977156-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977156"
+  },
+  {
+   "id": "Document:SYN-6977156-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977156"
+  },
+  {
+   "id": "Document:SYN-6977157-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977157"
+  },
+  {
+   "id": "Document:SYN-6977157-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977157"
+  },
+  {
+   "id": "Document:SYN-6977157-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977157"
+  },
+  {
+   "id": "Document:SYN-6977159-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977159"
+  },
+  {
+   "id": "Document:SYN-6977159-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977159"
+  },
+  {
+   "id": "Document:SYN-6977159-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977159"
+  },
+  {
+   "id": "Document:SYN-6977160-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977160"
+  },
+  {
+   "id": "Document:SYN-6977160-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977160"
+  },
+  {
+   "id": "Document:SYN-6977160-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977160"
+  },
+  {
+   "id": "Document:SYN-6977161-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977161"
+  },
+  {
+   "id": "Document:SYN-6977161-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977161"
+  },
+  {
+   "id": "Document:SYN-6977161-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977161"
+  },
+  {
+   "id": "Document:SYN-6977163-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977163"
+  },
+  {
+   "id": "Document:SYN-6977163-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977163"
+  },
+  {
+   "id": "Document:SYN-6977163-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977163"
+  },
+  {
+   "id": "Document:SYN-6977166-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977166"
+  },
+  {
+   "id": "Document:SYN-6977166-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977166"
+  },
+  {
+   "id": "Document:SYN-6977166-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977166"
+  },
+  {
+   "id": "Document:SYN-6977174-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977174"
+  },
+  {
+   "id": "Document:SYN-6977174-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977174"
+  },
+  {
+   "id": "Document:SYN-6977174-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977174"
+  },
+  {
+   "id": "Document:SYN-6977175-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977175"
+  },
+  {
+   "id": "Document:SYN-6977175-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977175"
+  },
+  {
+   "id": "Document:SYN-6977175-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977175"
+  },
+  {
+   "id": "Document:SYN-6977177-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977177"
+  },
+  {
+   "id": "Document:SYN-6977177-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977177"
+  },
+  {
+   "id": "Document:SYN-6977177-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977177"
+  },
+  {
+   "id": "Document:SYN-6977178-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977178"
+  },
+  {
+   "id": "Document:SYN-6977178-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977178"
+  },
+  {
+   "id": "Document:SYN-6977178-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977178"
+  },
+  {
+   "id": "Document:SYN-6977180-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977180"
+  },
+  {
+   "id": "Document:SYN-6977180-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977180"
+  },
+  {
+   "id": "Document:SYN-6977180-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977180"
+  },
+  {
+   "id": "Document:SYN-6977182-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977182"
+  },
+  {
+   "id": "Document:SYN-6977182-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977182"
+  },
+  {
+   "id": "Document:SYN-6977182-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977182"
+  },
+  {
+   "id": "Document:SYN-6977185-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977185"
+  },
+  {
+   "id": "Document:SYN-6977185-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977185"
+  },
+  {
+   "id": "Document:SYN-6977185-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977185"
+  },
+  {
+   "id": "Document:SYN-6977193-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977193"
+  },
+  {
+   "id": "Document:SYN-6977193-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977193"
+  },
+  {
+   "id": "Document:SYN-6977193-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977193"
+  },
+  {
+   "id": "Document:SYN-6977194-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977194"
+  },
+  {
+   "id": "Document:SYN-6977194-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977194"
+  },
+  {
+   "id": "Document:SYN-6977194-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977194"
+  },
+  {
+   "id": "Document:SYN-6977196-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977196"
+  },
+  {
+   "id": "Document:SYN-6977196-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977196"
+  },
+  {
+   "id": "Document:SYN-6977196-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977196"
+  },
+  {
+   "id": "Document:SYN-6977197-01",
+   "label": "Document",
+   "name": "Initial Claim Intake for claim 6977197"
+  },
+  {
+   "id": "Document:SYN-6977197-02",
+   "label": "Document",
+   "name": "Adjuster Progress Note for claim 6977197"
+  },
+  {
+   "id": "Document:SYN-6977197-03",
+   "label": "Document",
+   "name": "Clinical / Follow-up Summary for claim 6977197"
+  },
+  {
+   "id": "Document:PUB-WCB-FACTSHEET",
+   "label": "Document",
+   "name": "Your workers' compensation benefits (file a claim fact sheet)"
+  },
+  {
+   "id": "Document:PUB-WCB-QUICKGUIDE",
+   "label": "Document",
+   "name": "Quick guide for injured workers"
+  },
+  {
+   "id": "Document:PUB-WCB-EMPREPORT",
+   "label": "Document",
+   "name": "Your responsibilities as an employer: reporting injury and illness"
+  },
+  {
+   "id": "Document:PUB-MTG-KNEE",
+   "label": "Document",
+   "name": "Medical Treatment Guidelines: Knee Injury"
+  },
+  {
+   "id": "Document:PUB-MTG-SHOULDER",
+   "label": "Document",
+   "name": "Medical Treatment Guidelines: Shoulder Injury"
+  },
+  {
+   "id": "Document:PUB-MTG-BACK",
+   "label": "Document",
+   "name": "Medical Treatment Guidelines: Mid and Low Back Injury"
+  },
+  {
+   "id": "Document:PUB-MTG-HAND",
+   "label": "Document",
+   "name": "Medical Treatment Guidelines: Hand, Wrist and Forearm Injuries"
+  },
+  {
+   "id": "Role:Claimant",
+   "label": "Role",
+   "name": "Claimant"
+  },
+  {
+   "id": "Role:Employer",
+   "label": "Role",
+   "name": "Employer"
+  },
+  {
+   "id": "Role:Carrier or claims administrator",
+   "label": "Role",
+   "name": "Carrier or claims administrator"
+  },
+  {
+   "id": "Role:Health care provider",
+   "label": "Role",
+   "name": "Health care provider"
+  },
+  {
+   "id": "Role:Workers' Compensation Board",
+   "label": "Role",
+   "name": "Workers' Compensation Board"
+  },
+  {
+   "id": "Role:Attorney or representative",
+   "label": "Role",
+   "name": "Attorney or representative"
+  },
+  {
+   "id": "Form:C-3",
+   "label": "Form",
+   "name": "Employee Claim"
+  },
+  {
+   "id": "Form:C-3.3",
+   "label": "Form",
+   "name": "Limited Release of Health Information"
+  },
+  {
+   "id": "Form:C-2F",
+   "label": "Form",
+   "name": "Employer's Report of Work-Related Injury/Illness"
+  },
+  {
+   "id": "Form:C-257",
+   "label": "Form",
+   "name": "Claimant's Record of Medical and Travel Expenses and Request for Reimbursement"
+  },
+  {
+   "id": "Form:DB-450",
+   "label": "Form",
+   "name": "Notice and Proof of Claim for Disability Benefits"
+  },
+  {
+   "id": "ProcessStep:PS01",
+   "label": "ProcessStep",
+   "name": "Seek medical care"
+  },
+  {
+   "id": "ProcessStep:PS02",
+   "label": "ProcessStep",
+   "name": "Notify employer in writing of when, where and how the injury happened"
+  },
+  {
+   "id": "ProcessStep:PS03",
+   "label": "ProcessStep",
+   "name": "Tell health care providers the injury is work-related and name the employer's insurer"
+  },
+  {
+   "id": "ProcessStep:PS04",
+   "label": "ProcessStep",
+   "name": "File an Employee Claim with the Board"
+  },
+  {
+   "id": "ProcessStep:PS05",
+   "label": "ProcessStep",
+   "name": "File a Limited Release of Health Information"
+  },
+  {
+   "id": "ProcessStep:PS06",
+   "label": "ProcessStep",
+   "name": "Employer notifies its insurer or claims administrator of the injury"
+  },
+  {
+   "id": "ProcessStep:PS07",
+   "label": "ProcessStep",
+   "name": "Employer reports the injury directly to the Board (optional)"
+  },
+  {
+   "id": "ProcessStep:PS08",
+   "label": "ProcessStep",
+   "name": "Insurer or claims administrator reports the injury to the Board"
+  },
+  {
+   "id": "ProcessStep:PS09",
+   "label": "ProcessStep",
+   "name": "Provider files medical reports with the Board and the insurer"
+  },
+  {
+   "id": "ProcessStep:PS10",
+   "label": "ProcessStep",
+   "name": "Attend follow-up medical visits"
+  },
+  {
+   "id": "ProcessStep:PS11",
+   "label": "ProcessStep",
+   "name": "Pay lost wage benefits"
+  },
+  {
+   "id": "ProcessStep:PS12",
+   "label": "ProcessStep",
+   "name": "Hold a hearing on a disputed claim"
+  },
+  {
+   "id": "ProcessStep:PS13",
+   "label": "ProcessStep",
+   "name": "Appeal the judge's decision in writing"
+  },
+  {
+   "id": "ProcessStep:PS14",
+   "label": "ProcessStep",
+   "name": "Apply for disability benefits while a disputed claim is heard"
+  },
+  {
+   "id": "ProcessStep:PS15",
+   "label": "ProcessStep",
+   "name": "Request reimbursement of medical travel expenses"
+  },
+  {
+   "id": "BodyPart:38",
+   "label": "BodyPart",
+   "name": "SHOULDER(S)"
+  },
+  {
+   "id": "BodyPart:36",
+   "label": "BodyPart",
+   "name": "FINGER(S)"
+  },
+  {
+   "id": "BodyPart:37",
+   "label": "BodyPart",
+   "name": "THUMB"
+  },
+  {
+   "id": "BodyPart:39",
+   "label": "BodyPart",
+   "name": "WRIST (S) & HAND(S)"
+  },
+  {
+   "id": "BodyPart:41",
+   "label": "BodyPart",
+   "name": "UPPER BACK AREA"
+  },
+  {
+   "id": "BodyPart:63",
+   "label": "BodyPart",
+   "name": "LUMBAR & OR SACRAL VERTEBRAE (VERTEBRA"
+  },
+  {
+   "id": "BodyPart:43",
+   "label": "BodyPart",
+   "name": "DISC"
+  }
+ ],
+ "links": [
+  {
+   "source": "Claim:6977098",
+   "target": "Claimant:CLMT-6977098",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977098",
+   "target": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977098",
+   "target": "Injury:10",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977098",
+   "target": "BodyPart:54",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977098",
+   "target": "InjuryCause:46",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977098",
+   "target": "County:NASSAU",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977098",
+   "target": "Industry:62",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977098",
+   "target": "Employer:EMP-HARBORVIEW-COMMUNITY-HEALTH",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977098",
+   "target": "Adjuster:ADJ-MAYA-PATEL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977098",
+   "target": "Provider:PRV-NORTH-SHORE-OCCUPATIONAL-HEALTH",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977098",
+   "target": "Location:LOC-NASSAU-COUNTY-FACILITY-PARKING-AREA",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-NASSAU-COUNTY-FACILITY-PARKING-AREA",
+   "target": "County:NASSAU",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "Claimant:CLMT-6977099",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "Carrier:CAR-HIGHVIEW-NATIONAL-INSURANCE",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "BodyPart:42",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "InjuryCause:56",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "County:WESTCHESTER",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "Industry:62",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "Employer:EMP-METROCLEAN-SERVICES",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "Adjuster:ADJ-DANIEL-BROOKS",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "Provider:PRV-HUDSON-VALLEY-ORTHO-REHAB",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977099",
+   "target": "Location:LOC-WESTCHESTER-COUNTY-PATIENT-CARE-UNIT",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-WESTCHESTER-COUNTY-PATIENT-CARE-UNIT",
+   "target": "County:WESTCHESTER",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "Claimant:CLMT-6977100",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "Carrier:CAR-WESCO-INSURANCE-CO",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "Injury:59",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "BodyPart:35",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "InjuryCause:31",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "County:NASSAU",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "Industry:56",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "Employer:EMP-HUDSON-PUBLIC-SERVICES",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "Adjuster:ADJ-PRIYA-SHAH",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "Provider:PRV-BROOKLYN-OCCUPATIONAL-MEDICINE",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977100",
+   "target": "Location:LOC-NASSAU-COUNTY-SERVICE-SITE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-NASSAU-COUNTY-SERVICE-SITE",
+   "target": "County:NASSAU",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "Claimant:CLMT-6977101",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "Carrier:CAR-HARTFORD-ACCIDENT-INDEMNITY",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "BodyPart:52",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "InjuryCause:60",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "County:NEW YORK",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "Industry:54",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "Employer:EMP-CITY-OPERATIONS-DEPARTMENT",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "Adjuster:ADJ-OLIVIA-GRANT",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "Provider:PRV-UPSTATE-HEARING-BALANCE-CENTER",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977101",
+   "target": "Location:LOC-NEW-YORK-COUNTY-PUBLIC-FACILITY",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-NEW-YORK-COUNTY-PUBLIC-FACILITY",
+   "target": "County:NEW YORK",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "Claimant:CLMT-6977117",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "Injury:10",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "BodyPart:32",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "InjuryCause:74",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "County:DUTCHESS",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "Industry:92",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "Employer:EMP-WESTERN-GRID-UTILITIES",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "Adjuster:ADJ-MARCUS-HILL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "Provider:PRV-ROCHESTER-WORK-INJURY-CLINIC",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977117",
+   "target": "Location:LOC-DUTCHESS-COUNTY-OPERATIONS-FACILITY",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-DUTCHESS-COUNTY-OPERATIONS-FACILITY",
+   "target": "County:DUTCHESS",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "Claimant:CLMT-6977118",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "Carrier:CAR-POLICE-FIRE-SANITATION",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "Injury:49",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "BodyPart:-9",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "InjuryCause:12",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "County:KINGS",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "Industry:92",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "Employer:EMP-ORANGE-SUPPLY-COOPERATIVE",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "Adjuster:ADJ-ELENA-CRUZ",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "Provider:PRV-UPSTATE-JOINT-REHAB-CENTER",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977118",
+   "target": "Location:LOC-KINGS-COUNTY-OFFICE-STAIRWELL",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-KINGS-COUNTY-OFFICE-STAIRWELL",
+   "target": "County:KINGS",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "Claimant:CLMT-6977119",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "Carrier:CAR-CNY-OTHER-THAN-ED-HED-WATER",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "BodyPart:-9",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "InjuryCause:45",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "County:KINGS",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "Industry:92",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "Employer:EMP-MONROE-PRECISION-MANUFACTURING",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "Adjuster:ADJ-MAYA-PATEL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "Provider:PRV-EMPIRE-PHYSICAL-MEDICINE",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977119",
+   "target": "Location:LOC-KINGS-COUNTY-UTILITY-SITE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-KINGS-COUNTY-UTILITY-SITE",
+   "target": "County:KINGS",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "Claimant:CLMT-6977121",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "Carrier:CAR-HARTFORD-CASUALTY-INSURANCE-CO",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "BodyPart:-9",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "InjuryCause:56",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "County:QUEENS",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "Industry:61",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "Employer:EMP-LAKESIDE-COFFEE-RETAIL",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "Adjuster:ADJ-DANIEL-BROOKS",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "Provider:PRV-CAPITAL-REGION-OCCUPATIONAL-HEALTH",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977121",
+   "target": "Location:LOC-QUEENS-COUNTY-WAREHOUSE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-QUEENS-COUNTY-WAREHOUSE",
+   "target": "County:QUEENS",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "Claimant:CLMT-6977123",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "Carrier:CAR-FDM-PREFERRED-INSURANCE",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "BodyPart:54",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "InjuryCause:60",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "County:SUFFOLK",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "Industry:92",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "Employer:EMP-BROOKLYN-RETAIL-GROUP",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "Adjuster:ADJ-PRIYA-SHAH",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "Provider:PRV-NORTH-SHORE-OCCUPATIONAL-HEALTH",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977123",
+   "target": "Location:LOC-SUFFOLK-COUNTY-PRODUCTION-FLOOR",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-SUFFOLK-COUNTY-PRODUCTION-FLOOR",
+   "target": "County:SUFFOLK",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "Claimant:CLMT-6977137",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "Injury:49",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "BodyPart:53",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "InjuryCause:31",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "County:FRANKLIN",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "Industry:92",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "Employer:EMP-BUFFALO-CARE-NETWORK",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "Adjuster:ADJ-OLIVIA-GRANT",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "Provider:PRV-HUDSON-VALLEY-ORTHO-REHAB",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977137",
+   "target": "Location:LOC-FRANKLIN-COUNTY-RETAIL-STORE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-FRANKLIN-COUNTY-RETAIL-STORE",
+   "target": "County:FRANKLIN",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "Claimant:CLMT-6977138",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "Carrier:CAR-XL-INSURANCE-AMERICA-INC",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "Injury:10",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "BodyPart:65",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "InjuryCause:33",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "County:KINGS",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "Industry:56",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "Employer:EMP-EMPIRE-LOGISTICS",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "Adjuster:ADJ-MARCUS-HILL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "Provider:PRV-BROOKLYN-OCCUPATIONAL-MEDICINE",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977138",
+   "target": "Location:LOC-KINGS-COUNTY-STOCKROOM",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-KINGS-COUNTY-STOCKROOM",
+   "target": "County:KINGS",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "Claimant:CLMT-6977139",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "Carrier:CAR-HEALTH-HOSPITAL-CORP",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "Injury:10",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "BodyPart:56",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "InjuryCause:12",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "County:NEW YORK",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "Industry:62",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "Employer:EMP-NORTHSTAR-MANUFACTURING",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "Adjuster:ADJ-ELENA-CRUZ",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "Provider:PRV-UPSTATE-HEARING-BALANCE-CENTER",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977139",
+   "target": "Location:LOC-NEW-YORK-COUNTY-LOADING-AREA",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-NEW-YORK-COUNTY-LOADING-AREA",
+   "target": "County:NEW YORK",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "Claimant:CLMT-6977140",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "BodyPart:31",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "InjuryCause:74",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "County:QUEENS",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "Industry:62",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "Employer:EMP-HUDSON-VALLEY-HOSPITALITY",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "Adjuster:ADJ-MAYA-PATEL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "Provider:PRV-ROCHESTER-WORK-INJURY-CLINIC",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977140",
+   "target": "Location:LOC-QUEENS-COUNTY-FACILITY-PARKING-AREA",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-QUEENS-COUNTY-FACILITY-PARKING-AREA",
+   "target": "County:QUEENS",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "Claimant:CLMT-6977141",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "Carrier:CAR-NYC-HOUSING-AUTHORITY",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "BodyPart:-9",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "InjuryCause:60",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "County:KINGS",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "Industry:92",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "Employer:EMP-METRO-FACILITIES-GROUP",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "Adjuster:ADJ-DANIEL-BROOKS",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "Provider:PRV-UPSTATE-JOINT-REHAB-CENTER",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977141",
+   "target": "Location:LOC-KINGS-COUNTY-PATIENT-CARE-UNIT",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-KINGS-COUNTY-PATIENT-CARE-UNIT",
+   "target": "County:KINGS",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "Claimant:CLMT-6977144",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "Carrier:CAR-WEGMANS-FOOD-MARKETS-INC",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "Injury:10",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "BodyPart:-9",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "InjuryCause:31",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "County:MONROE",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "Industry:44",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "Employer:EMP-RIVERSIDE-FOOD-SERVICES",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "Adjuster:ADJ-PRIYA-SHAH",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "Provider:PRV-EMPIRE-PHYSICAL-MEDICINE",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977144",
+   "target": "Location:LOC-MONROE-COUNTY-SERVICE-SITE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-MONROE-COUNTY-SERVICE-SITE",
+   "target": "County:MONROE",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "Claimant:CLMT-6977155",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "Carrier:CAR-MALONE-CSD",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "Injury:1",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "BodyPart:-9",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "InjuryCause:29",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "County:FRANKLIN",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "Industry:61",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "Employer:EMP-ALBANY-PUBLIC-WORKS",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "Adjuster:ADJ-OLIVIA-GRANT",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "Provider:PRV-CAPITAL-REGION-OCCUPATIONAL-HEALTH",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977155",
+   "target": "Location:LOC-FRANKLIN-COUNTY-PUBLIC-FACILITY",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-FRANKLIN-COUNTY-PUBLIC-FACILITY",
+   "target": "County:FRANKLIN",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "Claimant:CLMT-6977156",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "BodyPart:-9",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "InjuryCause:33",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "County:QUEENS",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "Industry:92",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "Employer:EMP-HARBORVIEW-COMMUNITY-HEALTH",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "Adjuster:ADJ-MARCUS-HILL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "Provider:PRV-NORTH-SHORE-OCCUPATIONAL-HEALTH",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977156",
+   "target": "Location:LOC-QUEENS-COUNTY-OPERATIONS-FACILITY",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-QUEENS-COUNTY-OPERATIONS-FACILITY",
+   "target": "County:QUEENS",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "Claimant:CLMT-6977157",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "Carrier:CAR-TECHNOLOGY-INSURANCE-CO-INC",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "Injury:91",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "BodyPart:61",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "InjuryCause:74",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "County:KINGS",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "Industry:62",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "Employer:EMP-METROCLEAN-SERVICES",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "Adjuster:ADJ-ELENA-CRUZ",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "Provider:PRV-HUDSON-VALLEY-ORTHO-REHAB",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977157",
+   "target": "Location:LOC-KINGS-COUNTY-OFFICE-STAIRWELL",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "Claimant:CLMT-6977159",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "Carrier:CAR-CLEAR-SPRING-PROPERTY-AND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "BodyPart:61",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "InjuryCause:60",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "County:KINGS",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "Industry:56",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "Employer:EMP-HUDSON-PUBLIC-SERVICES",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "Adjuster:ADJ-MAYA-PATEL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "Provider:PRV-BROOKLYN-OCCUPATIONAL-MEDICINE",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977159",
+   "target": "Location:LOC-KINGS-COUNTY-UTILITY-SITE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "Claimant:CLMT-6977160",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "BodyPart:-9",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "InjuryCause:45",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "County:ROCKLAND",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "Industry:56",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "Employer:EMP-CITY-OPERATIONS-DEPARTMENT",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "Adjuster:ADJ-DANIEL-BROOKS",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "Provider:PRV-UPSTATE-HEARING-BALANCE-CENTER",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977160",
+   "target": "Location:LOC-ROCKLAND-COUNTY-WAREHOUSE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-ROCKLAND-COUNTY-WAREHOUSE",
+   "target": "County:ROCKLAND",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "Claimant:CLMT-6977161",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "BodyPart:32",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "InjuryCause:33",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "County:ONEIDA",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "Industry:62",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "Employer:EMP-WESTERN-GRID-UTILITIES",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "Adjuster:ADJ-PRIYA-SHAH",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "Provider:PRV-ROCHESTER-WORK-INJURY-CLINIC",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977161",
+   "target": "Location:LOC-ONEIDA-COUNTY-PRODUCTION-FLOOR",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-ONEIDA-COUNTY-PRODUCTION-FLOOR",
+   "target": "County:ONEIDA",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "Claimant:CLMT-6977163",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "Carrier:CAR-NEW-HAMPSHIRE-INSURANCE-CO",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "Injury:72",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "BodyPart:13",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "InjuryCause:99",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "County:ALLEGANY",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "Industry:22",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "Employer:EMP-ORANGE-SUPPLY-COOPERATIVE",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "Adjuster:ADJ-OLIVIA-GRANT",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "Provider:PRV-UPSTATE-JOINT-REHAB-CENTER",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977163",
+   "target": "Location:LOC-ALLEGANY-COUNTY-RETAIL-STORE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-ALLEGANY-COUNTY-RETAIL-STORE",
+   "target": "County:ALLEGANY",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "Claimant:CLMT-6977166",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "Carrier:CAR-CEDAR-INSURANCE-COMPANY",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "Injury:10",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "BodyPart:53",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "InjuryCause:70",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "County:ONONDAGA",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "Industry:62",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "Employer:EMP-MONROE-PRECISION-MANUFACTURING",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "Adjuster:ADJ-MARCUS-HILL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "Provider:PRV-EMPIRE-PHYSICAL-MEDICINE",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977166",
+   "target": "Location:LOC-ONONDAGA-COUNTY-STOCKROOM",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-ONONDAGA-COUNTY-STOCKROOM",
+   "target": "County:ONONDAGA",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "Claimant:CLMT-6977174",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "Carrier:CAR-SAFETY-NATIONAL-CASUALTY-CORP",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "Injury:7",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "BodyPart:11",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "InjuryCause:75",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "County:ORANGE",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "Industry:42",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "Employer:EMP-LAKESIDE-COFFEE-RETAIL",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "Adjuster:ADJ-ELENA-CRUZ",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "Provider:PRV-CAPITAL-REGION-OCCUPATIONAL-HEALTH",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977174",
+   "target": "Location:LOC-ORANGE-COUNTY-LOADING-AREA",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-ORANGE-COUNTY-LOADING-AREA",
+   "target": "County:ORANGE",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "Claimant:CLMT-6977175",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "BodyPart:-9",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "InjuryCause:74",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "County:WARREN",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "Industry:92",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "Employer:EMP-BROOKLYN-RETAIL-GROUP",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "Adjuster:ADJ-MAYA-PATEL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "Provider:PRV-NORTH-SHORE-OCCUPATIONAL-HEALTH",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977175",
+   "target": "Location:LOC-WARREN-COUNTY-FACILITY-PARKING-AREA",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-WARREN-COUNTY-FACILITY-PARKING-AREA",
+   "target": "County:WARREN",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "Claimant:CLMT-6977177",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "Carrier:CAR-INDEMNITY-INSURANCE-CO-OF",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "Injury:10",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "BodyPart:21",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "InjuryCause:81",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "County:NASSAU",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "Industry:44",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "Employer:EMP-BUFFALO-CARE-NETWORK",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "Adjuster:ADJ-DANIEL-BROOKS",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "Provider:PRV-HUDSON-VALLEY-ORTHO-REHAB",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977177",
+   "target": "Location:LOC-NASSAU-COUNTY-PATIENT-CARE-UNIT",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-NASSAU-COUNTY-PATIENT-CARE-UNIT",
+   "target": "County:NASSAU",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "Claimant:CLMT-6977178",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "Carrier:CAR-AMTRUST-INSURANCE-COMPANY",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "Injury:10",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "BodyPart:62",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "InjuryCause:32",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "County:RICHMOND",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "Industry:48",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "Employer:EMP-EMPIRE-LOGISTICS",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "Adjuster:ADJ-PRIYA-SHAH",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "Provider:PRV-BROOKLYN-OCCUPATIONAL-MEDICINE",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977178",
+   "target": "Location:LOC-RICHMOND-COUNTY-SERVICE-SITE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-RICHMOND-COUNTY-SERVICE-SITE",
+   "target": "County:RICHMOND",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "Claimant:CLMT-6977180",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "Carrier:CAR-TRUMBULL-INSURANCE-COMPANY",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "BodyPart:34",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "InjuryCause:55",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "County:MONROE",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "Industry:32",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "Employer:EMP-NORTHSTAR-MANUFACTURING",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "Adjuster:ADJ-OLIVIA-GRANT",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "Provider:PRV-UPSTATE-HEARING-BALANCE-CENTER",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977180",
+   "target": "Location:LOC-MONROE-COUNTY-PUBLIC-FACILITY",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-MONROE-COUNTY-PUBLIC-FACILITY",
+   "target": "County:MONROE",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "Claimant:CLMT-6977182",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "Carrier:CAR-WEGMANS-FOOD-MARKETS-INC",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "BodyPart:33",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "InjuryCause:56",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "County:MONROE",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "Industry:44",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "Employer:EMP-HUDSON-VALLEY-HOSPITALITY",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "Adjuster:ADJ-MARCUS-HILL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "Provider:PRV-ROCHESTER-WORK-INJURY-CLINIC",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977182",
+   "target": "Location:LOC-MONROE-COUNTY-OPERATIONS-FACILITY",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-MONROE-COUNTY-OPERATIONS-FACILITY",
+   "target": "County:MONROE",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "Claimant:CLMT-6977185",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "Carrier:CAR-DELHAIZE-AMERICA-LLC",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "Injury:25",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "BodyPart:14",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "InjuryCause:1",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "County:ONEIDA",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "Industry:44",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "Employer:EMP-METRO-FACILITIES-GROUP",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "Adjuster:ADJ-ELENA-CRUZ",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "Provider:PRV-UPSTATE-JOINT-REHAB-CENTER",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977185",
+   "target": "Location:LOC-ONEIDA-COUNTY-OFFICE-STAIRWELL",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-ONEIDA-COUNTY-OFFICE-STAIRWELL",
+   "target": "County:ONEIDA",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "Claimant:CLMT-6977193",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "Carrier:CAR-ARCH-INDEMNITY-INSURANCE-CO",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "Injury:71",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "BodyPart:14",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "InjuryCause:99",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "County:ALBANY",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "Industry:62",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "Employer:EMP-RIVERSIDE-FOOD-SERVICES",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "Adjuster:ADJ-MAYA-PATEL",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "Provider:PRV-EMPIRE-PHYSICAL-MEDICINE",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977193",
+   "target": "Location:LOC-ALBANY-COUNTY-UTILITY-SITE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-ALBANY-COUNTY-UTILITY-SITE",
+   "target": "County:ALBANY",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "Claimant:CLMT-6977194",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "BodyPart:53",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "InjuryCause:74",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "County:WARREN",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "Industry:92",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "Employer:EMP-ALBANY-PUBLIC-WORKS",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "Adjuster:ADJ-DANIEL-BROOKS",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "Provider:PRV-CAPITAL-REGION-OCCUPATIONAL-HEALTH",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977194",
+   "target": "Location:LOC-WARREN-COUNTY-WAREHOUSE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-WARREN-COUNTY-WAREHOUSE",
+   "target": "County:WARREN",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "Claimant:CLMT-6977196",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "Carrier:CAR-STATE-INSURANCE-FUND",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "Injury:28",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "BodyPart:34",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "InjuryCause:99",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "County:NEW YORK",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "Industry:23",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "Employer:EMP-HARBORVIEW-COMMUNITY-HEALTH",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "Adjuster:ADJ-PRIYA-SHAH",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "Provider:PRV-NORTH-SHORE-OCCUPATIONAL-HEALTH",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977196",
+   "target": "Location:LOC-NEW-YORK-COUNTY-PRODUCTION-FLOOR",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-NEW-YORK-COUNTY-PRODUCTION-FLOOR",
+   "target": "County:NEW YORK",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "Claimant:CLMT-6977197",
+   "type": "FILED_BY"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "Carrier:CAR-STARBUCKS-CORPORATION",
+   "type": "INSURED_BY"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "Injury:52",
+   "type": "HAS_INJURY"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "BodyPart:53",
+   "type": "AFFECTS_BODY_PART"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "InjuryCause:27",
+   "type": "CAUSED_BY"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "County:NASSAU",
+   "type": "OCCURRED_IN"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "Industry:44",
+   "type": "IN_INDUSTRY"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "Employer:EMP-METROCLEAN-SERVICES",
+   "type": "INVOLVES_EMPLOYER"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "Adjuster:ADJ-OLIVIA-GRANT",
+   "type": "HANDLED_BY"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "Provider:PRV-HUDSON-VALLEY-ORTHO-REHAB",
+   "type": "TREATED_BY"
+  },
+  {
+   "source": "Claim:6977197",
+   "target": "Location:LOC-NASSAU-COUNTY-RETAIL-STORE",
+   "type": "OCCURRED_AT"
+  },
+  {
+   "source": "Location:LOC-NASSAU-COUNTY-RETAIL-STORE",
+   "target": "County:NASSAU",
+   "type": "IN_COUNTY"
+  },
+  {
+   "source": "Document:SYN-6977098-01",
+   "target": "Claim:6977098",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977098-02",
+   "target": "Claim:6977098",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977098-03",
+   "target": "Claim:6977098",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977099-01",
+   "target": "Claim:6977099",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977099-02",
+   "target": "Claim:6977099",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977099-03",
+   "target": "Claim:6977099",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977100-01",
+   "target": "Claim:6977100",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977100-02",
+   "target": "Claim:6977100",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977100-03",
+   "target": "Claim:6977100",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977101-01",
+   "target": "Claim:6977101",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977101-02",
+   "target": "Claim:6977101",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977101-03",
+   "target": "Claim:6977101",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977117-01",
+   "target": "Claim:6977117",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977117-02",
+   "target": "Claim:6977117",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977117-03",
+   "target": "Claim:6977117",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977118-01",
+   "target": "Claim:6977118",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977118-02",
+   "target": "Claim:6977118",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977118-03",
+   "target": "Claim:6977118",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977119-01",
+   "target": "Claim:6977119",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977119-02",
+   "target": "Claim:6977119",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977119-03",
+   "target": "Claim:6977119",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977121-01",
+   "target": "Claim:6977121",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977121-02",
+   "target": "Claim:6977121",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977121-03",
+   "target": "Claim:6977121",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977123-01",
+   "target": "Claim:6977123",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977123-02",
+   "target": "Claim:6977123",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977123-03",
+   "target": "Claim:6977123",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977137-01",
+   "target": "Claim:6977137",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977137-02",
+   "target": "Claim:6977137",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977137-03",
+   "target": "Claim:6977137",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977138-01",
+   "target": "Claim:6977138",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977138-02",
+   "target": "Claim:6977138",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977138-03",
+   "target": "Claim:6977138",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977139-01",
+   "target": "Claim:6977139",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977139-02",
+   "target": "Claim:6977139",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977139-03",
+   "target": "Claim:6977139",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977140-01",
+   "target": "Claim:6977140",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977140-02",
+   "target": "Claim:6977140",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977140-03",
+   "target": "Claim:6977140",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977141-01",
+   "target": "Claim:6977141",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977141-02",
+   "target": "Claim:6977141",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977141-03",
+   "target": "Claim:6977141",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977144-01",
+   "target": "Claim:6977144",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977144-02",
+   "target": "Claim:6977144",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977144-03",
+   "target": "Claim:6977144",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977155-01",
+   "target": "Claim:6977155",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977155-02",
+   "target": "Claim:6977155",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977155-03",
+   "target": "Claim:6977155",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977156-01",
+   "target": "Claim:6977156",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977156-02",
+   "target": "Claim:6977156",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977156-03",
+   "target": "Claim:6977156",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977157-01",
+   "target": "Claim:6977157",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977157-02",
+   "target": "Claim:6977157",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977157-03",
+   "target": "Claim:6977157",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977159-01",
+   "target": "Claim:6977159",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977159-02",
+   "target": "Claim:6977159",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977159-03",
+   "target": "Claim:6977159",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977160-01",
+   "target": "Claim:6977160",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977160-02",
+   "target": "Claim:6977160",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977160-03",
+   "target": "Claim:6977160",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977161-01",
+   "target": "Claim:6977161",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977161-02",
+   "target": "Claim:6977161",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977161-03",
+   "target": "Claim:6977161",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977163-01",
+   "target": "Claim:6977163",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977163-02",
+   "target": "Claim:6977163",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977163-03",
+   "target": "Claim:6977163",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977166-01",
+   "target": "Claim:6977166",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977166-02",
+   "target": "Claim:6977166",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977166-03",
+   "target": "Claim:6977166",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977174-01",
+   "target": "Claim:6977174",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977174-02",
+   "target": "Claim:6977174",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977174-03",
+   "target": "Claim:6977174",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977175-01",
+   "target": "Claim:6977175",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977175-02",
+   "target": "Claim:6977175",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977175-03",
+   "target": "Claim:6977175",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977177-01",
+   "target": "Claim:6977177",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977177-02",
+   "target": "Claim:6977177",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977177-03",
+   "target": "Claim:6977177",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977178-01",
+   "target": "Claim:6977178",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977178-02",
+   "target": "Claim:6977178",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977178-03",
+   "target": "Claim:6977178",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977180-01",
+   "target": "Claim:6977180",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977180-02",
+   "target": "Claim:6977180",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977180-03",
+   "target": "Claim:6977180",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977182-01",
+   "target": "Claim:6977182",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977182-02",
+   "target": "Claim:6977182",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977182-03",
+   "target": "Claim:6977182",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977185-01",
+   "target": "Claim:6977185",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977185-02",
+   "target": "Claim:6977185",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977185-03",
+   "target": "Claim:6977185",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977193-01",
+   "target": "Claim:6977193",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977193-02",
+   "target": "Claim:6977193",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977193-03",
+   "target": "Claim:6977193",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977194-01",
+   "target": "Claim:6977194",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977194-02",
+   "target": "Claim:6977194",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977194-03",
+   "target": "Claim:6977194",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977196-01",
+   "target": "Claim:6977196",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977196-02",
+   "target": "Claim:6977196",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977196-03",
+   "target": "Claim:6977196",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977197-01",
+   "target": "Claim:6977197",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977197-02",
+   "target": "Claim:6977197",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "Document:SYN-6977197-03",
+   "target": "Claim:6977197",
+   "type": "ABOUT_CLAIM"
+  },
+  {
+   "source": "ProcessStep:PS01",
+   "target": "Role:Claimant",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS01",
+   "target": "ProcessStep:PS02",
+   "type": "PRECEDES"
+  },
+  {
+   "source": "ProcessStep:PS01",
+   "target": "Document:PUB-WCB-FACTSHEET",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS02",
+   "target": "Role:Claimant",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS02",
+   "target": "ProcessStep:PS04",
+   "type": "PRECEDES"
+  },
+  {
+   "source": "ProcessStep:PS02",
+   "target": "Document:PUB-WCB-FACTSHEET",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS03",
+   "target": "Role:Claimant",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS03",
+   "target": "Document:PUB-WCB-QUICKGUIDE",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS04",
+   "target": "Role:Claimant",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS04",
+   "target": "Form:C-3",
+   "type": "USES_FORM"
+  },
+  {
+   "source": "ProcessStep:PS04",
+   "target": "Document:PUB-WCB-FACTSHEET",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS05",
+   "target": "Role:Claimant",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS05",
+   "target": "Form:C-3.3",
+   "type": "USES_FORM"
+  },
+  {
+   "source": "ProcessStep:PS05",
+   "target": "Document:PUB-WCB-FACTSHEET",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS06",
+   "target": "Role:Employer",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS06",
+   "target": "ProcessStep:PS08",
+   "type": "PRECEDES"
+  },
+  {
+   "source": "ProcessStep:PS06",
+   "target": "Document:PUB-WCB-EMPREPORT",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS07",
+   "target": "Role:Employer",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS07",
+   "target": "Form:C-2F",
+   "type": "USES_FORM"
+  },
+  {
+   "source": "ProcessStep:PS07",
+   "target": "Document:PUB-WCB-EMPREPORT",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS08",
+   "target": "Role:Carrier or claims administrator",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS08",
+   "target": "Document:PUB-WCB-EMPREPORT",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS09",
+   "target": "Role:Health care provider",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS09",
+   "target": "Document:PUB-WCB-QUICKGUIDE",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS10",
+   "target": "Role:Claimant",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS10",
+   "target": "Document:PUB-WCB-FACTSHEET",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS11",
+   "target": "Role:Carrier or claims administrator",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS11",
+   "target": "Document:PUB-WCB-FACTSHEET",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS12",
+   "target": "Role:Workers' Compensation Board",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS12",
+   "target": "ProcessStep:PS13",
+   "type": "PRECEDES"
+  },
+  {
+   "source": "ProcessStep:PS12",
+   "target": "Document:PUB-WCB-FACTSHEET",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS13",
+   "target": "Role:Claimant",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS13",
+   "target": "Role:Carrier or claims administrator",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS13",
+   "target": "Document:PUB-WCB-FACTSHEET",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS14",
+   "target": "Role:Claimant",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS14",
+   "target": "Form:DB-450",
+   "type": "USES_FORM"
+  },
+  {
+   "source": "ProcessStep:PS14",
+   "target": "Document:PUB-WCB-FACTSHEET",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "ProcessStep:PS15",
+   "target": "Role:Claimant",
+   "type": "PERFORMED_BY"
+  },
+  {
+   "source": "ProcessStep:PS15",
+   "target": "Form:C-257",
+   "type": "USES_FORM"
+  },
+  {
+   "source": "ProcessStep:PS15",
+   "target": "Document:PUB-WCB-FACTSHEET",
+   "type": "DESCRIBED_IN"
+  },
+  {
+   "source": "Document:PUB-MTG-KNEE",
+   "target": "BodyPart:53",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-SHOULDER",
+   "target": "BodyPart:38",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-HAND",
+   "target": "BodyPart:33",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-HAND",
+   "target": "BodyPart:34",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-HAND",
+   "target": "BodyPart:35",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-HAND",
+   "target": "BodyPart:36",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-HAND",
+   "target": "BodyPart:37",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-HAND",
+   "target": "BodyPart:39",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-BACK",
+   "target": "BodyPart:41",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-BACK",
+   "target": "BodyPart:42",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-BACK",
+   "target": "BodyPart:63",
+   "type": "COVERS_BODY_PART"
+  },
+  {
+   "source": "Document:PUB-MTG-BACK",
+   "target": "BodyPart:43",
+   "type": "COVERS_BODY_PART"
+  }
+ ]
+}

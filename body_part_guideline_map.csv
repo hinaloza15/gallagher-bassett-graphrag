@@ -1,0 +1,17 @@
+wcio_body_code,body_part_name,guideline_doc_id,guideline_title,mapping_status,rationale
+53,KNEE,PUB-MTG-KNEE,NYS WCB Medical Treatment Guidelines: Knee Injury,proposed,Body part named in guideline title
+38,SHOULDER(S),PUB-MTG-SHOULDER,NYS WCB Medical Treatment Guidelines: Shoulder Injury,proposed,Body part named in guideline title
+33,LOWER ARM,PUB-MTG-HAND,"NYS WCB Medical Treatment Guidelines: Hand, Wrist and Forearm Injuries",proposed,Lower arm = forearm; named in guideline title
+34,WRIST,PUB-MTG-HAND,"NYS WCB Medical Treatment Guidelines: Hand, Wrist and Forearm Injuries",proposed,Body part named in guideline title
+35,HAND,PUB-MTG-HAND,"NYS WCB Medical Treatment Guidelines: Hand, Wrist and Forearm Injuries",proposed,Body part named in guideline title
+36,FINGER(S),PUB-MTG-HAND,"NYS WCB Medical Treatment Guidelines: Hand, Wrist and Forearm Injuries",needs_review,Fingers are part of the hand; confirm guideline scope section
+37,THUMB,PUB-MTG-HAND,"NYS WCB Medical Treatment Guidelines: Hand, Wrist and Forearm Injuries",needs_review,Thumb is part of the hand; confirm guideline scope section
+39,WRIST (S) & HAND(S),PUB-MTG-HAND,"NYS WCB Medical Treatment Guidelines: Hand, Wrist and Forearm Injuries",proposed,Both body parts named in guideline title
+41,UPPER BACK AREA,PUB-MTG-BACK,NYS WCB Medical Treatment Guidelines: Mid and Low Back Injury,needs_review,Upper back is likely the mid (thoracic) back; confirm guideline scope section
+42,LOWER BACK AREA,PUB-MTG-BACK,NYS WCB Medical Treatment Guidelines: Mid and Low Back Injury,proposed,Low back named in guideline title
+63,LUMBAR & OR SACRAL VERTEBRAE (VERTEBRA,PUB-MTG-BACK,NYS WCB Medical Treatment Guidelines: Mid and Low Back Injury,needs_review,Lumbar spine is low back; confirm guideline scope section
+43,DISC,PUB-MTG-BACK,NYS WCB Medical Treatment Guidelines: Mid and Low Back Injury,needs_review,Code 43 sits in the trunk range (41-49); disc level not stated
+21,VERTEBRAE,,,no_guideline_uploaded,Code 21 sits in the neck range (20-26: multiple neck injury; larynx; trachea); no neck guideline in the demo set
+32,ELBOW,,,needs_review,Hand/wrist/forearm guideline mentions elbow only in passing; do not map without checking scope
+31,UPPER ARM,,,needs_review,Between shoulder and elbow; no clear guideline in the demo set
+-9,MULTIPLE,,,not_mappable,Several body parts; no single guideline applies

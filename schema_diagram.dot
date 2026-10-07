@@ -1,0 +1,55 @@
+digraph schema {
+  graph [rankdir=LR, fontname="Helvetica", fontsize=12, nodesep=0.35, ranksep=0.7, pad=0.3];
+  node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=11];
+  edge [fontname="Helvetica", fontsize=9, color="#666666"];
+  subgraph cluster_claim { label="Claim layer (public record + synthetic fields)"; style="rounded,dashed"; color="#2F6DB5"; fontcolor="#2F6DB5";
+    Claim [label="Claim (34)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    Claimant [label="Claimant (34)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    Employer [label="Employer (16)\n(optional)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    Adjuster [label="Adjuster (6)\n(optional)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    Provider [label="Provider (8)\n(optional)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    Carrier [label="Carrier (24)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    Injury [label="Injury (11)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    BodyPart [label="BodyPart (25)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    InjuryCause [label="InjuryCause (17)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    County [label="County (17)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    Location [label="Location (32)\n(optional)", fillcolor="#E8F0FB", color="#2F6DB5"];
+    Industry [label="Industry (11)", fillcolor="#E8F0FB", color="#2F6DB5"];
+  }
+  subgraph cluster_text { label="Text layer (retrieval)"; style="rounded,dashed"; color="#3E8E41"; fontcolor="#3E8E41";
+    Document [label="Document (109)", fillcolor="#EEF6EC", color="#3E8E41"];
+    Chunk [label="Chunk (122)", fillcolor="#EEF6EC", color="#3E8E41"];
+  }
+  subgraph cluster_process { label="Process knowledge layer (public WCB documents)"; style="rounded,dashed"; color="#C77700"; fontcolor="#C77700";
+    ProcessStep [label="ProcessStep (15)\n(optional)", fillcolor="#FFF4E5", color="#C77700"];
+    Form [label="Form (5)\n(optional)", fillcolor="#FFF4E5", color="#C77700"];
+    Role [label="Role (6)\n(optional)", fillcolor="#FFF4E5", color="#C77700"];
+  }
+  subgraph cluster_reserved { label="Reserved for v1 (not in demo data)"; style="rounded,dashed"; color="#888888"; fontcolor="#888888";
+    ClaimEvent [label="ClaimEvent (0)\n(optional)", fillcolor="#F2F2F2", color="#888888"];
+  }
+  ClaimEvent -> ClaimEvent [label="DEPENDS_ON / EVENT_PRECEDES / DELAYS / ESCALATES_TO", style=dashed, color="#999999"];
+  Claim -> Claimant [label="FILED_BY"];
+  Claim -> Employer [label="INVOLVES_EMPLOYER"];
+  Claim -> Carrier [label="INSURED_BY"];
+  Claim -> Adjuster [label="HANDLED_BY"];
+  Claim -> Provider [label="TREATED_BY"];
+  Claim -> Injury [label="HAS_INJURY"];
+  Claim -> BodyPart [label="AFFECTS_BODY_PART"];
+  Claim -> InjuryCause [label="CAUSED_BY"];
+  Claim -> County [label="OCCURRED_IN"];
+  Claim -> Location [label="OCCURRED_AT"];
+  Location -> County [label="IN_COUNTY"];
+  Claim -> Industry [label="IN_INDUSTRY"];
+  Document -> Claim [label="ABOUT_CLAIM"];
+  Document -> Chunk [label="HAS_CHUNK"];
+  Chunk -> Chunk [label="NEXT_CHUNK"];
+  Chunk -> Claim [label="MENTIONS (any entity)", style=dashed];
+  Document -> BodyPart [label="COVERS_BODY_PART"];
+  ProcessStep -> Role [label="PERFORMED_BY"];
+  ProcessStep -> Form [label="USES_FORM"];
+  ProcessStep -> ProcessStep [label="PRECEDES"];
+  ProcessStep -> Document [label="DESCRIBED_IN"];
+  Claim -> ClaimEvent [label="HAS_EVENT", style=dashed, color="#999999"];
+  ClaimEvent -> Role [label="INVOLVES_ROLE", style=dashed, color="#999999"];
+}

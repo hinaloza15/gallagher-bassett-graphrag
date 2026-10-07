@@ -1,0 +1,7 @@
+role_name,instance_label,description
+Claimant,Claimant,Injured worker who files the claim
+Employer,Employer,Employer of the injured worker
+Carrier or claims administrator,Carrier,"Insurer, self-insured employer, or claims administrator (TPA) that handles the claim; adjusters act for this role"
+Health care provider,Provider,Board-authorized provider who treats the claimant and files medical reports
+Workers' Compensation Board,,NYS Workers' Compensation Board; holds hearings and decides disputes
+Attorney or representative,,Optional legal representative of the claimant

@@ -1,0 +1,241 @@
+# GraphRAG schema v0 for the GB claims capstone (IDS 560, Group 3)
+# Status: DRAFT for midterm. Built and tested on the demo data (GB_102_Synthetic_Notes.csv,
+# 34 claims, 102 notes, 7 public NY WCB documents). Not final: revise after the data decision gate.
+# Rule: extraction and loading may ONLY create the labels and relationship types listed here.
+# Anything else is rejected and logged for human review (see README, "Change control").
+
+schema_version: "0.1.0"
+date: "2026-10-06"
+
+# ---------------------------------------------------------------------------
+# Provenance: required on EVERY relationship (SOW D3, Stack proposal)
+# ---------------------------------------------------------------------------
+edge_provenance:
+  required:
+    source_type: [public_record, synthetic_field, synthetic_note, public_document, curated]
+    source_id: string          # "NYWCB:<claim_id>", a doc_id, or a seed file row id
+    method: [structured_field, rule_match, curated_table, llm, system1, human]
+    review_status: [unreviewed, approved, rejected]
+    schema_version: string
+  optional:
+    chunk_id: string           # chunk the fact was read from (text-derived edges)
+    span_start: int
+    span_end: int
+    confidence: float          # 0-1, extractor's score (llm / system1 only)
+    scope_claim_id: int        # claim the fact belongs to; stops facts from one
+                               # claim/scenario leaking into another
+
+# ---------------------------------------------------------------------------
+# Node labels
+#   layer: claim | text | process | reserved
+#   requirement: mandatory = every Claim must link to it when the source has a value
+#                optional  = only when the source provides it (synthetic or extracted)
+#   growth: bounded (controlled vocabulary) | linear (grows with data) | entity (distinct real-world things)
+# ---------------------------------------------------------------------------
+nodes:
+  Claim:
+    layer: claim
+    key: claim_id               # WCB Claim Identifier
+    requirement: mandatory
+    growth: linear
+    required_props: [claim_id]
+    optional_props: [accident_date, assembly_date, claim_injury_type, current_status,
+                     highest_process, district, attorney_represented, hearing_count, claim_type]
+    source: NY WCB public record
+
+  Claimant:
+    layer: claim
+    key: claimant_id            # "CLMT-<claim_id>"; never keyed by name
+    requirement: mandatory
+    growth: linear
+    required_props: [claimant_id]
+    optional_props: [name, age_at_injury, gender]
+    source: public record (age, gender); synthetic (name)
+
+  Employer:
+    layer: claim
+    key: employer_id            # "EMP-<slug of name>"
+    requirement: optional
+    growth: entity
+    required_props: [employer_id, name]
+    optional_props: []
+    source: synthetic in demo; not in the public record
+    note: Industry is NOT stored on Employer (demo data links one employer to up to 3 industries).
+
+  Adjuster:
+    layer: claim
+    key: adjuster_id            # "ADJ-<slug of name>"
+    requirement: optional
+    growth: entity
+    required_props: [adjuster_id, name]
+    optional_props: []
+    source: synthetic
+
+  Provider:
+    layer: claim
+    key: provider_id            # "PRV-<slug of name>"
+    requirement: optional
+    growth: entity
+    required_props: [provider_id, name]
+    optional_props: []
+    source: synthetic
+
+  Carrier:
+    layer: claim
+    key: carrier_id             # "CAR-<slug of public carrier name>"
+    requirement: mandatory
+    growth: entity
+    required_props: [carrier_id, name]
+    optional_props: [carrier_type]
+    source: NY WCB public record
+
+  Injury:
+    layer: claim
+    key: wcio_nature_code       # WCIO Nature of Injury code; team's "Injury" entity
+    requirement: mandatory
+    growth: bounded
+    required_props: [wcio_nature_code, name]
+    optional_props: []
+    source: NY WCB public record
+
+  BodyPart:
+    layer: claim
+    key: wcio_body_code         # WCIO Part of Body code
+    requirement: mandatory
+    growth: bounded
+    required_props: [wcio_body_code, name]
+    optional_props: []
+    source: NY WCB public record
+
+  InjuryCause:
+    layer: claim
+    key: wcio_cause_code        # WCIO Cause of Injury code; team's "Cause of Injury"
+    requirement: mandatory
+    growth: bounded
+    required_props: [wcio_cause_code, name]
+    optional_props: []
+    source: NY WCB public record
+
+  County:
+    layer: claim
+    key: name                   # upper-case county name as in the public record
+    requirement: mandatory
+    growth: bounded
+    required_props: [name]
+    optional_props: []
+    source: NY WCB public record
+
+  Location:
+    layer: claim
+    key: location_id            # "LOC-<slug>"
+    requirement: optional
+    growth: entity
+    required_props: [location_id, name]
+    optional_props: []
+    source: synthetic
+
+  Industry:
+    layer: claim
+    key: naics2                 # 2-digit NAICS code
+    requirement: mandatory
+    growth: bounded
+    required_props: [naics2, name]
+    optional_props: []
+    source: NY WCB public record
+
+  Document:
+    layer: text
+    key: doc_id
+    requirement: mandatory
+    growth: linear
+    required_props: [doc_id, doc_type, is_synthetic]
+    optional_props: [title, note_type, path, url, license_note]
+    enums:
+      doc_type: [claim_note, process_guide, treatment_guideline]
+    note: Team's "Policy Document" = Document with doc_type process_guide or treatment_guideline.
+
+  Chunk:
+    layer: text
+    key: chunk_id               # "<doc_id>#<n>"
+    requirement: mandatory
+    growth: linear
+    required_props: [chunk_id, text, position]
+    optional_props: [n_words, embedding]
+
+  ProcessStep:
+    layer: process
+    key: step_id
+    requirement: optional
+    growth: bounded
+    required_props: [step_id, name]
+    optional_props: [deadline_text, deadline_days, condition]
+    source: public NY WCB documents (curated seed, then extraction)
+
+  Form:
+    layer: process
+    key: form_code              # e.g. "C-3"
+    requirement: optional
+    growth: bounded
+    required_props: [form_code, name]
+    optional_props: []
+
+  Role:
+    layer: process
+    key: role_name
+    requirement: optional
+    growth: bounded
+    required_props: [role_name, instance_label]
+    optional_props: [description]
+    enums:
+      role_name: [Claimant, Employer, Carrier or claims administrator, Health care provider, Workers' Compensation Board, Attorney or representative]
+
+  ClaimEvent:
+    layer: reserved             # NOT populated in v0: the demo notes contain no events
+    key: event_id
+    requirement: optional
+    growth: linear
+    required_props: [event_id, event_type]
+    optional_props: [event_date, description]
+    enums:
+      event_type: [referral, modified_duty_offer, return_to_work, escalation, investigation,
+                   witness_statement_request, independent_medical_exam, hearing, dispute, settlement]
+
+# ---------------------------------------------------------------------------
+# Relationship types: from -> to, cardinality from the Claim's side
+# ---------------------------------------------------------------------------
+relationships:
+  FILED_BY:          {from: Claim, to: Claimant, cardinality: "1:1", layer: claim}
+  INVOLVES_EMPLOYER: {from: Claim, to: Employer, cardinality: "N:1", layer: claim}
+  INSURED_BY:        {from: Claim, to: Carrier, cardinality: "N:1", layer: claim}
+  HANDLED_BY:        {from: Claim, to: Adjuster, cardinality: "N:1", layer: claim}
+  TREATED_BY:        {from: Claim, to: Provider, cardinality: "N:M", layer: claim}
+  HAS_INJURY:        {from: Claim, to: Injury, cardinality: "N:1", layer: claim}
+  AFFECTS_BODY_PART: {from: Claim, to: BodyPart, cardinality: "N:1", layer: claim}
+  CAUSED_BY:         {from: Claim, to: InjuryCause, cardinality: "N:1", layer: claim}
+  OCCURRED_IN:       {from: Claim, to: County, cardinality: "N:1", layer: claim}
+  OCCURRED_AT:       {from: Claim, to: Location, cardinality: "N:1", layer: claim}
+  IN_COUNTY:         {from: Location, to: County, cardinality: "N:1", layer: claim}
+  IN_INDUSTRY:       {from: Claim, to: Industry, cardinality: "N:1", layer: claim}
+
+  ABOUT_CLAIM:       {from: Document, to: Claim, cardinality: "N:1", layer: text}
+  HAS_CHUNK:         {from: Document, to: Chunk, cardinality: "1:N", layer: text}
+  NEXT_CHUNK:        {from: Chunk, to: Chunk, cardinality: "1:1", layer: text}
+  MENTIONS:          {from: Chunk, to: [Claim, Claimant, Employer, Adjuster, Provider, Carrier, Injury,
+                                         BodyPart, InjuryCause, County, Location, Industry, Form, Role],
+                      cardinality: "N:M", layer: text}
+
+  COVERS_BODY_PART:  {from: Document, to: BodyPart, cardinality: "N:M", layer: process,
+                      note: "treatment_guideline documents only; curated mapping, human-validated"}
+  PERFORMED_BY:      {from: ProcessStep, to: Role, cardinality: "N:M", layer: process}
+  USES_FORM:         {from: ProcessStep, to: Form, cardinality: "N:M", layer: process}
+  PRECEDES:          {from: ProcessStep, to: ProcessStep, cardinality: "N:M", layer: process}
+  DESCRIBED_IN:      {from: ProcessStep, to: Document, cardinality: "N:M", layer: process}
+
+  # Reserved for v1 (event-bearing notes). Small fixed set; see README for the mapping
+  # from the demo workbook's vocabulary (DELAYS, REQUIRES, ESCALATES_TO, INCREASES, ...).
+  HAS_EVENT:         {from: Claim, to: ClaimEvent, cardinality: "1:N", layer: reserved}
+  DEPENDS_ON:        {from: ClaimEvent, to: ClaimEvent, cardinality: "N:M", layer: reserved}
+  EVENT_PRECEDES:    {from: ClaimEvent, to: ClaimEvent, cardinality: "N:M", layer: reserved}
+  DELAYS:            {from: ClaimEvent, to: ClaimEvent, cardinality: "N:M", layer: reserved}
+  ESCALATES_TO:      {from: ClaimEvent, to: ClaimEvent, cardinality: "N:M", layer: reserved}
+  INVOLVES_ROLE:     {from: ClaimEvent, to: Role, cardinality: "N:M", layer: reserved}
