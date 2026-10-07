@@ -1,0 +1,6 @@
+   # Raw data stays out of git (the NY CSV is 76 MB; share via Box)
+   data/
+   # Medical Treatment Guidelines: internal reference use only, no redistribution
+   *MTG*.pdf
+   __pycache__/
+   .env
