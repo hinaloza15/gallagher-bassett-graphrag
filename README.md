@@ -1,6 +1,6 @@
-# GraphRAG Graph Schema v0 (draft for midterm)
+# GraphRAG Graph Schema
 
-**Owner:** Keya · **Project:** GraphRAG vs. Hybrid RAG for claims knowledge (IDS 560 Group 3, sponsor Gallagher Bassett) · **Date:** Oct 6, 2026 · **Status:** draft, tested on the demo data; not final until the data decision gate.
+Project:GraphRAG vs. Hybrid RAG for claims knowledge (IDS 560 Group 3, sponsor Gallagher Bassett) · 
 
 The schema has **18 node labels and 27 relationship types in four layers**: claim facts, text for retrieval, claims-process knowledge from public WCB documents, and a reserved event layer. Loaded with the demo data (34 claims, 102 synthetic notes, 7 public WCB documents), it produces **492 nodes and 1,377 relationships with 0 schema violations**. It answers all six test questions in `out/competency_questions.md`.
 
