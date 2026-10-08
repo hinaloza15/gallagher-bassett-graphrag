@@ -1,0 +1,4144 @@
+[page 1]
+Medical
+Treatment
+Guidelines
+Shoulder Injury
+Effective May 2, 2022
+Adapted by NYS Workers’ Compensation Board (“WCB”) from MDGuidelines® with permission of Reed Group, Ltd. (“ReedGroup”), which 
+is not responsible for WCB’s modifications. MDGuidelines® are Copyright 2019 Reed Group, Ltd. All Rights Reserved. No part of this 
+publication may be reproduced, displayed, disseminated, modified, or incorporated in any form without prior written permission from 
+ReedGroup and WCB. Notwithstanding the foregoing, this publication may be viewed and printed solely for internal use as a reference, 
+including to assist in compliance with WCL Sec. 13-0 and 12 NYCRR Part 44[0], provided that (i) users shall not sell or distribute, display, or 
+otherwise provide such copies to others or otherwise commercially exploit the material. Commercial licenses, which provide access to the 
+online text-searchable version of MDGuidelines®, are available from ReedGroup at www.mdguidelines.com.
+
+[page 2]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   2   
+ 
+ 
+Contributors 
+ 
+The NYS Workers’ Compensation Board would like to thank the members of the New York 
+Workers’ Compensation Board Medical Advisory Committee (MAC). The MAC served as the 
+Board’s advisory body to adapt the American College of Occupational and Environmental 
+Medicine (ACOEM) Practice Guidelines to a  New York version of the Medical Treatment 
+Guidelines (MTG). In this capacity, the MAC provided valuable input and made recommendations 
+to help guide the final version of these Guidelines. With full consensus reached on many topics, 
+and a careful review of any dissenting opinions on others, the Board established the final product.   
+ 
+New York State Workers’ Compensation Board Medical Advisory Committee 
+ 
+Joseph Canovas, Esq. 
+Special Counsel  
+New York State AFL-CIO 
+ 
+Kenneth B. Chapman, MD 
+Director Pain Medicine, SIUH Northwell Health Systems 
+Assistant Clinical Professor, NYU Langone Medical Center 
+Adjunct Assistant Professor, Hofstra Medical School 
+ 
+Robert Goldberg, DO 
+Senior Attending Physician, Department of Rehabilitation, Beth Israel Hospital and Medical 
+Center of NYC 
+Faculty Institute for Family Health at the Icahn School of Medicine at Mount Sinai  
+Clinical Professor of Rehabilitation Medicine, Philadelphia College of Osteopathic Medicine 
+Member Council on Medical Education of the American Medical Association  
+Former Dean and Professor of Physical Medicine and Rehabilitation and Health Policy Touro 
+College of Osteopathic Medicine and  
+Former Clinical Associate Professor of Rehabilitation Medicine, New York Medical College 
+ 
+Brian M. Gordon, MD 
+Former Medical Director, 
+New York State Workers’ Compensation Board 
+ 
+Frank Kerbein, SPHR 
+Director, Center for Human Resources 
+The Business Council of New York State, Inc. 
+ 
+Joseph Pachman, MD, PhD, MBA, MPH 
+Licensed Psychologist and Physician 
+Board Certified in Occupational Medicine 
+Fellow in ACOEM 
+Vice President and National Medical Director, Liberty Mutual  
+ 
+James A. Tacci, MD, JD, MPH 
+Medical Director and Executive Medical Policy Director, 
+New York State Workers’ Compensation Board 
+ 
+ 
+
+[page 3]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   3   
+ 
+ 
+Edward C. Tanner, MD 
+Chair, Department of Orthopaedics at Rochester General Hospital 
+Past President, New York State Society of Orthopaedic Surgeons (NYSSOS) 
+Member, American Academy of Orthopaedic Surgeons (AAOS) 
+Member, American Association of Hip and Knee Surgeons (AAHKS) 
+  
+
+[page 4]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   4   
+ 
+ 
+ 
+ 
+Table of Contents 
+ 
+ 
+A. General Guideline Principles .......................................................................................... 6 
+A.1  Medical Care ................................................................................................................. 6 
+A.2 Rendering Of Medical Services .................................................................................... 6 
+A.3 Positive Patient Response ............................................................................................ 6 
+A.4 Re-Evaluate Treatment................................................................................................. 6 
+A.5 Education ...................................................................................................................... 6 
+A.6 Acuity............................................................................................................................. 7 
+A.7 Initial Evaluation ............................................................................................................ 7 
+A.8  Diagnostic Time Frames ............................................................................................... 7 
+A.9 Treatment Time Frames ............................................................................................... 7 
+A.10 Delayed Recovery......................................................................................................... 7 
+A.11   Active Interventions....................................................................................................... 8 
+A.12   Active Therapeutic Exercise Program .......................................................................... 8 
+A.13   Diagnostic Imaging And Testing Procedures ............................................................... 8 
+A.14   Surgical Interventions ................................................................................................... 9 
+A.15  Pre-Authorization .......................................................................................................... 9 
+A.16   Psychological/Psychiatric Evaluations ......................................................................... 9 
+A.17   Personality/Psychological/Psychosocial Intervention ................................................ 10 
+A.18  Functional Capacity Evaluation (FCE) ....................................................................... 10 
+A.19   Return To Work........................................................................................................... 11 
+A.20   Job Site Evaluation .................................................................................................... 11 
+A.21   Guideline Recommendations And Medical Evidence ................................................ 12 
+A.22   Experimental/Investigational Treatment..................................................................... 12 
+A.23  Injured Workers As Patients ....................................................................................... 12 
+A.24  Scope Of Practice ....................................................................................................... 12 
+B. Introduction to Shoulder Injury .................................................................................... 13 
+B.1 History Taking and Physical Examination .................................................................. 13 
+B.2 Specific Diagnoses, Testing and Treatment Procedures........................................... 13 
+
+[page 5]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   5   
+ 
+ 
+B.3 Therapeutic Procedures:  Non-Operative (including medications) ............................ 14 
+C. History Taking and Physical Examination .................................................................. 15 
+C.1 History Taking ............................................................................................................. 15 
+C.2 Physical Findings ........................................................................................................ 15 
+C.3 Red Flags .................................................................................................................... 15 
+C.4 Follow-Up Diagnostic Imaging / Testing ..................................................................... 16 
+D. Specific Diagnoses, Testing and Treatment Procedures .......................................... 16 
+D.1 Acromioclavicular (AC Joint Sprains / Dislocations ................................................... 16 
+D.2 Adhesive Capsulitis / Frozen Shoulder Disorder........................................................ 20 
+D.3 Bicipital Tendon Disorders .......................................................................................... 24 
+D.4 Brachial plexus Injuries ............................................................................................... 28 
+D.5 Bursitis of the Shoulder............................................................................................... 38 
+D.6 Impingement Syndrome.............................................................................................. 40 
+D.7 Rotator Cuff Tears ...................................................................................................... 44 
+D.8 Rotator Cuff Tendinitis ................................................................................................ 49 
+D.9 Shoulder Fractures ..................................................................................................... 51 
+D.10 Shoulder Instability...................................................................................................... 60 
+D.11 Superior Labrum Anterior and Poster (SLAP) Lesions .............................................. 64 
+E. Therapeutic Procedures:  Non-Operative.................................................................... 68 
+E.1 Medications ................................................................................................................. 68 
+E.2 Immobilization ............................................................................................................. 71 
+E.3 Relative Rest ............................................................................................................... 72 
+E.4 Therapeutic Exercise .................................................................................................. 72 
+E.5 Superficial Heat and Cold ........................................................................................... 74 
+E.6 Transcutaneous Electrical Nerve Stimulation (TENS) ............................................... 74 
+E.7 Therapeutic Ultrasound With or Without Electrical Stimulation ................................. 74 
+E.8 Electrical Therapeutic Modality................................................................................... 75 
+E.9 Return to Work ............................................................................................................ 75 
+E.10 Biofeedback ................................................................................................................ 75 
+E.11 Physical Medicine and Rehabilitation ......................................................................... 75 
+E.12 Therapy:  Ongoing Maintenance Care ....................................................................... 76 
+ 
+
+[page 6]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   6   
+ 
+ 
+A. General Guideline Principles  
+ 
+The principles summarized in this section are key to the intended application of the New York 
+State Medical Treatment Guidelines (MTG) and are applicable to all Workers’ Compensation 
+Medical Treatment Guidelines.  
+A.1  Medical Care 
+Medical care and treatment required as a result of a work-related injury should be 
+focused on restoring functional ability required to meet the patient’s daily and work 
+activities with a focus on a return to work, while striving to restore the patient’s health to 
+its pre-injury status in so far as is feasible.  
+A.2 Rendering Of Medical Services  
+Any medical provider rendering services to a workers’ compensation patient must utilize 
+the Treatment Guidelines as provided for with respect to all work-related injuries and/or 
+illnesses. 
+A.3 Positive Patient Response  
+Positive results are defined primarily as functional gains which can be objectively 
+measured. Objective functional gains include, but are not limited to, positional 
+tolerances, range of motion, strength, endurance, activities of daily living (ADL), 
+cognition, psychological behavior, and efficiency/velocity measures which can be 
+quantified. Subjective reports of pain and function may be considered and given relative 
+weight when the pain has anatomic and physiologic correlation in proportion to the 
+injury. 
+A.4 Re-Evaluate Treatment   
+If a given treatment or modality is not producing positive results within a well-defined 
+timeframe, the provider should either modify or discontinue the treatment regime. The 
+provider should evaluate the efficacy of the treatment or modality 2 to 3 weeks after the 
+initial visit and 3 to 4 weeks thereafter. These timeframes may be slightly longer in the 
+context of conditions that are inherently mental health issues, and shorter for other non-
+musculoskeletal medical conditions (e.g. pulmonary, dermatologic etc.). Recognition that 
+treatment failure is at times attributable to an incorrect diagnosis a failure to respond 
+should prompt the clinician to reconsider the diagnosis in the event of an unexpected 
+poor response to an otherwise rational intervention.   
+A.5 Education  
+Education of the patient and family, as well as the employer, insurer, policy makers and 
+the community should be a primary emphasis in the treatment of work-related injury or 
+illness. Practitioners should develop and implement effective educational strategies and 
+skills. An education-based paradigm should always start with communication providing 
+reassuring information to the patient.  No treatment plan is complete without addressing 
+issues of individual and/or group patient education as a means of facilitating self-
+management of symptoms and prevention of future injury. 
+ 
+ 
+
+[page 7]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   7   
+ 
+ 
+Time Frames 
+A.6 Acuity 
+Acute, Subacute and Chronic are generally defined as timeframes for disease stages: 
+• Acute – Less than one month 
+• Subacute - One to three month, and  
+• Chronic - greater than three months. 
+A.7 Initial Evaluation 
+Initial evaluation refers to the acute timeframe following an injury and is not used to 
+define when a given physician first evaluates an injured worker (initial encounter) in an 
+office or clinical setting. 
+A.8  Diagnostic Time Frames 
+Diagnostic time frames for conducting diagnostic testing commence on the date of injury. 
+Clinical judgment may substantiate the need to accelerate or decelerate the time frames 
+discussed in this document.  
+A.9 Treatment Time Frames  
+Treatment time frames for specific interventions commence once treatments have been 
+initiated, not on the date of injury. It is recognized that treatment duration may be 
+impacted by disease process and severity, patient compliance, as well as availability of 
+services. Clinical judgment may substantiate the need to accelerate or decelerate the 
+time frames discussed in this document. 
+A.10 Delayed Recovery  
+For those patients who fail to make expected progress 6-12 weeks after an injury and 
+whose subjective symptoms do not correlate with objective signs and tests, 
+reexamination in order to confirm the accuracy of the diagnosis and re-evaluation of the 
+treatment program should be performed. When addressing a clinical issue that is not 
+inherently a mental health issue, assessment for potential barriers to recovery (yellow 
+flags/psychological issues) should be ongoing throughout the care of the patient.  At 6-
+12 weeks, alternate treatment programs, including formal psychological or psychosocial 
+evaluation should be considered. Clinicians must be vigilant for any pre-existing mental 
+health issues or subsequent, consequential mental health issues that may be impacting 
+recovery. For issues that are clearly and inherently mental health issues from the outset 
+(i.e. when it is evident that there is an underlying, work-related, mental health disorder as 
+part of the claim at issue), referral to a mental health provider can and should occur 
+much sooner. Referrals to mental health providers for the evaluation and management 
+of delayed recovery do not indicate or require the establishment of a psychiatric or 
+psychological condition. The evaluation and management of delayed recovery does not 
+require the establishment of a psychiatric or psychological claim. 
+ 
+ 
+ 
+ 
+
+[page 8]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   8   
+ 
+ 
+ 
+ 
+Treatment Approaches 
+A.11   Active Interventions  
+Active interventions emphasizing patient responsibility, such as therapeutic exercise 
+and/or functional treatment, are generally emphasized over passive modalities, 
+especially as treatment progresses. Generally, passive and palliative interventions are 
+viewed as a means to facilitate progress in an active rehabilitation program with 
+concomitant attainment of objective functional gains. 
+A.12   Active Therapeutic Exercise Program  
+Active therapeutic exercise program goals should incorporate patient strength, 
+endurance, flexibility, range of motion, sensory integration, coordination, cognition and 
+behavior (when at issue) and education as clinically indicated. This includes functional 
+application in vocational or community settings. 
+A.13   Diagnostic Imaging And Testing Procedures  
+Clinical information obtained by history taking and physical examination should be the 
+basis for selection of imaging procedures and interpretation of results. All diagnostic 
+procedures have characteristic specificities and sensitivities for various diagnoses. 
+Usually, selection of one procedure over others depends upon various factors, which 
+may include: relative diagnostic value; risk/benefit profile of the procedure; availability of 
+technology; a patient’s tolerance; and/or the treating practitioner’s familiarity with the 
+procedure. 
+ 
+When a diagnostic procedure, in conjunction with clinical information, provides sufficient 
+information to establish an accurate diagnosis, a second diagnostic procedure is not 
+required. However, a subsequent diagnostic procedure including a repeat of the original 
+(same) procedure can be performed, when the specialty physician (e.g. physiatrist, 
+sports medicine physician or other appropriate specialist) radiologist or surgeon 
+documents that the initial study was of inadequate quality to make a diagnosis. 
+Therefore, in such circumstances, a repeat or complementary diagnostic procedure is 
+permissible under the MTG.  
+ 
+It is recognized that repeat imaging studies and other tests may be warranted by the 
+clinical course and/or to follow the progress of treatment in some cases. It may be of 
+value to repeat diagnostic procedures (e.g., imaging studies) during the course of care to 
+reassess or stage the pathology when there is progression of symptoms or findings, 
+prior to surgical interventions and/or therapeutic injections when clinically indicated, and 
+post-operatively to follow the healing process. Regarding serial imaging, (including x-
+rays, but particularly CT scans), it must be recognized that repeat procedures result in 
+an increase in cumulative radiation dose and associated risks. 
+ 
+A given diagnostic imaging procedure may provide the same or distinctive information as 
+obtained by other procedures. Therefore, prudent choice of procedures(s) for a single 
+diagnostic procedure, a complementary procedure in combination with other 
+
+[page 9]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   9   
+ 
+ 
+procedures(s), or a proper sequential order in multiple procedures will ensure maximum 
+diagnostic accuracy, minimize the likelihood of adverse effect on patients, and promote 
+efficiency by avoiding duplication or redundancy.  
+A.14   Surgical Interventions   
+Consideration of surgery should be within the context of expected functional outcome. 
+The concept of "cure" with respect to surgical treatment by itself is generally a 
+misnomer. All operative interventions must be based upon positive correlation of clinical 
+findings, clinical course and imaging and other diagnostic tests.  A comprehensive 
+assimilation of these factors must lead to a specific diagnosis with positive identification 
+of pathologic condition(s). For surgery to be performed to treat pain, there must be clear 
+correlation between the pain symptoms and objective evidence of its cause. In all cases, 
+shared decision making with the patient is advised. The patient should be given the 
+opportunity to understand the pros and cons of surgery, potential for rehabilitation as an 
+alternative where applicable, evidence-based outcomes, and specific surgical 
+experience. 
+ 
+A.15  Pre-Authorization 
+All diagnostic imaging, testing procedures, non-surgical and surgical therapeutic 
+procedures, and other therapeutics within the criteria of the Medical Treatment 
+Guidelines and based on a correct application of the Medical Treatment Guidelines are 
+considered authorized, with the exception of the procedures listed in section 324.3(1)(a) 
+of Title 12 NYCRR. These are not included on the list of pre-authorized procedures. 
+Providers who want to perform one of these procedures must request pre-authorization 
+from the carrier before performing the procedure.   
+ 
+Second or subsequent procedures (the repeat performance of a surgical procedure due 
+to failure of, or incomplete success from the same surgical procedure performed earlier, 
+if the Medical Treatment Guidelines do not specifically address multiple procedures) also 
+require pre-authorization. 
+A.16   Psychological/Psychiatric Evaluations  
+In select patients, mental health evaluations are essential to make, secure or confirm a 
+diagnosis. Of course, the extent and duration of evaluations and/or interventions by 
+mental health professionals may vary, particularly based on whether: the underlying 
+clinical issue in the claim is inherently a mental health issue; or there is a mental health 
+issue that is secondary or consequential to the medical injury or illness that is at issue in 
+the claim in question; or there is a pre-existing, unrelated mental health issue that has 
+been made worse by, or is impeding the recovery from (or both) the medical injury or 
+illness that is at issue in the claim in question. 
+ 
+Tests of psychological function or psychometric testing, when indicated, can be a 
+valuable component of the psychological evaluation in identifying associated 
+psychological, personality and psychosocial issues. Although these instruments may 
+suggest a diagnosis, neither screening nor psychometric tests are capable of making a 
+diagnosis. The diagnosis should only be made after careful analysis of all available data, 
+including from a thorough history and clinical interview. 
+
+[page 10]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   10   
+ 
+ 
+  
+A professional fluent in the primary language of the patient is strongly preferred.  When 
+such a provider is not available, services of a professional language interpreter must be 
+provided.  
+ 
+Frequency: When assessing for a pre-existing, unrelated mental health issue that has 
+been made worse by, or is impeding the recovery from (or both) a work-related, medical 
+injury or illness, then a one-time visit for initial psychiatric/psychological encounter 
+should be sufficient, as care would normally be continued by the prior treating provider. If 
+psychometric testing is indicated by findings in the initial encounter, time for such testing 
+should not exceed an additional three hours of professional time. For conditions in which 
+a mental health issue is a central part of the initial claim, or in which there is a mental 
+health issue that is secondary or consequential to the work-related, medical injury or 
+illness, that is part of the claim in question, then more extensive diagnostic and 
+therapeutic interventions may be clinically indicated, and are discussed in detail in the 
+Medical Treatment Guidelines for such mental health conditions. 
+A.17   Personality/Psychological/Psychosocial Intervention  
+Following psychosocial evaluation, when intervention is recommended, such intervention 
+should be implemented as soon as possible. This can be used alone or in conjunction 
+with other treatment modalities. For all psychological/psychiatric interventions, there 
+must be an assessment and treatment plan with measurable behavioral goals, time 
+frames and specific interventions planned.  
+   
+• Time to produce effect: two to eight weeks. 
+• Optimum duration: six weeks to three months. 
+• Maximum duration: three to six months.   
+• Counseling is not intended to delay but rather to enhance functional recovery.   
+ 
+For PTSD Psychological Intervention:  
+• Optimum duration three to six months.  
+• Maximum duration: nine to twelve months.  
+ 
+For select patients, longer supervision and treatment may be required, and if further 
+treatment is indicated, documentation of the nature of the psychological factors, as well 
+as projecting a realistic functional prognosis, should be provided by the authorized 
+treating practitioner every four weeks during the first six months of treatment. For 
+treatment expected to last six to twelve months, such documentation should be provided 
+every four to eight weeks. For long-term treatment beyond twelve months, such 
+documentation should be provided every eight to twelve weeks. All parties should strive 
+for ongoing and continuous communications, in order to facilitate seamless, continuous 
+and uninterrupted treatment.  
+A.18  Functional Capacity Evaluation (FCE)  
+Functional capacity evaluation is a comprehensive or more restricted evaluation of the 
+various aspects of function as they relate to the patient’s ability to return to work. Areas 
+such as endurance, lifting (dynamic and static), postural tolerance, specific range-of-
+
+[page 11]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   11   
+ 
+ 
+motion, coordination and strength, worker habits, employability, as well as psychosocial, 
+cognitive, and sensory perceptual aspects of competitive employment may be evaluated. 
+Components of this evaluation may include: (a) musculoskeletal screen; (b) 
+cardiovascular profile/aerobic capacity; (c) coordination; (d) lift/carrying analysis; (e) job-
+specific activity tolerance; (f) maximum voluntary effort; (g) pain 
+assessment/psychological screening; (h) non-material and material handling activities; (i) 
+cognitive and behavioral; (j) visual; and (k) sensory perceptual factors. 
+ 
+In most cases, the question of whether a patient can return to work can be answered 
+without an FCE. 
+ 
+An FCE may be considered at time of MMI, following reasonable prior attempts to return 
+to full duty throughout course of treatment, when the treating physician is unable to 
+make a clear determination on work status on case closure. An FCE is not indicated 
+early during a treatment regime for any reason including one to support a therapeutic 
+plan.   
+  
+When an FCE is being used to determine return to a specific job site, the treating 
+physician is responsible for understanding and considering the job duties. FCEs cannot 
+be used in isolation to determine work restrictions. The authorized treating physician 
+must interpret the FCE in light of the individual patient's presentation and medical and 
+personal perceptions. FCEs should not be used as the sole criteria to diagnose 
+malingering. 
+  
+A.19   Return To Work  
+For purposes of these guidelines, return to work is defined as any work or duty that the 
+patient is able to perform safely. It may not be the patient’s regular work.  Ascertaining a 
+return to work status is part of medical care, and should be included in the treatment and 
+rehabilitation plan. It is normally addressed at every outpatient visit. A description of the 
+patient’s status and task limitations is part of any treatment plan and should provide the 
+basis for restriction of work activities when warranted. Early return to work should be a 
+prime goal in treating occupational injuries. The emphasis within these guidelines is to 
+move patients along a continuum of care and return to work, since the prognosis of 
+returning an injured worker to work drops progressively the longer the worker has been 
+out of work.  
+A.20   Job Site Evaluation  
+The treating physician may communicate with the employer or employer’s designee, 
+either in person, by video conference, or by telephone, to obtain information regarding 
+the individual or specific demands of the patient’s pre-injury job.  This may include a 
+description of the exertional demands of the job, the need for repetitive activities, load 
+lifting, static or awkward postures, environmental exposures, psychological stressors 
+and other factors that would pose a barrier to re-entry, risk of re-injury or disrupt 
+convalescence. When returning to work at the patient’s previous job tasks or setting is 
+not feasible, given the clinically determined restrictions on the patient’s activities, inquiry 
+should be made about modified duty work settings that align with, the patient’s condition 
+in view of proposed work activities/demands in modified duty jobs. It should be noted, 
+
+[page 12]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   12   
+ 
+ 
+that under certain circumstances, more than one job site evaluation may be indicated. 
+ 
+Ideally, the physician would gain the most information from an on-site inspection of the 
+job settings and activities; but it is recognized that this may not be feasible in most 
+cases. If job videos/CDs/DVDs are available from the employer, these can contribute 
+valuable information, as can video conferences, conducted from the worksite and ideally 
+workstation or work area. 
+  
+Frequency: one or two contacts 
+• 1st contact: Patient is in a functional state where the patient can perform some 
+work. 
+• 2nd contact: Patient has advanced to state where the patient is capable of 
+enhanced functional demands in a work environment. 
+ 
+The physician shall document the conversation. 
+ 
+Other 
+A.21   Guideline Recommendations And Medical Evidence  
+The Workers’ Compensation Board and its Medical Advisory Committee have not 
+independently evaluated or vetted the scientific medical literature used in support of the 
+guidelines, but have relied on the methodology used by the developers of various 
+guidelines utilized and referenced in these Guidelines. 
+A.22   Experimental/Investigational Treatment  
+Medical treatment that is experimental/investigational and not approved for any purpose, 
+application or indication by the FDA is not permitted under these Guidelines. 
+ 
+A.23  Injured Workers As Patients  
+In these Guidelines, injured workers are referred to as patients recognizing that in 
+certain circumstances there is no doctor-patient relationship. 
+A.24  Scope Of Practice   
+These Guidelines do not address scope of practice or change the scope of practice. 
+  
+
+[page 13]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   13   
+ 
+ 
+Shoulder Injury 
+Effective date will coincide with the launch of OnBoard: Limited Release 
+ 
+B. Introduction to Shoulder Injury  
+ 
+This guideline addresses the ten most common work-related injuries/ syndromes/disorders to or 
+involving the shoulder complex. This Guideline is divided into the following sections: 
+ 
+B.1 History Taking and Physical Examination 
+ 
+History taking and physical examination provides information common to all injuries 
+through a discussion of provider procedures which should be applied to each patient, 
+regardless of the injury and diagnosis.  
+ 
+A review of systems should be conducted, the elements of which may include signs or 
+symptoms related to the following systems: constitutional symptoms; eyes; ear, nose, 
+mouth, and throat; cardiovascular; respiratory; gastrointestinal; genitourinary; 
+musculoskeletal; integumentary/breast; neurological; psychiatric; endocrine; 
+hematologic/lymphatic; allergic/immunologic. Based on the underlying condition being 
+addressed, and clinical judgement, the breadth and focus of the review of systems can 
+be tailored on a case by case basis.    
+ 
+B.2 Specific Diagnoses, Testing and Treatment Procedures 
+ 
+Specific diagnoses, testing and treatment procedures provides information unique to 
+each of the following work-related injuries/ syndromes/ disorders: 
+ 
+1) Acromioclavicular (AC) Joint Sprains/Dislocations 
+ 
+2) Adhesive Capsulitis/Frozen Shoulder Disorder 
+ 
+3) Bicipital Tendon Disorders 
+ 
+4) Brachial Plexus Injuries 
+ 
+a) Brachial Plexus 
+ 
+b) Axillary Nerve 
+ 
+c) Long Thoracic Nerve 
+ 
+d) Musculocutaneous Nerve 
+ 
+e) Spinal Accessory Nerve 
+
+[page 14]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   14   
+ 
+ 
+ 
+f) Suprascapular Nerve 
+ 
+5) Bursitis of the Shoulder 
+ 
+6) Impingement Syndrome 
+ 
+7) Rotator Cuff Tears 
+ 
+8) Rotator Cuff Tendinitis 
+ 
+9) Shoulder Fractures 
+ 
+a) Clavicular Fracture 
+ 
+b) Proximal Humeral Fracture 
+ 
+c) Humeral Shaft Fracture 
+ 
+d) Scapular Fracture 
+ 
+e) Sternoclavicular Dislocation/Fracture 
+ 
+10) Shoulder Instability 
+ 
+Each diagnosis is presented in the following format: 
+ 
+• History and Mechanism of Injury; 
+• Discussion of relevant physical findings; 
+• Laboratory tests; 
+• Testing procedures; 
+• Diagnosis-based, non-operative therapeutic treatment procedures; 
+• Options for operative/surgical treatment; and 
+• Options for post-operative rehabilitation/treatment procedures. 
+If a non-operative treatment approach is initially recommended, surgery 
+may be indicated after the failure of conservative management. The 
+patient must continue to exhibit the designated objective findings, 
+subjective symptoms and (where applicable) imaging findings. 
+ 
+B.3 Therapeutic Procedures:  Non-Operative (including medications)  
+ 
+Therapeutic Procedures: Non-Operative provides information common to all 
+injuries through detailed discussions of referenced medications and 
+therapeutic procedures with indications for expected time to produce effect, 
+frequency, and optimum and maximum durations. 
+ 
+
+[page 15]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   15   
+ 
+ 
+As shoulder injuries frequently involve a complex of problems, it is 
+always necessary to consider the possible interaction of the various 
+parts of the shoulder mechanism when proceeding with a diagnostic 
+workup and a therapeutic treatment plan. 
+ 
+C. History Taking and Physical Examination  
+ 
+There are two standard procedures that should be utilized when initially diagnosing work-related 
+shoulder instability. These procedures establish the foundation/basis for and dictate all other 
+following stages of diagnostic and therapeutic procedures. When findings of clinical evaluations 
+and those of other diagnostic procedures are not consistent with each other, the objective 
+clinical findings should have preference. The medical records should reasonably document the 
+following: 
+C.1 History Taking 
+History Taking should address at least the following for each shoulder injury 
+diagnosis: 
+    C.1.a Thorough medical history. 
+      
+    C.1.b Occupational relationship. 
+ 
+C.1.c History of non-occupational injury and avocational pursuits need to 
+be specifically documented. 
+ 
+C.1.d Prior neck, shoulder and/or arm condition(s). 
+ 
+C.1.e A review of systems should be conducted, the elements of which 
+may include signs or symptoms related to the following systems: 
+constitutional symptoms; eyes; ear, nose, mouth, and throat; 
+cardiovascular; respiratory; gastrointestinal; genitourinary; 
+musculoskeletal; integumentary/breast; neurological; psychiatric; 
+endocrine; hematologic/lymphatic; allergic/immunologic. Based on 
+the underlying condition being addressed, and clinical judgement, 
+the breadth and focus of the review of systems can be tailored on 
+a case by case basis.    
+C.2 Physical Findings 
+   
+ Physical Findings are specific to and addressed within each shoulder injury diagnosis 
+noted in this section. Given the complexity of the shoulder mechanism, an evaluation for 
+concomitant injury should be considered. 
+ 
+C.3 Red Flags 
+Certain findings, “red flags”, raise suspicion of potentially serious medical conditions. 
+
+[page 16]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   16   
+ 
+ 
+Assessment (history and physical examination) should include evaluation for red flags. 
+In the shoulder, these findings or indicators may include fracture; infection or 
+inflammation; subdiaphragmatic problems; and cardiac disease. Further 
+evaluation/consultation or urgent/emergency intervention may be indicated, and the New 
+York Shoulder Injury Medical Treatment Guidelines incorporate changes to clinical 
+management triggered by the presence of “red flags.” 
+C.4 Follow-Up Diagnostic Imaging / Testing 
+As outlined in detail in General Principles section A-13, the selection of diagnostic 
+imaging studies depends on the case-specific clinical presentation, as well as clinical 
+judgment. In addition, there may be instances where repeat or alternate diagnostic 
+imaging may be clinically indicated. Such instances include, but are not necessarily 
+limited to when: a prior test is of poor quality and/or nondiagnostic; the clinical situation 
+changes (e.g., new or worsening symptoms, preparing for surgery or therapeutic 
+injections, etc.); it is necessary to monitor clinical progress (e.g., post-operatively) or 
+deterioration over time.  
+ 
+Prudent choice of procedure(s) or a proper sequential order in multiple procedures will 
+ensure maximum diagnostic accuracy, minimize adverse effect to patients and promote 
+clinical efficiency. Repeat procedures result in an increase in cumulative radiation dose 
+and associated risks. 
+ 
+Diagnostic imaging procedures have varying degrees of sensitivity and specificity for any 
+diagnosis. Clinical history, physical examination and clinical judgment should be the 
+basis for selection and interpretation of imaging studies.   
+ 
+Generally, plain X-rays are a useful starting point, but they are not always sufficient. 
+Magnetic resonance imaging (MRI), arthrography, or computed axial tomography (CT) 
+scanning following arthrography may provide useful information for many shoulder 
+disorders. In certain circumstances as stated above, repeat or alternate imaging may be 
+warranted. Usually, selection of one procedure over others depends upon multiple 
+factors.   
+ 
+D. Specific Diagnoses, Testing and Treatment Procedures  
+D.1 Acromioclavicular (AC Joint Sprains / Dislocations 
+ 
+An acute acromioclavicular (AC) joint injury is frequently referred to as a shoulder 
+separation. 
+ 
+Classification of Injury: The degree of clavicular displacement depends on the severity of 
+injury to the AC and Coracoclavicular (CC) ligaments, the AC joint capsule, and the 
+supporting muscles of the shoulder (trapezius and deltoid) that attach to the clavicle. 
+ 
+The traditional Allman and Tossy classification is a 3-grade classification scheme. 
+Rockwood expanded that classification to six types of injury. The Rockwood Type I injury 
+
+[page 17]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   17   
+ 
+ 
+corresponds to the original Allman/Tossy Grade I; Rockwood Type II to the original 
+Allman/Tossy Grade II and Rockwood Types III-VI are in the original Grade III 
+Allman/Tossy category. 
+ 
+The Allman/Tossy classification and the corresponding Rockwood classification are 
+illustrated in Table 1. 
+ 
+Table 1: Allman/Tossy and Rockwood Classification Systems 
+ 
+ 
+Allman 
+ 
+Rockwood 
+Grade I: Type I: Partial disruption of the AC ligament and capsule.  
+Grade II: 
+Type II: Sprains consisting of a ruptured AC ligament and capsule with 
+incomplete injury to the coracoclavicular (CC) ligament, resulting in minimal AC 
+Joint subluxation.  
+Grade III: 
+Type III: Separation or complete tearing of the AC ligament and/or CC  
+ligaments, possible deltoid  trapezius fascial injury, and dislocation of the 
+AC Joint. 
+ OR 
+ Type IV: Dislocation consisting of a displaced  clavicle that penetrates 
+posteriorly through or into the trapezius muscle.  
+ OR 
+ Type V: Dislocation consisting of complete separation of the AC and 
+CC ligaments and  dislocation of the AC joint with a large CC interval. 
+ OR 
+ Type VI: Dislocation consisting of a displaced clavicle that 
+penetrates inferior to the  coracoid.  
+ 
+Types I-III are common, while Types IV-VI are not and, when found, require 
+surgical consultation. For AC joint degeneration from repetitive motion that is 
+found to be work-related, see Impingement Syndrome. 
+ 
+D.1.a History and Mechanism of Injury    
+ 
+D.1.a.i Mechanism of Injury (AC Joint Sprains/Dislocations): generally, 
+patients sustain an AC joint injury when they land on the point of the 
+shoulder, driving the acromion downward, or fall on an outstretched 
+hand or elbow, creating a backward and outward force on the 
+shoulder. It is important to rule out other sources of shoulder pain from 
+an acute injury, including rotator cuff tear, fracture and nerve injury. 
+
+[page 18]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   18   
+ 
+ 
+ 
+  D.1.b Physical Findings    
+ 
+Physical Findings may include: 
+ 
+D.1.b.i Tenderness at the AC joint, at times with contusions and/or abrasions 
+at the joint area; prominence/asymmetry of the shoulder can be seen; 
+and/or 
+ 
+D.1.b.ii decreased shoulder motion, and tenderness of the distal end of the 
+clavicle on palpation; there may be increased clavicular translation; 
+cross-body adduction can cause exquisite pain. 
+ 
+D.1.b.iii Positive piano sign produced with downward traction on the extended 
+limb with one finger on the acromion, and the other fingertip on the 
+clavicle. A positive sign is present when the acromion displaces 
+distally and the clavicle depresses, “like depressing a piano key.”  
+ 
+  D.1.c Laboratory Tests   
+ 
+   Are generally not indicated 
+ 
+Recommended – in select patients where a systemic illness or disease is 
+suspected. 
+ 
+  D.1.d Testing Procedures   
+ 
+X-ray 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Plain x-rays may include: 
+ 
+D.1.d.i AP view; 
+ 
+D.1.d.ii AP radiograph of the shoulder with the beam angled 10 degree 
+cephalad (Zanca view); 
+ 
+D.1.d.iii Axillary lateral views; and 
+ 
+D.1.d.iv Stress view; side-to-side comparison with 10-15 lbs. of weight in each 
+hand. 
+ 
+D.1.e Non-Operative Treatment Procedures 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Non-Operative Treatment Procedures may include: 
+
+[page 19]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   19   
+ 
+ 
+D.1.e.i Procedures such as patient -directed thermal treatment and 
+immobilization (up to six weeks for Type I -III AC  joint separations). 
+Immobilization treatments for Type III injuries are controversial. 
+ 
+D.1.e.ii Medication, such as nonsteroidal anti-inflammatories and analgesics, 
+are indicated; narcotics are not normally indicated. 
+ 
+D.1.e.ii.a Subacromial Space Injection with Steroids 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications:  May be therapeutic if the patient responded 
+positively to a diagnostic injection of an anesthetic. Steroid 
+injections directly into the tendons are not recommended. 
+ 
+Frequency: Usually one or two injections are adequate.  A 
+minimum of three weeks interval between injections is 
+recommended. Time to produce effect: Immediate with 
+local anesthetic, or within three days with corticosteroids. 
+Maximum duration: Limited to no more than three 
+injections annually to the same site. 
+ 
+D.1.e.iii Manipulation may be indicated in a Type II sprain. 
+ 
+D.1.e.iv Physical medicine interventions should emphasize a 
+progressive increase in range of motion without 
+exacerbation of the AC joint injury. With increasing 
+motion and pain control, a strengthening program 
+should be instituted and a return to modified/limited duty 
+would be considered at this time. By eight to 11 weeks, 
+with restoration of full or near-full motion, return to full 
+duty should be anticipated. 
+ 
+D.1.f Operative Procedures  
+ 
+D.1.f.i With a Type III AC joint injury, an appropriate orthopedic 
+consultation could be considered initially, but should be 
+considered when conservative care fails to increase 
+function. 
+ 
+D.1.f.ii With a Type IV-VI AC joint injury, an orthopedic 
+surgical consultation is recommended. 
+ 
+D.1.g Post-Operative Procedures 
+ 
+These should be coordinated by the orthopedic and the primary 
+care physician working with the interdisciplinary team. Keeping with 
+the therapeutic and rehabilitation procedures found in this Shoulder 
+
+[page 20]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   20   
+ 
+ 
+Guideline, the patient could be immobilized for two to three weeks, 
+restricted in activities, both work-related and avocational, for six to 
+eight weeks while undergoing rehabilitation, and be expected to 
+progress to return to full duty based upon his/her response to 
+rehabilitation and the demands of the job. 
+D.2 Adhesive Capsulitis / Frozen Shoulder Disorder 
+Adhesive capsulitis of the shoulder, also known as frozen shoulder disorder, 
+is a soft tissue lesion of the shoulder that affects the glenohumeral and 
+scapulothoracic joints resulting in restrictions of passive and active range of 
+motion. Occupational adhesive capsulitis arises secondarily to any chest or 
+upper extremity trauma. It may also occur following stroke, traumatic brain 
+injury or spinal cord injury among other etiologies. Primary adhesive 
+capsulitis is rarely occupational in origin. The disorder goes through stages, 
+specifically: 
+ 
+Stage 1: Consists of acute pain with some limitation in range of motion; 
+generally lasting two to nine months. Loss of expected 2:1 degrees of 
+glenohumeral to scapulothoracic motion.  
+ 
+Stage 2: Characterized by progressive stiffness, loss of range of motion, and 
+muscular atrophy; it may last an additional four to 12 months beyond Stage 
+1. 
+ 
+Stage 3: Characterized by partial or complete resolution of symptoms and 
+restoration of range of motion and strength; it usually takes an additional six 
+to nine months beyond Stage 2. 
+ 
+  D.2.a History and Mechanism of Injury 
+ 
+D.2.a.i Mechanism of Injury: There often is some history of 
+prior injury to the shoulder, shoulder tendon, ligament 
+labrum or other structure. Often adhesive capsulitis is 
+seen with impingement syndrome or other shoulder 
+disorders; refer to appropriate subsection of this 
+Guideline. 
+ 
+D.2.a.ii Patient will usually complain of pain in the sub-deltoid 
+region, but occasionally over the long head of the biceps 
+or radiating down the lateral aspect of the arm to the 
+forearm. Pain is often worse at night with difficulty 
+sleeping on the involved side. Motion is restricted and 
+painful. 
+ 
+D.2.b Physical Findings 
+ 
+Restricted active and passive glenohumeral and scapulothoracic 
+
+[page 21]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   21   
+ 
+ 
+range of motion are the primary physical finding. It may be useful for 
+the examiner to inject the glenohumeral joint with lidocaine and then 
+repeat range of motion to rule out other shoulder pathology; failure 
+to demonstrate an increase in the range of motion confirms the 
+diagnosis. Postural changes and secondary trigger points along with 
+atrophy of the deltoid and supraspinatus muscles may be seen. 
+ 
+D.2.c Laboratory Tests 
+ 
+Are generally not indicated 
+ 
+Recommended - in select patients where a systemic illness 
+or disease is suspected. 
+ 
+D.2.d Testing Procedures X-Ray 
+ 
+D.2.d.i X-Ray or MRI  
+ 
+ Plain x-rays are generally not helpful, and MRI is 
+generally not clinically indicated.  
+ 
+ Recommended - in select patients as clinically indicated to rule out 
+concomitant pathology, either in acute injury, or with injuries that have 
+not responded/progressed with nonoperative treatment, when there is 
+at least a moderately high index of suspicion of another underlying 
+pathology. 
+ 
+D.2.d.ii Arthrography  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+ Indications: May be helpful in ruling out other pathology when other 
+pathology is suspected or establishing the identification and diagnosis 
+of a contracted joint capsule. Arthrography can also be therapeutic as 
+steroids and/or anesthetics may be injected and a brisement or 
+distension arthrogram can be done at the same time (refer to the next 
+subsection on non-operative treatment procedures for further 
+discussion). 
+ 
+D.2.e Non-Operative Treatment Procedures 
+ 
+Non-Operative Treatment Procedures address the goal to restore and maintain 
+function and may include: 
+ 
+D.2.e.i Physical medicine interventions are the mainstay of treatment  
+and may include thermal treatment, ultrasound, TENS, 
+manual therapy, and passive and active range-of-motion 
+exercises; as the patient progresses, strengthening 
+
+[page 22]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   22   
+ 
+ 
+exercises should be included in the exercise regimen. 
+ 
+D.2.e.ii Medications, such as NSAIDs and analgesics, may be 
+helpful; narcotics are indicated only for post-
+manipulation or post- operative cases. 
+ 
+D.2.e.iii Subacromial or Intra-articular space injection with 
+steroids  
+ 
+Recommended: in select patients as clinically indicated. 
+ 
+Indications: Occasionally, subacromial bursa and/or 
+glenohumeral and/or intra-articular space steroid 
+injections can decrease inflammation and allow the 
+therapist to increase functional exercise and range of 
+motion. Subacromial space injection with steroids may be 
+useful if the patient responded positively to a diagnostic 
+injection of an anesthetic. Steroid injections directly into 
+the tendons are not recommended. 
+ 
+Frequency: Usually one or two injections are adequate.  A 
+minimum of three weeks interval between injections is 
+recommended. Time to produce effect: Immediate with 
+local anesthetic, or within three days with corticosteroids. 
+Maximum duration: Limited to no more than three 
+injections annually to the same site. 
+ 
+D.2.e.iv Distension Arthrography or "Brisement" 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: In cases that are refractory to conservative therapy lasting 
+at least three to six months and where range of motion remains 
+significantly restricted (abduction less than 90), distension 
+arthrography or "brisement" in which saline, an anesthetic and usually 
+a steroid are forcefully injected into the shoulder joint causing 
+disruption of the capsule may be considered.  
+ 
+Early and aggressive physical medicine to maintain range of motion 
+and restore strength and function should follow distension arthrography 
+or manipulation under anesthesia (MUA); return to work with 
+restrictions should be expected within one week of the procedure; 
+return to full duty is expected within four to six weeks. 
+ 
+D.2.e.v  Manipulation 
+ 
+Manipulative treatment (not therapy) is defined as the therapeutic 
+application of manually guided forces by a physician to improve 
+
+[page 23]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   23   
+ 
+ 
+physiologic function and support homeostasis that has been altered by 
+the injury or occupational disease and has associated clinical 
+significance. 
+ 
+Recommended: in select patients as clinically indicated. 
+ 
+Frequency: Up to two to three times a week for eight to 12 weeks, as 
+indicated by the severity of involvement and the desired effect, then up 
+to 2 treatments per week for the next four weeks.  
+ 
+ Optimum duration: Eight to 12 weeks. 
+ Maximum duration: Three months. Extended durations of care beyond 
+what is considered “maximum” may be necessary in cases of 
+intractable adhesions, or when resumed after intra- articular injection, 
+arthrogram or manipulation under anesthesia (performed by a qualified 
+surgeon). 
+ 
+ Time to produce effect: for shoulder treatment: one to six treatments. 
+ 
+D.2.f Operative Procedures 
+ 
+D.2.f.i Manipulation Under General Anesthesia (MUA) 
+ 
+    Recommended - in select patients as clinically indicated. 
+ 
+Indications: For cases failing conservative therapy of at least 3-6 months 
+duration and which are significantly limited in range of motion (abduction 
+less than 90).  
+ 
+Manipulation Under General Anesthesia (MUA) may be indicated in cases 
+of intractable restriction and may be performed by a duly qualified 
+physician and surgeon. It may be done in combination with steroid 
+injection or distension arthrography.   
+ 
+ 
+D.2.g Post-Operative Procedures 
+Post-Operative Procedures would include an individualized 
+rehabilitation program based upon communication among the 
+physician, the surgeon and the therapist. 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Note: Early and aggressive physical medicine interventions are 
+recommended to maintain range of motion and progress 
+strengthening; return to work with restrictions after surgery should 
+be discussed with the treating provider. The patient should be 
+approaching MMI within 8-12 weeks post- operative; however, 
+
+[page 24]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   24   
+ 
+ 
+coexistence of other pathology should be taken into consideration. 
+ 
+D.3 Bicipital Tendon Disorders 
+Bicipital tendon disorders may include 1) primary bicipital tendonitis, which 
+is exceedingly rare; 2) secondary bicipital tendinitis which is generally 
+associated with rotator cuff tendinitis or impingement syndrome (refer to the 
+appropriate diagnosis subsections); 3) subluxation of the biceps tendon 
+which occurs with dysfunction of the transverse intertubercular ligament and 
+massive rotator cuff tears; and 4) acute disruption of the tendon, which can 
+result from an acute distractive force or transection of the tendon from direct 
+trauma. Evaluation of the elbow may be required when evaluating bicipital 
+tendon injury. 
+D.3.a History and Mechanism of Injury 
+ 
+D.3.a.i Mechanism of Injury: Bicipital tendon disorders may 
+include symptoms of pain and/or achiness that occur 
+after repetitive use of the shoulder and/or blunt trauma 
+to the shoulder. Secondary bicipital tendinitis may be 
+associated with prolonged above-the-shoulder 
+activities, and/or repeated shoulder flexion, external 
+rotation and abduction. Acute trauma to the biceps 
+tendon of the shoulder girdle may also give rise to injury 
+of the biceps tendon. 
+ 
+D.3.a.ii Disorders of the biceps tendon may accompany 
+scapulothoracic dyskinesis, rotator cuff injury, AC joint 
+separation, subdeltoid bursitis, shoulder instability or 
+other shoulder pathology. Symptoms may be 
+exacerbated or provoked by work that activates the 
+biceps muscle. Symptoms may be exacerbated by other 
+activities that are not necessarily work-related. 
+D.3.a.iii Symptoms may include aching, burning and/or stabbing 
+pain in the shoulder, usually involving the anterior medial 
+portion of the shoulder girdle. The symptoms are 
+exacerbated with above-the-shoulder activities and those 
+specifically engaging the biceps (flexion at the shoulder, 
+flexion at the elbow and supination of the forearm). Relief 
+occurs with rest. Patients may report nocturnal symptoms 
+which interfere with sleep during the acute stages of 
+inflammation; pain and weakness in the shoulder during 
+activities; repeated snapping phenomenon with a 
+subluxing tendon; immediate sharp pain and tenderness 
+along the course of the long head of the biceps following 
+a sudden trauma which would raise suspicions of acute 
+
+[page 25]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   25   
+ 
+ 
+disruption of the tendon; and/or with predominant pain at 
+the shoulder, accompanied by referral patterns which 
+may extend pain into the cervical or distal structures, 
+including the arm, elbow, forearm and wrist. 
+D.3.b Physical Findings 
+  
+Physical Findings may include: 
+ 
+D.3.b.i If continuity of the tendon has been lost (biceps tendon 
+rupture), inspection of the shoulder would reveal 
+deformity (biceps bunching); 
+ 
+D.3.b.ii Palpation demonstrates tenderness along the course 
+of the bicipital tendon; 
+ 
+D.3.b.iii Pain at end range of flexion and abduction as well as 
+biceps tendon activation; and/or 
+ 
+D.3.b.iv Provocative testing may include: 
+ 
+• Yegerson's sign - pain with resisted supination of forearm; 
+ 
+• Speed's Test - pain with resisted flexion of the shoulder (elbow 
+extended and forearm supinated); or 
+ 
+• Ludington's Test - pain with contraction of the biceps (hands are 
+placed behind the head placing the shoulders in abduction and 
+external rotation). 
+D.3.c Laboratory Tests 
+ 
+Are generally not indicated 
+ 
+Recommended - in select patients where a systemic illness or disease is 
+suspected. 
+ 
+D.3.d Diagnostic Testing Procedures 
+D.3.d.i X-Ray  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+ Plain x-rays include: 
+ 
+• Anterior/Posterior (AP) view visualizes elevation of 
+the humeral head, indicative of absence of the 
+rotator cuff due to a tear; 
+
+[page 26]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   26   
+ 
+ 
+ 
+• Lateral view in the plane of the scapula or an 
+axillary view determines if there is anterior or 
+posterior dislocation or the presence of a defect in 
+the humeral head (a Hill-Sachs lesion); 
+ 
+• 30 degrees caudally angulated AP view 
+determines if there is a spur on the anterior/inferior 
+surface of the acromion and/or the far end of the 
+clavicle; and 
+ 
+• Outlet view determines if there is a 
+downwardly tipped acromion. 
+ 
+   D.3.d.ii Sonography, MRI or arthrography (Adjunctive testing)  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: should be considered when shoulder pain is 
+refractory to four to six weeks of non-operative 
+conservative treatment and the diagnosis is not readily 
+identified by standard radiographic techniques. 
+D.3.e Non-Operative Treatment Procedures 
+ 
+Recommended - as clinically indicated. 
+ 
+D.3.e.i Benefit may be achieved through rest followed by 
+procedures such as thermal therapy, immobilization, 
+alteration of occupation and/or workstation and manual 
+therapy. 
+ 
+D.3.e.ii Medications, such as nonsteroidal anti-inflammatories 
+and analgesics, are indicated; narcotics are not normally 
+indicated. 
+ 
+D.3.e.iii Physical medicine and rehabilitation interventions 
+should emphasize a progressive increase in range of 
+motion. With increasing motion and pain control, a 
+strengthening program should be instituted and return to 
+modified/limited duty would be considered at this time. 
+By 8-11 weeks, with restoration of full motion, return to 
+full duty should be anticipated. 
+ 
+D.3.e.iv Soft tissue injections (biceps tendon insertion) 
+with steroids  
+ 
+Indications: May be therapeutic if the patient 
+
+[page 27]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   27   
+ 
+ 
+responded positively to a diagnostic injection of an 
+anesthetic. Steroid injections directly into the tendons 
+are not recommended. 
+ 
+Frequency: Usually one or two injections are 
+adequate.  A minimum of three weeks interval 
+between injections is recommended. Time to produce 
+effect: Immediate with local anesthetic, or within three 
+days with corticosteroids Maximum duration: Limited 
+to no more than three injections annually to the same 
+site. 
+D.3.f Operative Procedures - e.g., Arthroscopic biceps tenodesis or 
+tenotomy for subluxing and/or inflammatory/tearing biceps 
+tendon, or subluxing biceps tendon with partial or complete 
+subscapularis tearing. 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+D.3.f.i Bicipital Tendinitis:  
+ 
+ Indications: Conservative care prior to potential surgery 
+must address flexibility and strength imbalances. 
+Surgical remedies would be considered after 12 weeks of 
+appropriate conservative care has failed. Since 
+impingement of the biceps tendon could cause continued 
+irritation, an acromioplasty may be necessary, especially 
+when the presence of an obstructing osteophyte is 
+demonstrated on plain x-rays. 
+ 
+D.3.f.ii Subluxing Bicipital Tendon:  
+ 
+Indications: The decision to surgically stabilize the bicipital 
+tendon is not commonly indicated. In the vast majority of 
+cases, optimal outcome is achieved through successful 
+rehabilitation procedures, and appropriate non- surgical 
+measures should be maximized prior to surgical 
+intervention. 
+ 
+D.3.f.iii Acute Disruption of the Bicipital Tendon:  
+ 
+ Indications: Surgery has been shown to be more 
+effective than conservative care in the treatment of 
+full thickness ruptures of the distal biceps tendon. 
+D.3.g Post-Operative Procedure 
+ 
+Post-Operative Procedures (Bicipital Tendon Disorders) would 
+include an individualized rehabilitation program based upon 
+
+[page 28]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   28   
+ 
+ 
+communication among the physician, the surgeon and the therapist. 
+Rehabilitation, lasting 6-12 weeks, is necessary to facilitate 
+maximum medical improvement (MMI). 
+ 
+D.4 Brachial Plexus Injuries 
+Brachial plexus injuries to the nerves and shoulder girdle region result in 
+loss of motor and sensory function, pain and instability of the shoulder. 
+Signs and symptoms vary with the mechanism of injury and the nature and 
+extent of the neurological involvement. The two modes of injury are: 1) 
+acute direct trauma, and 2) repetitive motion or overuse. Transient 
+compression, stretch or traction (neuropraxia) causes sensory and motor 
+signs lasting days to weeks. Damage to the axon (axonotmesis) without 
+disruption of the nerve framework may cause similar symptoms. The 
+recovery time is delayed and depends upon axon regrowth distally from the 
+site of injury. Laceration or disruption of the entire nerve with complete loss 
+of framework (axonotmesis) is the most severe form of nerve injury. Return 
+of function is dependent upon regrowth of the nerve distal to the injury site, 
+but total disruption of the axon sheath may mitigate against recovery. 
+ 
+Electrodiagnostic studies (EDX) are the most commonly used diagnostic 
+modality to analyze nerve injuries. These studies should be utilized when 
+necessary as an extension of the history and clinical examination. 
+ 
+Slowing of motor nerve conduction velocities due to demyelinization can be 
+localized to identify regions of entrapment and injury. Denervation 
+demonstrated on the electromyographic portion is indicative of motor 
+axonal or anterior horn cell loss. Studies should be performed three to four 
+weeks following injury or description of symptoms. If the symptoms have 
+been present for longer than three to four weeks, studies may be 
+performed immediately after the initial evaluation (initial as defined as the 
+first encounter with the physician, not the date of injury). Serial studies may 
+be indicated if initial studies are negative and may also be useful for 
+gauging prognosis. Limb temperature influences nerve conduction 
+velocities. In cases when significant slowed conduction is recorded, the 
+standard of the American Association of Neuromuscular and 
+Electrodiagnostic Medicine (AANEM) including temperatures should be 
+followed. It is recommended and preferred that EDX in the outpatient 
+setting be performed and interpreted by physicians board certified in 
+neurology or physical medicine and Rehabilitation. 
+ 
+There are six relatively common nerve injuries to the shoulder girdle. Each 
+type will be addressed separately. 
+  
+D.4.a Brachial Plexus 
+ 
+Brachial Plexus is formed by the nerve roots of C5-C8 and T1; these nerve roots 
+
+[page 29]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   29   
+ 
+ 
+exit the cervical spine and pass through the scalene musculature; after leaving 
+the scalene musculature, at the level of the clavicle, they form trunks, divisions 
+and chords which ultimately form the peripheral nerves of the arm. 
+ 
+D.4.a.i History and Mechanism of Injury  
+ 
+Direct injury to brachial plexus results in widespread sensory and 
+motor loss. Direct trauma, subluxation of the shoulder, clavicular 
+fractures, shoulder depression, and head deviation away from the arm 
+may result in variable brachial plexus lesions. It is important to 
+differentiate injuries to the brachial plexus from the acquired (non-
+work-related) syndrome of brachial plexus neuritis, Parsonage-Turner 
+Syndrome. 
+ 
+D.4.a.ii Physical Findings may include:  
+ 
+D.4.a.ii.a Inspection for evidence of trauma or deformity; 
+D.4.a.ii.b Identification of sensory loss and demonstration of 
+weakness which relates to the severity and anatomy of the 
+injury to the brachial plexus; and/or 
+ 
+D.4.a.ii.c Pain with recreation of the motions during the mechanism 
+of injury 
+ 
+D.4.a.iii Laboratory Tests  
+ 
+Are generally not indicated 
+ 
+Recommended - in select patients where a systemic illness or disease 
+is suspected. 
+ 
+D.4.a.iv Testing Procedures 
+ 
+Testing Procedures may include electrodiagnostic studies (EDX). If they 
+do not localize and give sufficient information, then additional 
+information may be obtained from MRI and/or myelography. 
+ 
+These studies are employed to differentiate root avulsion from severe 
+brachial plexus injuries. Evaluation of brachial plexus may include an 
+apical lordotic chest x-ray. 
+ 
+D.4.a.v Non-Operative Treatment Procedures (Brachial Plexus): 
+ 
+D.4.a.v.a In closed injuries, observation is favored; repeat 
+electrodiagnostic studies may be helpful to follow recovery. 
+A sling may be indicated in moderate to severe 
+presentations. 
+
+[page 30]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   30   
+ 
+ 
+ 
+D.4.aiv.b Rehabilitation utilizing procedures set forth in 
+Section E, Therapeutic Procedures: Non-
+Operative. 
+ 
+D.4.a.v.c Medications, such as analgesics, nonsteroidal anti-
+inflammatories, antidepressants and anticonvulsants (e.g., 
+gabepentin) may be indicated; steroids may be prescribed 
+to help diminish the inflammatory response.  Narcotics 
+may be indicated acutely and should be prescribed as 
+indicated for limited periods. 
+ 
+D.4.a.vi Operative Procedures (Brachial Plexus): For open injuries, exploration 
+may be worthwhile if there is poor progression of recovery from a 
+conservative approach; for closed injuries, if progressive weakness 
+and loss of function is documented after 4-6 months of conservative 
+care, then exploration is also warranted. 
+ 
+D.4.a.vii Post-Operative Procedures (Brachial Plexus) would 
+include an individualized rehabilitation program based 
+upon communication among the physician, surgeon and 
+therapist. 
+This program would begin with 4-6 weeks of rest 
+followed by progressive increase in motion and strength. 
+  
+D.4.b Axillary Nerve 
+ 
+Axillary Nerve is derived from the 5th and 6th cervical roots. It 
+passes around the shoulder and supplies motor branches to the 
+teres minor and the three heads of the deltoid; it gives sensation to 
+the lateral aspect of the proximal arm at the level of the deltoid. 
+ 
+D.4.b.i History and Mechanism of Injury 
+ 
+Mechanism of Injury: direct injury and penetrating 
+wounds to the shoulder and upward pressure on the 
+axilla can cause injury to the axillary nerve; nerve injuries 
+can also be seen with fractures of the surgical neck of the 
+humerus and dislocation of the shoulder. Finally, axillary 
+nerve injury can be seen with shoulder surgery in and of 
+itself. 
+ 
+D.4.b.ii Physical Findings  
+ 
+D.4.b.ii.a Weakness and atrophy of the deltoid muscle; 
+ 
+D.4.b.ii.b Strength is lost in abduction, flexion and 
+
+[page 31]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   31   
+ 
+ 
+extension of the shoulder; and/or 
+ 
+D.4.b.ii.c Sensory loss can be seen over the upper 
+arm. 
+ 
+D.4.b.iii Laboratory Tests 
+ 
+ Are generally not indicated 
+ 
+Recommended - in select patients where a systemic illness or disease 
+is suspected. 
+ 
+D.4.b.iv Testing Procedures 
+ 
+ Electrodiagnostic Studies 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: for patients with persistent symptoms. 
+ 
+D.4.b.v Non-Operative Treatment Procedures 
+ 
+D.4.b.v.a Rehabilitation utilizing procedures set forth in Section E, 
+Therapeutic Procedures: Non-Operative. 
+ 
+D.4.b.v.b Medications such as analgesics, nonsteroidal anti-
+inflammatories, antidepressants and anticonvulsants may 
+be indicated and narcotics may on rare occasions be 
+indicated acutely. 
+ 
+D.4.b.vi Operative Procedures 
+ 
+ Operative Procedures are usually not necessary, since most injuries to 
+the axillary nerve are due to stretch and/or traction.  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Surgery may be considered after four to six months with 
+electrodiagnostic studies documenting ongoing enervation and loss of 
+function. 
+ 
+D.4.b.vii Post-Operative Procedures  
+ 
+Post-Operative Procedures would include an individualized 
+rehabilitation program based upon communication among the 
+physician, the surgeon and the therapist. This program would begin 
+with four to six weeks of rest followed by progressive increase in 
+motion and strength. 
+
+[page 32]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   32   
+ 
+ 
+ 
+D.4.c Long Thoracic Nerve 
+ 
+Long Thoracic Nerve is formed by the cervical fifth, sixth, and 
+seventh roots; it crosses the border of the first rib and descends 
+along the posterior surface of the thoracic wall to the stratus anterior. 
+ 
+D.4.c.i History and Mechanism of Injury  
+ 
+ Injury can occur by direct trauma to the posterior triangle of the neck or 
+trauma may be the result of chronically repeated or forceful shoulder 
+depression. Repeated forward motion of the arms as well as stretch or 
+compression of the nerve with the arms abducted can lead to long 
+thoracic nerve dysfunction. 
+ 
+D.4.c.ii Physical Findings (Long Thoracic Nerve) may include: 
+ 
+D.4.c.ii.a Dull ache in the region of the shoulder without sensory 
+loss; 
+ 
+D.4.c.ii.b Scapular deformity and/or winging may be described by 
+patient or family; and/or 
+ 
+D.4.c.ii.c Serratus Anterior (scapular winging) may be demonstrated 
+by asking the patient to flex and lean on the patient’s arms, 
+such as against a wall and/or the examiner resisting 
+protraction. 
+ 
+D.4.c.iii Laboratory Tests  
+ 
+Are generally not indicated 
+ 
+Recommended - in select patients where a systemic illness or disease 
+is suspected. 
+ 
+D.4.c.iv Testing Procedures 
+ 
+Electrodiagnostic Studies  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: When signs or symptoms persist, electrodiagnostic 
+studies are used to define the anatomy and severity of the injury; 
+side-to-side comparisons of the nerve can be helpful to confirm the 
+diagnosis. 
+ 
+Studies may also exclude more widespread brachial plexus 
+involvement. 
+
+[page 33]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   33   
+ 
+ 
+ 
+D.4.c.v Non-Operative Procedures 
+ 
+D.4.c.v.a Rehabilitation utilizing procedures set forth in 
+Section E, Therapeutic Procedures: Non-
+Operative. 
+ 
+D.4.c.v.b Medications, such as analgesics, nonsteroidal anti-
+inflammatories, antidepressants and anticonvulsants may 
+be indicated, and narcotics, on rare occasions, may be 
+indicated acutely. 
+ 
+D.4.c.vi Operative Procedures 
+ 
+Recommended - in very select patients as clinically indicated. 
+ 
+Indications: Operative Procedures such as scapular fixation may be 
+recommended, but only in the most severe cases where there is 
+documented significant loss of function. 
+ 
+D.4.c.vii Post-Operative Procedures 
+ 
+Post-Operative Procedures would include an individualized 
+rehabilitation program based upon communication among the 
+physician, the surgeon and the therapist. This program would begin 
+with eight to ten weeks of rest followed by progressive increase in 
+motion and strength. 
+ 
+D.4.d Musculocutaneous Nerve 
+ 
+Musculocutaneous Nerve is derived from the fifth and sixth 
+cervical roots; it innervates the coracobrachialis, biceps and 
+brachialis muscles and also provides sensation to the lateral 
+aspect of the forearm. Trauma (including surgery) or penetrating 
+wound to the brachial plexus, coracobrachialis, and shoulder often 
+can cause nerve injury. 
+ 
+D.4.d.i History and Mechanism of Injury  
+  
+D.4.d.i.a Mechanism of Injury: most commonly a stretch/traction 
+injury due to forceful extension of the elbow inducing nerve 
+dysfunction; trauma can be seen to the sensory 
+component (lateral antebrachial cutaneous nerve) which 
+delineates loss of sensation to the forearm. 
+ 
+D.4.d.ii Physical Findings 
+ 
+D.4.d.ii.a Pain in the arm; 
+
+[page 34]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   34   
+ 
+ 
+ 
+D.4.d.ii.b Weakness and atrophy in the biceps and brachialis; and/or 
+ 
+D.4.d.ii.c Sensory loss over the lateral aspect of the forearm; 
+however, this is not always seen. 
+ 
+D.4.d.ii.d Attenuation or loss of the biceps deep tendon reflex. 
+ 
+D.4.d.iii Laboratory Tests 
+ 
+ Are generally not indicated 
+ 
+ Recommended - in select patients where a systemic illness or 
+disease is suspected. 
+ 
+D.4.d.iv Testing Procedures 
+ 
+ Electrodiagnostic Studies 
+ 
+Recommended- in select patients as clinically indicated. 
+ 
+Indications: Testing Procedures include electrodiagnostic 
+studies when signs or symptoms persist; side-to-side 
+comparisons of the motor and sensory components of 
+the nerve may be useful since standard norms are not 
+always reliable. 
+ 
+D.4.d.v Non-Operative Treatment Procedures 
+ 
+ 
+D.4.d.v.a Rehabilitation utilizing procedures set forth in Section E, 
+Therapeutic Procedures: Non-Operative. 
+ 
+D.4.d.v.b Medications, such as analgesics, nonsteroidal anti-
+inflammatories, antidepressants and anticonvulsants, may 
+be indicated. Narcotics, on rare occasions, may be 
+indicated. 
+ 
+D.4.d.vi Operative Procedures 
+ 
+ Recommended - in select patients as clinically indicated. 
+ 
+Indications: Operative Procedures are usually not 
+necessary unless there has been increasing loss of 
+function over four to six months and/or a laceration to 
+the nerve has been identified. 
+ 
+ 
+
+[page 35]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   35   
+ 
+ 
+D.4.d.vii Physical Findings 
+ 
+ Post-Operative Procedures would include an individualized 
+rehabilitation program based upon communication among the 
+physician, the surgeon and the therapist. This program would begin 
+with eight to ten weeks of rest followed by progressive increase in 
+motion and strength. 
+ 
+D.4.e Spinal Accessory Nerve 
+ 
+ Spinal Accessory Nerve is the eleventh cranial nerve; the nerve innervates the 
+ipsilateral sternocleidomastoid and trapezius muscles which are extremely 
+important for scapular control and ultimately shoulder function. 
+ 
+D.4.e.i History and Mechanism of Injury (Spinal Accessory Nerve): 
+ 
+D.4.e.i.a Mechanism of Injury: direct trauma to the posterior neck, 
+forceful compression of the shoulder downward and/or 
+deviation of the head away from the traumatized shoulder 
+can lead to injury to this nerve; surgical procedures in the 
+posterior neck can disrupt the nerve. 
+ 
+D.4.e.ii Physical Findings may include: 
+ 
+ D.4.e.ii.a Pain in the shoulder; 
+ 
+D.4.e.ii.b Weakness or paralysis of the trapezius which is seen as 
+winging with the arms out to the side (abduction); and/or 
+ 
+D.4.e.ii.c Drooping of the shoulder. 
+ 
+D.4.e.iii Laboratory Tests 
+ 
+ Are generally not indicated 
+ 
+ Recommended - in select patients where a systemic illness or disease 
+is suspected. 
+ 
+D.4.e.iv Testing Procedures 
+ 
+ Electrodiagnostic Studies  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Testing Procedures include electrodiagnostic studies when 
+signs and symptoms persist. Electrodiagnostic studies are used to 
+define the anatomy and severity of the injury; side-to-side comparisons 
+of the nerve can be helpful to confirm the diagnosis; radiographic 
+
+[page 36]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   36   
+ 
+ 
+procedures may be necessary to exclude lesion at the base of the 
+brain or upper cervical spine. 
+ 
+D.4.e.v Non-Operative Treatment Procedures  
+ 
+D.4.e.v.a Rehabilitation utilizing procedures set forth in 
+Section E, Therapeutic Procedures: Non-
+Operative. 
+  
+D.4.e.v.b Medications, such as analgesics, nonsteroidal anti-
+inflammatories, antidepressants and anticonvulsants, may 
+be indicated and narcotics, on rare occasions, may be 
+indicated acutely. 
+ 
+D.4.e.vi Operative Procedures 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Operative Procedures are usually not necessary unless 
+increased loss of function over four to six months has been documented 
+and/or a laceration to the nerve has been identified. 
+ 
+D.4.e.vii Post-Operative Procedures  
+  
+Post-Operative Procedures would include an individualized 
+rehabilitation program based upon communication among the physician, 
+the surgeon and the therapist. This program would begin with eight to 
+ten weeks of rest followed by progressive increase in motion and 
+strength. 
+ 
+D.4.f Suprascapular Nerve 
+ 
+Suprascapular Nerve is derived from the fifth and sixth cervical root, superior 
+trunk of the brachial plexus, and it innervates the supraspinatus and infraspinatus 
+muscles of the rotator cuff. 
+ 
+D.4.f.i History and Mechanism of Injury 
+ 
+D.4.f.i.a Mechanism of Injury: supraclavicular trauma, stretch, and 
+friction through the suprascapular notch or against the 
+transverse ligament at the notch can cause injury to the 
+nerve; repetitive use of the arm has been shown on 
+occasion to cause traction to the nerve. 
+ 
+D.4.f.ii Physical Findings  
+ 
+ D.4.f.ii.a Pain at the shoulder;  
+ 
+
+[page 37]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   37   
+ 
+ 
+D.4.f.ii.b Wasting at the supraspinatus and/or 
+infraspinatus muscles with weakness; and/or 
+ 
+Tinel's can help to elicit a provocative pain response. 
+ 
+D.4.f.iii Laboratory Tests 
+ 
+Are generally not indicated 
+ 
+Recommended - in select patients where a systemic illness or disease 
+is suspected. 
+ 
+D.4.f.iv Testing Procedures 
+ 
+Electrodiagnostic Studies  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Testing Procedures include electrodiagnostic studies when 
+signs and symptoms persist. Side-to-side comparisons may be useful 
+since standard norms are not always reliable. If one suspects a mass 
+lesion at the suprascapular notch, then an MRI may be indicated. 
+ 
+D.4.f.v Non-Operative Treatment Procedures  
+ 
+D.4.f.v.a Rehabilitation utilizing procedures set forth in Section E, 
+Therapeutic Procedures: Non-Operative.  
+ 
+D.4.f.v.b Medications, such as analgesics, nonsteroidal anti-
+inflammatories, antidepressants and anticonvulsants, may 
+be indicated and narcotics, on rare occasions, may be 
+indicated acutely. 
+ 
+D.4.f.vi Operative Treatment Procedures 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Operative Treatment involving surgical release at the 
+suprascapular notch or spinoglenoid region is warranted depending 
+upon the results of the electrodiagnostic studies and/or absence of 
+improvement with conservative management. 
+ 
+D.4.f.vii Post-Operative Procedures 
+ 
+ Post-Operative Procedures would include an individualized 
+rehabilitation program based upon communication among the 
+physician, the surgeon and the therapist. This program would begin 
+with eight to ten weeks of rest followed by progressive increase in 
+
+[page 38]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   38   
+ 
+ 
+motion and strength. 
+ 
+D.5 Bursitis of the Shoulder 
+Acute or chronic inflammation of the bursa (a potential fluid filled sac) that may be 
+caused by trauma, chronic overuse, inflammatory arthritis, and acute or chronic infection 
+that generally presents with localized pain and tenderness of the shoulder. 
+D.5.a History and Mechanism of Injury 
+ 
+D.5.a.i Mechanism of Injury: onset of symptoms, date, mechanism of onset, 
+and occupational history and current requirements should be 
+correlated with the intensity, character, duration and frequency of 
+associated pain and discomfort. 
+ 
+D.5.a.ii History may include nocturnal pain, pain with over-the- shoulder 
+activities, feeling of shoulder weakness, prior treatment for presenting 
+complaint(s), specific limitations of movement and pertinent familial 
+history. 
+D.5.b Physical Findings 
+ Physical Findings may include: 
+ 
+D.5.b.i Palpation elicits localized tenderness over the particular 
+bursa or inflamed tendon; loss of motion during activity; 
+ 
+D.5.b.ii Painful arc may be seen between 40-120 degrees; and/or 
+D.5.b.iii Bursitis may be associated with other shoulder injury 
+diagnoses such as impingement, rotator cuff 
+instability, tendinitis, etc.; refer to applicable diagnosis 
+subsections for additional guidelines. 
+D.5.c Laboratory Tests 
+ Recommended - in select patients as clinically indicated. 
+ 
+Indications: Laboratory Tests may be used to rule out systemic 
+illness or disease when proper clinical presentation indicates the 
+necessity for such testing.  
+ 
+On rare occasions, when indicated, testing could include 
+sedimentation rate, rheumatoid profile, complete blood count (CBC) 
+with differential and serum uric acid level. Routine screening of other 
+medical disorders may be necessary, as well as bursal aspiration 
+with fluid analysis. 
+
+[page 39]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   39   
+ 
+ 
+D.5.d Testing Procedures 
+ 
+X-Ray 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+   Indications: Plain x-rays may be performed to rule out other shoulder pathology. 
+ 
+D.5.e Non-Operative Treatment Procedures 
+D.5.e.i Benefits may be achieved through non-operative treatment 
+procedures, such as immobilization, therapeutic exercise, alteration of 
+occupation and workstation, thermal therapy, and ultrasound.  
+Exclusive use of passive modalities should be limited to the first two to 
+three weeks during the acute phase of shoulder discomfort and 
+accompanied by active therapies as soon as these are appropriate. 
+D.5.e.ii May return to work without overhead activities and lifting with involved 
+arm until cleared by physician for those and heavier activities. 
+D.5.e.iii Additional modalities/treatment procedures may include physical 
+medicine and rehabilitation including instruction in therapeutic 
+exercise, proper work technique and manual therapy; vocational 
+rehabilitation, vocational assessment and interdisciplinary team 
+approach.  
+Biofeedback  
+Not Recommended 
+D.5.e.iv Medications such as nonsteroidal anti-inflammatories, oral steroids 
+and analgesics may be considered. 
+D.5.e.v Intrabursal Injection with Steroids  
+Recommended 
+ 
+Frequency: Not more than two to three times annually. Usually one or 
+two injections adequate.  A minimum of three weeks interval between 
+injections is recommended. 
+Maximum duration: Limited to three injections annually to the same 
+site. 
+D.5.f Operative Procedures 
+ 
+   Not Recommended - for pure bursitis. 
+
+[page 40]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   40   
+ 
+ 
+ 
+ 
+D.6 Impingement Syndrome 
+A collection of symptoms, not a pathologic diagnosis. The symptoms result from the 
+encroachment of the acromion, coracoacromial ligament, coracoid process, and/or the 
+AC joint on the rotator cuff mechanism that passes beneath them as the shoulder is 
+moved. The cuff mechanism is intimately related to the coracoacromial arch.  Separated 
+only by the thin lubricating surfaces of the bursa, compression and friction can be 
+minimized by several factors, such as: 
+ 
+• Shape of the coracoacromial arch that allows passage of 
+the subjacent rotator cuff; 
+ 
+• Normal undersurface of the AC joint; 
+• Normal bursa; 
+• Normal capsular laxity; and 
+• Coordinated scapulothoracic function. 
+The impingement syndrome may be associated with AC joint arthritis and 
+both partial- and full-thickness rotator cuff tears, as well as adhesive 
+capsulitis/frozen shoulder. Normal function of the rotator cuff mechanism 
+and biceps tendon assist to diminish impingement syndrome. 
+D.6.a History and Mechanism of Injury 
+ 
+D.6.a.i Mechanism of Injury: Established repetitive overuse 
+of the upper extremity; many times this is seen with 
+frequently repeated overhead motion. 
+ 
+D.6.a.ii History may include: 
+ 
+D.6.a.ii.a Delayed presentation: Since the syndrome is usually not 
+an acute problem, patients will access care if their 
+symptoms have not resolved with rest, time and "trying to 
+work it out"; 
+ 
+D.6.a.ii.b Complaints of functional losses due to pain, stiffness, 
+weakness and catching when the arm is flexed and 
+internally rotated; and 
+ 
+D.6.a.ii.c Poor sleep is common and pain is often felt down the 
+lateral aspect of the upper arm near the deltoid insertion or 
+over the anterior proximal humerus. 
+
+[page 41]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   41   
+ 
+ 
+ 
+D.6.b Physical Findings 
+ 
+Physical Findings may include: 
+ 
+D.6.b.i Inspection of the shoulder may reveal deltoid and rotator 
+cuff atrophy; 
+ 
+D.6.b.ii Range of motion is limited, particularly in internal 
+rotation and in cross-body adduction; 
+ 
+D.6.b.iii Passive motion through the 60 to 90 degree arc of 
+flexion may be accompanied by pain and crepitus; this is 
+accentuated as the shoulder is moved in and out of 
+internal rotation; 
+ 
+D.6.b.iv Active elevation of the shoulder is usually more 
+uncomfortable than passive elevation; 
+ 
+D.6.b.v Pain on maximum active forward flexion is frequently 
+seen with impingement syndrome, but is not specific for 
+diagnosis; 
+ 
+D.6.b.vi Strength testing may reveal weakness. This weakness 
+may be the result of pain, disuse, tendon damage, or 
+poor scapulothoracic mechanics; 
+D.6.b.vii Pain on resisted abduction or external rotation may also 
+indicate that the integrity of the rotator cuff tendons may 
+be compromised; and/or weakness of the posterior 
+scapular stabilizers can also be seen as a contributing 
+factor to impingement syndrome by altering the mechanics 
+of the glenohumeral joint. 
+ 
+D.6.c Laboratory Tests 
+ 
+Are generally not indicated 
+ 
+Recommended – in select patients where a systemic illness or disease is 
+suspected. 
+ 
+D.6.d Testing Procedures 
+ 
+D.6.d.i X-Ray 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+ Indications: May demonstrate calcification or bone spurs. 
+
+[page 42]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   42   
+ 
+ 
+ 
+D.6.d.ii Subacromial Space Injection  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications - Can be used as a diagnostic procedure by injecting an anesthetic, 
+such as sensorcaine or xylocaine solutions, into the space. If the pain is 
+alleviated with the injection, the diagnosis is confirmed. 
+ 
+Adjunctive Testing (Sonography, Arthrography or MRI) 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Such as standard radiographic techniques (sonography, 
+arthrography or MRI), should be considered when shoulder pain is refractory to 
+4-6 weeks of non-operative conservative treatment and the diagnosis is not 
+readily identified by a good history and clinical examination. 
+ 
+D.6.e Non-Operative Treatment Procedures may include: 
+ 
+D.6.e.i Medications, such as nonsteroidal anti-inflammatories 
+and analgesics. 
+ 
+D.6.e.ii   Subacromial Space Injection   
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Subacromial space injection with steroids may be 
+therapeutic if the patient responded positively to a diagnostic injection 
+of an anesthetic. Steroid injections directly into the tendons are not  
+recommended. 
+ 
+ Frequency: Not more than two to three times annually. Usually one or 
+two injections adequate.  A minimum of three weeks interval between 
+injections is recommended.  
+ 
+ Time to produce effect: Immediate with local anesthetic, or within three 
+days with corticosteroids. 
+ 
+ Maximum duration: Limited to three injections annually to the same 
+site. 
+ 
+ 
+D.6.e.iii Relative rest, immobilization, thermal treatment, 
+ultrasound, therapeutic exercise and physical 
+medicine and rehabilitation should be considered. 
+ 
+ Recommended 
+
+[page 43]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   43   
+ 
+ 
+  
+D.6.f  Operative Procedures 
+ 
+Operative Procedures for impingement syndrome should not be 
+considered prior to an adequate trial of physical rehabilitation that 
+includes direction and supervision by an appropriate, licensed 
+professional and active patient participation. Such a trial should 
+normally last for a minimum of 6 weeks. 
+ 
+Refer to Table 2: Criteria for Shoulder Surgery - Impingement Syndrome. 
+ 
+Table 2: Criteria for Shoulder Surgery – Impingement Syndrome 
+ 
+ 
+ 
+If the patient has 
+ 
+ 
+AND the diagnosis is supported by 
+ 
+AND this has been 
+done ( if 
+recommended)  
+ 
+The following  
+surgery may be 
+appropriate  
+ 
+DIAGNOSIS 
+ 
+CLINICAL FINDING 
+ 
+SUBJECTIVE  OBJECTIVE  IMAGING  
+ 
+CONSERVATIVE 
+CARE  
+ 
+SURGICAL 
+PROCEDURE 
+ 
+Acromial  
+Impingement 
+Syndrome  
+ 
+ 
+ 
+( 80% of these 
+patients will get 
+better without 
+surgery) 
+ 
+Pain with 
+active arc 
+m otion 90 - 
+130°  
+ 
+AND  
+ 
+Pain at night; 
+ 
+Tenderness 
+over the 
+greater 
+tuberosity is 
+common in  
+acute cases. 
+ 
+Weak or absent 
+abduction. May 
+also demonstrate 
+atrophy 
+ 
+AND 
+ 
+Tenderness over 
+rotator cuff or 
+anterior acromial 
+area  
+ 
+AND  
+ 
+Positive 
+impingement 
+sign and 
+temporary  
+relief of pain with 
+anesthetic 
+injection  
+( diagnostic  
+injection test). 
+ 
+Conventional 
+x- rays , AP, 
+and 
+true lateral or 
+axillary view 
+ 
+AND 
+ 
+MRI, Ultra- 
+sound or 
+Arthrogram  
+shows 
+positive 
+evidence  of 
+deficit in 
+rotator cuff. 
+ 
+Recommend 3 - 6 
+months: three 
+months is adequate 
+if treatment has 
+been continuous, six 
+months if treatment 
+has been  
+intermittent. 
+ 
+Treatment must be 
+directed toward 
+gaining f ull range of 
+m otion,  which  
+requires both 
+stretching  and 
+strengthening to 
+balance the 
+musculature.  
+ 
+Anterior 
+Acromioplasty  
+ 
+ 
+ 
+D.6.g Post-Operative Procedures 
+ 
+D.6.g.i Individualized rehabilitation programs based upon 
+communication among the physician, the surgeon and 
+
+[page 44]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   44   
+ 
+ 
+the therapist might include: 
+ 
+D.6.g.i.a Sling or abduction splint; 
+ 
+D.6.g.i.b Gentle pendulum exercise, passive glenohumeral range of 
+motion and aggressive posterior scapular stabilizing 
+training can be instituted; 
+ 
+D.6.g.i.c At four weeks post-operative, begin isometrics and ADL 
+involvement; and/or 
+ 
+D.6.g.i.d Depending upon the patient's functional response, at six 
+weeks post-operative consider beginning light resistive 
+exercise; concomitantly, return to a light/modified duty may 
+be plausible given the ability to accommodate "no 
+repetitive overhead activities." 
+ 
+D.6.g.ii Progressive resistive exercise from two months with 
+gradual returning to full activity at 5-7 months; all active 
+non- operative procedures listed in Section E, 
+Therapeutic Procedures: Non-Operative, should be 
+considered. 
+ 
+D.6.g.iii Work restrictions should be evaluated every four to six 
+weeks during post-operative recovery and rehabilitation 
+with appropriate written communications to both the 
+patient and the employer. Should progress plateau, the 
+provider should reevaluate the patient's condition and 
+make appropriate adjustments to the treatment plan. 
+ 
+ 
+D.7 Rotator Cuff Tears 
+Partial or full-thickness tears of the rotator cuff tendons, most often the supraspinatus, 
+can be caused by vascular, traumatic or degenerative factors or a combination. Further 
+tear classification includes: a small tear is less than one centimeter; medium tear is one 
+to three centimeters; large tear is three to five centimeters; and massive tear is greater 
+than five centimeter, usually with retraction. 
+ 
+D.7.a History and Mechanism of Injury 
+ 
+D.7.a.i Mechanism of Injury: established with sudden trauma to the shoulder 
+or chronic over-use with repetitive overhead motion with internal or 
+external rotation. 
+ 
+D.7.a.ii History may include: 
+ 
+
+[page 45]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   45   
+ 
+ 
+D.7.a.ii.a Partial-thickness cuff tears usually occur in age groups 
+older than 30. Full-thickness tears can occur in younger 
+age groups. 
+ 
+D.7.a.ii.b Complaints of pain along anterior, lateral or posterior 
+glenohumeral joint. 
+ 
+D.7.b Physical Findings 
+ 
+ Physical Findings may include: 
+ 
+D.7.b.i Partial-Thickness Tears 
+ 
+D.7.b.i.a There will be pain at the end of range of motion with full 
+passive range of motion for abduction, elevation, external 
+rotation; internal rotation is attainable; 
+ 
+D.7.b.i.b Active range of motion will be limited and painful for 
+abduction and external rotation, as well as internal rotation 
+and forward flexion; 
+ 
+D.7.b.i.c A painful arc may be present with active elevation; 
+ 
+D.7.b.i.d Pain will be positive for resisted tests (abduction, flexion, 
+external rotation, internal rotation, abduction/internal 
+rotation at 90 degrees, and abduction/external rotation at 
+45 degrees; and/or 
+ 
+D.7.b.i.e If there are positive impingement signs, refer to Section 
+D.6, Impingement Syndrome. 
+ 
+D.7.b.ii Full-Thickness Tears 
+ 
+D.7.b.ii.a Passive and resisted findings are similar to those for 
+partial-thickness tears; and/or 
+ 
+D.7.b.ii.b Active elevation will be severely limited with substitution of 
+scapular rotation being evident. 
+ 
+D.7.c Laboratory Tests 
+ 
+Are generally not indicated 
+ 
+Recommended - in select patients where a systemic illness or disease is 
+suspected. 
+ 
+ 
+ 
+
+[page 46]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   46   
+ 
+ 
+D.7.d Testing Procedures 
+ 
+D.7.d.i X-ray 
+ 
+Recommended - in select patients as clinically indicated.  X-Rays 
+include: 
+ 
+D.7.d.i.a AP view visualizes elevation of the humeral head, 
+indicative of absence of the rotator cuff due to a tear; this is 
+a finding of a long-standing tear; 
+ 
+D.7.d.i.b Lateral view in the plane of the scapula or an axillary view 
+determines if there is anterior or posterior dislocation or the 
+presence of a defect in the humeral head (a Hill-Sachs 
+lesion); 
+ 
+D.7.b.i.c 30 degrees caudally angulated AP view determines if there 
+is a spur on the anterior/inferior surface of the acromion 
+and/or the far end of the clavicle; and 
+ 
+D.7.b.i.d Outlet view determines if there is a downwardly tipped 
+acromion. 
+ 
+D.7.d.ii Adjunctive Testing (Sonography, Arthrography or MRI)  
+ 
+Recommended - in select patients as clinically indicated. 
+Indications:  Should be considered when shoulder pain is refractory to 
+four to six weeks of non-operative conservative treatment and the 
+diagnosis is not readily identified by standard radiographic 
+techniques, then sonography, arthrography or MRI may be indicated. 
+MRI should be performed sooner (e.g., one to two weeks), when 
+there is clinical suspicion of full-thickness rotator cuff tear. 
+ 
+D.7.e Non-Operative Treatment Procedures 
+ 
+D.7.e.i Medications, such as nonsteroidal anti-inflammatories and 
+analgesics, would be indicated; acute rotator cuff tear could indicate 
+the need for limited narcotics use. 
+D.7.e.ii Relative rest and non-operative treatment procedures, 
+such as immobilization, therapeutic exercise, alteration of 
+occupation/work-station, thermal treatment, and 
+therapeutic ultrasound. Exclusive use of passive 
+modalities should be limited to the first two to three 
+weeks during the acute phase of shoulder discomfort and 
+accompanied by active therapies as soon as these are 
+
+[page 47]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   47   
+ 
+ 
+appropriate. If no clinically significant increase in function 
+for a partial- or full-thickness tear is observed after 
+adequate participation in a rehabilitation program, a 
+surgical consultation is indicated. Adequate is here 
+defined as at least 75% attendance in an active physical 
+therapy program with a minimum of two to three sessions 
+per week for four weeks. A physical therapy program that 
+is based solely on passive modalities, or for which the 
+claimant has not demonstrated compliance, is 
+insufficient. Early surgical intervention produces better 
+surgical outcome due to healthier tissues and often less 
+limitation of movement prior to and after surgery. 
+ 
+D.7.f Operative Procedures 
+ 
+ 
+Table 3: Criteria for Shoulder Surgery – Rotator Cuff Tear 
+ 
+ 
+If the patient has 
+ 
+AND the diagnosis is supported  
+ 
+by 
+ 
+AND this has 
+been done (if 
+recommended)  
+ 
+The following  
+surgery may be 
+appropriate  
+ 
+DIAGNOSIS 
+ 
+CLINICAL FINDINGS 
+ 
+SUBJECTIVE      OBJECTIVE  
+  
+ 
+ 
+IMAGING 
+ 
+CONSERVATIVE 
+CARE  
+ 
+SURGICAL 
+PROCEDURE 
+ 
+Full Thickness 
+Rotator Cuff Tear 
+ 
+AND 
+ 
+Shoulder pain  
+and inability to 
+elevate the arm; 
+ 
+Patient may have 
+weakness with 
+abduction testing; 
+ 
+Conventional x - 
+rays, AP, and 
+true lateral or 
+axillary view 
+ 
+Not required.  
+ 
+Rotator Cuff Repair. 
+ 
+Cervical 
+pathology and 
+frozen  
+shoulder  
+syndrome have 
+been ruled out. 
+Tenderness over 
+the greater 
+tuberosity is 
+common in acute 
+cases. 
+May also 
+demonstrate  
+atrophy of shoulder 
+musculature;  
+ 
+Usually has full 
+passive range of 
+motion.  
+ 
+AND 
+ 
+MRI, Ultrasound, or 
+Arthrogram  
+shows positive 
+evidence of  
+deficit in rotator 
+cuff. 
+  
+ 
+Partial Thickness 
+Rotator Cuff Tear. 
+ 
+Pain with active 
+arc motion 90 - 
+130° 
+ 
+Weak or absent 
+abduction. May 
+also demonstrate 
+atrophy 
+ 
+Conventional x - 
+rays, AP, and 
+true lateral or 
+axillary view 
+ 
+Recommend 3 - 6 
+months; three 
+months is 
+adequate if  
+treatment has 
+been 
+continuous, six 
+Rotator Cuff Repair 
+OR  
+ AND  
+AND 
+ 
+AND Anterior 
+Acromioplasty.  
+ Pain at night;    
+
+[page 48]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   48   
+ 
+ 
+  
+ 
+ 
+Tenderness over 
+the greater 
+tuberosity is 
+common in acute 
+cases. 
+Tenderness over 
+rotator cuff or 
+anterior 
+acrom ial area  
+ 
+AND  
+ 
+Positive 
+impingement sign 
+and temporary  
+relief of pain with 
+anesthetic injection 
+(diagnostic  
+injection test). 
+MRI, Ultrasound, or 
+Arthrogram  
+shows positive 
+evidence of  
+deficit in rotator 
+cuff. 
+months if 
+treatment has 
+been 
+intermittent. 
+ 
+Treatment 
+must be 
+directed 
+toward gaining 
+full range of 
+motion, which 
+requires both 
+stretching and 
+strengthening 
+to balance the 
+musculature.  
+ 
+ 
+ 
+D.7.g Post-Operative Procedures 
+ 
+D.7.g.i Individualized rehabilitation program based on 
+communication among the physician, the surgeon 
+and therapist might include: 
+ 
+D.7.g.i.a Sling or abduction splint; 
+ 
+D.7.g.i.b Gentle pendulum exercise, passive glenohumeral range of 
+motion in flexion and external rotation to prevent 
+adhesions and maintain mobilization; 
+ 
+D.7.g.i.c At six weeks post-operative begin isometrics and ADL 
+involvement; 
+ 
+D.7.g.i.d Active assisted range of motion in supine with progression 
+to sitting; 
+ 
+D.7.g.i.e At six to eight weeks, depending on quality of tissue, begin 
+light resistive exercise; 
+ 
+D.7.g.i.f Manual resistive exercise to 90 degrees, scapular 
+mobilization exercise with glenohumeral stabilization; and 
+ 
+D.7.g.i.g Scapular plane exercise. 
+ 
+D.7.g.i.h Pool Exercise 
+ 
+Not Recommended 
+ 
+D.7.g.ii Progressive resistive exercise from three to six months, with gradual 
+returning to full activity at six to nine months. All active non- operative 
+procedures listed in Section E, Therapeutic Procedures: Non-
+Operative, should be considered. 
+
+[page 49]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   49   
+ 
+ 
+ 
+D.7.g.iii Work restrictions should be evaluated every four to six weeks during 
+post-operative recovery and rehabilitation with appropriate written 
+communications to both the patient and employer. Should progress 
+plateau, the provider should reevaluate the patient's condition and 
+make appropriate adjustments to the treatment plan. 
+ 
+D.8 Rotator Cuff Tendinitis 
+ 
+Inflammation of one or more of the four musculotendinous structures which arise from 
+the scapula and insert on the lesser or greater tuberosity of the humerus. These 
+structures include one internal rotator (subscapularis), and two external rotators 
+(infraspinatus and teres minor), and the supraspinatus which assists in abduction. 
+ 
+D.8.a History and Mechanism of Injury 
+ 
+D.8.a.i Mechanism of Injury: established with sudden trauma to the shoulder 
+or chronic over-use with repetitive overhead motion with internal or 
+external rotation. 
+ 
+D.8.b Physical Findings  
+ 
+ Physical Findings may include: 
+ 
+D.8.b.i Pain with palpation to the shoulder with active or passive abduction 
+and external rotation of the shoulder (painful arc); 
+ 
+D.8.b.ii Pain with impingement signs; and/or 
+ 
+D.8.b.iii Pain with specific activation of the involved muscles. 
+ 
+D.8.c Laboratory Tests 
+ 
+ Are generally not indicated 
+ 
+ Recommended – in select patients where a systemic illness or disease is 
+suspected. 
+ 
+D.8.d Testing Procedures  
+ 
+ Testing Procedures may include: 
+ 
+ D.8.d.i X-Ray 
+ 
+ Recommended - in select patients as clinically indicated. 
+ 
+D.8.d.i.a Plain x-ray films including AP lateral, axial, 30 degrees 
+
+[page 50]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   50   
+ 
+ 
+caudally angulated AP, outlet view; 
+ 
+D.8.d.i.b If shoulder pain is refractory to four to six weeks of non-
+operative care and the diagnosis is not readily identified by 
+standard radiographic techniques. 
+ 
+D.8.d.ii Adjunctive Testing (MRI, Sonography Arthrography or MRI) 
+ 
+Recommended - in select patients as clinically indicated to rule out a 
+rotator cuff tear. 
+ 
+Indications: Shoulder pain is refractory to four to six weeks of non-
+operative care and the diagnosis is not readily identified by standard 
+radiographic techniques 
+ 
+D.8.d.iii Subacromial Space Injection  
+ 
+Recommended - in select patients as clinically indicated can be as a 
+diagnostic procedure by injecting an anesthetic, such as sensorcaine or 
+xylocaine solutions, into the space. If the pain is alleviated with the 
+injection, the diagnosis is confirmed. 
+ 
+D.8.e Non-Operative Treatment Procedures 
+ 
+Non-Operative Treatment Procedures may include: 
+ 
+D.8.e.i Medications, such as nonsteroidal anti-inflammatories, oral steroids 
+and analgesics. 
+ 
+D.8.e.ii Subacromial Space Injection with Steroids  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications:  May be therapeutic if the patient responded positively to a 
+diagnostic injection of an anesthetic. Steroid injections directly into the 
+tendons are not recommended. 
+ 
+Frequency: Not more than two to three times annually. Usually one or 
+two injections adequate. A minimum of three weeks interval between 
+injections is recommended. 
+ 
+Time to produce effect: Immediate with local anesthetic, or within 
+three days with corticosteroids. 
+ 
+Maximum duration: Limited to three injections annually to 
+the same site. 
+ 
+D.8.e.iii Non-operative treatment procedures/modalities such as relative rest, 
+
+[page 51]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   51   
+ 
+ 
+immobilization, thermal treatment, ultrasound, therapeutic exercise, 
+physical medicine and rehabilitation should be limited to the first two 
+to three weeks during the acute phase of shoulder discomfort and 
+accompanied by active therapies as soon as these are appropriate. 
+ 
+D.8.f Operative Procedures 
+ 
+Operative procedures are not indicated for this diagnosis for most patients. They 
+are indicated for tendinitis with small partial thickness tearing, unresponsive to 
+non-operative treatment for four to six months.  
+D.9 Shoulder Fractures 
+ 
+There are five common types of shoulder fractures. Each type will be addressed 
+separately and in the order of most frequent occurrence. 
+ 
+D.9.a Clavicular Fracture 
+ 
+D.9.a.i History and Initial Diagnostic Procedures (Clavicular Fracture) 
+ 
+Mechanism of Injury: can result from direct blows or axial loads applied 
+to the upper limb; commonly associated injuries include rib fractures, 
+long-bone fractures of the ipsilateral limb and scapulothoracic 
+dislocations. 
+ 
+D.9.a.ii Physical Findings (Clavicular Fracture)  
+ 
+Physical Findings may include: 
+ 
+D.9.a.ii.a Pain in the clavicle; 
+ 
+D.9.a.ii.b Abrasions on the chest wall, clavicle and 
+shoulder can be seen; 
+ 
+D.9.a.ii.c Deformities can be seen in the above 
+regions; and/or 
+ 
+D.9.a.ii.d Pain with palpation and motion at the 
+shoulder joint area. 
+ 
+D.9.a.iii Laboratory Tests 
+ 
+ Are generally not indicated 
+ 
+ Recommended - in select patients where a systemic illness or disease 
+is suspected. 
+ 
+D.9.a.iv Testing Procedures  
+
+[page 52]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   52   
+ 
+ 
+ 
+D.9.a.iv.a X-Ray 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: would usually include routine chest x-rays. If 
+they do not reveal sufficient information, then a 20° caudal 
+cranial AP view centered over both clavicles can be done. 
+ 
+D.9.a.v Non-Operative Treatment Procedures  
+ 
+D.9.a.v.i Most are adequately managed by closed techniques and 
+do not require surgery. After reduction, the arm is 
+immobilized in a sling or figure-8 bandage. Shoulder 
+rehabilitation is begun with pendulum exercises ten to 14 
+days after injury. Subsequently, with pain control, the 
+therapy program can be progressed with non-operative 
+therapeutic approaches. 
+ 
+D.9.a.v.ii Medication, such as analgesics and nonsteroidal anti-
+inflammatories, would be indicated; narcotics, on rare 
+occasions, may be indicated acutely for fracture. 
+ 
+D.9.a.vi Operative Procedures  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Operative Procedures would be indicated for open 
+fractures, vascular or neural injuries requiring repair, bilateral fractures, 
+ipsilateral scapular or glenoid neck fractures, scapulothoracic 
+dislocations, flail chest and nonunion displaced-closed fractures that 
+show no evidence of union after four to six months. Also a Type II 
+fracture/dislocation at the AC joint where the distal clavicular fragment 
+remains with the acromion and the coracoid, and the large proximal 
+fragment is displaced upwards. 
+ 
+D.9.a.vii Post-Operative Procedures  
+ 
+Post-Operative procedures would include an individualized 
+rehabilitation program based upon communication among the 
+physician, the surgeon and the therapist. This program would begin 
+with two to three weeks of rest with a shoulder immobilizer while 
+encouraging isometric deltoid strengthening; pendulum exercises with 
+progression to assisted forward flexion and external rotation would 
+follow; strengthening exercises should be started at ten to 12 weeks. 
+ 
+D.9.b Proximal Humeral Fracture 
+ 
+
+[page 53]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   53   
+ 
+ 
+D.9.b.i History Mechanism of Injury   
+ 
+D.9.b.i.a Mechanism of Injury: may be caused by a fall onto an 
+abducted arm; may also be caused by high-energy 
+(velocity or crush) trauma with an abducted or non- 
+abducted arm; associated injuries are common, such as 
+glenohumeral dislocation, stretch injuries to the axillary, 
+musculocutaneous, and radial nerves; axillary artery 
+injuries with high energy accident. 
+ 
+D.9.b.ii Physical Findings  
+ 
+Physical Findings may include: 
+ 
+D.9.b.ii.a Pain in the upper arm; 
+ 
+D.9.b.ii.b Swelling and bruising in the upper arm, shoulder and chest 
+wall; 
+ 
+D.9.b.ii.c Abrasions about the shoulder; and/or 
+ 
+D.9.b.ii.d Pain with any attempted passive or active shoulder motion. 
+ 
+D.9.b.iii Laboratory Tests  
+ 
+Are generally not indicated 
+ 
+Recommended - in select patients where a systemic illness or disease 
+is suspected. 
+D.9.b.iv Testing Procedures  
+ 
+D.9.b.iv.a X-Ray 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+ Indications: trauma series (three views) are needed; view, 
+axillary view and a lateral view in the plane of the scapula. 
+ 
+Note: The latter two views are needed to determine if there 
+is a glenohumeral dislocation. 
+ 
+Note: Classification is by the Neer Method: there can be 
+four fragments – the humeral shaft, humeral head, greater 
+tuberosity, and the lesser tuberosity. The fragments are 
+not truly considered fragments unless they are separated 
+by 1 cm or are angulated 45 degrees or more. 
+ 
+
+[page 54]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   54   
+ 
+ 
+D.9.b.iv.b Vascular Studies 
+ 
+ Recommended - in select patients as clinically indicated. 
+ 
+ Indications: Are obtained emergently if the radial and 
+brachial pulses are absent. 
+ 
+D.9.b.v Therapeutic Procedures: Non-Operative  
+ 
+Recommended: in select patients as clinically indicated. 
+ 
+Indications: Impacted fractures of the humeral neck or greater 
+tuberosity are managed non-operatively. 
+ 
+Isolated and minimally displaced (less than 1 cm) fractures are treated 
+non-operatively. 
+ 
+Anterior or posterior dislocation associated with minimally displaced 
+fractures can usually be reduced by closed means, but a general 
+anesthetic is needed. 
+ 
+May Include:  
+ 
+Medications, such as analgesics and nonsteroidal anti-inflammatories, 
+would be indicated. Narcotics may be indicated acutely for fracture and 
+should be prescribed as indicated in Section E. 1. 
+ 
+Immobilization is provided with a sling, to support the elbow, or with an 
+abduction immobilizer if a non- impacted greater tuberosity fragment is 
+present. 
+ 
+D.9.b.v.a Immobilization is continued for four to six weeks. 
+ 
+D.9.b.v.b Shoulder rehabilitation is begun with pendulum exercises 
+ten to 14 days after injury. Subsequently, with pain control, 
+the therapy program can be progressed with therapeutic 
+approaches noted in Section E, Therapeutic Procedures: 
+Non-Operative. 
+ 
+D.9.b.vi Operative Procedures 
+ 
+Recommended - in select patients as clinically indicated. 
+Indications:  Unstable surgical neck fractures (no contact between the 
+fracture fragments). 
+ 
+ Partially unstable fractures (only partial contact) with 
+associated same upper extremity injuries. 
+
+[page 55]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   55   
+ 
+ 
+ 
+  Note: Displaced 3- and 4-part fractures may be 
+managed by a prosthetic hemiarthroplasty and 
+reattachment of the tuberosities. 
+ 
+D.9.b.vii Post-Operative Procedures  
+ 
+ Recommended - in select patients as clinically indicated. 
+ 
+ Post-Operative Procedures would include an individualized 
+rehabilitation program based upon communication among the 
+physician, surgeon and therapist. 
+ 
+ Refer to Section D.9.b.v, Therapeutic Procedures: Non-Operative, 
+Proximal Humeral Fracture. 
+  
+D.9.c Humeral Shaft Fracture   
+ 
+D.9.c.i History and Initial Diagnostic Procedures (Humeral Shaft Fracture) 
+ 
+Mechanism of Injury: a direct blow can fracture the humeral shaft at 
+the junction of its middle and distal thirds; twisting injuries to the arm 
+will cause a spiral humeral shaft fracture; high energy (velocity or 
+crush) will cause a comminuted humeral shaft fracture. 
+ 
+D.9.c.ii Physical Findings  
+Physical Findings may include: 
+D.9.c.ii.a Deformity of the arm; 
+D.9.c.ii.b Bruising and swelling; 
+and/or 
+D.9.c.ii.c Possible sensory and/or motor dysfunction of the radial 
+nerve. 
+ 
+D.9.c.iii Laboratory Tests  
+ 
+Are generally not indicated 
+ 
+Recommended- in select patients where a systemic illness or disease 
+is suspected. 
+ 
+ 
+ 
+
+[page 56]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   56   
+ 
+ 
+D.9.c.iv Testing Procedures  
+ 
+D.9.c.iv.a  Plain x-rays including AP view and lateral of the entire 
+humeral shaft. 
+ 
+D.9.c.iv.b Vascular studies if the radial pulse is absent. 
+ 
+D.9.c.iv.c Compartment pressure measurements if the surrounding 
+muscles are swollen, tense and painful and particularly if 
+the fracture resulted from a crush injury. 
+ 
+D.9.c.v Non-Operative Treatment Procedures  
+ 
+D.9.c.v.a Most isolated humeral shaft fractures can be managed 
+non-operatively. 
+ 
+D.9.c.v.b Medications, such as analgesics and nonsteroidal anti-
+inflammatories, would be indicated. Narcotics may be 
+indicated acutely for fracture and should be prescribed as 
+indicated in Section E.1.d. 
+ 
+D.9.c.v.c A coaptation splint may be applied. The splint is started in 
+the axilla, extended around the elbow and brought up to 
+the level of the acromion. It is held in place with large 
+elastic bandages. 
+ 
+D.9.c.v.d At two to three weeks after injury, a humeral fracture 
+orthosis may be used to allow for full elbow motion. 
+ 
+D.9.c.vi Operative Procedures   
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: For operative care would 
+include: 
+Open fracture; Associated forearm or elbow fracture (i.e., the floating 
+elbow injury); Burned upper extremity; Associated paraplegia; Multiple 
+injuries (polytrauma); A radial nerve palsy which came on after closed 
+reduction; and/or Pathologic fracture related to an occupational injury. 
+ 
+Accepted methods of internal fixation include: 
+ 
+D.9.c.vi.a A broad plate and screws; and/or 
+ 
+D.9.c.vi.b Intramedullary rodding with or without cross- locking 
+screws. 
+
+[page 57]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   57   
+ 
+ 
+ 
+D.9.c.vii Post-Operative Procedures   
+ 
+Post-Operative Procedures would include an 
+individualized rehabilitation program based upon 
+communication among the physician, the surgeon and 
+the therapist. Following rigid internal fixation, therapy 
+may be started to obtain passive and later active 
+shoulder motion using appropriate therapeutic 
+approaches as seen in Section D.9.c.v, Non-Operative 
+Treatment Procedures, Humeral Shaft Fracture. Active 
+elbow and wrist motion may be started immediately. 
+ 
+D.9.d Scapular Fracture 
+ 
+D.9.d.i History and Mechanism of Injury (Scapular Fracture) 
+ 
+Mechanism of Injury: these are the least common of the 
+fractures about the shoulder and include acromial, 
+glenoid, glenoid neck and scapular body fractures. With 
+the exception of anterior glenoid lip fractures caused by 
+an anterior shoulder dislocation, all other scapular 
+fractures are due to a high energy injury. 
+ 
+D.9.d.ii Physical Findings (Scapular Fracture) Physical Findings 
+may include: 
+ 
+D.9.d.ii.a Pain about the shoulder and thorax; 
+ 
+D.9.d.ii.b Bruising and abrasions; 
+ 
+D.9.d.ii.c Possibility of associated humeral or rib 
+fractures; and/or 
+ 
+D.9.d.ii.d Vascular problems (pulse evaluation and 
+Doppler examination). 
+ 
+D.9.d.iii Laboratory Tests 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Because of the association of high energy trauma, may 
+include a complete blood count, urinalysis and chest x-ray. 
+ 
+D.9.d.iv Testing Procedures  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+
+[page 58]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   58   
+ 
+ 
+D.9.d.iv.a X-Ray  
+ 
+X-ray trauma series (three views) are needed: AP view, 
+axillary view, and a lateral view in the plane of the scapula. 
+ 
+D.9.d.iv.b Arteriography if a vascular injury is 
+suspected. 
+ 
+D.9.d.iv.c Electromyographic exam (EMG) if nerve injuries are noted. 
+ 
+D.9.d.v Non-Operative Treatment Procedures  
+ 
+Non-displaced acromial, coracoid, glenoid, glenoid neck and scapular 
+body fractures may all be treated with the use of a shoulder 
+immobilizer. 
+ 
+Medication, such as analgesics and nonsteroidal anti-inflammatories, 
+would be indicated. 
+ 
+Narcotics may be indicated acutely for fracture and should be 
+prescribed as indicated in Section E.1.d. 
+ 
+Pendulum exercises may be started within the first 
+week. 
+ 
+Progress to assisted range of motion exercises at three to four weeks 
+using appropriate therapeutic procedures. 
+ 
+D.9.d.vi Operative Treatment 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+D.9.d.vi.a Acromial fractures which are displaced should be internally 
+fixed to prevent a nonunion. These fractures may be fixed 
+with lagged screws and a superiorly placed plate to 
+neutralize the muscular forces. 
+ 
+D.9.d.vi.b Glenoid fractures which are displaced greater than two to 
+three mm should be fixed internally. The approach is 
+determined by studying the results of a CT scan. 
+ 
+D.9.d.vi.c Scapular body fractures require internal fixation if the 
+lateral or medial borders are displaced to such a degree as 
+to interfere with scapulothoracic motion. 
+ 
+D.9.d.vi.d Displaced fractures of the scapular neck and the ipsilateral 
+clavicle require internal fixation of the clavicle to reduce the 
+scapular neck fracture. 
+
+[page 59]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   59   
+ 
+ 
+ 
+D.9.d.vii Post-Operative Procedures  
+ 
+Post-Operative Procedures would include an individualized 
+rehabilitation program based upon communication among the 
+physician, the surgeon and the therapist. A shoulder immobilizer is 
+utilized, pendulum exercises at one week, deltoid isometric exercises 
+are started early, and, at four to six weeks, active range of motion is 
+commenced. 
+ 
+D.9.e Sternoclavicular Dislocation/Fracture 
+ 
+D.9.e.i History and Mechanism of Injury  
+ 
+Mechanism of Injury: established with sudden trauma to the 
+shoulder/anterior chest wall; anterior dislocations of the sterno-
+clavicular joint usually do not require active treatment; however, 
+symptomatic posterior dislocations will require reduction. 
+ 
+D.9.e.ii Physical Findings   
+ 
+Physical Findings may include: 
+ 
+D.9.e.ii.a Pain at the sternoclavicular area; 
+ 
+D.9.e.ii.b Abrasions on the chest wall, clavicle and shoulder can be 
+seen; 
+ 
+D.9.e.ii.c Deformities can be seen in the above regions; and/or 
+ 
+D.9.e.ii.d Pain with palpation and motion at the sternoclavicular joint 
+area. 
+ 
+D.9.e.iii Laboratory Tests  
+ 
+Are generally not indicated 
+ 
+Recommended - in select patients where a systemic illness or disease 
+is suspected. 
+ 
+D.9.e.iv Testing Procedures 
+ 
+X-Ray- Vascular Studies 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications : Plain x-rays of the sternoclavicular joint are 
+routinely done. When indicated, comparative views of the 
+
+[page 60]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   60   
+ 
+ 
+contralateral limb may be necessary. 
+ 
+X-rays of other shoulder areas and chest wall may be 
+done if clinically indicated. 
+ 
+Indications: Vascular studies should be considered if 
+the history and clinical examination indicate extensive 
+injury. 
+ 
+D.9.e.v Therapeutic Procedures: Non-Operative  
+ 
+ Symptomatic posterior dislocations should be reduced in the operating 
+room under general anesthesia. 
+ 
+D.9.e.v.a Immobilize with a sling for 3-4 weeks. Subsequently, 
+further rehabilitation may be utilized using procedures set 
+forth in Section E, Therapeutic Procedures: Non-
+Operative. 
+ 
+D.9.e.v.b Medications, such as analgesics and nonsteroidal anti-
+inflammatories, may be indicated; narcotics may be 
+indicated acutely for fracture and should be prescribed as 
+indicated for limited periods. Refer to Section E.1. 
+ 
+D.9.e.v.c Manipulation (for Sternoclavicular Dislocation): 
+Manipulative treatment (not therapy) is defined as the 
+therapeutic application of manually guided forces by an 
+operator to improve physiologic function and/or support 
+homeostasis that has been altered by the injury or 
+occupational disease, and has associated clinical 
+significance. 
+Time to produce effect for shoulder treatment: one to six 
+treatments. 
+ 
+D.9.e.vi Operative Procedures 
+ 
+ Not Recommended 
+ 
+ 
+D.10 Shoulder Instability 
+ 
+ Subluxation (partial dislocation) or dislocation of the glenohumeral joint in either an 
+anterior, interior, posterior or multidirectional position. 
+ 
+D.10.a History and Mechanism of Injury  
+
+[page 61]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   61   
+ 
+ 
+ 
+D.10.a.i Mechanism of Injury: instability should be apparent following a direct 
+traumatic blow to the shoulder, or indirectly by falling on an 
+outstretched arm, or while applying significant traction to the arm, or 
+may also develop with a cumulative trauma to the shoulder. Symptoms 
+should be exacerbated or provoked by work and initially alleviated with 
+a period of rest. Symptoms may be exacerbated by other activities that 
+are not necessarily work-related (e.g., driving a car). 
+ 
+D.10.a.ii History may include: 
+ 
+D.10.a.ii.a A slipping sensation in the arm; 
+ 
+D.10.a.ii.b Severe pain with inability to move the arm; 
+ 
+D.10.a.ii.c Abduction and external rotation produce a feeling that the 
+shoulder might "come out"; or 
+ 
+D.10.a.ii.d Feeling of shoulder weakness. 
+ 
+D.10.a.iii In subacute and/or chronic instabilities, age of onset of instability is 
+important in the history. Older age group (over age 30) has a 
+propensity not to re-dislocate. Younger age groups need a more 
+aggressive treatment plan. 
+ 
+D.10.a.iv Avoid any aggressive treatment in patients with history of voluntary 
+subluxation or dislocation. These patients may need a psychiatric 
+evaluation. 
+ 
+D.10.b Physical Findings 
+ 
+D.10.b.i Anterior dislocations would likely include loss of normal shoulder 
+contour; a fullness in the axilla; pain over the shoulder with any motion 
+and often the patient holding the extremity in a very still position. 
+ 
+D.10.b.ii Posterior dislocations usually occur with a direct fall on the shoulder or 
+outstretched arm resulting in posteriorly directed forces to the humeral 
+head. These patients present with inability to externally rotate the 
+shoulder. 
+ 
+D.10.b.iii Neurologic examination could reveal most commonly axillary nerve 
+injuries, but occasionally musculocutaneous nerve injuries are seen. 
+ 
+D.10.b.iv Abduction and external rotation positioning will produce pain in those 
+who have anterior instability. Direct posterior stress in a supine position 
+will produce pain in those with posterior instability. Longitudinal traction 
+will produce a "sulcus sign" (a large dimple on the lateral side of the 
+shoulder) when there is inferior instability. 
+
+[page 62]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   62   
+ 
+ 
+ 
+D.10.c Laboratory Tests 
+ 
+ Are generally not indicated 
+ 
+ Recommended - in select patients where a systemic illness or disease is 
+suspected. 
+ 
+D.10.d Testing Procedures 
+ 
+ Recommended - in select patients as clinically indicated. 
+ 
+D.10.d.i X-Ray 
+ 
+ Indications: Plain x-rays to rule out bony deficit on the glenoid, 
+including AP, axillary view, lateral in the plane of the scapula and 
+possibly the West Point view. Axillary view to identify larger Hill-Sachs 
+lesion of humeral head. 
+ 
+D.10.d.ii MRI/CT 
+ 
+Indications: On more difficult diagnostic cases with 
+subtle history and physical findings suggesting 
+instability, MRI, or CT- assisted arthrogram or MRI-
+assisted arthrogram may be ordered for lateral 
+detachment after four to eight weeks of therapy. (This 
+is done only after other conservative therapies have 
+failed.) 
+ 
+D.10.e Non-Operative Treatment Procedures 
+ 
+D.10.e.i First-Time Acute Severe Bony Involvement:  
+ 
+D.10.e.i.a Therapeutic Procedures: 
+• Immobilization 
+• Therapeutic Exercise 
+• Superficial Heat and Cold 
+• Ultrasound 
+• TENS is not recommended 
+• Alteration of Occupation and Workstation 
+• May not return to work with overhead activity or lifting 
+with involved arm until cleared by physician for heavier 
+activities. 
+ 
+D.10.e.i.b Additional therapies may include: 
+• Physical Medicine and Rehabilitation 
+o Instruction in Therapeutic Exercise and 
+Proper Work Techniques 
+
+[page 63]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   63   
+ 
+ 
+o Manual Therapy Techniques 
+• Medications 
+o Analgesics 
+o Anti-inflammatories 
+D.10.e.i.c Biofeedback 
+ 
+ Not Recommended – for first-time acute severe bony 
+involvement. 
+ 
+D.10.e.ii Acute or chronic dislocations with large fracture fragments contributing 
+to instability: 
+ 
+D.10.e.ii.a Attempt to treat with immobilization if in acceptable 
+position, otherwise repair surgically. 
+ 
+D.10.e.ii.b Return to work may be directly related to time it takes for 
+the fracture to heal. 
+ 
+D.10.e.iii Subacute and/or chronic instability: 
+ 
+D.10.e.iii.a Provocative dislocation should first be treated similarly to 
+acute dislocation. 
+ 
+D.10.e.iii.b If acute treatment is unsuccessful, and still having findings 
+of instability, consider operative repair. 
+ 
+D.10.f Operative Procedures 
+ 
+ Recommended - in select patients as clinically indicated. 
+ 
+D.10.f.i Identify causative agent for the instability (i.e., labral detachment, bony 
+lesion, or multidirectional instability), then proceed with: 
+ 
+D.10.f.i.a Bony block transfer;  
+ 
+D.10.f.i.b Capsular tightening; or  
+ 
+D.10.f.i.c Bankart lesion repair. 
+ 
+D.10.g Post-Operative Procedures 
+ 
+ The arm is immobilized in a sling for one to 12 weeks post-injury, depending 
+upon the age of the patient. The patient is instructed in isometric exercises while 
+in the sling for the internal and external rotators and the deltoid. 
+ 
+ Post-Operative Procedures would include an individualized rehabilitation 
+program based upon communication among the physician, the surgeon and the 
+therapist. Depending upon the type of surgery, the patient will be immobilized for 
+
+[page 64]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   64   
+ 
+ 
+three to six weeks. As soon as it is safe to proceed without damaging the repair, 
+progressive therapy with consultation involving an occupational and/or physical 
+therapist should begin with therapeutic exercise, physical medicine and 
+rehabilitation. During this period of time, the patient could resume working when: 
+ 
+D.10.g.i Medications which would predispose to injury are no 
+longer being prescribed or used; and 
+ 
+D.10.g.ii The treating physician has cleared the patient for the 
+specific vocational activities.  
+D.11 Superior Labrum Anterior and Poster (SLAP) Lesions 
+Lesions of the superior aspect of the glenoid labrum that extend anteriorly 
+and posteriorly in relation to the biceps tendon insertion. There are several 
+different types of SLAP lesions described: 
+ 
+1) Type I is a fraying of the superior labral edge without detachment of 
+the labrum from the glenoid rim. 
+ 
+2) Type II is a detachment of the biceps anchor from the glenoid. Three 
+distinct Type II lesions have been described as anterior only, posterior 
+only, or combined anterior and posterior. 
+ 
+3) Type III is a bucket handle tear in the superior labrum only with biceps 
+tendon and remainder of the superior labrum having stable attachment. 
+4) Type IV is a bucket handle tear as in Type III, but with extension of 
+the tear in to the biceps tendon. Additional types of lesions have been 
+described that include extensions of the above-described lesions or 
+extensions of Bankart lesions. 
+ 
+D.11.a History and Mechanisms of Injury 
+ 
+D.11.a.i Mechanism of Injury: 
+ 
+Common mechanisms of injury that are thought to 
+contribute to SLAP lesions include: 
+ 
+a) Compression injury such as fall on an 
+outstretched arm with the shoulder in forward 
+flexion and abduction or direct blow to the 
+glenohumeral joint; 
+ 
+b) Traction injury such as repetitive overhead 
+throwing, attempting to break a fall fr om a 
+height, and sudden pull when losing hold of a 
+heavy object; 
+
+[page 65]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   65   
+ 
+ 
+ 
+c) Motor Vehicle Accident 
+ 
+d) Repetitive overhead motions with force 
+such as pitching; or 
+ 
+e) A fall on adducted arm with upward force 
+directed on elbow. 
+ 
+In some cases no mechanism of injury can be identified. 
+ 
+D.11.a.i History may include: 
+ 
+a) Symptoms with overhead throwing motions; 
+ 
+b) Dislocation, subluxation, or subjective sense of instability; 
+ 
+c) Poorly localized shoulder pain that is exacerbated by overhead 
+activities; 
+ 
+d) Catching, locking, popping or snapping; 
+ 
+e) Subtle instability. 
+ 
+D.11.b Physical Findings (SLAP Lesion) 
+ 
+D.11.b.i The physical examination is often nonspecific secondary to other 
+associated intra-articular abnormalities. 
+ 
+D.11.b.ii No one test or combination of tests has been shown to have an 
+acceptable sensitivity and specificity or positive predictive values for 
+diagnosing SLAP lesion. Sensitivity and specificity are relatively low for 
+individual tests and combinations. 
+ 
+D.11.b.iii Overall physical examination tests for SLAP lesions may be used to 
+strengthen a diagnosis of SLAP lesion, but the decision to proceed to 
+operative management should not be based on physical examination 
+alone. 
+ 
+• Speed Test 
+• Yergason’s Test 
+• Active Compression (O’Brien) Test 
+• Jobe Relocation Test 
+• Crank Test 
+• Anterior Apprehension Maneuver 
+• Tenderness at the bicipital groove 
+• Anterior Slide (Kibler) Test 
+
+[page 66]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   66   
+ 
+ 
+• Compression Rotation Test 
+• Pain Provocation Test 
+• Biceps Load Test II 
+ 
+D.11.c Diagnostic Testing Procedures (SLAP Lesion) 
+ 
+D.11.c.i Radiographs are usually normal in isolated SLAP lesions. However, 
+they can be useful in identifying other sources of abnormalities. 
+ 
+D.11.c.ii Magnetic resonance imaging (MRI) with arthrogram has the highest 
+reported accuracy for both diagnosis and classification of SLAP 
+lesions; however, it may be difficult to differentiate SLAP lesions, 
+especially Type II lesions, from normal anatomic variants and from 
+asymptomatic age-related changes. 
+ 
+D.11.c.iii Arthroscopic evaluation is the most definitive diagnostic test. 
+ 
+D.11.d Non-Operative Treatment Procedures (SLAP Lesion) 
+ 
+Most SLAP lesions are associated with other pathology such as rotator cuff tears, 
+Bankart lesions, joint instability, biceps tendon tears, and supraspinatus tears. 
+The provider should refer to the treatment protocols for these conditions and 
+follow both the surgical and non-surgical recommendations. For suspected 
+isolated SLAP lesions, non-invasive care, consider the following. 
+ 
+D.11.d.i Medications such as analgesics and anti-inflammatories may be 
+helpful. 
+ 
+D.11.d.ii Therapeutic procedures may include instruction in therapeutic exercise 
+and proper work techniques, and evaluation of occupational 
+workstation. 
+ 
+D.11.d.iii Benefits may be achieved through therapeutic rehabilitation and 
+rehabilitation interventions. They should include range of motion 
+(ROM), active therapies, and a home exercise program. Passive as 
+well as active therapies may be used for control of pain and swelling. 
+Therapy should progress to strengthening and an independent home 
+exercise program targeted to further improve ROM and strength of the 
+shoulder girdle musculature. 
+ 
+D.11.d.iv Subacromial bursal and/or glenohumeral steroid injections may 
+decrease inflammation and allow the therapist to progress with 
+functional exercise and ROM. 
+ 
+• Time to Produce Effect: One injection. 
+• Maximum Duration: 3 injections in one year at least 4 
+to 8 weeks apart. 
+ 
+
+[page 67]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   67   
+ 
+ 
+Steroid injections should be used cautiously in diabetic 
+patients. Diabetic patients should be reminded to check 
+their blood glucose levels at least daily for 2 weeks after 
+injections. 
+ 
+D.11.d.v Return to work with appropriate restrictions should be 
+considered early in the course of treatment. 
+ 
+D.11.d.vi  Other non-operative therapies may be employed in 
+individual cases. 
+ 
+D.11.e Surgical Indications 
+ 
+There is a significant amount of normal anatomic variation of the superior 
+glenoid labrum and origin of the long head of the biceps tendo n.  
+Differentiation between normal variation and pathology is imperative.  
+ 
+D.11.e.i The physician should identify other shoulder pathology if any 
+exists and follow the appropriate surgical indications. If a SLAP 
+lesion is suspected, an arthroscopic exam sh ould be performed 
+in conjunction with the primary surgical  procedure and an 
+appropriate repair performed if  necessary. 
+ 
+or 
+ 
+D.11.e.ii When no additional pathology is identified and there is an 
+inadequate response to at least three months of non-operative 
+management with active patient participation as evidenced by 
+continued pain with functional limitations and/or instability 
+significantly affecting activities of daily living or work  duties. 
+ 
+D.11.e.iii Prior to surgical intervention, the pati ent and treating physician 
+should identify functional operative goals and the likelihood of 
+achieving improved ability to perform activities of daily living or 
+work activities and the patient should agree to comply with the 
+pre- and post -operative treatment plan and home exercise 
+requirements. The patient should understand the length of partial 
+and full disability expected post - operatively.  
+ 
+The patient should also understand that 1) non -operative treatment is an 
+acceptable option and that 2) a potential complication of the surgery is 
+shoulder stiffness with pain and possibly decreased function.  
+ 
+D.11.f  Operative Procedures (SLAP lesion)  
+ 
+Operative treatment of SLAP lesions depends on the type of lesion present 
+and whether any other intra -articular abnormalities are present. The 
+following are generally accepted protocols for surgical intervention.  
+ 
+D.11.f.i  Type I: Debridement is reasonable but not  required; 
+ 
+
+[page 68]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   68   
+ 
+ 
+D.11.f.ii  Type II: Repair via suture anchors or biceps tenotomy /tenodesis   
+are reasonable options;  
+ 
+D.11.f.iii  Type III: Debridement or excision of the bucket handle 
+component alone or repair via suture anchors or  biceps 
+tenotomy/tenodesis are reasonable  options ;  
+ 
+D.11.f.iv  Type IV: Debridement and/or biceps tenotomy or  tenodesis are 
+reasonable options . 
+ 
+D.11.g Post -Operative Treatment (SLAP  lesion) 
+ 
+Post -operative rehabilitation programs should be individualized and 
+dependent upon whether any other intra -articular abnormalities exist and 
+were operatively treated. There is a paucity of information on rehabilitation 
+of isolated SLAP lesions. Common post -operative care involves wearing a 
+sling, without active shoulder motion for 4 to 6 weeks. Elbow, wrist, and 
+hand range-of -motion (ROM) exercises may be used at this time. The sl ing 
+is removed at 4 to 6 weeks and active ROM is usually begun with 
+restrictions directed by the surgeon. It is reasonable to restrict external 
+rotation and abduction up to six months  post -operative.  
+ 
+ 
+E. Therapeutic Procedures:  Non -Operative 
+E.1 Medications  
+ 
+For most patients, ibuprofen, naproxen, or other older generation NSAIDs are 
+recommended as first-line medications. Acetaminophen (or the analog paracetamol) 
+may be a reasonable alternative to NSAIDs for patients who are not candidates for 
+NSAIDs, although most evidence suggests acetaminophen is modestly less effective. 
+There is evidence that NSAIDs are as effective for relief of pain as opioids (including 
+tramadol) and less impairing.  
+  
+E.1.a Non-Steroidal Anti-inflammatory Drugs (NSAIDs) for Treatment of Acute, 
+Subacute, or Chronic Shoulder pain  
+ 
+Recommended - for treatment of acute, subacute, or chronic shoulder pain  
+ 
+Indications:  For acute, subacute, or chronic shoulder pain, NSAIDs are 
+recommended for treatment. Over-the-counter (OTC) agents may suffice and 
+should be tried first. 
+ 
+Frequency/Duration: As needed use may be reasonable for many patients.  
+ 
+Indications for Discontinuation:  Resolution of symptoms, lack of efficacy, or 
+development of adverse effects, that necessitate discontinuation. 
+ 
+E.1.b  NSAIDs for Patients at High Risk of Gastrointestinal Bleeding  
+ 
+
+[page 69]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   69   
+ 
+ 
+Recommended – for concomitant use of cytoprotective classes of drugs: 
+misoprostol, sucralfate, histamine Type 2 receptor blockers, and proton pump 
+inhibitors for patients at high risk of gastrointestinal bleeding.  
+ 
+Indications:  For patients with a high-risk factor profile who also have indications 
+for NSAIDs, cytoprotective medications should be considered, particularly if 
+longer term treatment is contemplated. At-risk patients include those with a 
+history of prior gastrointestinal bleeding, elderly, diabetics, and cigarette 
+smokers. 
+ 
+Frequency/Dose/Duration:  Proton pump inhibitors, misoprostol, sucralfate, H2 
+blockers recommended. Dose and frequency per manufacturer. There is not 
+generally believed to be substantial differences in efficacy for prevention of 
+gastrointestinal bleeding. 
+ 
+Indications for Discontinuation: Intolerance, development of adverse effects, or 
+discontinuation of NSAID. 
+ 
+E.1.c  NSAIDs for Patients at Risk for Cardiovascular Adverse Effects 
+ 
+ Patients with known cardiovascular disease or multiple risk factors for 
+cardiovascular disease should have the risks and benefits of NSAID therapy for 
+pain discussed. 
+ 
+ Recommended - Acetaminophen or aspirin as the first-line therapy appear to be 
+the safest regarding cardiovascular adverse effects. 
+  
+ Recommended - If needed, NSAIDs that are non-selective are preferred over 
+COX-2 specific drugs. In patients receiving low-dose aspirin for primary or 
+secondary cardiovascular disease prevention, to minimize the potential for the 
+NSAID to counteract the beneficial effects of aspirin, the NSAID should be taken 
+at least 30 minutes after or 8 hours before the daily aspirin.  
+ 
+E.1.d  Acetaminophen for Treatment of Shoulder Pain    
+ 
+Recommended - for treatment of shoulder pain, particularly in patients with 
+contraindications for NSAIDs. 
+ 
+Indications: All patients with shoulder pain, including acute, subacute, chronic, 
+and post-operative. 
+ 
+Dose/Frequency: Per manufacturer’s recommendations; may be utilized on an 
+as-needed basis. There is evidence of hepatic toxicity when exceeding four 
+gm/day. 
+ 
+Indications for Discontinuation: Resolution of pain, adverse effects or intolerance. 
+ 
+
+[page 70]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   70   
+ 
+ 
+Rationale for Recommendations:  For most patients, generic ibuprofen, 
+naproxen, or other older generation NSAIDs are recommended as first-line 
+medications. Second-line medications should include one of the other generic 
+medications. Acetaminophen (or the analog paracetamol) may be a reasonable 
+alternative for these patients, although most evidence suggests acetaminophen 
+is modestly less effective for arthrosis patients. There is evidence that NSAIDs 
+are as effective for relief of pain as opioids (and tramadol) and less impairing. 
+ 
+E.1.e Topical Medications  
+ 
+Recommended – In select patients for treatment of pain associated with acute, 
+subacute, or chronic shoulder pain. including topical creams, ointments, and 
+lidocaine patches   
+ 
+Rationale for Recommendation:  TOPICAL DRUG DELIVERY (e.g., capsaicin, 
+topical lidocaine, topical NSAIDs and topical salicylates and nonsalicylates) may 
+be an acceptable form of treatment in selected patients. A topical agent should 
+be prescribed with strict instructions for application and maximum number of 
+applications per day to obtain the desired benefit and avoid potential toxicity. For 
+most patients, the effects of long-term use are unknown and thus may be better 
+used episodically. These agents may be used in those patients who prefer topical 
+treatments over oral medications. Localized skin reactions may occur, depending 
+on the medication agent used. Prescribers should consider that topical 
+medication can result in toxic blood levels. 
+ 
+Capsaicin offers a safe and effective alternative to systemic NSAIDs, although 
+its use is limited by local stinging or burning sensation that typically disappears 
+with regular use. Patients should be advised to apply the cream on the affected 
+area with a plastic glove or cotton applicator to avoid inadvertent contact with 
+eyes and mucous membranes. Long-term use of capsaicin is not recommended. 
+ 
+Topical Lidocaine is only indicated when there is documentation of a diagnosis 
+of neuropathic pain. In this instance, a trial for a period of not greater than four 
+weeks can be considered, with the need for documentation of functional gains as 
+criteria for additional use. 
+ 
+Topical NSAIDs (e.g. diclofenac gel) may achieve tissue levels that are 
+potentially therapeutic. Overall the low level of systemic absorption can be 
+advantageous, allowing the topical use of these medications when systemic 
+administration is relatively contraindicated (such as patients with hypertension, 
+cardiac failure, peptic ulcer disease or renal insufficiency). 
+ 
+Topical Salicylates or Nonsalicylates (e.g. methyl salicylate) overall do not 
+appear to be more effective than topical NSAIDs. May be used for a short-term 
+course especially in patients with chronic conditions in whom systemic 
+medication is relatively contraindicated or as an adjuvant to systemic medication 
+ 
+ 
+
+[page 71]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   71   
+ 
+ 
+E.1.f Opioids 
+ 
+Not Recommended – for acute, subacute, or chronic shoulder pain. 
+ 
+Recommended – for limited use (not more than seven days) for post-operative 
+pain management as adjunctive therapy to more effective treatments.  
+ 
+Indications: For post-operative pain management, a brief prescription of opioids 
+as adjuncts to more efficacious treatments (especially NSAIDs, acetaminophen) 
+is often required, especially nocturnally.  
+ 
+Frequency/Duration: Prescribed as needed throughout the day, then later only at 
+night, before weaning off completely.  
+  
+Rationale for Recommendation: Some patients have insufficient pain relief with 
+NSAIDs, thus judicious use of opioids may be helpful, particularly for nocturnal 
+use. Opioids are recommended for brief, select use in post-operative patients 
+with primary use at night to achieve sleep post-operatively.  
+ 
+E.1.g Hypnotics 
+ 
+Hypnotics may be given to shoulder injury sufferers because of a 
+chief complaint of "inability to sleep." Such medications must be 
+used with caution because of their dependence-producing 
+capabilities. Physical methods of restoring a normal sleep pattern 
+can usually be employed as an alternative to medication. 
+ 
+• Time to produce effect: 1-3 days. 
+• Frequency: At night. 
+• Optimum duration: 1 week. 
+• Maximum duration: 2-3 weeks 
+ 
+E.1.h Psychotropic/Anti-Anxiety Medications 
+ 
+Not recommended. [Note:  These guidelines do recommend the use of 
+antidepressant medications in limited circumstances, and 
+in select patients, such as with specific nerve injuries.] 
+ 
+E.1.i Skeletal Muscle Relaxants 
+ 
+Not Recommended. 
+ 
+ 
+E.2 Immobilization 
+Time is dependent upon type of injury, then progress with muscle girdle 
+strengthening. 
+
+[page 72]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   72   
+ 
+ 
+ 
+• Time to produce effect: 1 day. 
+• Frequency: Once. 
+• Optimum duration: 1 week. 
+• Maximum duration: 12 weeks. 
+The arm is immobilized in a sling for 1-12 weeks post-injury, depending 
+upon the age of the patient. The patient is instructed in isometric 
+exercises while in the sling for the internal and external rotators and the 
+deltoid. 
+ 
+E.2.a  Kinesiotaping, Taping or Strapping 
+ 
+Recommended - for acute joint immobilization (for example, 
+acute ankle sprain).  
+ 
+Not Recommended - for acute or non-acute pain. 
+ 
+E.3 Relative Rest 
+Relative Rest may last three to five weeks and require job 
+modification/modified duty so as not to exacerbate the acute inflamed 
+shoulder. 
+E.4 Therapeutic Exercise 
+ 
+Rehabilitation 
+ 
+Rehabilitation (supervised formal therapy) required as a result of a work-related injury 
+should be focused on restoring functional ability required to meet the patient’s daily and 
+work activities and return to work; striving to restore the injured worker to pre-injury 
+status in so far as is feasible.  
+ 
+Active therapy requires an internal effort by the patient to complete a specific exercise or 
+task. Passive therapy are those interventions not requiring the exertion of effort on the 
+part of the patient, but rather are dependent on modalities delivered by a therapist. 
+Generally passive interventions are viewed as a means to facilitate progress in an active 
+therapy program with concomitant attainment of objective functional gains. Active 
+interventions should be emphasized over passive interventions.  
+ 
+The patient should be instructed to continue both active and passive therapies at home 
+as an extension of the treatment process in order to maintain improvement levels. 
+ 
+Assistive devices may be included as an adjunctive measure incorporated into the 
+rehabilitation plan to facilitate functional gains.  
+ 
+ 
+
+[page 73]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   73   
+ 
+ 
+E.4.a Therapy Active 
+ 
+E.4.a.i Therapy Active 
+  
+E.4.a.i.a Physical / Occupational Therapy 
+ 
+ Recommended – to improve function, including range of 
+motion and strength. 
+  
+Frequency/Dose/Duration: Frequency of visits is usually 
+individualized based on severity of the limitation. Two to 
+three visits per week for two weeks are often used to 
+initiate an exercise program. Total numbers of visits may 
+be as few as two to three for mild patients or up to 12 to 15 
+with documentation of objective functional improvement. 
+ 
+ As part of the rehabilitation plan, patients should be 
+instructed to continue both active and passive therapy, at 
+home as an extension of the treatment process in order to 
+maintain improvement. 
+ 
+ Indications: All postoperative and conservatively managed 
+patients.   
+ Indications for Discontinuation: Resolution of pain, 
+intolerance, lack of efficacy or noncompliance.  
+ 
+E.4.a.i.b  Therapeutic Exercise 
+ 
+ Therapeutic exercise where the therapist instructs the 
+patient in a supervised clinic and home program to 
+increase strength of the supporting shoulder musculature. 
+Motions and muscles to be strengthened include shoulder 
+internal and external rotators, abductors and scapula 
+stabilizers. Isometrics are performed initially, progressing 
+to isotonic exercises as tolerated. 
+ 
+ Recommended - in select patients as clinically indicated.  
+ 
+ Frequency: Typically two to three times/week for eight to 
+12 weeks as noted below.  
+ 
+▪ Weeks 1-3: Isometrics in sling.  
+▪ Weeks 3-8: Progressive isotonic exercises.  
+▪ Weeks 8-12: Begin overhead activities when the 
+rotator cuff strength is normalized, and full active 
+elevation has been achieved. 
+ 
+
+[page 74]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   74   
+ 
+ 
+E.5 Superficial Heat and Cold 
+Superficial heat and cold therapies are thermal agents applied in various manners that 
+lower or raise the body tissue temperature for the reduction of pain, inflammation, and/or 
+effusion resulting from injury or induced by exercise. It may be used acutely with 
+compression and elevation. 
+ 
+Indications include acute pain, edema and hemorrhage, need to increase pain threshold, 
+reduce muscle spasm and promote stretching/flexibility. Includes portable cryotherapy 
+units. May be performed in conjunction with other active therapy or may be self-
+administered by the patient. 
+ 
+• Time to produce effect: Immediate. 
+• Frequency: two to five times per week. 
+• Optimum duration: three weeks as primary, or up to two months if used 
+intermittently as an adjunct to other therapeutic procedures, or longer for 
+adhesive capsulitis (Refer to Section D.2, Adhesive Capsulitis.) 
+• Maximum duration: two months. 
+ 
+E.6 Transcutaneous Electrical Nerve Stimulation (TENS) 
+ 
+TENS treatment should include at least one instructional session for proper application 
+and use. Indications include muscle spasm, atrophy and control of concomitant pain in 
+the office setting. Minimal TENS unit parameters should include pulse rate, pulse width 
+and amplitude modulation. Consistent, measurable, functional improvement must be 
+documented and determination of the likelihood of chronicity prior to the provision of a 
+home unit. TENS treatment should be used in conjunction with active physical therapy. 
+ 
+• Time to Produce Effect: Immediate. 
+• Frequency: Variable. 
+• Optimum Duration: 3 sessions. 
+• Maximum Duration: 3 sessions. Purchase or provide with home unit if effective. 
+ 
+E.7 Therapeutic Ultrasound With or Without Electrical Stimulation 
+Therapeutic ultrasound with or without electric stimulation using sonic generators to 
+deliver acoustic energy for therapeutic thermal and/or non- thermal soft tissue treatment. 
+Indications include scar tissue, adhesions, collagen fiber and muscle spasm, and the 
+need to extend muscle tissue or accelerate the soft tissue healing. 
+ 
+• Time to produce effect: six to 15 treatments. 
+• Frequency: three times/week. 
+• Optimum duration: four weeks, or longer for adhesive capsulitis. (Refer to 
+Section D.2, Adhesive Capsulitis.) 
+ 
+
+[page 75]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   75   
+ 
+ 
+E.8 Electrical Therapeutic Modality 
+Electrical Therapeutic Modality can be utilized as an adjunct for recovery. 
+In order to justify its use, one must provide documentation regarding 
+functional gains. 
+ 
+• Time to produce effect: eight to 12 sessions. 
+• Frequency: three times/week. 
+• Optimum duration: four weeks. 
+ 
+E.9 Return to Work 
+May return to work with no overhead activity, lifting, or repetitive motion with 
+the involved arm until cleared by the primary treating physician for heavier 
+activities. Each case regarding task tolerance should be individualized 
+based on the diagnosis and job demands. 
+ 
+E.10 Biofeedback 
+Not Recommended 
+ 
+E.11 Physical Medicine and Rehabilitation 
+ 
+E.11.a Instruction in Therapeutic Exercise and Proper Work Techniques 
+ 
+An active therapeutic exercise program may be beneficial and 
+should contain elements of improving patient flexibility, mobility, 
+posture/body mechanics, activities of daily living, splinting, bracing, 
+sensory reeducation, endurance, strength and education. 
+• Time to produce effect: 2 weeks. 
+• Frequency: 2-3 times/week. 
+• Optimum duration: 4-6 weeks, or longer for cases of adhesive 
+capsulitis. Refer to Section D.2.e, Non-Operative Treatment 
+Procedures (Adhesive Capsulitis/Frozen Shoulder). 
+• Maximum duration: 12 weeks. 
+ 
+E.11.b Manual Therapy Techniques 
+ 
+Soft tissue mobilization/manipulation techniques may be used as 
+an adjunctive treatment modality. 
+ 
+E.11.c Post-Operative Treatment 
+ 
+Post-Operative Treatment may include scar/adhesion reduction 
+
+[page 76]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   76   
+ 
+ 
+techniques. 
+ 
+E.12 Therapy:  Ongoing Maintenance Care 
+A maintenance program of physical therapy or occupational therapy may be indicated 
+in certain situations, after the determination of MMI, when tied to maintenance of 
+functional status. 
+ 
+• Although the current body of scientific evidence as reviewed does not support 
+the routine use of this intervention, maintenance therapy modalities may be 
+indicated in certain situations in order to maintain functional status, without 
+which an objective deterioration of function has been previously observed and 
+documented in the medical record. 
+ 
+• Specific objective goals should be identified and measured in order to support 
+the need for ongoing maintenance care. 
+ 
+• Progressively longer trials of therapeutic withdrawal are to be attempted to 
+ascertain whether therapeutic goals can be maintained in the absence of 
+clinical interventions. 
+ 
+• Within a year and annually thereafter, a trial without maintenance treatment 
+should be instituted. 
+ 
+• The care of chronic shoulder symptoms should include an ongoing patient self-
+management plan performed by the patient regularly and a self-directed pain 
+management plan initiated as indicated: 
+• An ongoing clinically appropriate self-management plan, typically 
+independent, home-based and self-directed, developed jointly by the provider 
+and patient, should be implemented to encourage physical activity and/or work 
+activities despite residual pain, with the goal of preserving function. 
+ 
+• In addition to the self-management plan, a self-directed pain management 
+plan should be developed which can be initiated by the patient in the event 
+that symptoms worsen and function decreases. 
+ 
+• If deterioration of ability to maintain function is documented, reinstatement of 
+ongoing maintenance may be acceptable. 
+ 
+Frequency: Maximum up to ten visits/year, after the determination of MMI, 
+according to objectively documented maintenance of functional status. No 
+variance from the maximum frequency is permitted. 
+ 
+Ongoing Maintenance Care is a component of the Functional Maintenance Care 
+recommendations detailed in the New York Non-Acute Pain Medical Treatment 
+
+[page 77]
+ 
+ 
+NYS WCB MTG – Shoulder  Injury   77   
+ 
+ 
+Guidelines. Please consult the New York Non-Acute Pain Medical Treatment Guidelines 
+for additional information. 
+ 
+ 
+ 
+ 
+Sources: 
+ 
+This Treatment Guideline is adopted, with modifications, from the State of Colorado’s 
+Shoulder Injury Medical Treatment Guideline with supplementation from the State of 
+Washington’s Medical and Surgical Treatment Guidelines. 
+ 
+Revised: July 2021 

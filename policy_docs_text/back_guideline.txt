@@ -1,0 +1,3292 @@
+[page 1]
+Medical
+Treatment
+Guidelines
+Mid and Low Back Injury
+Effective May 2, 2022
+Adapted by NYS Workers’ Compensation Board (“WCB”) from MDGuidelines® with permission of Reed Group, Ltd. (“ReedGroup”), which 
+is not responsible for WCB’s modifications. MDGuidelines® are Copyright 2019 Reed Group, Ltd. All Rights Reserved. No part of this 
+publication may be reproduced, displayed, disseminated, modified, or incorporated in any form without prior written permission from 
+ReedGroup and WCB. Notwithstanding the foregoing, this publication may be viewed and printed solely for internal use as a reference, 
+including to assist in compliance with WCL Sec. 13-0 and 12 NYCRR Part 44[0], provided that (i) users shall not sell or distribute, display, or 
+otherwise provide such copies to others or otherwise commercially exploit the material. Commercial licenses, which provide access to the 
+online text-searchable version of MDGuidelines®, are available from ReedGroup at www.mdguidelines.com.
+
+[page 2]
+Contributors 
+The NYS Workers’ Compensation Board would like to thank the members of the New York 
+Workers’ Compensation Board Medical Advisory Committee (MAC). The MAC served as the 
+Board’s advisory body to adapt the American College of Occupational and Environmental 
+Medicine (ACOEM) Practice Guidelines to a New York version of the Medical Treatment 
+Guidelines (MTG). In this capacity, the MAC provided valuable input and made recommendations 
+to help guide the final version of these Guidelines. With full consensus reached on many topics, 
+and a careful review of any dissenting opinions on others, the Board established the final product.   
+ 
+New York State Workers’ Compensation Board Medical Advisory Committee 
+ 
+Joseph Canovas, Esq. 
+Special Counsel  
+New York State AFL-CIO 
+ 
+Kenneth B. Chapman, MD 
+Director Pain Medicine, SIUH Northwell Health Systems 
+Assistant Clinical Professor, NYU Langone Medical Center 
+Adjunct Assistant Professor, Hofstra Medical School 
+ 
+Robert Goldberg, DO 
+Attending Physician, Department of Rehabilitation, Beth Israel Hospital and Medical Center of 
+NYC 
+Professor of Physical Medicine and Rehabilitation and Health Policy 
+Clinical Associate Professor of Rehabilitation Medicine, New York Medical College 
+Clinical Professor of Rehabilitation Medicine, Philadelphia College of Osteopathic Medicine 
+Member Council on Medical Education of the American Medical Association  
+ 
+Brian M. Gordon, MD 
+Former Medical Director, 
+New York State Workers’ Compensation Board 
+ 
+Frank Kerbein, SPHR 
+Director, Center for Human Resources 
+The Business Council of New York State, Inc. 
+ 
+Joseph Pachman, MD, PhD, MBA, MPH 
+Licensed Psychologist and Physician 
+Board Certified in Occupational Medicine 
+Fellow in ACOEM 
+Vice President and National Medical Director, Liberty Mutual  
+ 
+James A. Tacci, MD, JD, MPH 
+Medical Director and Executive Medical Policy Director, 
+New York State Workers’ Compensation Board 
+ 
+Edward C. Tanner, MD 
+Chair, Department of Orthopaedics at Rochester General Hospital 
+Past President, New York State Society of Orthopaedic Surgeons (NYSSOS) 
+Member, American Academy of Orthopaedic Surgeons (AAOS) 
+Member, American Association of Hip and Knee Surgeons (AAHKS) 
+  
+
+[page 3]
+This guideline is based upon Chapter 12, Low Back Disorders (Revised 2007) of the Occupational 
+Medicine Practice Guidelines, 2nd Edition published and copyrighted by the American College of 
+Occupational and Environmental Medicine. Copyright 2008, 2007, 2004, 1997 by the American 
+College of Occupational and Environmental Medicine (ACOEM). Commercial reproduction or 
+other use beyond fair use prohibited without explicit ACOEM permission. 
+The American College of Occupational and Environmental Medicine has granted the Workers’ 
+Compensation Board permission to publish the Low Back Disorders portion of the Occupational 
+Medicine Practice Guidelines, 2nd Edition in connection with the adoption of this guideline, 
+including making this guideline available in print and on its website for informational and 
+educational purposes. Use of the ACOEM portions of this guideline beyond fair use or for 
+commercial purpose, or both may only occur upon receipt of explicit permission from ACOEM. 
+ 
+ 
+Revised July 2021
+
+[page 4]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  1 
+ 
+ 
+Table of Contents 
+A. General Guideline Principles ............................................................................................ 3 
+A.1  Medical Care .............................................................................................................. 3 
+A.2 Rendering Of Medical Services............................................................................... 3 
+A.3 Positive Patient Response ....................................................................................... 3 
+A.4 Re-Evaluate Treatment............................................................................................. 3 
+A.5 Education .................................................................................................................... 3 
+A.6 Acuity ........................................................................................................................... 4 
+A.7 Initial Evaluation......................................................................................................... 4 
+A.8  Diagnostic Time Frames........................................................................................... 4 
+A.9 Treatment Time Frames ........................................................................................... 4 
+A.10 Delayed Recovery ..................................................................................................... 4 
+A.11 Active Interventions ................................................................................................... 5 
+A.12 Active Therapeutic Exercise Program .................................................................... 5 
+A.13 Diagnostic Imaging And Testing Procedures ........................................................ 5 
+A.14 Surgical Interventions ............................................................................................... 6 
+A.15 Pre-Authorization ....................................................................................................... 6 
+A.16 Psychological/Psychiatric Evaluations ................................................................... 6 
+A.17 Personality/Psychological/Psychosocial Intervention .......................................... 7 
+A.18 Functional Capacity Evaluation (FCE) ................................................................... 7 
+A.19 Return To Work.......................................................................................................... 8 
+A.20 Job Site Evaluation.................................................................................................... 8 
+A.21 Guideline Recommendations And Medical Evidence .......................................... 9 
+A.22 Experimental/Investigational Treatment ................................................................ 9 
+A.23  Injured Workers As Patients .................................................................................... 9 
+A.24  Scope Of Practice...................................................................................................... 9 
+B. Introduction to Mid and Lower Back Injury ................................................................. 10 
+B.1 History Taking and Physical Examination ........................................................... 10 
+B.2 Imaging / Anatomical Tests.................................................................................... 13 
+
+[page 5]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  2 
+ 
+B.3 Laboratory Testing................................................................................................... 14 
+B.4 Follow-Up Diagnostic Imaging and Testing Procedures ................................... 14 
+C. Diagnostic Studies ............................................................................................................. 15 
+C.1 Imaging Studies ....................................................................................................... 15 
+C.2 Other Tests / Procedures ....................................................................................... 20 
+D. Therapeutic Procedures:  Non-Operative .................................................................... 21 
+D.1 Acupuncture ............................................................................................................. 22 
+D.2  Appliances ................................................................................................................ 23 
+D.3 Bed Rest ................................................................................................................... 23 
+D.4 Biofeedback .............................................................................................................. 24 
+D.5 Electrical Therapies................................................................................................. 24 
+D.6 Injections:  Therapeutic Spinal .............................................................................. 26 
+D.7 Medications............................................................................................................... 36 
+D.8 Rehabilitation............................................................................................................ 43 
+D.9 Therapy – Ongoing Maintenance Care ................................................................ 51 
+D.10 Radiofrequency Ablation, Neurotomy, Facet Rhizotomy .................................. 52 
+E. Therapeutic Procedures:  Operative ............................................................................. 54 
+E.1 Discectomy, Microdiscectomy, Suquestrectomy, Endoscopic Decompression
+ 54 
+E.2 Adhesiolysis.............................................................................................................. 55 
+E.3 Decompressive Surgery (Laminotomy / Facetectomy Laminectomy .............. 55 
+E.4 Spinal Fusion............................................................................................................ 55 
+E.5 Electrical Bone Growth Stimulators ...................................................................... 56 
+E.6 Disc Replacement ................................................................................................... 57 
+E.7 Vertebroplasty and Kyphoplasty ........................................................................... 58 
+E.8 Sacroiliac Surgery ................................................................................................... 58 
+E.9 Intraoperative Monitoring / Image Guidance / Robotic Surgery ....................... 60 
+E.10 Implantable Spinal cord Stimulators (SCS) ......................................................... 60 
+ 
+
+[page 6]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  3 
+ 
+A. General Guideline Principles  
+The principles summarized in this section are key to the intended application of the New 
+York State Medical Treatment Guidelines (MTG) and are applicable to all Workers’ 
+Compensation Medical Treatment Guidelines.  
+ 
+A.1  Medical Care 
+Medical care and treatment required as a result of a work-related injury should be 
+focused on restoring functional ability required to meet the patient’s daily and work 
+activities with a focus on a return to work, while striving to restore the patient’s 
+health to its pre-injury status in so far as is feasible.  
+ 
+A.2 Rendering Of Medical Services  
+Any medical provider rendering services to a workers’ compensation patient must 
+utilize the Treatment Guidelines as provided for with respect to all work-related 
+injuries and/or illnesses. 
+ 
+A.3 Positive Patient Response  
+Positive results are defined primarily as functional gains which can be objectively 
+measured. Objective functional gains include, but are not limited to, positional 
+tolerances, range of motion, strength, endurance, activities of daily living (ADL), 
+cognition, psychological behavior, and efficiency/velocity measures which can be 
+quantified. Subjective reports of pain and function may be considered and given 
+relative weight when the pain has anatomic and physiologic correlation in 
+proportion to the injury. 
+ 
+A.4 Re-Evaluate Treatment   
+If a given treatment or modality is not producing positive results within a well-
+defined timeframe, the provider should either modify or discontinue the treatment 
+regime. The provider should evaluate the efficacy of the treatment or modality 2 to 
+3 weeks after the initial visit and 3 to 4 weeks thereafter. These timeframes may be 
+slightly longer in the context of conditions that are inherently mental health issues, 
+and shorter for other non-musculoskeletal medical conditions (e.g. pulmonary, 
+dermatologic etc.). Recognition that treatment failure is at times attributable to an 
+incorrect diagnosis a failure to respond should prompt the clinician to reconsider 
+the diagnosis in the event of an unexpected poor response to an otherwise rational 
+intervention.  
+  
+A.5 Education  
+Education of the patient and family, as well as the employer, insurer, policy makers 
+and the community should be a primary emphasis in the treatment of work-related 
+injury or illness. Practitioners should develop and implement effective educational 
+strategies and skills. An education-based paradigm should always start with 
+communication providing reassuring information to the patient. No treatment plan is 
+complete without addressing issues of individual and/or group patient education as 
+a means of facilitating self-management of symptoms and prevention of future 
+injury. 
+ 
+
+[page 7]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  4 
+ 
+Time Frames 
+ 
+A.6 Acuity 
+Acute, Subacute and Chronic are generally defined as timeframes for disease 
+stages: 
+• Acute – Less than one month 
+• Subacute - One to three month, and  
+• Chronic - greater than three months. 
+•  
+A.7 Initial Evaluation 
+Initial evaluation refers to the acute timeframe following an injury and is not used to 
+define when a given physician first evaluates an injured worker (initial encounter) in 
+an office or clinical setting. 
+ 
+A.8  Diagnostic Time Frames 
+Diagnostic time frames for conducting diagnostic testing commence on the date of 
+injury. Clinical judgment may substantiate the need to accelerate or decelerate the 
+time frames discussed in this document.  
+ 
+A.9 Treatment Time Frames  
+Treatment time frames for specific interventions commence once treatments have 
+been initiated, not on the date of injury. It is recognized that treatment duration may 
+be impacted by disease process and severity, patient compliance, as well as 
+availability of services. Clinical judgment may substantiate the need to accelerate 
+or decelerate the time frames discussed in this document. 
+ 
+A.10 Delayed Recovery  
+For those patients who fail to make expected progress 6-12 weeks after an injury 
+and whose subjective symptoms do not correlate with objective signs and tests, 
+reexamination in order to confirm the accuracy of the diagnosis and re-evaluation of 
+the treatment program should be performed. When addressing a clinical issue that 
+is not inherently a mental health issue, assessment for potential barriers to 
+recovery (yellow flags/psychological issues) should be ongoing throughout the care 
+of the patient.  At 6-12 weeks, alternate treatment programs, including formal 
+psychological or psychosocial evaluation should be considered. Clinicians must be 
+vigilant for any pre-existing mental health issues or subsequent, consequential 
+mental health issues that may be impacting recovery. For issues that are clearly 
+and inherently mental health issues from the outset (i.e. when it is evident that 
+there is an underlying, work-related, mental health disorder as part of the claim at 
+issue), referral to a mental health provider can and should occur much sooner. 
+Referrals to mental health providers for the evaluation and management of delayed 
+recovery do not indicate or require the establishment of a psychiatric or 
+psychological condition. The evaluation and management of delayed recovery does 
+not require the establishment of a psychiatric or psychological claim. 
+ 
+ 
+ 
+
+[page 8]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  5 
+ 
+Treatment Approaches 
+ 
+A.11 Active Interventions  
+Active interventions emphasizing patient responsibility, such as therapeutic 
+exercise and/or functional treatment, are generally emphasized over passive 
+modalities, especially as treatment progresses. Generally, passive and palliative 
+interventions are viewed as a means to facilitate progress in an active rehabilitation 
+program with concomitant attainment of objective functional gains. 
+ 
+A.12 Active Therapeutic Exercise Program  
+Active therapeutic exercise program goals should incorporate patient strength, 
+endurance, flexibility, range of motion, sensory integration, coordination, cognition 
+and behavior (when at issue) and education as clinically indicated. This includes 
+functional application in vocational or community settings. 
+ 
+A.13 Diagnostic Imaging And Testing Procedures  
+Clinical information obtained by history taking and physical examination should be 
+the basis for selection of imaging procedures and interpretation of results. All 
+diagnostic procedures have characteristic specificities and sensitivities for various 
+diagnoses. Usually, selection of one procedure over others depends upon various 
+factors, which may include: relative diagnostic value; risk/benefit profile of the 
+procedure; availability of technology; a patient’s tolerance; and/or the treating 
+practitioner’s familiarity with the procedure. 
+ 
+When a diagnostic procedure, in conjunction with clinical information, provides 
+sufficient information to establish an accurate diagnosis, a second diagnostic 
+procedure is not required. However, a subsequent diagnostic procedure including a 
+repeat of the original (same) procedure can be performed, when the specialty 
+physician (e.g. physiatrist, sports medicine physician or other appropriate 
+specialist) radiologist or surgeon documents that the initial study was of inadequate 
+quality to make a diagnosis. Therefore, in such circumstances, a repeat or 
+complementary diagnostic procedure is permissible under the MTG.  
+ 
+It is recognized that repeat imaging studies and other tests may be warranted by 
+the clinical course and/or to follow the progress of treatment in some cases. It may 
+be of value to repeat diagnostic procedures (e.g., imaging studies) during the 
+course of care to reassess or stage the pathology when there is progression of 
+symptoms or findings, prior to surgical interventions and/or therapeutic injections 
+when clinically indicated, and post-operatively to follow the healing process. 
+Regarding serial imaging, (including x-rays, but particularly CT scans), it must be 
+recognized that repeat procedures result in an increase in cumulative radiation 
+dose and associated risks. 
+ 
+A given diagnostic imaging procedure may provide the same or distinctive 
+information as obtained by other procedures. Therefore, prudent choice of 
+procedures(s) for a single diagnostic procedure, a complementary procedure in 
+combination with other procedures(s), or a proper sequential order in multiple 
+procedures will ensure maximum diagnostic accuracy, minimize the likelihood of 
+adverse effect on patients, and promote efficiency by avoiding duplication or 
+
+[page 9]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  6 
+ 
+redundancy.  
+ 
+A.14 Surgical Interventions   
+Consideration of surgery should be within the context of expected functional 
+outcome. The concept of "cure" with respect to surgical treatment by itself is 
+generally a misnomer. All operative interventions must be based upon positive 
+correlation of clinical findings, clinical course and imaging and other diagnostic 
+tests.  A comprehensive assimilation of these factors must lead to a specific 
+diagnosis with positive identification of pathologic condition(s). For surgery to be 
+performed to treat pain, there must be clear correlation between the pain symptoms 
+and objective evidence of its cause. In all cases, shared decision making with the 
+patient is advised. The patient should be given the opportunity to understand the 
+pros and cons of surgery, potential for rehabilitation as an alternative where 
+applicable, evidence-based outcomes, and specific surgical experience. 
+ 
+A.15 Pre-Authorization 
+All diagnostic imaging, testing procedures, non-surgical and surgical therapeutic 
+procedures, and other therapeutics within the criteria of the Medical Treatment 
+Guidelines and based on a correct application of the Medical Treatment Guidelines 
+are considered authorized, with the exception of the procedures listed in section 
+324.3(1)(a) of Title 12 NYCRR. These are not included on the list of pre-authorized 
+procedures. Providers who want to perform one of these procedures must request 
+pre-authorization from the carrier before performing the procedure.   
+ 
+Second or subsequent procedures (the repeat performance of a surgical procedure 
+due to failure of, or incomplete success from the same surgical procedure 
+performed earlier, if the Medical Treatment Guidelines do not specifically address 
+multiple procedures) also require pre-authorization. 
+ 
+A.16 Psychological/Psychiatric Evaluations  
+In select patients, mental health evaluations are essential to make, secure or 
+confirm a diagnosis. Of course, the extent and duration of evaluations and/or 
+interventions by mental health professionals may vary, particularly based on 
+whether: the underlying clinical issue in the claim is inherently a mental health 
+issue; or there is a mental health issue that is secondary or consequential to the 
+medical injury or illness that is at issue in the claim in question; or there is a pre-
+existing, unrelated mental health issue that has been made worse by, or is 
+impeding the recovery from (or both) the medical injury or illness that is at issue in 
+the claim in question. 
+ 
+Tests of psychological function or psychometric testing, when indicated, can be a 
+valuable component of the psychological evaluation in identifying associated 
+psychological, personality and psychosocial issues. Although these instruments 
+may suggest a diagnosis, neither screening nor psychometric tests are capable of 
+making a diagnosis. The diagnosis should only be made after careful analysis of all 
+available data, including from a thorough history and clinical interview. 
+  
+A professional fluent in the primary language of the patient is strongly preferred.  
+When such a provider is not available, services of a professional language 
+interpreter must be provided.  
+
+[page 10]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  7 
+ 
+ 
+Frequency: When assessing for a pre-existing, unrelated mental health issue that 
+has been made worse by, or is impeding the recovery from (or both) a work-related, 
+medical injury or illness, then a one-time visit for initial psychiatric/psychological 
+encounter should be sufficient, as care would normally be continued by the prior 
+treating provider. If psychometric testing is indicated by findings in the initial 
+encounter, time for such testing should not exceed an additional three hours of 
+professional time. For conditions in which a mental health issue is a central part of 
+the initial claim, or in which there is a mental health issue that is secondary or 
+consequential to the work-related, medical injury or illness, that is part of the claim 
+in question, then more extensive diagnostic and therapeutic interventions may be 
+clinically indicated, and are discussed in detail in the Medical Treatment Guidelines 
+for such mental health conditions. 
+ 
+A.17 Personality/Psychological/Psychosocial Intervention  
+Following psychosocial evaluation, when intervention is recommended, such 
+intervention should be implemented as soon as possible. This can be used alone or 
+in conjunction with other treatment modalities. For all psychological/psychiatric 
+interventions, there must be an assessment and treatment plan with measurable 
+behavioral goals, time frames and specific interventions planned.  
+   
+• Time to produce effect: two to eight weeks. 
+• Optimum duration: six weeks to three months. 
+• Maximum duration: three to six months.   
+• Counseling is not intended to delay but rather to enhance functional 
+recovery.   
+ 
+For PTSD Psychological Intervention:  
+• Optimum duration three to six months.  
+• Maximum duration: nine to twelve months.  
+ 
+For select patients, longer supervision and treatment may be required, and if further 
+treatment is indicated, documentation of the nature of the psychological factors, as 
+well as projecting a realistic functional prognosis, should be provided by the 
+authorized treating practitioner every four weeks during the first six months of 
+treatment. For treatment expected to last six to twelve months, such documentation 
+should be provided every four to eight weeks. For long-term treatment beyond 
+twelve months, such documentation should be provided every eight to twelve 
+weeks. All parties should strive for ongoing and continuous communications, in 
+order to facilitate seamless, continuous and uninterrupted treatment.  
+ 
+A.18 Functional Capacity Evaluation (FCE)  
+Functional capacity evaluation is a comprehensive or more restricted evaluation of 
+the various aspects of function as they relate to the patient’s ability to return to 
+work. Areas such as endurance, lifting (dynamic and static), postural tolerance, 
+specific range-of-motion, coordination and strength, worker habits, employability, as 
+well as psychosocial, cognitive, and sensory perceptual aspects of competitive 
+employment may be evaluated. Components of this evaluation may include: (a) 
+musculoskeletal screen; (b) cardiovascular profile/aerobic capacity; (c) 
+
+[page 11]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  8 
+ 
+coordination; (d) lift/carrying analysis; (e) job-specific activity tolerance; (f) 
+maximum voluntary effort; (g) pain assessment/psychological screening; (h) non-
+material and material handling activities; (i) cognitive and behavioral; (j) visual; and 
+(k) sensory perceptual factors. 
+ 
+In most cases, the question of whether a patient can return to work can be 
+answered without an FCE. 
+ 
+An FCE may be considered at time of MMI, following reasonable prior attempts to 
+return to full duty throughout course of treatment, when the treating physician is 
+unable to make a clear determination on work status on case closure. An FCE is 
+not indicated early during a treatment regime for any reason including one to 
+support a therapeutic plan.   
+  
+When an FCE is being used to determine return to a specific job site, the treating 
+physician is responsible for understanding and considering the job duties. FCEs 
+cannot be used in isolation to determine work restrictions. The authorized treating 
+physician must interpret the FCE in light of the individual patient's presentation and 
+medical and personal perceptions. FCEs should not be used as the sole criteria to 
+diagnose malingering.  
+ 
+A.19 Return To Work  
+For purposes of these guidelines, return to work is defined as any work or duty that 
+the patient is able to perform safely. It may not be the patient’s regular work.  
+Ascertaining a return to work status is part of medical care, and should be included 
+in the treatment and rehabilitation plan.  It is normally addressed at every outpatient 
+visit. A description of the patient’s status and task limitations is part of any 
+treatment plan and should provide the basis for restriction of work activities when 
+warranted. Early return to work should be a prime goal in treating occupational 
+injuries. The emphasis within these guidelines is to move patients along a 
+continuum of care and return to work, since the prognosis of returning an injured 
+worker to work drops progressively the longer the worker has been out of work. 
+ 
+A.20 Job Site Evaluation  
+The treating physician may communicate with the employer or employer’s 
+designee, either in person, by video conference, or by telephone, to obtain 
+information regarding the individual or specific demands of the patient’s pre-injury 
+job.  This may include a description of the exertional demands of the job, the need 
+for repetitive activities, load lifting, static or awkward postures, environmental 
+exposures, psychological stressors and other factors that would pose a barrier to 
+re-entry, risk of re-injury or disrupt convalescence. When returning to work at the 
+patient’s previous job tasks or setting is not feasible, given the clinically 
+determined restrictions on the patient’s activities, inquiry should be made about 
+modified duty work settings that align with, the patient’s condition in view of 
+proposed work activities/demands in modified duty jobs. It should be noted, that 
+under certain circumstances, more than one job site evaluation may be indicated. 
+ 
+Ideally, the physician would gain the most information from an on-site inspection of 
+the job settings and activities; but it is recognized that this may not be feasible in 
+most cases. If job videos/CDs/DVDs are available from the employer, these can 
+
+[page 12]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  9 
+ 
+contribute valuable information, as can video conferences, conducted from the 
+worksite and ideally workstation or work area. 
+  
+Frequency:  one or two contacts 
+• 1st contact: Patient is in a functional state where the patient can perform 
+some work. 
+• 2nd contact: Patient has advanced to state where the patient is capable of 
+enhanced functional demands in a work environment. 
+ 
+The physician shall document the conversation. 
+ 
+Other 
+ 
+A.21 Guideline Recommendations And Medical Evidence  
+The Workers’ Compensation Board and its Medical Advisory Committee have not 
+independently evaluated or vetted the scientific medical literature used in support of 
+the guidelines but have relied on the methodology used by the developers of 
+various guidelines utilized and referenced in these Guidelines. 
+ 
+A.22 Experimental/Investigational Treatment  
+Medical treatment that is experimental/investigational and not approved for any 
+purpose, application or indication by the FDA is not permitted under these 
+Guidelines. 
+ 
+A.23  Injured Workers As Patients  
+In these Guidelines, injured workers are referred to as patients recognizing that in 
+certain circumstances there is no doctor-patient relationship. 
+ 
+A.24  Scope of Practice   
+These Guidelines do not address scope of practice or change the scope of 
+practice. 
+ 
+  
+
+[page 13]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  10 
+ 
+Mid and Low Back Injury 
+Effective date will coincide with the launch of OnBoard: Limited Release 
+ 
+ 
+B. Introduction to Mid and Lower Back Injury  
+ 
+B.1 History Taking and Physical Examination 
+History taking and physical examination establish the foundation/basis for and 
+dictate subsequent stages of diagnostic and therapeutic procedures. 
+ 
+When findings of clinical evaluations and those of other diagnostic procedures are 
+not consistent with each other, the objective clinical findings have greater weight. 
+The medical records should reasonably document the following: 
+ 
+B.1.a. History of Present Illness 
+ 
+A detailed history, taken in temporal proximity to the time of injury, should 
+primarily guide evaluation and treatment. The history should include: 
+ 
+B.1.a.i Mechanism of Injury: This includes details of symptom onset 
+and progression. The mechanism of injury should include a 
+detailed description of the incident and the position of the body 
+before, during, and at the end of the incident. Inclusion of work 
+body postures, frequency during the workday and 
+lifting/push/pull requirements should be included in the absence 
+of a known specific incident. 
+ 
+B.1.a.ii Location of pain, nature of symptoms, and alleviating/ 
+exacerbating factors (e.g. sitting tolerance). The history should 
+include both the primary and secondary complaints (e.g., 
+primary back pain, secondary hip, groin pain). 
+ 
+B.1.a.iii The use of an accepted pain assessment tool, (e.g. the Visual 
+Analog Scale [VAS]) is highly recommended, especially during 
+the first two weeks following injury, to assure that all work-
+related symptoms, including pain, are being addressed. 
+ 
+B.1.a.iv Presence and distribution of lower extremity numbness, 
+paresthesias, or weakness, especially if precipitated or 
+worsened by coughing or sneezing. 
+ 
+B.1.a.v Alteration in bowel, bladder or sexual function. 
+ 
+B.1.a.vi Prior occupational and non-occupational injuries to the same 
+area including specific prior treatment, history of specific prior 
+motor vehicle accidents, chronic or recurrent symptoms, and 
+any functional limitations. Review of any prior spinal imaging 
+studies.  
+
+[page 14]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  11 
+ 
+ 
+B.1.a.vii History of emotional and/or psychological reactions to the 
+current injury/illness. 
+ 
+B.1.a.viii Ability to perform job duties and activities of daily living. 
+ 
+B.1.b  Past History 
+ 
+B.1.b.i Comprehensive past medical history. 
+ 
+B.1.b.ii A review of systems should be conducted, the elements of which 
+may include signs or symptoms related to the following systems: 
+constitutional symptoms; eyes; ear, nose, mouth, and throat; 
+cardiovascular; respiratory; gastrointestinal; genitourinary; 
+musculoskeletal; integumentary/breast; neurological; psychiatric; 
+endocrine; hematologic/lymphatic; allergic/immunologic. Based on 
+the underlying condition being addressed, and clinical judgement, 
+the breadth and focus of the review of systems can be tailored on 
+a case by case basis.    
+ 
+B.1.b.iii Smoking history. 
+ 
+B.1.b.iv Vocational and recreational pursuits. 
+ 
+B.1.b.v History of depression, anxiety, or other psychiatric illness. 
+ 
+B.1.c Physical Examination 
+ 
+Guided by the medical history, should include accepted tests and exam 
+techniques applicable to the area being examined, including: 
+ 
+B.1.c.i Vital signs; 
+ 
+B.1.c.ii General inspection, including posture, stance and gait; 
+ 
+B.1.c.iii Visual inspection; 
+ 
+B.1.c.iv Palpation; 
+ 
+B.1.c.v Lumbar range of motion, quality of motion, and presence of 
+muscle spasm. Motion evaluation of specific joints may be 
+indicated. 
+ 
+B.1.c.vi Examination of thoracic spine and pelvis; 
+ 
+B.1.c.vii Nerve tension testing. When the Lassegue Test (Straight Leg 
+Raise test) is performed, a result is generally not considered to 
+be positive at an elevation less than 25 or greater than 60 
+degrees (and degrees should always be reported). 
+ 
+
+[page 15]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  12 
+ 
+B.1.c.viii Sensory and motor examination of the lower extremities with 
+specific nerve root focus. 
+ 
+B.1.c.ix Deep tendon reflexes. 
+ 
+B.1.c.x If applicable, abdominal examination, , circumferential lower 
+extremity measurements, or evaluation other lower extremity 
+abnormalities. 
+ 
+B.1.c.xi Hip exam to include ROM, pain, deformity etc.  
+ 
+B.1.c.xii Lower extremity vascular exam to include palpation of distal 
+pulses.  
+ 
+B.1.d Spinal Cord Evaluation 
+ In cases where the mechanism of injury, history, or clinical presentation 
+suggests a possible severe injury, additional evaluation is indicated. A full 
+neurological examination for possible spinal cord injury may include: 
+ 
+B.1.d.i Sharp and light touch, deep pressure, temperature and 
+proprioceptive sensory function; 
+ 
+B.1.d.ii Strength testing; 
+ 
+B.1.d.iii Anal sphincter tone and/or perianal sensation; 
+ 
+B.1.d.iv Presence of pathological reflexes. 
+ 
+B.1.d.v Spinal cord lesions should be classified according to the 
+American Spine Injury Association (ASIA) impairment scale. 
+ 
+ASA Impairment Scale 
+A Complete  No motor or sensory function is preserved in the 
+sacral segments S4 – S5 
+B Incomplete Sensory but not motor function is preserved below 
+the neurological level and includes the sacral 
+segments S4 – S5. 
+C Incomplete Motor function is preserved below the neurological 
+level, and more than half of key muscles below the 
+neurological level have a muscle grade less than 
+three. 
+D Incomplete Motor function is preserved below the neurological 
+level, and at least half of key muscles below the 
+neurological level have a grade three or more. 
+E Normal  Motor and sensory function are normal.  
+ 
+ 
+A worksheet which details dermatomes and muscle testing required is 
+available from ASIA. 
+ 
+
+[page 16]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  13 
+ 
+ 
+ 
+B.1.e Red Flags 
+Certain findings, “red flags,” raise suspicion of potentially serious and urgent 
+medical conditions. Assessment (history and physical examination) should 
+include evaluation for red flags. In the mid and low back, these findings or 
+indicators may include: acute fractures, dislocations, infection, tumor, 
+progressive neurologic deficit or cauda equina syndrome, and extraspinal 
+disorders. Further evaluation/consultation or urgent/emergent intervention 
+may be indicated, and the New York Mid and Low Back Injury Guidelines 
+incorporate changes in clinical management triggered by the presence of 
+“red flags.” 
+ 
+B.2 Imaging / Anatomical Tests 
+ 
+Imaging studies should not be routinely performed without indications. 
+ 
+Physicians should be aware that “abnormal” findings on x-rays, magnetic 
+resonance images, and other diagnostic tests are frequently seen by age 40 even 
+in asymptomatic individuals. Bulging discs continue to increase after that point 
+and by approximately age 60, will be encountered in a majority of patients. This 
+requires that a careful history and physical examination be conducted by a 
+physician in order to correlate historical, clinical, and imaging findings prior to 
+diagnosing and attributing a patient’s complaints to the finding on imaging. The 
+focus of treatment should be improving symptoms and function, and not the 
+correction of abnormalities on imaging studies. 
+ 
+
+
+[page 17]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  14 
+ 
+B.3 Laboratory Testing 
+ 
+Laboratory tests are rarely indicated at the time of initial evaluation, unless there is 
+a suspicion of systemic illness, infection, neoplasia or underlying rheumatologic 
+disorder, connective tissue disorder, or other findings based on history and/or 
+physical examination. Laboratory tests can provide useful diagnostic information. 
+Tests include, but are not limited to: 
+ 
+B.3.i Complete blood count (CBC) with differential  
+ 
+ Recommended - for patients with suspicion of infection, blood dyscrasias, 
+and medication side effects. 
+ 
+B.3.ii Erythrocyte sedimentation rate (ESR), rheumatoid factor (RF), anti-
+nuclear antigen (ANA), human leukocyte antigen (HLA), and C-
+reactive protein (CRP) 
+ 
+ Recommended - to detect evidence of a rheumatologic, infection, or 
+connective tissue disorder. 
+ 
+B.3.iii Serum calcium, phosphorous, uric acid, alkaline phosphatase, and 
+acid phosphatase  
+ 
+ Recommended - in select patients with suspicion of metabolic bone 
+disease. 
+ 
+B.3.iv Liver and kidney function  
+ 
+ Recommended - in select patients with prolonged anti-inflammatory use 
+or other medications requiring monitoring. 
+ 
+B.3.v Serum Protein Electrophoresis  
+ 
+ Recommended - to evaluate for multiple myeloma.  
+ 
+B.4 Follow-Up Diagnostic Imaging and Testing Procedures 
+ 
+ As outlined in detail in General Principles section A-13, the selection of diagnostic 
+imaging studies depends on the case-specific clinical presentation, as well as 
+clinical judgment. In addition, there may be instances where repeat or alternate 
+diagnostic imaging may be clinically indicated. Such instances include, but are not 
+necessarily limited to when: a prior test is of poor quality and/or nondiagnostic; the 
+clinical situation changes (e.g. new or worsening symptoms, preparing for surgery 
+or therapeutic injections, etc.); it is necessary to monitor clinical progress (e.g. post-
+operatively) or deterioration over time.  
+Prudent choice of procedure(s) or a proper sequential order in multiple procedures 
+will ensure maximum diagnostic accuracy, minimize adverse effect to patients and 
+promote clinical efficiency. Repeat procedures result in an increase in cumulative 
+radiation dose and associated risks. 
+
+[page 18]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  15 
+ 
+ 
+Diagnostic imaging procedures have varying degrees of sensitivity and specificity 
+for any diagnosis. Clinical history, physical examination and clinical judgment 
+should be the basis for selection and interpretation of imaging studies.   
+ 
+Generally, plain X-rays are a useful starting point, but they are not always 
+sufficient.  Magnetic resonance imaging (MRI), myelography, or computed axial 
+tomography (CT) scanning following myelography may provide useful information 
+for many spinal disorders. Regarding CT examinations, it must be recognized that 
+repeat procedures result in an increase in cumulative radiation dose and 
+associated risks. In certain circumstances as stated above, repeat or alternate 
+imaging may be warranted. Usually, selection of one procedure over others 
+depends upon multiple factors.   
+ 
+After initial imaging is performed, as may be indicated by clinical presentation, 
+history of significant trauma or other clinical “red flags” that raise suspicions for 
+serious underlying conditions, in the absence of a significant neurologic 
+deficit/abnormality, myelopathy or progressive neurological changes, imaging 
+usually is not clinically indicated until conservative therapy has been tried and 
+failed. A minimum of four weeks, but as long as six to eight weeks of treatment 
+are usually an adequate period of time before an imaging procedure is in order, 
+but the clinician should use judgment in this regard. When the findings of the 
+diagnostic imaging and testing procedures are not consistent with the clinical 
+examination, objective clinical findings should be given greater weight. There is 
+good evidence that in the over-40, asymptomatic population, the prevalence of 
+disc degeneration is greater than 50%. Disc degeneration, seen as loss of signal 
+intensity on MRI, may be due to age-related changes causing biochemical 
+changes and structural changes separate and distinct from traumatic injury and 
+may not have pathological significance. Disc bulging and posterior disc protrusion, 
+while not rare, is less commonly symptomatic in the lumbar spine than in the 
+cervical spine due to the smaller cervical spinal canal.  Mild reduction in the cross-
+sectional area of the spinal cord may be seen without myelopathy in patients older 
+than 40; therefore, clinical correlation is required. 
+ 
+When indicated, the following studies can be utilized for further evaluation of mid 
+and low back injuries, based upon the mechanism of injury, symptoms, and patient 
+history.  The studies below are not listed in order of preference, clinical indication, 
+or clinical utility, as that may vary based on the clinical details of any given case.   
+ 
+C. Diagnostic Studies 
+ 
+C.1 Imaging Studies 
+ 
+C.1.a Roentgenograms (X-Rays) 
+ 
+C.1.a.i Routine x-rays for acute non-specific back pain.  
+ 
+ Recommended - for acute back pain with red flags for fracture or 
+serious systemic illness, back pain that is not improving, or non-
+
+[page 19]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  16 
+ 
+acute back pain, as an option to rule out other possible 
+conditions. 
+ 
+ Frequency/Duration: Obtaining x-rays once is generally sufficient 
+except in patients with fractures where more frequent monitoring 
+may be required. For patients with non-acute back pain, it may be 
+reasonable to obtain a second set months or years subsequently 
+to re-evaluate the patient’s condition, particularly if symptoms 
+change. 
+ 
+Not Recommended - in the absence of red flags (indicators of 
+potentially serious disease, such as fever, weight loss, nocturnal 
+pain, night sweats, bowel or bladder incontinence or major 
+trauma), imaging tests are not recommended in the first four to 
+six weeks of back pain symptoms. 
+ 
+C.1.a.ii Flexion and Extension Views  
+ 
+Recommended - for evaluating symptomatic spondylolisthesis in 
+which there is consideration for surgery or other invasive 
+treatment or occasionally in the setting of trauma. 
+ 
+Frequency/Duration: Obtaining flexion and extension and lateral 
+flexion and extension views are generally needed no more 
+frequently than every few years, in the absence of a rapidly 
+changing clinical course. 
+ 
+C.1.b Magnetic Resonance Imaging (MRI) 
+ 
+MRI is considered the gold standard in diagnostic imaging for defining 
+anatomy because it offers excellent resolution without radiation exposure.   
+While CT remains an important analytical tool especially for evaluating 
+bony or calcified structures of the spine, due to the greater resolution of 
+MRI, particularly with respect to soft tissue of the spine (nerve root 
+compression, spinal cord and nerve root abnormality), there is less need 
+for using CT at the current time. Ferrous material/metallic objects in tissue 
+may be a contraindication for the performance of an MRI. There are many 
+instances in which a metallic object may be dislodged by the MRI’s 
+magnetic field, causing significant harm, or even death. 
+ 
+Patients who have had prior thoracic or lumbar surgery, concerns for 
+malignancy or infection may require the use of Gadolinium enhancement for 
+the MRI study. This should be performed in consultation of the requesting 
+physician taking into account any underlying medical conditions that would 
+be a contraindication to an enhanced MRI.  
+ 
+Inadequate resolution on the first scan may require a second MRI using a 
+different technique. A subsequent diagnostic MRI may be a repeat of the 
+same procedure when the rehabilitation physician (e.g., physiatrist, sports 
+medicine physician etc.)  radiologist or surgeon documents that the study 
+
+[page 20]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  17 
+ 
+was of inadequate quality to make a diagnosis. All questions in this regard 
+should be discussed with the MRI center and/or radiologist. 
+ 
+C.1.b.i Recommended - for patients with acute back pain during the first 
+6 weeks if they have demonstrated a significant neurological 
+deficit, progressive neurologic deficit, cauda equina syndrome, 
+significant trauma, a history of neoplasia (cancer), or atypical 
+presentation (e.g., clinical picture suggests multiple nerve root 
+involvement). 
+ 
+C.1.b.ii Recommended - for acute radicular pain syndromes in the first 
+six weeks if the symptoms are severe and not trending towards 
+improvement and both the patient and the physician are willing to 
+consider prompt surgical treatment, assuming the MRI confirms 
+ongoing nerve root compression. 
+ 
+ Frequency/Duration: Repeat MRI imaging without significant 
+clinical deterioration in symptoms and/or signs is not 
+recommended. 
+ 
+C.1.b.iii Recommended - for patients with non-acute radicular pain 
+syndromes lasting at least six weeks, in whom the symptoms are 
+not trending towards improvement, if both the patient and 
+surgeon are considering prompt surgical treatment, assuming the 
+MRI confirms ongoing nerve root compression. 
+ 
+C.1.b.iv In cases where an epidural glucocorticosteroid injection is being 
+considered for temporary relief of acute or subacute 
+radiculopathy, MRI at three to four weeks (before the epidural 
+steroid injection) may be reasonable (see Section D.6, Injections: 
+Therapeutic Spinal). 
+ 
+C.1.b.v Recommended - as an option for the evaluation of select non-
+acute back pain patients in order to rule out concurrent pathology 
+unrelated to injury. This should rarely be considered before three 
+months and failure of several treatment modalities (including 
+NSAIDs, aerobic exercise, other exercise, and considerations for 
+manipulation, and/or acupuncture). 
+ 
+C.1.b.vi Not Recommended - for acute back pain or acute radicular pain 
+syndromes in the first six weeks, in the absence of red flags. 
+ 
+C.1.b.vii Not Recommended - standing or weight-bearing MRI is not 
+indicated for any back or radicular pain syndrome or condition. In 
+the absence of studies demonstrating improved patient 
+outcomes, this technology is currently considered 
+experimental/investigational. 
+ 
+ 
+ 
+
+[page 21]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  18 
+ 
+C.1.c Computerized Tomography (CT) 
+ 
+ Due to the far greater resolution of MRIs, particularly with respect to the soft 
+tissue structures of the spine, there is much less need for CT. However, CT 
+remains a good test to evaluate bony or calcified structures of the spine. CT 
+is most useful to evaluate the spine in patients with contraindications for 
+MRI (most typically an implanted metallic-ferrous device). CT is not invasive 
+(minimally invasive when contrast is needed), has low potential adverse 
+effects, but entails radiation exposure. In patients with radicular symptoms, 
+CT myelography should be considered given the greater sensitivity for 
+identification of nerve root compression. In select patients for whom the 
+benefits of the procedure outweigh the risks and for whom MRI is non- 
+diagnostic, not indicated or clinically contraindicated.  
+ 
+C.1.c.i Recommended - CT is recommended in select patients (MRI 
+preferred) for those with radicular pain syndrome that has failed 
+to improve within four to six weeks and there is consideration for 
+an epidural glucocorticoid injection or surgical discectomy (see 
+Section D.6, Injections: Therapeutic Spinal). 
+ 
+C.1.c.ii Recommended - in patients with an indication for MRI who 
+cannot undergo MRI examination due to contraindications such 
+as implanted metallic-ferrous device or significant claustrophobia. 
+ 
+ Frequency/Duration: Obtaining serial CT exams is not 
+recommended, although if there has been a significant worsening 
+in the patient’s history of examination, repeat imaging may be 
+warranted. 
+ 
+C.1.c.iii Not Recommended - routine CT for acute or non-acute non-
+specific back pain or for radicular pain syndromes. 
+ 
+C.1.d Myelography (Including CT Myelography and MRI Myelography) 
+ 
+ May be useful only when MRI or other tests are contraindicated, are not 
+considered diagnostic or not available. This testing may be indicated in 
+select patients for whom the clinical benefits outweigh the risks, and for 
+whom MRI is either non-diagnostic, or not clinically indicated or clinically 
+contraindicated.  
+ 
+Note: Potential complications of this more invasive technique include pain, 
+infection, and allergic reactions. 
+ 
+C.1.d.i Recommended - Myelography, including CT myelography, is 
+recommended in select patients in uncommon specific situations 
+(e.g., implanted metal that precludes MRI, equivocal findings of 
+disc herniation on MRI suspected of being falsely positive, spinal 
+stenosis, and/or a post-surgical situation that requires 
+myelography). 
+ 
+
+[page 22]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  19 
+ 
+C.1.d.ii Not Recommended - Myelography (as well as CT myelography 
+and MRI myelography) as the first diagnostic study for the 
+diagnosis of lumbar root compromise. 
+ 
+ Indications:  This testing may be indicated in select patients for 
+whom the clinical benefits outweigh the risks, and for whom MRI 
+is either non-diagnostic, or not clinically indicated or clinically 
+contraindicated.  
+ 
+ Note: Potential complications of this more invasive technique 
+include pain, infection, and allergic reactions. 
+ 
+C.1.e Bone Scans 
+ 
+C.1.e.i Recommended - in select patients as clinically indicated.  
+ 
+ Indications:  Bone scanning is a good diagnostic test for specific 
+situations which involve a minority of patients and may be useful 
+in diagnosing neoplasia, suspected metastases, infection (e.g. 
+osteomyelitis), inflammatory arthropathies and occult fractures. 
+ 
+C.1.e.ii Not Recommended - for routine use in back pain patients. 
+ 
+ Note: This technology is generally not used for evaluation of most 
+occupational back pain situations. 
+ 
+C.1.f Fluoroscopy 
+ 
+C.1.f.i Not Recommended - for the evaluation of acute or non-acute 
+back pain. 
+ 
+C.1.g Single Proton Emission Computed Tomography (SPECT) 
+ 
+C.1.g.i Recommended - in select patients as clinically indicated.  
+ 
+ Indications: SPECT is not generally recommended, aside from 
+cases of suspected inflammatory arthropathies not diagnosed by 
+more common tests or to rule out possible acute spondylolysis; 
+SPECT has a very limited role in the evaluation of patients with 
+back pain  
+ 
+C.1.h Ultrasound (Diagnostic) 
+ 
+C.1.h.i Not Recommended - for patients with back pain. 
+ 
+C.1.i Videofluoroscopy 
+ 
+C.1.i.i Not Recommended - for the assessment of acute or non-acute 
+back pain. 
+ 
+
+[page 23]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  20 
+ 
+C.2 Other Tests / Procedures 
+ 
+C.2.a Electrodiagnostic Studies (EDX) 
+ 
+ EDX include needle EMG, peripheral nerve conduction velocity studies 
+(NCV) and motor and sensory evoked potentials. Needle EMG is usually 
+what substantiates the diagnosis of radiculopathy or spinal stenosis in 
+patients with back pain and/or radiculopathy problems. 
+ 
+ Needle EMG can help determine if radiculopathy is acute or chronic. NCV 
+are done in addition to needle EMG to rule out other potential causes for 
+the symptoms (co-morbidity or alternate diagnosis involving peripheral 
+nerves) and to confirm radiculopathy. It is recommended and preferred that 
+EDX in the out-patient setting be performed and interpreted by physicians 
+board-certified in Neurology or Physical Medicine and Rehabilitation. 
+ 
+C.2.a.i EDX (must include needle EMG and NCV)  
+ 
+ Recommended - in select patients as clinically indicated. 
+ 
+ Indications: Where a CT or MRI is equivocal and there are 
+ongoing complaints of pain, weakness, and/or 
+numbness/parasthesias that raise questions about whether there 
+may be a neurological compromise that may be identifiable. This 
+means leg symptoms consistent with radiculopathy, spinal 
+stenosis, peripheral neuropathy, etc. 
+ 
+ Nerve conduction studies are done in addition to the needle EMG 
+both to rule out other potential causes for the symptoms (co-
+morbidity or alternate diagnosis involving peripheral nerves, e.g., 
+compression neuropathies) and to confirm radiculopathy, but the 
+testing must include needle EMG. 
+ 
+ Where there is failure of suspected radicular pain to resolve or 
+plateau after waiting four to six weeks (to provide for sufficient 
+time to develop EMG abnormalities as well as time for 
+conservative treatment to resolve the problems), equivocal 
+imaging findings, e.g., on CT or MRI studies, and suspicion by 
+history and physical examination that a neurologic condition other 
+than radiculopathy may be present instead of or in addition to 
+radiculopathy. 
+ 
+Not Recommended - for patients with acute or non- acute back 
+pain who do not have significant leg pain or numbness. 
+ 
+C.2.b Surface Electromyography (Surface EMG) 
+ 
+ Not Recommended  
+ 
+ 
+
+[page 24]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  21 
+ 
+C.2.c Diagnostic Facet Blocks 
+ 
+ See Section D.6.f. 
+ 
+C.2.d Lumbar Discography 
+ 
+ Not Recommended - whether performed as a solitary test or when paired 
+with imaging (e.g., MRI), is not recommended for acute or non-acute back 
+pain or radicular pain syndromes.  
+ 
+ Note: Improvement in surgical outcomes has not been shown to follow the 
+use of discography, and there is evidence that performing discography on 
+normal discs is associated with an enhanced risk of degenerative changes 
+in those discs in later years. Lumbar discography also carries a risk of 
+complications that include, but are not necessarily limited to: infection, 
+discitis, and post-discogram herniation. 
+ 
+C.2.e CT/MRI Discography 
+ 
+ Recommendations - See Lumbar Discography above. 
+ 
+C.2.f Myeloscopy 
+ 
+ Not Recommended - for acute or non-acute back pain, spinal stenosis, 
+radicular pain syndromes or post-surgical back pain problems. 
+ 
+C.2.g Thermography 
+ 
+ Not Recommended - for the assessment of acute or non-acute back pain, 
+or radicular pain patients. 
+ 
+D. Therapeutic Procedures:  Non -Operative 
+ 
+ Before initiation of any therapeutic procedure, the authorized treating provider, employer, 
+and insurer must consider these important issues in the care of the patient. 
+ 
+ First, patients undergoing therapeutic procedure(s) should be released or returned to 
+modified or restricted duty during their rehabilitation at the earliest appropriate time. 
+ 
+ Second, cessation and/or review of treatment modalities should be undertaken when no 
+further significant subjective or objective improvement in the patient’s condition is noted. If 
+patients are not responding within the recommended duration periods, alternative 
+treatment interventions, further diagnostic studies or consultations should be pursued. 
+ 
+ Third, providers should provide and document education to the patient. No treatment plan 
+is complete without addressing issues of individual and/or group patient education as a 
+means of facilitating self-management of symptoms. 
+ 
+ Lastly, for those patients who fail to make expected progress six to 12 weeks after an 
+injury and whose subjective symptoms do not correlate with objective signs and tests, 
+
+[page 25]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  22 
+ 
+reexamination in order to confirm the accuracy of the diagnosis should be made. Formal 
+psychological or psychosocial evaluation may be considered. 
+ 
+ Home therapy is an important component of therapy and may include active and passive 
+therapeutic procedures as well as other modalities to assist in alleviating pain, swelling, 
+and abnormal muscle tone. 
+ 
+ The following are listed in alphabetical order. 
+ 
+D.1 Acupuncture 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: For select use in non-acute back pain as an adjunct to more 
+efficacious treatments. Acupuncture may be recommended as treatment of 
+non- acute back pain as a limited course during which time there are clear 
+objective and functional goals that are to be achieved. 
+ 
+Not Recommended - routine use of acupuncture is not recommended for acute 
+back pain or radicular pain.  
+ 
+Not Recommended - for treatment of acute, subacute, radicular, or post-
+operative low back pain. 
+ 
+Indications:  Consideration for time-limited use in non-acute back pain patients 
+without underlying serious pathology is an adjunct to a conditioning program that 
+has both graded aerobic exercise and strengthening exercises. Acupuncture is 
+only recommended to assist in increasing functional activity levels more rapidly 
+and the primary attention should remain on the conditioning program. 
+ 
+This intervention is not recommended for patients not involved in a 
+conditioning program, or who are non- compliant with graded increases in 
+activity levels. 
+ 
+Frequency/Duration: 
+ 
+a) There are different patterns which are used in quality studies. These 
+range from weekly for a month to 20 appointments over 6 months; 
+however the norm is generally no more than eight to 12 sessions. 
+ 
+b) An initial trial of five to six appointments would appear reasonable in 
+combination with a conditioning program of aerobic and strengthening 
+exercises. 
+ 
+c) Future appointments should be tied to improvements in objective 
+measures and would justify an additional 6 sessions, for a total of 12 
+sessions. 
+ 
+Discontinuation: Resolution, intolerance, or non- compliance, including non-
+compliance with aerobic and strengthening exercises. 
+
+[page 26]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  23 
+ 
+D.2  Appliances 
+ 
+D.2.a Shoe Insoles and Shoe Lifts 
+ 
+ Recommended - for the treatment of acute or non-acute back pain or 
+radicular pain syndrome in the presence of significant leg length 
+discrepancy. 
+ 
+ Not Recommended - in the absence of significant leg length discrepancy 
+ 
+D.2.b Kinesiotaping, Taping or Strapping 
+ 
+ Not Recommended 
+ 
+D.2.c Lumbar Supports 
+ 
+ Recommended - for select patients as clinically indicated.  
+ 
+ Indications: Lumbar supports may be useful for specific treatment of 
+spondylolisthesis, documented instability, or post- operative treatment. 
+ 
+ Not Recommended - for the prevention or treatment of other back pain 
+conditions. 
+ 
+D.2.d Magnets 
+ 
+ Not Recommended  
+ 
+D.2.e Mattresses, Water Beds, and Sleeping Surfaces 
+ 
+Recommendations 
+ 
+D.2.e.i It is recommended that patients select mattresses, pillows, bedding, 
+or other sleeping options that are most comfortable for them. 
+ 
+D.2.e.ii There is no recommendation regarding mattresses other than that 
+providers should be aware that ordering patients to sleep on firm 
+mattresses or on the floor may be incorrect. 
+ 
+D.2.e.iii There is no quality evidence to guide recommendations regarding 
+other optimal sleeping surfaces (e.g., bedding, water beds, and 
+hammocks). 
+ 
+D.3 Bed Rest 
+ 
+D.3.a Recommended - in the management of unstable spinal fractures or cauda 
+equina. 
+ 
+Indications:  Although there are no quality studies evaluating the role of bed 
+rest in the management of unstable spinal fractures or cauda equina 
+
+[page 27]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  24 
+ 
+syndrome, there is consensus that these require bed rest or other marked 
+activity limitations to prevent adverse events. Although bed rest has no 
+documented benefits, the hazard of mobilization in this setting is 
+theoretically catastrophic, thus this treatment strategy is recommended. 
+ 
+D.3.b Not Recommended - for the management of acute or non-acute back pain, 
+radicular pain syndromes including sciatica or other back pain-related 
+problems including spondylolisthesis, spondylolysis, spinal stenosis, facet-
+related pain, or pain thought to be related to the sacroiliac joint. 
+ 
+Rationale: There is no quality evidence that these conditions are 
+successfully treated with bed rest and there are also likely adverse effects. 
+Although it is non-invasive rest has no documented benefits and is expected 
+to be associated with higher morbidity. 
+ 
+D.4 Biofeedback 
+ 
+D.4.a Recommended - for select patients with non- acute back pain, as a 
+component of an interdisciplinary approach. Please consult the New York 
+Non-Acute Pain Medical Treatment Guidelines for further recommendations. 
+ 
+D.4.b Not Recommended - in patients with acute back pain. It is suggested that 
+other treatments for which there is quality evidence of efficacy are more 
+appropriate. 
+ 
+D.5 Electrical Therapies 
+ 
+D.5.a Interferential Therapy 
+ 
+ Not Recommended - for treatment of acute or non-acute back pain, non-
+acute radicular pain syndromes, or other back-related conditions. 
+ 
+D.5.b Transcutaneous Electrical Neurostimulation (TENS) 
+ 
+ Transcutaneous Electrical Nerve Stimulation (TENS) treatment should 
+include at least one instructional session for proper application and use.  
+ 
+ Recommended - for select use in treatment of chronic low back pain or 
+chronic radicular pain syndrome as a second line adjunct to other first line 
+treatments.  
+ 
+ Indications: include muscle spasm, atrophy and control of concomitant pain 
+in the office setting. Minimal TENS unit parameters should include a pulse 
+rate, pulse width and amplitude modulation. Consistent, measurable, 
+functional improvement must be documented, and a determination made of 
+the likelihood of chronicity prior to the provision of a home unit. TENS 
+treatment should be used in conjunction with active physical therapy. 
+ 
+ Frequency:  Variable, with immediate effect and optimum duration of three 
+sessions.  
+
+[page 28]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  25 
+ 
+ 
+ Maximum Duration:  Three sessions. Purchase or provide with home unit if 
+effective. 
+ 
+D.5.c Percutaneous Electrical Nerve Stimulation (PENS) 
+ 
+ Not Recommended - for acute or subacute back pain or radicular pain 
+syndromes. 
+ 
+D.5.d Microcurrent Electrical Stimulation 
+ 
+ Not Recommended - for acute or non-acute back pain or radicular pain 
+syndrome patients.  
+ 
+D.5.e Electrical Nerve Block 
+ 
+ Not Recommended  
+ 
+D.5.f Electrical Stimulation (Physician or Therapist Applied) 
+ 
+ Recommended - may be a component of a comprehensive treatment plan. 
+ 
+ Frequency: Two to three times per week for a maximum of up to two 
+months. 
+ 
+ Not Recommended - Electrical Stimulation (like other passive modalities) 
+as a stand-alone treatment, 
+ 
+D.5.g Transcutaneous Neurostimulator (TCNS) 
+ 
+ Not Recommended  
+ 
+D.5.h H-Wave Stimulation  
+ 
+ Not Recommended - not recommended for acute or non- acute back pain 
+or radicular pain syndromes. 
+ 
+D.5.i High-Voltage Galvanic 
+ 
+ Not Recommended - not for the treatment of acute or non-acute back pain 
+or radicular pain syndromes or other back-related conditions. 
+ 
+D.5.j Iontophoresis 
+ 
+ Not Recommended - for the treatment of acute, subacute or chronic low 
+back pain or radicular pain syndromes or other back-related conditions. 
+ 
+ 
+ 
+ 
+
+[page 29]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  26 
+ 
+D.6 Injections:  Therapeutic Spinal 
+ 
+D.6.a Introduction 
+ 
+ Therapeutic spinal injections may be used after initial conservative treatments, 
+such as physical and occupational therapy, medication, manual therapy, exercise, 
+acupuncture, have been undertaken. 
+ 
+• Therapeutic injections should be used only after imaging studies 
+and diagnostic injections have established pathology. 
+ 
+• Injections are invasive procedures that can cause  catastrophic 
+complications; thus clinical indications and contraindications should 
+be closely adhered to. 
+ 
+• The purpose of spinal injections is to facilitate active  therapy by 
+providing short -term relief through reduction of pain and 
+inflammation. 
+ 
+• All patients should continue appropriate exercise with 
+functionally directed rehabilitation. 
+ 
+• Active treatment, which patients should have had prior  to 
+injections, will frequently require a repeat of the sessions 
+previously ordered. 
+ 
+• Injections, by themselves, are not likely to provide long-term relief. 
+Rather, active rehabilitation with modified work achieves long-term 
+relief by increasing active range of motion, strength, and stability. 
+ 
+• Injections should not be repeated if the first injection does not 
+provide: 
+ 
+o Improvement in function 
+o Temporary and sustained pain relief as measured by 
+accepted pain scales, i.e., 50% pain reduction on Visual 
+Analog Scale 
+ 
+and/or 
+• Reduction in the use of prescribed analgesic medication.  Medical 
+management should be continued or adjusted based upon patient 
+assessment and response. 
+ 
+Special Considerations 
+ 
+• For all thoracic, lumbar and sacroiliac injections (excluding 
+trigger point) multi -planar fluoroscopy during procedures is 
+required to document technique and needle placement. 
+
+[page 30]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  27 
+ 
+ 
+• All injections (excluding trigger point) must be performed by a 
+physician experienced in the procedure. Trigger point injections may 
+be performed by a physician or a Nurse Practitioner/Physician 
+Assistant experienced in the procedure. 
+ 
+• Permanent images are required to document needle placement.  
+• The subspecialty disciplines of the physicians performing 
+injections may be varied, including, but not limited to: 
+anesthesiology, radiology, surgery, or physiatry. 
+ 
+• The practitioner should have completed fellowship training in an 
+appropriate medical specialty (neurosurgery, orthopedic surgery, 
+physiatry, pain management etc.) with interventional training.  The 
+practitioner must also be knowledgeable in radiation safety. 
+ 
+Complications 
+ 
+General complications of spinal injections may include: 
+ 
+• transient neurapraxia 
+• local pain 
+• nerve injury 
+• infection 
+• headache 
+• vasovagal effects 
+• Epidural hematoma, permanent neurologic damage, dural 
+perforation and CSF leakage, and/or spinal meningeal abscess may 
+also occur. 
+ 
+• More serious complications are rare but can include spinal cord 
+damage, quadriplegia, permanent ataxia, and death. 
+• With steroid injections, there may be a dose-dependent suppression 
+of the hypothalamic-pituitary-adrenal axis lasting between one and 
+three months. 
+• With steroid injections, there may be a transient rise in glucose 
+levels, especially in diabetics. 
+ 
+ 
+ 
+ 
+
+[page 31]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  28 
+ 
+Contraindications 
+ 
+Absolute contraindications to therapeutic injections include: 
+ 
+• bacterial infection, systemic or localized to region of injection 
+• bleeding diatheses 
+• hematological conditions 
+• possible pregnancy 
+Relative contraindications to diagnostic injections may include: 
+ 
+• allergy to contrast 
+• poorly controlled Diabetes Mellitus 
+• hypertension 
+Drugs affecting coagulation, such as aspirin, NSAIDs, anti-platelets or 
+anticoagulants are often restricted prior to injection.  
+ 
+Decisions regarding anticoagulation should be made in consultation between the 
+provider performing the injection and the prescribing physician and other specialists 
+as indicated, in the context of the patient’s specific underlying medical history.  
+ 
+D.6.b Lumbar Transforaminal/Interlaminar/Caudal Epidural Injections (ESI) 
+ 
+ The purpose of ESI is to reduce pain and inflammation, restoring range of 
+motion and thereby facilitating progress in more active programs. 
+ 
+ As with all treatments, it is important to ensure that patients have realistic 
+expectations regarding treatment outcomes. 
+ 
+ Diabetics who are candidates for ESI should be counseled that a blood 
+glucose increase may be apparent post-intervention, but the increase is 
+generally transient.  
+ 
+ Needle Placement: Lumbar ESI must be fluoroscopically guided to verify 
+needle placement. Permanent images are required to document needle 
+placement. 
+ 
+ Contrast epidurograms allow one to verify the flow of medication into the 
+epidural space. One epidurogram per series of ESI is recommended as 
+clinically indicated. 
+ 
+ Recommended - ESI is useful in patients with symptoms of lumbar 
+radicular pain syndromes. 
+
+[page 32]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  29 
+ 
+ 
+ Not Recommended - ESI is not effective for lumbar axial pain or non-
+radicular pain syndromes.   
+ 
+ Indications:  
+• Medications for ESI include anesthetics and/or steroids. 
+• ESI is an option for acute radicular pain syndromes. 
+• ESI is an option for radicular pain syndromes lasting at least 3 weeks 
+having been treated with NSAIDs and without evidence of trending 
+toward spontaneous resolution. 
+ 
+• ESI is an option for second-line treatment for acute flare-ups of 
+spinal stenosis. 
+ 
+• ESI is an option for symptoms of spinal stenosis of at least one to 
+two months, with prior treatment that has included NSAIDs and 
+progressive exercise. 
+ 
+• ESI is not recommended for acute or non-acute back pain in the 
+absence of significant radicular symptoms. 
+ 
+ Not Recommended – as first- or second-line treatment in individuals 
+with back pain symptoms that predominate over leg pain 
+ 
+ Not Recommended – as treatment for any non-acute axial back pain 
+without a radicular component. 
+ 
+• The above referenced time frames for consideration of ESIs may 
+vary based on patient specific clinical considerations.  
+ 
+Maximum Frequency:  
+ 
+• Three injections (per spinal region) may be done in one 12- 
+month period, depending on patient response (improved function 
+and pain reduction). No more than 2 levels per treatment 
+session. 
+• It is recommended that each injection be scheduled separately, and 
+effects of each injection be evaluated, depending upon patient 
+response (improved function and pain reduction) rather than 
+scheduling a “Series of Three.” 
+ 
+• If the first injection does not provide a response with temporary and 
+sustained pain relief (at least two weeks) substantiated by accepted 
+pain scales (i.e., 50% pain reduction as measured by tools such as 
+VAS) and improvement in function, repeat injections are not 
+recommended. 
+ 
+
+[page 33]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  30 
+ 
+• A positive result (functional improvement) should include 
+measurable improvement in physical activity goals, and a return 
+to baseline function or to work duties. 
+ 
+Patients should be reassessed after each injection for: 
+ 
+• Improvement in function 
+• Temporary and sustained pain relief as measured by accepted pain 
+scales, i.e., 50% pain reduction on Visual Analog Scale 
+ 
+and/or 
+ 
+• Reduction in the use of prescribed analgesic medication. 
+Medical management should be continued or adjusted based upon 
+patient assessment and response. 
+ 
+Discontinuation:  
+ 
+• Resolution of symptoms decrease in symptoms to a tolerable level 
+or absence of response. 
+ 
+D.6.c Intradiscal Steroids 
+ 
+ Not Recommended - for the treatment of acute or non- acute back pain. 
+ 
+ There is no quality evidence on the value of intradiscal steroid injections 
+in those with acute back pain. There is also no quality evidence that 
+these injections improve on the natural history of acute back pain. 
+ 
+D.6.d Chemonucleolysis (Chymopapain and Collagenase) 
+ 
+ Not Recommended – as procedure, while a successful treatment, is not 
+available in the U.S. due to serious adverse effects. 
+ 
+D.6.e Tender and Trigger Point Injections  
+ 
+ Myofascial trigger points are localized hyperirritable palpable nodules in 
+extremely sensitive bands of taut skeletal muscle fibers. These nodules 
+are painful on compression and give rise to local pain and pain referred 
+to distant structures. 
+ 
+• Trigger point treatment consists only of dry needling or 
+injection of local anesthetic into myofascial trigger points. 
+ 
+• Trigger point injection is not the equivalent of acupuncture. 
+Please refer to the acupuncture section in each Medical 
+Treatment Guideline. 
+ 
+
+[page 34]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  31 
+ 
+• There is no evidence that injection of medications improves the 
+results of trigger point injections. Needling alone may account 
+for some of the therapeutic response. 
+ 
+• As with all treatments, it is important to ensure that patients have 
+realistic expectations regarding treatment outcomes. 
+ 
+Recommended - may be a secondary or tertiary option for non-
+acute pain that is not resolving with more conservative means (e.g., 
+NSAIDs, progressive aerobic exercises, other exercises) within a six-
+week time frame. 
+ 
+Not Recommended - for treatment of acute back pain. 
+ 
+Indications:  
+ 
+• Trigger point injections should be utilized primarily for 
+facilitating functional progress. 
+ 
+• Trigger point injections may be used to relieve myofascial pain and 
+facilitate active therapy and stretching of the affected areas. 
+• The use of therapeutic injections without participation in an 
+active therapy program or in the context of maintaining 
+employment is not recommended. 
+ 
+• Patients should be reassessed two weeks after each injection for: 
+ 
+o Improvement in function 
+o Temporary and sustained pain relief as measured by 
+accepted pain scales, i.e., 50% pain reduction on Visual 
+Analog Scale 
+ 
+and/or 
+ 
+o Reduction in the use of prescribed analgesic 
+medication. 
+ 
+• Medical management should be continued or adjusted based 
+upon patient assessment and response. 
+ 
+• Functional improvement should last for 3 months. 
+• A positive result (functional improvement) should include 
+measurable improvement in physical activity goals, and a 
+return to baseline function or to work duties. 
+ 
+• The use of ultrasound or other imaging studies for trigger point 
+injections is not recommended. 
+
+[page 35]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  32 
+ 
+ 
+Frequency:  
+ 
+• Not more than four injections per session, not to exceed 4 
+sessions per 12-month period. 
+ 
+• If results are not satisfactory after first set of injections, a second set 
+is reasonable. If there are not documented subjective and objective 
+improvements at that point, further injections are not recommended. 
+ 
+• Indications for Discontinuation – Resolution, intolerance, or 
+completing two sets of injections without materially affecting the 
+condition. 
+ 
+• If there is a partial demonstrated improvement after the first set of 
+injections, a second set may be reasonable. 
+ 
+• It is recommended to allow at least three to four weeks between 
+these injections. 
+ 
+• If there are no subjective and objective improvements at that 
+point, further injections are not recommended. 
+ 
+• Repeated injections should be linked to subjective and 
+objective improvement. 
+ 
+D.6.f Lumbar Diagnostic and Therapeutic Medial Nerve Branch Blocks or 
+Intra-articular Facet (Zygapophyseal) Joint Injections 
+ 
+ Indications:  
+ 
+ Medial branch block injections or intra-articular facet joint injections are 
+recommended for: 
+ 
+• Patients with pain suspected to be largely facet in origin 
+based on exam findings (i.e., non-radicular axial pain 
+aggravated by extension-facet loading) 
+ 
+and/or 
+ 
+• Documented evidence (i.e., imaging study) of facet disease 
+(facet arthropathy/hypertrophy at the targeted level(s) 
+ 
+and 
+ 
+• Who have completed a documented course of conservative 
+management as defined in the New York Mid and Low Back 
+Injury Medical Treatment Guidelines, including but not limited to 
+
+[page 36]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  33 
+ 
+medication, modalities, and active exercises. 
+ 
+Description: 
+ 
+These injections must be fluoroscopically guided. 
+ 
+Lumbar medial nerve branch blocks or intra-articular facet joint 
+injections may consist of a diagnostic and/or a therapeutic 
+component. 
+• The diagnostic component consists of an anesthetic and the 
+therapeutic component, a corticosteroid. 
+• The diagnostic component (anesthetic only) may be used 
+individually or may be combined with a steroid into a single 
+diagnostic/therapeutic injection. 
+• A medial nerve branch block is indicated for the diagnosis of pain 
+that is suspected of arising from the facet joint. 
+• A history and physical examination should document the 
+rationale for the suspected diagnosis. 
+• A positive response to a therapeutic injection (steroid) is not 
+determinative of the need for radiofrequency ablation. 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications:  
+ 
+D.6.f.i Acute back pain 
+ 
+Intra-articular facet joint (injection into the intra-articular facet 
+joint space) or medial branch block injections (blocking medial 
+nerve innervation) may be indicated for acute back pain when 
+there is continuing axial back pain after an injury that has not 
+responded to conservative management. 
+ 
+In patients with acute back pain, medial branch block 
+injections may aid in identifying pain generators, 
+therapeutically reduce pain and may be useful in 
+facilitating progress in a rehabilitation program. 
+ 
+For acute pain, these injections involve a combination of an 
+anesthetic and a steroid. Steroid is added to provide longer 
+benefit. The goal of the prolonged therapeutic benefit is to 
+decrease pain and increase function, with the ability to participate 
+in an active rehabilitation program (which the patient was unable 
+to do prior to the injection). 
+ 
+Diagnostic medial branch block injections (anesthetic only 
+without steroids) or diagnostic intra-articular facet joint injections 
+
+[page 37]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  34 
+ 
+(anesthetic only without steroids) are not recommended for 
+acute back pain. 
+ 
+Positive Therapeutic Response (either Medial Branch Block 
+Injection or Intra-articular Facet Joint Injection): 
+ 
+• Patients should be reassessed after each therapeutic 
+injection for a documented 50% improvement in pain as 
+measured by accepted pain scales and evidence of 
+functional improvement for at least 4-6 weeks 
+ 
+• A positive result (functional improvement) should include 
+measurable improvement in physical activity goals 
+including progress towards return to baseline function or 
+work activities. 
+ 
+• Pain should be measured by accepted pain scales, 
+pre-procedure, immediately post-procedure and at 
+identified intervals after the procedure. 
+ 
+• If the first therapeutic injection does not provide 
+sustained pain relief substantiated by accepted pain 
+scales (i.e., 50% documented pain reduction as 
+measured by accepted pain tools) and improvement in 
+function for at least 4-to-6 weeks, repeat steroid 
+injections are not recommended. 
+ 
+Time to produce effect: up to 72 hours. 
+ 
+Frequency: Two injections for each applicable joint may be 
+done in one 12-month period, not to exceed three joint levels 
+(four medial branch nerves) per session, depending upon 
+patient’s documented response (i.e., improved functional gain 
+and pain reduction). Maximum two sessions/year. 
+ 
+D.6.f.ii Non-acute back pain 
+ 
+ Diagnostic medial branch block injections are recommended for a 
+select group of patients with non-acute back pain in order to 
+determine whether specific interventions targeting the facet joint 
+(by blocking medial nerve innervation to the facet joint) should be 
+performed. 
+ 
+ The decision to proceed with radiofrequency ablation is based on 
+a positive response to diagnostic injections (anesthetic only or 
+anesthetic with steroid) and not on the response to a therapeutic 
+injection (with steroid only.) 
+ 
+ When administering a diagnostic injection, consideration should 
+
+[page 38]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  35 
+ 
+be given to combining the anesthetic agent with steroid to allow 
+for the potential of extended pain relief. 
+ 
+ Positive Diagnostic Medial Nerve Branch Block Response: 
+ 
+ A positive response to the diagnostic component of a medial 
+nerve branch block consists of an initial temporary improvement, 
+which may be as short as one to four hours, and includes a 
+reduction in pain (50% decrease as measured by accepted pain 
+scales), and improvement in function for the duration of the local 
+anesthetic. 
+ 
+ The primary goal of a diagnostic medial nerve branch block in the 
+setting of non-acute pain is to determine the need for more 
+definitive treatment (i.e., radiofrequency ablation). 
+  
+• If a patient has a positive response to a diagnostic 
+medial branch block injection (whether or not steroids 
+are used), a repeat medial branch block injection 
+should be performed to confirm the diagnosis. 
+ 
+• This repeat comparative medial branch block injection 
+should be performed on a different date to confirm the 
+level of involvement. 
+ 
+• If there is a positive response to the repeat diagnostic 
+medial branch block injection, the patient should be 
+evaluated to determine the need for more definitive 
+treatment such as radiofrequency ablation. 
+ 
+• If the first injection does not provide a positive response, 
+the diagnosis should be re-evaluated. 
+ 
+• If the first injection does not provide a positive response, 
+repeat diagnostic injections are not recommended. 
+ 
+Time to produce effect: up to 30 minutes for local anesthetic; 
+corticosteroid up to 72 hours. 
+ 
+Frequency: Two injections for each applicable joint may be done 
+in one 12-month period, not to exceed three joint levels (four 
+medial branch nerves) per session, depending upon patient’s 
+documented response (i.e., improved functional gain and pain 
+reduction). Maximum two sessions/year. 
+ 
+D.6.g Facet Joint Hyaluronic Acid Injections 
+ 
+ Not Recommended  
+ 
+ 
+
+[page 39]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  36 
+ 
+D.6.h Sacroiliac Joint Injections  
+ 
+D.6.h.i Recommended - Sacroiliac joint corticosteroid injections are 
+recommended as a treatment option for patients with a specific 
+cause of sacroiliitis, meaning a work-related aggravation of 
+proven rheumatologic inflammatory arthritis involving the 
+sacroiliac joints. 
+ 
+D.6.h.ii Recommended - Sacroiliac joint injections are recommended 
+for the treatment of sacroiliac joint sprain/dysfunction. 
+ 
+ Sacroiliac sprain may present with local tenderness 
+corresponding to the anatomical sacroiliac joint. Such 
+presentation is an extra-axial finding, without radiation, and may 
+be the result of inflammation or trauma. The pain may be acute 
+or non-acute. 
+ 
+ Frequency/Duration: If the results after the first injection are not 
+satisfactory, fluoroscopic guidance must be used for the second 
+injection. Subsequent injections are not recommended unless 
+significant improvement is noted after the initial injections. 
+ 
+D.6.i Prolotherapy Injections 
+ 
+ Not Recommended - for acute or non-acute back pain, or for any 
+radicular pain syndrome. 
+ 
+D.6.j Platelet Rich Plasma (PRP) 
+ 
+ Not Recommended 
+ 
+D.7 Medications 
+ 
+ For most patients, ibuprofen, naproxen, or other older generation NSAIDs are 
+recommended as first-line medications. Acetaminophen (or the analog 
+paracetamol) may be a reasonable alternative to NSAIDs for patients who are not 
+candidates for NSAIDs, although most evidence suggests acetaminophen is 
+modestly less effective. There is evidence that NSAIDs are as effective for relief of 
+pain as opioids (including tramadol) and less impairing.  
+ 
+D.7.a Non-Steroidal Anti-inflammatory Drugs (NSAIDs) for Treatment of 
+Acute, Subacute, or Chronic Back Pain  
+ 
+ Recommended - for treatment of acute, subacute, or chronic backpain  
+ 
+ Indications:  For acute, subacute, or chronic back pain, NSAIDs are 
+recommended for treatment. Over-the-counter (OTC) agents may suffice 
+and should be tried first. 
+ 
+ Frequency/Duration: As needed use may be reasonable for many patients.  
+
+[page 40]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  37 
+ 
+ 
+ Indications for Discontinuation:  Resolution of symptoms, lack of efficacy, or 
+development of adverse effects, that necessitate discontinuation. 
+ 
+D.7.b NSAIDs for Patients at High Risk of Gastrointestinal Bleeding  
+ 
+ Recommended – for concominent use of cytoprotective classes of drugs: 
+misoprostol, sucralfate, histamine Type 2 receptor blockers, and proton 
+pump inhibitors for patients at high risk of gastrointestinal bleeding.  
+ 
+ Indications: For patients with a high-risk factor profile who also have 
+indications for NSAIDs, cytoprotective medications should be considered, 
+particularly if longer term treatment is contemplated. At-risk patients include 
+those with a history of prior gastrointestinal bleeding, elderly, diabetics, and 
+cigarette smokers. 
+ 
+ Frequency/Dose/Duration: Proton pump inhibitors, misoprostol, sucralfate, 
+H2 blockers recommended. Dose and frequency per manufacturer. There is 
+not generally believed to be substantial differences in efficacy for prevention 
+of gastrointestinal bleeding. 
+ 
+ Indications for Discontinuation: Intolerance, development of adverse effects, 
+or discontinuation of NSAID. 
+ 
+D.7.c NSAIDs for Patients at Risk for Cardiovascular Adverse Effects 
+ 
+ Patients with known cardiovascular disease or multiple risk factors for 
+cardiovascular disease should have the risks and benefits of NSAID therapy 
+for pain discussed. 
+ 
+ Recommended - Acetaminophen or aspirin as the first-line therapy appear 
+to be the safest regarding cardiovascular adverse effects. 
+ 
+ Recommended - If needed, NSAIDs that are non-selective are preferred 
+over COX-2 specific drugs. In patients receiving low-dose aspirin for primary 
+or secondary cardiovascular disease prevention, to minimize the potential 
+for the NSAID to counteract the beneficial effects of aspirin, the NSAID 
+should be taken at least 30 minutes after or eight hours before the daily 
+aspirin.  
+ 
+D.7.d Acetaminophen for Treatment of Back Pain    
+ 
+ Recommended - for treatment of back pain, particularly in patients with 
+contraindications for NSAIDs. 
+ 
+ Indications: All patients with back pain, including acute, subacute, chronic, 
+and post-operative. 
+ 
+
+[page 41]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  38 
+ 
+ Dose/Frequency: Per manufacturer’s recommendations; may be utilized on 
+an as-needed basis. There is evidence of hepatic toxicity when exceeding 
+four gm/day. 
+  
+ Indications for Discontinuation: Resolution of pain, adverse effects or 
+intolerance. 
+ 
+D.7.e Topical Medications  
+ 
+ Recommended – In select patients for treatment of pain associated with 
+acute, subacute, or chronic back pain, including topical creams, ointments, 
+and lidocaine patches   
+ 
+ Rationale for Recommendation:  TOPICAL DRUG DELIVERY (e.g., 
+capsaicin, topical lidocaine, topical NSAIDs and topical salicylates and 
+nonsalicylates) may be an acceptable form of treatment in selected patients. 
+A topical agent should be prescribed with strict instructions for application 
+and maximum number of applications per day to obtain the desired benefit 
+and avoid potential toxicity. For most patients, the effects of long-term use 
+are unknown and thus may be better used episodically. These agents may 
+be used in those patients who prefer topical treatments over oral 
+medications. Localized skin reactions may occur, depending on the 
+medication agent used. Prescribers should consider that topical medication 
+can result in toxic blood levels. 
+ 
+ Capsaicin offers a safe and effective alternative to systemic NSAIDs, 
+although its use is limited by local stinging or burning sensation that typically 
+disappears with regular use. Patients should be advised to apply the cream 
+on the affected area with a plastic glove or cotton applicator to avoid 
+inadvertent contact with eyes and mucous membranes. Long-term use of 
+capsaicin is not recommended. 
+ 
+ Topical Lidocaine is only indicated when there is documentation of a 
+diagnosis of neuropathic pain. In this instance, a trial for a period of not 
+greater than four weeks can be considered, with the need for 
+documentation of functional gains as criteria for additional use. 
+ 
+ Topical NSAIDs (e.g. diclofenac gel) may achieve tissue levels that are 
+potentially therapeutic. Overall the low level of systemic absorption can be 
+advantageous, allowing the topical use of these medications when systemic 
+administration is relatively contraindicated (such as patients with 
+hypertension, cardiac failure, peptic ulcer disease or renal insufficiency). 
+ 
+ Topical Salicylates or Nonsalicylates (e.g. methyl salicylate) overall do 
+not appear to be more effective than topical NSAIDs. May be used for a 
+short-term course especially in patients with chronic conditions in whom 
+systemic medication is relatively contraindicated or as an adjuvant to 
+systemic medication 
+ 
+ 
+
+[page 42]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  39 
+ 
+D.7.f Opioids 
+ 
+ Not Recommended – for acute, subacute, or chronic back pain. 
+ 
+ Recommended – for limited use (not more than seven days) for post-
+operative pain management as adjunctive therapy to more effective 
+treatments.  
+ 
+ Indications:  For post-operative pain management, a brief prescription of 
+opioids as adjuncts to more efficacious treatments (especially NSAIDs, 
+acetaminophen) is often required, especially nocturnally.  
+ 
+ Frequency/Duration: Prescribed as needed throughout the day, then later 
+only at night, before weaning off completely.  
+ 
+ Rationale for Recommendation: Some patients have insufficient pain relief 
+with NSAIDs, thus judicious use of opioids may be helpful, particularly for 
+nocturnal use. Opioids are recommended for brief, select use in post-
+operative patients with primary use at night to achieve sleep post-
+operatively.  
+ 
+D.7.g Anti-Depressants 
+ 
+D.7.g.i Tricyclic antidepressants (TCAs)  
+ 
+ Recommended - for the treatment of non-acute back pain that is 
+not fully treated with NSAIDs and an exercise program. This 
+intervention may be helpful where there is nocturnal sleep 
+disruption and mild dysthymia. 
+ 
+ Frequency/Duration: Generally prescribed at a very low dose at 
+night and gradually increased (e.g., amitriptyline 25 mg at 
+bedtime, increase by 25 mg each week) until a sub-maximal or 
+maximal dose is achieved, sufficient effects are achieved, or 
+adverse effects occur. Most practitioners use lower doses, (e.g., 
+amitriptyline 25 to 75 mg a day to avoid the adverse effects and 
+necessity of blood level monitoring), as there is no evidence of 
+increased pain relief at higher doses. Imipramine is less sedating, 
+thus if there is carryover daytime sedation, this may be a better 
+option. 
+ 
+ Discontinuation: Resolution of pain, intolerance, or development 
+of adverse effects. 
+ 
+ Recommended - Tricyclic antidepressants (TCAs) are for the 
+treatment of radicular pain. 
+ 
+ There is limited evidence that TCAs result in modest reductions in 
+pain ratings in the treatment of radicular pain compared with 
+placebo. 
+
+[page 43]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  40 
+ 
+ 
+ Frequency: Recommendations regarding usage, frequency, 
+duration and discontinuation are as above for non-acute back 
+pain. 
+ 
+D.7.g.ii Selective Serotonin Reuptake Inhibitors, (e.g., paroxetine, as 
+well as bupropion and trazodone) 
+ 
+ Not Recommended - for treatment of non-acute pain.  
+ 
+ They may be recommended for the treatment of non-acute back 
+pain with concomitant depression, dysthymia and other 
+psychiatric conditions. 
+ 
+ Note: There is strong evidence that treatment with these SSRI 
+medications is not of benefit; thus their use is not recommended 
+for the management of non-acute back pain without depression. 
+ 
+ Absent other indicators of a need for such treatment, this 
+intervention is not recommended for the management of acute 
+back pain. 
+ 
+D.7.h Anti-Seizure Drugs 
+ 
+D.7.h.i Topiramate 
+ 
+ Recommended - in select patients for limited use non- acute 
+back pain patients, where there has been failure of multiple other 
+modalities including trials of different NSAIDs, aerobic exercise, 
+specific stretching exercise, strengthening exercise, tricyclic 
+antidepressants, distractants, and manipulation. 
+ 
+ Frequency/Dose: This medication is initiated by gradually 
+increasing the dose. Patients should be carefully monitored for the 
+development of adverse events. 
+ 
+ Discontinuation: Resolution, development of adverse effects, or 
+failure to adhere to a functional restoration program. Careful 
+monitoring of employed patients is indicated due in part to 
+elevated risks for central nervous system (CNS) sedating effects. 
+ 
+ Not Recommended - not recommended for neuropathic pain, 
+including peripheral neuropathy. 
+ 
+D..7.h.ii Carbamazepine 
+ 
+ Recommended - as a potential adjunct for non-acute radicular or 
+neuropathic pain after attempting other treatments (e.g., other 
+medications, aerobic exercise, other exercise, manipulation). 
+While there is not quality evidence for treatment of non- acute 
+
+[page 44]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  41 
+ 
+radicular back pain, this may be tried if other medications have 
+failed. Oxcarbazepine and lamotrigine may be useful agents to try 
+if the results from carbamazepine are insufficient for pain relief. 
+ 
+ Frequency/Duration: Frequency and dosing are based on the 
+medication prescribed. 
+ 
+ Discontinuation:  Resolution of back pain, lack of efficacy, or 
+development of side effects that necessitate discontinuation. 
+Careful monitoring of employed patients is indicated due to 
+elevated risks for CNS sedating adverse effects. 
+ 
+D.7.h.iii Gabapentin and Pregabalin 
+ 
+ Recommended - for peri-operative management of pain to 
+reduce need for opioids, particularly in those with side effects 
+from opioids. 
+ 
+ Discontinuation: Resolution or intolerance. Careful monitoring of 
+employed patients is indicated due in part to elevated risks for 
+CNS-sedating effects. 
+ 
+ Recommended - may be considered for the treatment of severe 
+neurogenic claudication from spinal stenosis or non-acute 
+radicular pain syndromes with limited walking distance. 
+ 
+ Discontinuation: Resolution or intolerance. Careful monitoring of 
+employed patients is indicated due in part to elevated risks for 
+CNS-sedating effects. 
+ 
+ Not Recommended - for non-acute non- neuropathic pain or 
+back pain. 
+ 
+D.7.i Colchicine (Oral and IV Colchicine) 
+ 
+ Not Recommended - for acute or non-acute back pain. 
+ 
+D.7.j Compound Medications 
+ 
+ Not Recommended - topical, oral and/or systemic compound medications 
+are not recommended. 
+ 
+D.7.k Skeletal Muscle Relaxants 
+ 
+ Recommended - Muscle relaxants (not including carisoprodol) are 
+recommended as a second-line treatment in moderate to severe acute low 
+back pain that has not been adequately controlled by NSAIDs. 
+ 
+
+[page 45]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  42 
+ 
+ Not Recommended - for mild to moderate acute back pain due to problems 
+with adverse effects nor are they recommended for chronic use in subacute 
+or non-acute back pain (other than acute exacerbations). 
+ 
+ Note:  For most cases, these agents are not recommended, since other 
+medications, progressive walking and other exercises will be sufficient to 
+control the symptoms. Generally, it is recommended that these agents be 
+prescribed nocturnally initially and not during workdays or when patients 
+plan to operate motor vehicles. Caution should be used in prescribing 
+skeletal muscle relaxants for those with a history of depression, personality 
+disorder, substance addiction and/or abuse, including alcohol or tobacco. If 
+a muscle relaxant is felt to be necessary in patients with those problems, 
+cyclobenzaprine should be the first drug tried, since its chemical structure 
+resembles a tricyclic antidepressant, and since addiction and abuse of this 
+drug typically do not occur. 
+ 
+ Frequency/Duration:  This initial dose should be taken in the evening. It is 
+not recommended that the first dose be taken prior to starting a work shift or 
+operating a motor vehicle or machinery. Daytime use is acceptable in 
+circumstances in which the patient has experienced only minimal CNS-
+sedating effects and little concern about sedation compromising the 
+patient’s function or for the patient’s or others’ safety. There is no evidence 
+of benefit from higher doses of medication (e.g., cyclobenzaprine 10 mg 
+over 5 mg). If significant daytime somnolence results, then the medication 
+may need to be discontinued, particularly if it interferes with performance of 
+the aerobic exercise and other components of the rehabilitation plan. 
+Another option is to decrease a dose of cyclobenzaprine by 50% to as little 
+as 2.5 mg.  
+ 
+ Discontinuation: Resolution of the pain, non-tolerance, significant sedating 
+effects that carry over into the daytime, or other adverse effects. 
+ 
+ Recommended - as second- or third-line agents for acute radicular pain 
+syndromes or acute post- surgical pain thought to be musculoskeletal in 
+nature. 
+ 
+ Other agents may be more efficacious for relieving radicular pain. 
+Generally, muscle relaxants should be prescribed nocturnally initially and 
+not during workdays or when patients plan on operating motor vehicles. 
+ 
+ Frequency/Duration: The initial dose should be in the evening. Daytime use 
+is acceptable in circumstances in which the patient has experienced only 
+minimal CNS- sedating effects and there is little concern about sedation 
+compromising the patient’s function or for the patient’s or others’ safety. If 
+significant daytime somnolence results, then the medication may need to be 
+discontinued, particularly if it interferes with the performance of aerobic 
+exercise and other components of the rehabilitation plan. 
+ 
+ Frequency/Duration: One week, generally with a maximum duration of two 
+weeks (or longer if used only at night). 
+
+[page 46]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  43 
+ 
+ 
+ Discontinuation:  Resolution of the pain, non- tolerance, significant sedating 
+effects that carry over into the daytime, or other adverse effects. 
+ 
+D.7.l Systemic Glucocorticosteroids (aka “Steroids”) 
+ 
+ Recommended - in select patients for treatment of acute severe radicular 
+pain syndromes for purposes of obtaining a short-term reduction in pain. 
+ 
+ Frequency/Duration:  one course (five to 14 days) of oral medication (i.e.: 
+tapering dose of methylprednisolone) be prescribed for a given episode of 
+radicular pain. If additional treatment is needed, epidural steroid injections 
+are preferable, since they better target the medication to the affected tissue. 
+ 
+ Not Recommended - for axial pain. 
+ 
+ Not Recommended - for acute or non-acute back pain without radicular 
+pain or mild to moderate radiculopathy 
+ 
+D.7.l.i Intravenous steroids  
+ 
+ Recommended - in select patients in the setting of an acute 
+neurological emergency and should be confined only to the 
+hospital setting. The dose and duration of the intravenous 
+steroids should be determined in consultation with spinal cord 
+experts. The risk of permanent neurological damage from acute 
+spinal cord compression generally outweighs the risk of 
+pharmacologic side effects of steroids in an emergency situation. 
+ 
+D.7.m Tumor Necrosis Factor-α Inhibitors 
+ 
+ Not Recommended - for treatment of radicular pain syndromes. 
+ 
+ Not Recommended - for treatment of acute or non-acute back pain. 
+ 
+D.8 Rehabilitation 
+  
+ Rehabilitation (supervised formal therapy) required as a result of a work-related 
+injury should be focused on restoring functional ability required to meet the patient’s 
+daily and work activities and return to work; striving to restore the injured worker to 
+pre-injury status in so far as is feasible.  
+ 
+ Active therapy requires an internal effort by the patient to complete a specific 
+exercise or task. Passive therapy are those interventions not requiring the exertion 
+of effort on the part of the patient, but rather are dependent on modalities delivered 
+by a therapist. Generally passive interventions are viewed as a means to facilitate 
+progress in an active therapy program with concomitant attainment of objective 
+functional gains. Active interventions should be emphasized over passive 
+interventions.  
+ 
+
+[page 47]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  44 
+ 
+ The patient should be instructed to continue both active and passive therapies at 
+home as an extension of the treatment process in order to maintain improvement 
+levels. 
+ 
+ Assistive devices may be included as an adjunctive measure incorporated into the 
+rehabilitation plan to facilitate functional gains.  
+ 
+D.8.a Physical / Occupational Therapy 
+ 
+ Recommended – to improve function, including range of motion and 
+strength. 
+ 
+ Frequency/Dose/Duration:  Frequency of visits is usually individualized 
+based on severity of the limitation. Two to three visits per week for two 
+weeks are often used to initiate an exercise program. Total numbers of 
+visits may be as few as two to three for mild patients or up to 12 to 15 with 
+documentation of objective functional improvement. 
+ 
+ As part of the rehabilitation plan, patients should be instructed to continue 
+both active and passive therapy, at home as an extension of the treatment 
+process in order to maintain improvement. 
+ 
+ Indications: All postoperative and conservatively managed mid and low 
+back pain patients. 
+ 
+ Indications for Discontinuation: Resolution of pain, intolerance, lack of 
+efficacy or noncompliance. 
+ 
+D.8.b Therapeutic Exercise 
+ 
+Therapeutic Exercise, with or without mechanical assistance or resistance, 
+may include isoinertial, isotonic, isometric and isokinetic types of exercises.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications:  Include the need for cardiovascular fitness, reduced edema, 
+improved muscle strength, improved connective tissue strength and 
+integrity, increased bone density, promotion of circulation to enhance soft 
+tissue healing, improvement of muscle recruitment, increased range of 
+motion, and promotion of normal movement patterns. Can also include 
+complementary/ alternative exercise movement therapy. 
+ 
+Frequency:  Typically, three to five times per week with two to six 
+treatments needed to produce effect and a maximum of eight weeks as 
+clinically indicated.   
+ 
+ 
+ 
+ 
+ 
+
+[page 48]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  45 
+ 
+D.8.c Aerobic Exercises  
+ 
+Recommended - for treatment of all patients with acute or non-acute back 
+pain, although most available evidence is from studies treating chronic back 
+pain patients.  
+ 
+Consideration should be given, however, to whether an evaluation is 
+required prior to institution of vigorous exercises for those with significant 
+cardiac disease, or significant potential for cardiovascular disease. For most 
+patients, a structured, progressive walking program on level ground or no 
+incline on a treadmill is recommended. There has been some controversy 
+about whether bicycling is helpful or harmful from a biomechanical 
+perspective (lordosis) and the back muscles are less active with bicycling, 
+thus it may be less appropriate. Yet, if bicycling is the preferred exercise for 
+the patient, it is believed to be far superior to performing no aerobic 
+exercise. For those patients who desire other aerobic exercises, there are 
+no specific data, although there are indications that imply that there is a 
+direct correlation between benefit and the amount of aerobic activity that 
+results in higher MET expenditure. Therefore, the activity that the patient will 
+adhere to is believed to be the one most likely to be effective, given that 
+compliance is a recognized problem. 
+ 
+Frequency/Duration: For patients with non-acute back pain, walking at least 
+four times per week at 60% of predicted maximum heart rate (220-age = 
+maximum heart rate) is recommended. One successful study benchmarked 
+20 minutes during week one, 30 minutes during week two, and 45 minutes 
+after that point. For acute back pain patients, a graded walking program is 
+generally desired, often using distance or time as minimum benchmarks. 
+For example, a patient can start with 10 to 15 minutes twice a day for one 
+week and increase in 10 to 15-minute increments per week until at least 30 
+minutes per day is achieved. 
+ 
+Discontinuation: Aerobic exercise should be discontinued when there is 
+intolerance (rarely occurs) or development of other disorders. Nearly all 
+patients should be encouraged to maintain aerobic exercises on a long-
+term basis for both prevention of back pain (see below), and to maintain 
+optimal health. 
+ 
+Recommended – for post-operative patients for treatment of post-
+operative back pain. 
+ 
+D.8.d Strengthening and Stabilization Exercises 
+ 
+ Recommended - for acute or non-acute back pain, or post-operative back 
+pain patients, strengthening exercises are recommended for treatment of 
+back pain. Specific strengthening exercises, such as stabilization 
+exercises, are helpful for the prevention and treatment (including post-
+operative treatment) of back pain. 
+ 
+ As evidence of efficacy of aerobic exercises appears greater, these 
+
+[page 49]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  46 
+ 
+exercises should be added after either aerobic exercises have already been 
+instituted and additional treatment is needed, or in situations where both are 
+felt to be required. Exercises should be taught and then performed by the 
+patient in a home exercise program. For those patients who do not improve, 
+follow up appointments to verify technique and compliance (by exercise 
+logbooks) are recommended. Some patients, particularly those lacking 
+motivation to be in a home exercise program may benefit from a supervised 
+exercise program, although there are questions about long-term compliance 
+among patients with non-acute back pain. More intensive programs with 
+more intensive exercises and direct supervision with active coaching have 
+been shown to be effective for non-acute back pain. 
+ 
+ Frequency/Duration: Home program frequency is one to two times a day for 
+acute back pain, and two to three times a day for non-acute back pain. 
+ 
+ Discontinuation:  Indications to discontinue strengthening exercises include 
+development of a strain in the course of treatment or failure to improve. 
+ 
+ Not Recommended - Abdominal strengthening exercises particularly as 
+either a sole or central goal of a strengthening program are not 
+recommended for treatment or prevention of back pain. 
+ 
+ Strengthening of abdominal muscles (e.g., rectus abdominus and obliques 
+with sit-up exercises) is a frequent goal of back pain rehabilitation or 
+prevention programs. 
+ 
+ There is no quality evidence that these exercises are effective, there is 
+evidence that suggests they are not effective, and there are other treatment 
+strategies with proven or at least suggested greater efficacy. 
+ 
+D.8.e Aquatic Therapy (Including Swimming) 
+ 
+ Recommended - a trial of aquatic therapy is recommended for the 
+treatment of non-acute back pain in a patient who meets criteria for a 
+referral for supervised exercise therapy and has co- morbidities (e.g., 
+extreme obesity, significant degenerative joint disease, etc.) that preclude 
+effective participation in a weight-bearing physical activity. Osteoarthritis of 
+the knee is not a clear contraindication to a walking program, rather 
+walking may be therapeutically indicated based on high quality evidence. 
+ 
+ Frequency/Duration:  A program should generally begin with three to four 
+visits per week. The patient must have demonstrated evidence of 
+functional improvement within the first two weeks to justify additional visits. 
+The program should include up to four weeks of aquatic therapy with 
+progression towards a land-based, self-directed physical activity or self- 
+directed aquatic therapy program by six weeks. 
+ 
+ Discontinuation: Non-tolerance, failure to progress, or reaching a four to 
+six-week time frame. 
+ 
+
+[page 50]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  47 
+ 
+ For all other non-acute back pain patients, and for all acute back pain, 
+aquatic therapy is not recommended as other therapies are believed to be 
+more efficacious. 
+ 
+D.8.f Manipulation 
+ 
+ Manipulative treatment (not therapy) is defined as the therapeutic 
+application of manually guided forces by an operator to improve 
+physiologic function and/or support homeostasis that has been altered by 
+the injury or occupational disease and has associated clinical significance. 
+ 
+ Contraindications to manipulation may include joint instability, fractures, 
+severe osteoporosis, infection, metastatic cancer, active inflammatory 
+arthritides, and signs of progressive neurologic deficits or myelopathy. 
+Relative contraindications include stenosis, spondylosis, and disc 
+herniation. 
+ 
+ Recommended - for treatment of acute back pain when tied to objective 
+measures of improvement and there is no evidence of fracture or 
+significant instability. Care needs to be taken in patients with known spinal 
+stenosis. 
+ 
+ Frequency:  Up to three times per week for the first four weeks as 
+indicated by the severity of involvement and the desired effect, then up to 
+two treatments per week for the next four weeks with re-evaluation for 
+evidence of functional improvement or need for further workup. Time to 
+produce effect for all types of manipulative treatment: one to six 
+treatments. 
+ 
+ Continuance of treatment will depend upon functional improvement 
+ 
+ Optimum Duration: Eight to 12 weeks. 
+ 
+ Maximum Duration:  Three months. Extended durations of care beyond 
+what is considered “maximum” may be necessary in cases of re-injury, 
+interrupted continuity of care, exacerbation of symptoms, and in those 
+patients with comorbidities. 
+ 
+ Recommended - a maintenance program of spinal manipulation (by a 
+physician (MD/DO), chiropractor or physical therapist) may be indicated in 
+certain situations, after the determination of MMI, when tied to 
+maintenance of functional status. (See Section D.9, Therapy: Ongoing 
+Maintenance Care.) 
+ 
+ Not Recommended - prophylactic treatment is effective, either for primary 
+prevention (before the first episode of pain) or for secondary prevention 
+(after recovery from an episode of back pain) and prophylactic treatment is 
+not recommended. 
+ 
+ 
+
+[page 51]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  48 
+ 
+D.8.g Manipulation under Anesthesia (MUA) and Medication-Assisted 
+Spinal Manipulation (MASM) 
+ 
+ Not Recommended  
+ 
+D.8.h Massage (Manual or Mechanical) 
+ 
+ Massage (Manual or Mechanical) consists of manipulation of soft tissue 
+with broad-ranging relaxation and circulatory benefits. This may include 
+stimulation of acupuncture points and acupuncture channels 
+(acupressure), application of suction cups and techniques that include 
+pressing, lifting, rubbing, pinching of soft tissues by or with the 
+practitioner's hands. Indications include edema (peripheral or hard and 
+non-pliable edema), muscle spasm, adhesions, the need to improve 
+peripheral circulation and range of motion, or to increase muscle relaxation 
+and flexibility prior to exercise. 
+ 
+ As with all passive therapies, massage must be accompanied by exercise 
+and patient education. Objective benefit (functional improvement along 
+with symptom reduction) must be demonstrated in order for further 
+treatment to continue. 
+ 
+ Recommended - for select use in non-acute back pain as an adjunct to 
+more efficacious treatments consisting primarily of a graded aerobic and 
+strengthening exercise program. 
+ 
+ Frequency:  One to two times per week with immediate effect and an 
+optimum duration of six weeks.  
+ 
+ Discontinuation:  Resolution, intolerance, lack of benefit, or non-
+compliance with aerobic and strengthening exercises. 
+ 
+ Recommended - for acute back pain and non-acute radicular syndromes 
+in which back pain is a substantial symptom component. 
+ 
+ Frequency: One to two times per week with immediate effect and an 
+optimum duration of six weeks.  
+ 
+ Discontinuation: Resolution, intolerance, lack of benefit. 
+ 
+ Recommended - for patients with non-acute back pain without underlying 
+serious pathology, such as fracture, tumor, or infection. 
+ 
+ Frequency: One to two times per week with immediate effect and an 
+optimum duration of six weeks.  
+ 
+ Discontinuation: Resolution, intolerance, lack of benefit. 
+ 
+ Not Recommended – the use of mechanical devices for administering 
+massage. 
+
+[page 52]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  49 
+ 
+ 
+D.8.i Mobilization (Joint) 
+ 
+ Mobilization consists of passive movement involving oscillatory motions to 
+the vertebral segment(s). The passive mobility is performed in a graded 
+manner (I, II, III, IV, or V), which depicts the speed and depth of joint 
+motion during the maneuver. It may include skilled manual joint tissue 
+stretching.  
+ 
+ Recommended - in select patients as clinically indicated.  
+ 
+ Indications: Include the need to improve joint play, segmental alignment, 
+improve intracapsular arthrokinematics, or reduce pain associated with 
+tissue impingement. Mobilization should be accompanied by active 
+therapy. For Level V mobilization, contraindications include joint instability, 
+fractures, severe osteoporosis, infection, metastatic cancer, active 
+inflammatory arthritides, and signs of progressive neurologic deficits, 
+myelopathy, vertebrobasilar insufficiency, or carotid artery disease.  
+ 
+ Relative contraindications include stenosis, spondylosis, and disc 
+herniation. 
+ 
+ Frequency: Typically up to three times per week with six to nine treatments 
+to produce effect, optimum duration four to six weeks. 
+ 
+ Maximum Duration: Six weeks 
+ 
+D.8.j Mobilization (Soft Tissue) 
+ 
+ Mobilization of soft tissue is the skilled application of muscle energy, 
+strain/counter strain, manual trigger point release, and other manual 
+therapy techniques designed to improve or normalize movement patterns 
+through the reduction of soft tissue pain and restrictions. 
+ 
+ These can be interactive with the patient participating or can be with the 
+patient relaxing and letting the practitioner move the body tissues.  
+ 
+ Recommended - in select patients as clinically indicated.  
+ 
+ Indications: Include muscle spasm around a joint, trigger points, 
+adhesions, and neural compression. Mobilization should be accompanied 
+by active therapy. 
+ 
+ Frequency: Typically up to three per week with four to nine treatments to 
+produce effect, optimum duration four to six weeks. 
+ 
+ Maximum Duration: Six weeks 
+ 
+ 
+ 
+
+[page 53]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  50 
+ 
+D.8.k Superficial Heat and Cold 
+ 
+Superficial heat and cold are thermal agents applied in various manners 
+that lower or raise the body temperature for the reduction of pain, 
+inflammation, and/or effusion resulting from injury or induced by exercise. It 
+includes application of heat just above the surface of the skin at 
+acupuncture points. 
+ 
+ Recommended - for acute pain, edema, and hemorrhage, need to 
+increase the pain threshold, reduce muscle spasm, and promote 
+stretching/flexibility. Cold and heat packs can be used at home as an 
+extension of therapy in the clinic setting. 
+ 
+ Frequency:  Two to five times per week with immediate effect. 
+ 
+ Optimum Duration:  Three weeks as primary or intermittently as an adjunct 
+to other therapeutic procedures for up to two months. 
+ 
+D.8.l Diathermy 
+ 
+ Not Recommended - in the treatment of any back pain related conditions 
+ 
+D.8.m Low Level Laser Therapy 
+ 
+ Not Recommended- for treatment of any back pain-related conditions. 
+ 
+D.8.n Infrared Therapy 
+ 
+ Recommended - in select patients as clinically indicated.  
+ 
+ Note: For those circumstances where this intervention is used for treatment 
+of acute back pain, it is recommended to only be provider-based treatment 
+and only performed in conjunction with an active exercise program. 
+ 
+Frequency: Not to exceed four visits. 
+ 
+D.8.o Ultrasound 
+ 
+ Recommended - in select patients  
+ 
+ Indications: In situations where deeper heating is desirable, a limited trial of 
+ultrasound for the treatment of back pain is reasonable, but only if 
+performed as an adjunct with exercise. 
+ 
+ Frequency:  Typically three times per week with six to 15 treatments to 
+produce effect with an optimum duration of four to eight weeks.  
+ 
+ Maximum Duration: Eight weeks. 
+ 
+ 
+
+[page 54]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  51 
+ 
+D.8.p Reflexology 
+ 
+ Not Recommended - for the treatment of acute or non-acute back pain, 
+radicular back pain, or other spinal conditions. 
+ 
+D.8.q Neuroflexotherapy 
+ 
+ Not Recommended – for the treatment of acute or non-acute back pain, 
+radicular back pain or other spinal conditions. 
+ 
+D.8.r Traction 
+ 
+ Not Recommended - for treatment of acute or non-acute back pain or 
+radicular pain syndromes. 
+ 
+D.8.s Vertebral Axial Compression (VAX-D) and Other Decompressive 
+Devices 
+ 
+ Not Recommended - VAX-D or other spinal decompressive devices is not 
+recommended for acute or non-acute back pain or radicular pain 
+syndromes. 
+ 
+D.9 Therapy – Ongoing Maintenance Care 
+ 
+A maintenance program of physical therapy, occupational therapy or spinal 
+manipulation (by a physician (MD/DO), chiropractor or physical or occupational 
+therapist) may be indicated in certain situations, after the determination of MMI, 
+when tied to maintenance of functional status. 
+ 
+Although the current body of scientific evidence as reviewed does not support the 
+routine use of this intervention, maintenance therapy modalities may be indicated 
+in certain situations  
+ 
+Recommended - in select patients in order to maintain functional status, without 
+which an objective deterioration of function has been previously observed and 
+documented in the medical record. 
+ 
+Frequency: Maximum up to ten visits/year, after the determination of MMI, 
+according to objectively documented maintenance of functional status. No variance 
+from the maximum frequency is permitted. 
+ 
+Rationale:  
+• Specific objective goals should be identified and measured in order 
+to support the need for ongoing maintenance care. 
+ 
+• Progressively longer trials of therapeutic withdrawal are to be attempted 
+to ascertain whether therapeutic goals can be maintained in the absence 
+of clinical interventions. 
+ 
+• Within a year and annually thereafter, a trial without 
+
+[page 55]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  52 
+ 
+maintenance treatment should be instituted. 
+ 
+• The care of chronic back symptoms should include an ongoing patient self 
+-management plan performed by the patient regularly and a self-
+directed pain management program initiated as indicated: 
+ 
+o An ongoing clinically appropriate self-management plan, 
+typically independent, home-based and self-directed, 
+developed jointly by the provider and patient, should be 
+implemented to encourage physical activity and/or work 
+activities despite residual pain, with the goal of preserving 
+function. 
+ 
+o In addition to the self-management plan, a self-directed pain 
+management plan should be developed which can be initiated 
+by the patient in the event that symptoms worsen and function 
+decreases. 
+ 
+• If deterioration of ability to maintain function is documented, 
+reinstatement of ongoing maintenance may be acceptable. 
+ 
+Note: Ongoing Maintenance Care is a component of the Functional       
+Maintenance Care recommendations detailed in the New York Non-Acute Pain 
+Medical Treatment Guidelines. Please consult the New York Non-Acute Pain 
+Medical Treatment Guidelines for additional information. 
+ 
+D.10 Radiofrequency Ablation, Neurotomy, Facet Rhizotomy 
+ 
+A procedure designed to denervate the facet joint by ablating the corresponding 
+sensory medial branches. Continuous percutaneous radiofrequency is the method 
+generally used. 
+ 
+Radiofrequency medial branch neurotomy is recommended as the procedure of 
+choice over alcohol, phenol, other injectable agents, or cryoablation. 
+ 
+Fluoroscopic guidance is required for precise positioning of the probe.  
+Permanent images should be recorded to verify placement of the device.  
+Recommended - in select patients as clinically indicated.  
+Indications:  
+• For patients with proven facet joint pain in whom two diagnostic 
+medial nerve branch blocks have been therapeutically successful, 
+the use of radiofrequency ablation/neurotomy/facet rhizotomy may 
+be indicated. 
+ 
+• This procedure is not recommended for involvement of more than 
+
+[page 56]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  53 
+ 
+three facet joints (four medial branch nerves). 
+ 
+• All patients should have a successful response to a diagnostic medial 
+nerve branch block and a separate comparative block. 
+ 
+• To be a positive diagnostic block the patient should report a reduction 
+of pain of 50% or greater from baseline for the length of time 
+appropriate for the local anesthetic used correlated with functional 
+improvement. 
+ 
+• The patient should also identify activities of daily living (which may 
+include measurements of range-of-motion) that are impeded by their 
+pain. The physician should observe and document functional 
+improvement in the identified activities in the clinical setting. 
+ 
+D.10.a Post-Procedure Therapy 
+ 
+ Recommended - in select patients as clinically indicated.  
+ 
+• Implementation of a gentle reconditioning program within the first post- 
+procedure week is recommended, barring complications. 
+ 
+• Instruction and participation in a long-term home-based program of 
+range of motion, cervical, scapular, and thoracic strengthening, 
+postural or   neuromuscular re-education, endurance, and stability 
+exercises should be accomplished.  
+ 
+Frequency:  Four to ten visits post-procedure. 
+ 
+D.10.b Repeat Radiofrequency Neurotomy (or additional level radiofrequency 
+neurotomies)  
+ 
+Recommended – in select patients. 
+ 
+Indications:  
+ 
+• In some cases pain may recur. 
+• Successful rhizotomy usually provides from six to nine months of 
+relief. 
+• Before a repeat radiofrequency neurotomy is done, a confirmatory 
+medial branch injection may be performed if the patient’s pain 
+pattern presents differently than in the initial evaluation. 
+ 
+Maximum Frequency: Twice a year as indicated by improvement in pain 
+and function. 
+ 
+D.10.c Dorsal Root Ganglia Radiofrequency Lesioning 
+ 
+ Not Recommended - for chronic sciatica because the risks of this invasive 
+procedure have not been shown to outweigh the benefits. 
+
+[page 57]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  54 
+ 
+ 
+D.10.d Intradiscal Electrothermal Therapy (IDET) 
+ 
+ Not Recommended - for treatment of acute or non- acute back pain, or any 
+other back-related disorder. 
+ 
+D.10.e Percutaneous Intradiscal Radiofrequency Thermocoagulation (PIRFT) 
+ 
+ Not Recommended - for treatment of acute or non-acute back pain, 
+including discogenic back pain. 
+ 
+ 
+E. Therapeutic Procedures: Operative  
+ 
+E.1 Discectomy, Microdiscectomy, Sequestrectomy, Endoscopic 
+Decompression 
+ 
+E.1.a Lumbar Discectomy 
+ 
+ Recommended - in select patients as clinically indicated 
+ 
+ Indications:  Lumbar discectomy is recommended as an effective operation 
+to speed recovery in patients who have radiculopathy due to ongoing nerve 
+root compression, who continue to have significant pain and functional 
+limitation after six to 12 weeks and who have been provided appropriate 
+conservative therapy during which time they experienced no progressive 
+neurological deficits. 
+ 
+ All of the following should be present: 1) radicular pain syndrome with 
+current dermatomal pain and/or numbness, or myotomal muscle weakness - 
+consistent with a herniated disc at the corresponding level; 2) imaging 
+findings by MRI or CT with/without myelography that confirm persisting 
+nerve root compression at the level and on the side predicted by the history 
+and clinical examination; 3) continued significant pain and functional 
+limitation after six to 12 weeks and who have been provided appropriate 
+conservative therapy during which time they experienced no progressive 
+neurological deficits. 
+ 
+ Patients who are candidates for discectomy should be informed that (other 
+than for cauda equina syndrome and the rare progressive major neurologic 
+deficit), there is evidence that there is no need to rush surgical decisions, 
+since there is no difference in long-term functional recovery whether surgery 
+is performed early or delayed. Open discectomy, microdiscectomy, and 
+endoscopic discectomy are all potentially appropriate ways to perform 
+discectomy. The decision as to which of these procedures to choose should 
+be left to the surgeon and the patient, until quality evidence becomes 
+available to provide evidence-based guidance. 
+ 
+
+[page 58]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  55 
+ 
+ Not Recommended - as treatment of acute or non-acute back pain without 
+radiculopathy. 
+ 
+E.1.b Percutaneous Discectomy  
+ 
+ Not Recommended - Percutaneous discectomy (nucleoplasty), laser 
+discectomy, and disc coblation therapy are not recommended as treatment 
+for any back or radicular pain syndrome. 
+ 
+E.2 Adhesiolysis 
+ 
+ Not Recommended - for acute or non-acute back pain, spinal stenosis, or 
+radicular pain syndromes. 
+ 
+E.3 Decompressive Surgery (Laminotomy / Facetectomy 
+Laminectomy 
+ 
+  Recommended - in select patients as clinically indicated.  
+ 
+ Indications: Decompression surgery is recommended as an effective treatment for 
+patients with symptomatic spinal stenosis (neurogenic claudication) that is 
+intractable to conservative management. Decompressive surgery may also be 
+indicated in patients with cauda equina syndrome secondary to disc herniation.  
+ 
+E.4 Spinal Fusion 
+ 
+ Lumbar Fusion is not included on the list of pre-authorized procedures. Providers 
+who want to perform one of these procedures must request pre- authorization from 
+the carrier before performing the procedure. 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Recommended - as a treatment for spinal stenosis when concomitant 
+spondylolisthesis has been proven. The decision regarding instrumentation should 
+be determined by the surgeon in conjunction with the patient and based on a 
+number of factors including but not limited to the degree of instability, associated 
+deformities/body habitus, the age of the patient, bone quality and medical 
+comorbidities. Lumbar fusion is not recommended for spinal stenosis without 
+spondylolisthesis, instability, or surgical instability and facetectomy of > 50% of the 
+facets. 
+ 
+Indications:  All of the following should be present: 1) neurogenic claudication (leg 
+pain and/or numbness with standing or walking); 2) imaging findings, by MRI, or 
+CT/myelogram that confirm the nerve roots compressed are consistent with the 
+neurological symptoms; 3) lack of responsiveness or unsatisfactory response(s) 
+to adequate conservative treatment over a minimum six to eight week period that 
+may or may not include an epidural steroid injection. 
+ 
+Recommended - as an effective treatment for isthmic spondylolisthesis. 
+
+[page 59]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  56 
+ 
+ 
+Recommended - as an effective treatment for degenerative spondylolisthesis. 
+ 
+E.4.a Spinal Fusion with Third Discectomy 
+ 
+ Recommended - in select patients requiring a third lumbar discectomy 
+at the same level, a fusion surgery at the time of the third discectomy 
+may be considered. 
+ 
+ Indications: Meeting indications for a third discectomy on the same disc. 
+ 
+ Recommended - as a treatment for Degenerative Disc Disease / 
+“Discogenic Back Pain” / “Black Disc Disease” without instability in 
+selected patients for whom non-surgical management has failed to 
+relieve symptoms and improve function. The patient should have full 
+understanding that this type of procedure is not likely to completely 
+alleviate symptoms and may result in no improvement. If available, an 
+intensive Functional Rehabilitation Program should be tried first. 
+ 
+ Not Recommended - as a treatment for patients with radiculopathy 
+from herniated nucleus pulposus (disc herniation) or for patients with 
+non-acute back pain after lumbar discectomy. 
+ 
+E.5 Electrical Bone Growth Stimulators 
+ 
+Electrical Bone Growth Stimulators are not included on the list of pre- authorized 
+procedures. Providers who want to perform one of these procedures must request 
+pre-authorization from the carrier before performing the procedure. 
+ 
+Recommended - as an adjunct to spinal fusion surgery for those at high risk for 
+pseudoarthrosis. 
+ 
+Indications:  Include one or more of the following fusion failure risk factors: 
+ 
+1. One or more previous failed spinal fusion(s) 
+2. Grade II or worse spondylolisthesis 
+3. Fusion to be performed at more than one level 
+4. Presence of other risk factors that may contribute to non-healing: 
+• Current smoking 
+• Diabetes 
+• Renal disease 
+• Other metabolic diseases where bone healing is likely to be 
+compromised (e.g.: significant osteoporosis) 
+• Active alcoholism 
+• Morbid obesity BMI >40 
+ 
+Recommended - as treatment for individuals with failed spinal fusion. Failed spinal 
+fusion is defined as a spinal fusion that has not healed at a minimum of six months 
+after the original surgery, as evidenced by serial x-rays over a course of three 
+months during the latter portion of the six-month period. 
+
+[page 60]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  57 
+ 
+ 
+E.6 Disc Replacement 
+ 
+Artificial disc replacement is not included on the list of pre-authorized procedures. 
+Providers who want to perform one of these procedures must request pre-
+authorization from the carrier before performing the procedure. 
+ 
+Recommended – in select patients as clinically indicated. 
+ 
+Indications: For lumbar degenerative disc disease at one level with radiculopathy 
+that is unresponsive to conservative management. 
+ 
+The following criteria must be met: 
+ 
+1) Skeletally mature patient without renal failure, severe diabetes, 
+osteoporosis, severe spondylosis, severe facet pathology, lumbar 
+instability, localized fracture, or localized or systemic infections. 
+ 
+AND 
+ 
+2) Single-level disc degeneration of L3 to S1 confirmed by imaging studies 
+such as CT or MRI, with one of the following diagnoses: 
+ 
+• Herniated disc; or 
+• Osteophyte formation; or 
+• Loss of disc height. 
+AND 
+ 
+3) The patient must present with symptoms, which must correspond with 
+the planned level of disc replacement: 
+ 
+• Intractable radiculopathy (nerve root compression) 
+and/or myelopathy (functional disturbance or 
+pathological change in the spinal cord) causing 
+radicular pain in the lower extremity; or 
+• Functional and/or neurological deficit. 
+AND 
+ 
+4) Six weeks of non-operative alternative treatments have failed. These 
+treatments may include physical therapy, medications, braces, 
+chiropractic care, bed rest, spinal injections or exercise programs. 
+Documentation of treatments and failure to improve is required. 
+ 
+The disc must be approved by the U.S. Food and Drug Administration 
+(FDA). All other artificial disc systems are considered experimental and 
+investigational. 
+ 
+All other indications, including multilevel degenerative disc disease, are 
+considered experimental and investigational. 
+ 
+
+[page 61]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  58 
+ 
+Not Recommended - under the following conditions, since safety and 
+effectiveness of the replacement discs has not been established for patients 
+with: 
+ 
+• Previous surgical intervention at the involved level; 
+• Prior or proposed fusion at an adjacent lumbar level;  
+• More than one lumbar level requiring artificial disc replacement; 
+• Clinically compromised vertebral bodies at the affected level due to 
+current or past trauma (including but not limited to the radiographic 
+appearance of fracture callus, malunion or nonunion). 
+• Active systemic infection or infection at the operating site; 
+• Allergy to titanium, polyurethane, or ethylene oxide residues; 
+• Osteoporosis defined as a DEXA bone mineral density T score 
+equal to or worse than -2.5. 
+ 
+E.7 Vertebroplasty and Kyphoplasty 
+ 
+Vertebroplasty and Kyphoplasty are not included on the list of pre-authorized 
+procedures. Providers who want to perform one of these procedures must 
+request pre-authorization from the carrier before performing the procedure. 
+ 
+Recommended - may be considered for treatment of select patients with 
+vertebral body compression fractures with associated with subacute fracture and 
+severe pain not responding to conservative measures. Patients who have had 
+fractures despite bisphosphonate therapy are particularly appropriate candidates. 
+ 
+E.8 Sacroiliac Surgery 
+ 
+ Sacroiliac joint fusion is not included on the list of pre-authorized procedures. 
+Providers who want to perform one of these procedures must request pre-
+authorization from the carrier before performing the procedure. 
+ 
+Recommended – for select patients as clinically indicated  
+ 
+Sacroiliac (SI) joint pain may present with pain that starts in the lower back and 
+buttock, and may radiate to the lower hip, groin or upper thigh. While the pain is 
+usually one sided, it can occur on both sides. Symptoms may worsen with sitting, 
+standing, sleeping, walking or climbing stairs. Often the SI joint is painful sitting or 
+sleeping on the affected side. Some patients have difficulty riding in a car or 
+standing, sitting or walking too long. Pain can be worse with transitional movements 
+(going from sit to stand), standing on one leg or climbing stairs. 
+ 
+Other sources of pain, such as lumbar spine or hip, must be ruled out before 
+considering the SI joint as the pain generator.  
+ 
+SI joint fusion may be considered when all of the following criteria are met: 
+ 
+1) The pain is caudal to the lumbar spine (L5 vertebra), localized over the 
+posterior sacroiliac joint, and consistent with sacroiliac joint pain, and  
+
+[page 62]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  59 
+ 
+2) The pain is at least 5 on a 0 to 10 rating scale that impacts quality of life 
+or limits activities of daily living, and    
+3) There is an absence of generalized pain behavior (eg, somatoform 
+disorder) or generalized pain disorders (eg, fibromyalgia); and 
+4) Patient has undergone and failed a minimum 6 months of intensive 
+nonoperative treatment that must include medication optimization, 
+activity modification, bracing, and active therapeutic exercise targeted at 
+the lumbar spine, pelvis, sacroiliac joint, and hip, including a home 
+exercise program; and  
+5) On physical examination there is localized tenderness with palpation 
+over the sacral sulcus (Fortin’s point) in the absence of tenderness of 
+similar severity elsewhere; and 
+6) There is a positive response to at least 3 of the following provocative 
+tests (eg,  
+o thigh thrust test,   
+o compression test,  
+o Gaenslen sign,  
+o distraction test,  
+o Patrick test,  
+o Posterior provocation test); and 
+7) Diagnostic imaging studies include ALL of the following: 
+o plain radiographs and computed tomography or magnetic 
+resonance imaging of the sacroiliac joint excludes the presence 
+of destructive lesions (eg, tumor, infection) or inflammatory 
+arthropathy of the sacroiliac joint; and  
+o anteroposterior plain radiograph of the pelvis rules out 
+concomitant hip pathology; and   
+o computed tomography or magnetic resonance imaging of the 
+lumbar spine is performed to rule out neural compression or 
+other degenerative condition that can be causing low back or 
+buttock pain; and 
+o sacroiliac joint imaging indicates evidence of injury and/or 
+degeneration; and  
+8) Diagnostic injections performed on 2 separate occasions, using an 
+image-guided, contrast-enhanced, intra-articular sacroiliac joint injection, 
+demonstrate at least a 75% reduction in pain for the expected duration 
+of the anesthetic; and  
+9) A trial of a therapeutic sacroiliac joint injection (i.e., corticosteroid 
+injection) has been performed at least once; and  
+10) The procedure is performed by a physician trained in either 
+neurosurgery or orthopedic spine surgery; and  
+11) The physician performing the surgery has either completed procedure-
+specific training or has been granted hospital privileges to perform the 
+specific type(s) sacroiliac joint surgery(ies) being contemplated. and  
+SI joint fusion may also be considered:  
+
+[page 63]
+ 
+ 
+NYS WCB MTG - Mid and Low Back Injury  60 
+ 
+o as an adjunct to the medical treatment of sacroiliac joint 
+infection/sepsis; or  
+o severe traumatic injuries associated with pelvic ring fracture;  
+or  
+o when multisegment spinal constructs extend to the sacrum/ilium, as a 
+component of medically necessary lumbar spine fusion procedures. 
+ 
+E.9 Intraoperative Monitoring / Image Guidance / Robotic 
+Surgery 
+ 
+Intraoperative Monitoring has become the standard of care when placing thoracic 
+and lumbar instrumentation, primarily pedicle screws.  This type of monitoring may 
+include somatosensory evoked potentials (SSEP) and motor evoked potentials 
+(MEP). The monitoring procedure may be used to evaluate spinal cord and/or 
+nerve root integrity, as well as instrumentation placement during the operative 
+procedure. Image guidance/robotic assistance for the placement of thoracic and 
+lumbar instrumentation has become common to improve the safety of spinal 
+surgical procedures.  
+ 
+Recommended - Intraoperative monitoring/image guidance/robotic surgery as 
+clinically indicated per surgeon discretion.  
+ 
+E.10 Implantable Spinal cord Stimulators (SCS) 
+ 
+Please consult the New York Non-Acute Pain Medical Treatment Guidelines for 
+information about Spinal Cord Stimulators. Spinal Cord Stimulators are not 
+included on the list of pre-authorized procedures. Providers who want to perform 
+one of these procedures must request pre-authorization from the carrier before 
+performing the procedure. 
+ 
+ 
+Sources: 
+ 
+This Medical Treatment Guideline is adopted, with modification, from ACOEM’s.Occupational 
+Medicine Treatment Guidelines for Low Back Disorders with supplementation from the State 
+of Colorado’s Low Back Medical Treatment Guidelines. 
+ 
+Third Edition: September 15, 2014 
+Revised: July 2021 
+ 
+ 
+ 

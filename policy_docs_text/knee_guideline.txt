@@ -1,0 +1,3845 @@
+[page 1]
+Medical
+Treatment
+Guidelines
+Knee Injury
+Effective May 2, 2022
+Adapted by NYS Workers’ Compensation Board (“WCB”) from MDGuidelines® with permission of Reed Group, Ltd. (“ReedGroup”), which 
+is not responsible for WCB’s modifications. MDGuidelines® are Copyright 2019 Reed Group, Ltd. All Rights Reserved. No part of this 
+publication may be reproduced, displayed, disseminated, modified, or incorporated in any form without prior written permission from 
+ReedGroup and WCB. Notwithstanding the foregoing, this publication may be viewed and printed solely for internal use as a reference, 
+including to assist in compliance with WCL Sec. 13-0 and 12 NYCRR Part 44[0], provided that (i) users shall not sell or distribute, display, or 
+otherwise provide such copies to others or otherwise commercially exploit the material. Commercial licenses, which provide access to the 
+online text-searchable version of MDGuidelines®, are available from ReedGroup at www.mdguidelines.com.
+
+[page 2]
+ 
+NYS WCB MTG – Knee Injury   2   
+ 
+Contributors 
+ 
+The NYS Workers’ Compensation Board would like to thank the members of the New York 
+Workers’ Compensation Board Medical Advisory Committee (MAC). The MAC served as the 
+Board’s advisory body to adapt the American College of Occupational and Environmental 
+Medicine (ACOEM) Practice Guidelines to a New York version of the Medical Treatment 
+Guidelines (MTG). In this capacity, the MAC provided valuable input and made 
+recommendations to help guide the final version of these Guidelines. With full consensus 
+reached on many topics, and a careful review of any dissenting opinions on others, the Board 
+established the final product.   
+ 
+New York State Workers’ Compensation Board Medical Advisory Committee 
+ 
+Joseph Canovas, Esq. 
+Special Counsel  
+New York State AFL-CIO 
+ 
+Kenneth B. Chapman, MD 
+Director Pain Medicine, SIUH Northwell Health Systems 
+Assistant Clinical Professor, NYU Langone Medical Center 
+Adjunct Assistant Professor, Hofstra Medical School 
+ 
+Robert Goldberg, DO 
+Attending Physician, Department of Rehabilitation, Beth Israel Hospital and Medical Center of 
+NYC 
+Professor of Physical Medicine and Rehabilitation and Health Policy 
+Clinical Associate Professor of Rehabilitation Medicine, New York Medical College 
+Clinical Professor of Rehabilitation Medicine, Philadelphia College of Osteopathic Medicine 
+Member Council on Medical Education of the American Medical Association  
+ 
+Brian M. Gordon, MD 
+Former Medical Director, 
+New York State Workers’ Compensation Board 
+ 
+Frank Kerbein, SPHR 
+Director, Center for Human Resources 
+The Business Council of New York State, Inc. 
+ 
+Joseph Pachman, MD, PhD, MBA, MPH 
+Licensed Psychologist and Physician 
+Board Certified in Occupational Medicine 
+Fellow in ACOEM 
+Vice President and National Medical Director, Liberty Mutual  
+ 
+James A. Tacci, MD, JD, MPH 
+Medical Director and Executive Medical Policy Director, 
+New York State Workers’ Compensation Board 
+ 
+Edward C. Tanner, MD 
+Chair, Department of Orthopaedics at Rochester General Hospital 
+
+[page 3]
+ 
+NYS WCB MTG – Knee Injury   3   
+ 
+Past President, New York State Society of Orthopaedic Surgeons (NYSSOS) 
+Member, American Academy of Orthopaedic Surgeons (AAOS) 
+Member, American Association of Hip and Knee Surgeons (AAHKS) 
+  
+
+[page 4]
+ 
+NYS WCB MTG – Knee Injury   4   
+ 
+Table of Contents 
+A. General Guideline Principles ........................................................................................ 6 
+A.1  Medical Care ................................................................................................................. 6 
+A.2 Rendering Of Medical Services .................................................................................... 6 
+A.3 Positive Patient Response............................................................................................ 6 
+A.4 Re-Evaluate Treatment ................................................................................................ 6 
+A.5 Education ...................................................................................................................... 6 
+A.6 Acuity ............................................................................................................................ 7 
+A.7 Initial Evaluation............................................................................................................ 7 
+A.8  Diagnostic Time Frames............................................................................................... 7 
+A.9 Treatment Time Frames ............................................................................................... 7 
+A.10 Delayed Recovery ........................................................................................................ 7 
+A.11 Active Interventions ...................................................................................................... 8 
+A.12 Active Therapeutic Exercise Program .......................................................................... 8 
+A.13 Diagnostic Imaging And Testing Procedures ............................................................... 8 
+A.14 Surgical Interventions ................................................................................................... 9 
+A.15 Pre-Authorization .......................................................................................................... 9 
+A.16 Psychological/Psychiatric Evaluations ......................................................................... 9 
+A.17 Personality/Psychological/Psychosocial Intervention ................................................ 10 
+A.18 Functional Capacity Evaluation (FCE) ....................................................................... 10 
+A.19 Return To Work .......................................................................................................... 11 
+A.20 Job Site Evaluation ..................................................................................................... 11 
+A.21 Guideline Recommendations And Medical Evidence ................................................ 12 
+A.22 Experimental/Investigational Treatment ..................................................................... 12 
+A.23 Injured Workers As Patients ....................................................................................... 12 
+A.24 Scope Of Practice ....................................................................................................... 12 
+B. Introduction to Knee Injury ......................................................................................... 13 
+B.1 History Taking and Physical Examination .................................................................. 13 
+B.2 Radiographic Imaging (X-Ray) ................................................................................... 15 
+B.3 Laboratory Testing ...................................................................................................... 15 
+B.4 Diagnostic Testing and Procedures ........................................................................... 16 
+B.5 Other Procedures ....................................................................................................... 20 
+C.  Specific Knee Injury Diagnoses, Testing and Treatment............................................ 20 
+C.1 Chondral Defects (Cartilage or Cartilage and Bone Defects).................................... 20 
+C.2 Aggravated Osteoarthritis ........................................................................................... 26 
+
+[page 5]
+ 
+NYS WCB MTG – Knee Injury   5   
+ 
+C.3 Collateral Ligament Injury ........................................................................................... 27 
+C.4 Anterior Cruciate Ligament (ACL) Injury .................................................................... 28 
+C.5 Posterior Cruciate Ligament (PCL) Injury .................................................................. 30 
+C.6 Meniscus Injury ........................................................................................................... 31 
+C.7 Meniscal Allograft Transplantation Exclusion Criteria................................................ 35 
+C.8 Patellar Subluxation.................................................................................................... 36 
+C.9 Retropatellar Pain Syndrome (Chondromalacia Patella) ........................................... 37 
+C.10 Tendinitis / Tenosynovitis ........................................................................................... 40 
+C.11 Bursitis ........................................................................................................................ 41 
+D. Therapeutic Procedures:  Non-Operative ......................................................................... 42 
+D.1 Acupuncture ................................................................................................................ 42 
+D.2 Biofeedback ................................................................................................................ 43 
+D.3 Injections:  Therapeutic .............................................................................................. 43 
+D.4 Medications ................................................................................................................. 44 
+D.5 Orthotics and Prosthetics ........................................................................................... 47 
+D.6 Rehabilitation .............................................................................................................. 48 
+D.7 Therapy:  Ongoing Maintenance Care ....................................................................... 56 
+D.8 Therapeutic Procedures:  Operative .......................................................................... 57 
+ 
+  
+
+[page 6]
+ 
+NYS WCB MTG – Knee Injury   6   
+ 
+ 
+ 
+A. General Guideline Principles  
+The principles summarized in this section are key to the intended application of the New 
+York State Medical Treatment Guidelines (MTG) and are applicable to all Workers’ 
+Compensation Medical Treatment Guidelines.  
+A.1  Medical Care 
+Medical care and treatment required as a result of a work-related injury should be 
+focused on restoring functional ability required to meet the patient’s daily and 
+work activities with a focus on a return to work, while striving to restore the 
+patient’s health to its pre-injury status in so far as is feasible.  
+A.2 Rendering Of Medical Services  
+Any medical provider rendering services to a workers’ compensation patient must 
+utilize the Treatment Guidelines as provided for with respect to all work-related 
+injuries and/or illnesses. 
+A.3 Positive Patient Response  
+Positive results are defined primarily as functional gains which can be objectively 
+measured. Objective functional gains include, but are not limited to, positional 
+tolerances, range of motion, strength, endurance, activities of daily living (ADL), 
+cognition, psychological behavior, and efficiency/velocity measures which can be 
+quantified. Subjective reports of pain and function may be considered and given 
+relative weight when the pain has anatomic and physiologic correlation in 
+proportion to the injury. 
+A.4 Re-Evaluate Treatment   
+If a given treatment or modality is not producing positive results within a well-
+defined timeframe, the provider should either modify or discontinue the treatment 
+regime. The provider should evaluate the efficacy of the treatment or modality 2 
+to 3 weeks after the initial visit and 3 to 4 weeks thereafter. These timeframes 
+may be slightly longer in the context of conditions that are inherently mental 
+health issues, and shorter for other non-musculoskeletal medical conditions (e.g. 
+pulmonary, dermatologic etc.). Recognition that treatment failure is at times 
+attributable to an incorrect diagnosis a failure to respond should prompt the 
+clinician to reconsider the diagnosis in the event of an unexpected poor response 
+to an otherwise rational intervention.   
+A.5 Education  
+Education of the patient and family, as well as the employer, insurer, policy 
+makers and the community should be a primary emphasis in the treatment of 
+work-related injury or illness. Practitioners should develop and implement 
+effective educational strategies and skills. An education-based paradigm should 
+always start with communication providing reassuring information to the patient.  
+No treatment plan is complete without addressing issues of individual and/or 
+group patient education as a means of facilitating self-management of symptoms 
+and prevention of future injury. 
+ 
+
+[page 7]
+ 
+NYS WCB MTG – Knee Injury   7   
+ 
+Time Frames 
+A.6 Acuity 
+Acute, Subacute and Chronic are generally defined as timeframes for disease 
+stages: 
+• Acute – Less than one month 
+• Subacute - One to three month, and  
+• Chronic - greater than three months. 
+A.7 Initial Evaluation 
+Initial evaluation refers to the acute timeframe following an injury and is not used 
+to define when a given physician first evaluates an injured worker (initial 
+encounter) in an office or clinical setting. 
+A.8  Diagnostic Time Frames 
+Diagnostic time frames for conducting diagnostic testing commence on the date 
+of injury. Clinical judgment may substantiate the need to accelerate or decelerate 
+the time frames discussed in this document.  
+A.9 Treatment Time Frames  
+Treatment time frames for specific interventions commence once treatments 
+have been initiated, not on the date of injury. It is recognized that treatment 
+duration may be impacted by disease process and severity, patient compliance, 
+as well as availability of services. Clinical judgment may substantiate the need to 
+accelerate or decelerate the time frames discussed in this document. 
+A.10 Delayed Recovery  
+For those patients who fail to make expected progress 6-12 weeks after an injury 
+and whose subjective symptoms do not correlate with objective signs and tests, 
+reexamination in order to confirm the accuracy of the diagnosis and re-evaluation 
+of the treatment program should be performed. When addressing a clinical issue 
+that is not inherently a mental health issue, assessment for potential barriers to 
+recovery (yellow flags/psychological issues) should be ongoing throughout the 
+care of the patient.  At 6-12 weeks, alternate treatment programs, including 
+formal psychological or psychosocial evaluation should be considered. Clinicians 
+must be vigilant for any pre-existing mental health issues or subsequent, 
+consequential mental health issues that may be impacting recovery. For issues 
+that are clearly and inherently mental health issues from the outset (i.e. when it is 
+evident that there is an underlying, work-related, mental health disorder as part of 
+the claim at issue), referral to a mental health provider can and should occur 
+much sooner. Referrals to mental health providers for the evaluation and 
+management of delayed recovery do not indicate or require the establishment of 
+a psychiatric or psychological condition. The evaluation and management of 
+delayed recovery does not require the establishment of a psychiatric or 
+psychological claim. 
+ 
+ 
+ 
+
+[page 8]
+ 
+NYS WCB MTG – Knee Injury   8   
+ 
+Treatment Approaches 
+A.11 Active Interventions  
+Active interventions emphasizing patient responsibility, such as therapeutic 
+exercise and/or functional treatment, are generally emphasized over passive 
+modalities, especially as treatment progresses. Generally, passive and palliative 
+interventions are viewed as a means to facilitate progress in an active 
+rehabilitation program with concomitant attainment of objective functional gains. 
+A.12 Active Therapeutic Exercise Program  
+Active therapeutic exercise program goals should incorporate patient strength, 
+endurance, flexibility, range of motion, sensory integration, coordination, 
+cognition and behavior (when at issue) and education as clinically indicated. This 
+includes functional application in vocational or community settings. 
+A.13 Diagnostic Imaging And Testing Procedures  
+Clinical information obtained by history taking and physical examination should 
+be the basis for selection of imaging procedures and interpretation of results. All 
+diagnostic procedures have characteristic specificities and sensitivities for 
+various diagnoses. Usually, selection of one procedure over others depends 
+upon various factors, which may include: relative diagnostic value; risk/benefit 
+profile of the procedure; availability of technology; a patient’s tolerance; and/or 
+the treating practitioner’s familiarity with the procedure. 
+ 
+When a diagnostic procedure, in conjunction with clinical information, provides 
+sufficient information to establish an accurate diagnosis, a second diagnostic 
+procedure is not required. However, a subsequent diagnostic procedure including 
+a repeat of the original (same) procedure can be performed, when the specialty 
+physician (e.g., physiatrist, sports medicine physician or other appropriate 
+specialist) radiologist or surgeon documents that the initial study was of 
+inadequate quality to make a diagnosis. Therefore, in such circumstances, a 
+repeat or complementary diagnostic procedure is permissible under the MTG.  
+ 
+It is recognized that repeat imaging studies and other tests may be warranted by 
+the clinical course and/or to follow the progress of treatment in some cases. It 
+may be of value to repeat diagnostic procedures (e.g., imaging studies) during 
+the course of care to reassess or stage the pathology when there is progression 
+of symptoms or findings, prior to surgical interventions and/or therapeutic 
+injections when clinically indicated, and post-operatively to follow the healing 
+process. Regarding serial imaging, (including x-rays, but particularly CT scans), it 
+must be recognized that repeat procedures result in an increase in cumulative 
+radiation dose and associated risks. 
+ 
+A given diagnostic imaging procedure may provide the same or distinctive 
+information as obtained by other procedures. Therefore, prudent choice of 
+procedures(s) for a single diagnostic procedure, a complementary procedure in 
+combination with other procedures(s), or a proper sequential order in multiple 
+procedures will ensure maximum diagnostic accuracy, minimize the likelihood of 
+adverse effect on patients, and promote efficiency by avoiding duplication or 
+redundancy.  
+
+[page 9]
+ 
+NYS WCB MTG – Knee Injury   9   
+ 
+A.14 Surgical Interventions   
+Consideration of surgery should be within the context of expected functional 
+outcome. The concept of "cure" with respect to surgical treatment by itself is 
+generally a misnomer. All operative interventions must be based upon positive 
+correlation of clinical findings, clinical course and imaging and other diagnostic 
+tests.  A comprehensive assimilation of these factors must lead to a specific 
+diagnosis with positive identification of pathologic condition(s). For surgery to be 
+performed to treat pain, there must be clear correlation between the pain 
+symptoms and objective evidence of its cause. In all cases, shared decision 
+making with the patient is advised. The patient should be given the opportunity to 
+understand the pros and cons of surgery, potential for rehabilitation as an 
+alternative where applicable, evidence-based outcomes, and specific surgical 
+experience. 
+A.15 Pre-Authorization 
+All diagnostic imaging, testing procedures, non-surgical and surgical therapeutic 
+procedures, and other therapeutics within the criteria of the Medical Treatment 
+Guidelines and based on a correct application of the Medical Treatment 
+Guidelines are considered authorized, with the exception of the procedures listed 
+in section 324.3(1)(a) of Title 12 NYCRR. These are not included on the list of 
+pre-authorized procedures. Providers who want to perform one of these 
+procedures must request pre-authorization from the carrier before performing the 
+procedure.   
+ 
+Second or subsequent procedures (the repeat performance of a surgical 
+procedure due to failure of, or incomplete success from the same surgical 
+procedure performed earlier, if the Medical Treatment Guidelines do not 
+specifically address multiple procedures) also require pre-authorization. 
+A.16 Psychological/Psychiatric Evaluations  
+In select patients, mental health evaluations are essential to make, secure or 
+confirm a diagnosis. Of course, the extent and duration of evaluations and/or 
+interventions by mental health professionals may vary, particularly based on 
+whether: the underlying clinical issue in the claim is inherently a mental health 
+issue; or there is a mental health issue that is secondary or consequential to the 
+medical injury or illness that is at issue in the claim in question; or there is a pre-
+existing, unrelated mental health issue that has been made worse by, or is 
+impeding the recovery from (or both) the medical injury or illness that is at issue 
+in the claim in question. 
+ 
+Tests of psychological function or psychometric testing, when indicated, can be a 
+valuable component of the psychological evaluation in identifying associated 
+psychological, personality and psychosocial issues. Although these instruments 
+may suggest a diagnosis, neither screening nor psychometric tests are capable 
+of making a diagnosis. The diagnosis should only be made after careful analysis 
+of all available data, including from a thorough history and clinical interview. 
+  
+A professional fluent in the primary language of the patient is strongly preferred.  
+When such a provider is not available, services of a professional language 
+interpreter must be provided.  
+
+[page 10]
+ 
+NYS WCB MTG – Knee Injury   10   
+ 
+ 
+Frequency: When assessing for a pre-existing, unrelated mental health issue that 
+has been made worse by, or is impeding the recovery from (or both) a work-
+related, medical injury or illness, then a one-time visit for initial 
+psychiatric/psychological encounter should be sufficient, as care would normally 
+be continued by the prior treating provider. If psychometric testing is indicated by 
+findings in the initial encounter, time for such testing should not exceed an 
+additional three hours of professional time. For conditions in which a mental 
+health issue is a central part of the initial claim, or in which there is a mental 
+health issue that is secondary or consequential to the work-related, medical 
+injury or illness, that is part of the claim in question, then more extensive 
+diagnostic and therapeutic interventions may be clinically indicated, and are 
+discussed in detail in the Medical Treatment Guidelines for such mental health 
+conditions. 
+A.17 Personality/Psychological/Psychosocial Intervention  
+Following psychosocial evaluation, when intervention is recommended, such 
+intervention should be implemented as soon as possible. This can be used alone 
+or in conjunction with other treatment modalities. For all psychological/psychiatric 
+interventions, there must be an assessment and treatment plan with measurable 
+behavioral goals, time frames and specific interventions planned.  
+   
+• Time to produce effect: two to eight weeks. 
+• Optimum duration: six weeks to three months. 
+• Maximum duration: three to six months.   
+• Counseling is not intended to delay but rather to enhance functional 
+recovery.   
+ 
+For PTSD Psychological Intervention:  
+• Optimum duration three to six months.  
+• Maximum duration: nine to twelve months.  
+ 
+For select patients, longer supervision and treatment may be required, and if 
+further treatment is indicated, documentation of the nature of the psychological 
+factors, as well as projecting a realistic functional prognosis, should be provided 
+by the authorized treating practitioner every four weeks during the first six 
+months of treatment. For treatment expected to last six to twelve months, such 
+documentation should be provided every four to eight weeks. For long-term 
+treatment beyond twelve months, such documentation should be provided every 
+eight to twelve weeks. All parties should strive for ongoing and continuous 
+communications, in order to facilitate seamless, continuous and uninterrupted 
+treatment.  
+A.18 Functional Capacity Evaluation (FCE)  
+Functional capacity evaluation is a comprehensive or more restricted evaluation 
+of the various aspects of function as they relate to the patient’s ability to return to 
+work. Areas such as endurance, lifting (dynamic and static), postural tolerance, 
+specific range-of-motion, coordination and strength, worker habits, employability, 
+as well as psychosocial, cognitive, and sensory perceptual aspects of 
+
+[page 11]
+ 
+NYS WCB MTG – Knee Injury   11   
+ 
+competitive employment may be evaluated. Components of this evaluation may 
+include: (a) musculoskeletal screen; (b) cardiovascular profile/aerobic capacity; 
+(c) coordination; (d) lift/carrying analysis; (e) job-specific activity tolerance; (f) 
+maximum voluntary effort; (g) pain assessment/psychological screening; (h) non-
+material and material handling activities; (i) cognitive and behavioral; (j) visual; 
+and (k) sensory perceptual factors. 
+ 
+In most cases, the question of whether a patient can return to work can be 
+answered without an FCE. 
+ 
+An FCE may be considered at time of MMI, following reasonable prior attempts 
+to return to full duty throughout course of treatment, when the treating physician 
+is unable to make a clear determination on work status on case closure. An FCE 
+is not indicated early during a treatment regime for any reason including one to 
+support a therapeutic plan.   
+  
+When an FCE is being used to determine return to a specific job site, the treating 
+physician is responsible for understanding and considering the job duties. FCEs 
+cannot be used in isolation to determine work restrictions. The authorized 
+treating physician must interpret the FCE in light of the individual patient's 
+presentation and medical and personal perceptions. FCEs should not be used as 
+the sole criteria to diagnose malingering.  
+A.19 Return To Work  
+For purposes of these guidelines, return to work is defined as any work or duty 
+that the patient is able to perform safely. It may not be the patient’s regular work.  
+Ascertaining a return to work status is part of medical care, and should be 
+included in the treatment and rehabilitation plan. It is normally addressed at every 
+outpatient visit. A description of the patient’s status and task limitations is part of 
+any treatment plan and should provide the basis for restriction of work activities 
+when warranted. Early return to work should be a prime goal in treating 
+occupational injuries. The emphasis within these guidelines is to move patients 
+along a continuum of care and return to work, since the prognosis of returning an 
+injured worker to work drops progressively the longer the worker has been out of 
+work.  
+A.20 Job Site Evaluation  
+The treating physician may communicate with the employer or employer’s 
+designee, either in person, by video conference, or by telephone, to obtain 
+information regarding the individual or specific demands of the patient’s pre-
+injury job. This may include a description of the exertional demands of the job, 
+the need for repetitive activities, load lifting, static or awkward postures, 
+environmental exposures, psychological stressors and other factors that would 
+pose a barrier to re-entry, risk of re-injury or disrupt convalescence. When 
+returning to work at the patient’s previous job tasks or setting is not feasible, 
+given the clinically determined restrictions on the patient’s activities, inquiry 
+should be made about modified duty work settings that align with, the patient’s 
+condition in view of proposed work activities/demands in modified duty jobs. It 
+should be noted, that under certain circumstances, more than one job site 
+evaluation may be indicated. 
+
+[page 12]
+ 
+NYS WCB MTG – Knee Injury   12   
+ 
+ 
+Ideally, the physician would gain the most information from an on-site inspection 
+of the job settings and activities; but it is recognized that this may not be feasible 
+in most cases. If job videos/CDs/DVDs are available from the employer, these 
+can contribute valuable information, as can video conferences, conducted from 
+the worksite and ideally workstation or work area. 
+  
+Frequency:  One or two contacts 
+• 1st contact: Patient is in a functional state where the patient can perform 
+some work. 
+• 2nd contact: Patient has advanced to state where the patient is capable of 
+enhanced functional demands in a work environment. 
+ 
+The physician shall document the conversation. 
+ 
+Other 
+A.21 Guideline Recommendations And Medical Evidence  
+The Workers’ Compensation Board and its Medical Advisory Committee have not 
+independently evaluated or vetted the scientific medical literature used in support 
+of the guidelines, but have relied on the methodology used by the developers of 
+various guidelines utilized and referenced in these Guidelines. 
+A.22 Experimental/Investigational Treatment  
+Medical treatment that is experimental/investigational and not approved for any 
+purpose, application or indication by the FDA is not permitted under these 
+Guidelines. 
+A.23 Injured Workers As Patients  
+In these Guidelines, injured workers are referred to as patients recognizing that 
+in certain circumstances there is no doctor-patient relationship. 
+A.24 Scope Of Practice   
+These Guidelines do not address scope of practice or change the scope of 
+practice. 
+  
+
+[page 13]
+ 
+NYS WCB MTG – Knee Injury   13   
+ 
+Knee Injury 
+Effective date will coincide with the launch of OnBoard: Limited Release 
+ 
+ 
+B. Introduction to Knee Injury  
+ 
+B.1 History Taking and Physical Examination 
+History taking and physical examination establish the foundation/basis for and 
+dictate subsequent stages of diagnostic and therapeutic procedures. 
+ 
+When findings of clinical evaluations and those of other diagnostic procedures 
+are not consistent with each other, the objective clinical findings should have 
+preference. The medical records should reasonably document the following: 
+ 
+B.1.a History of Present Injury 
+ 
+B.1.a.i Mechanism of injury: This includes details of symptom onset 
+and progression, and symptoms that may arise from postural or 
+functional accommodation to the knee injury; 
+ 
+B.1.a.ii Relationship to work: This includes a statement of the 
+probability that the illness or injury is work-related; 
+ 
+B.1.a.iii Prior occupational and non-occupational injuries to the same 
+area including specific prior treatment and any prior bracing 
+devices; 
+ 
+B.1.a.iv History of locking, clicking, giving way, crepitation, popping, 
+swelling (is present description of onset and volume) and 
+presence or absence of pain while ascending or descending 
+stairs; 
+ 
+B.1.a.v Ability to perform job duties and activities of daily living; and 
+ 
+B.1.a.vi Exacerbating and alleviating factors for symptoms; not limited 
+to the knee. 
+ 
+B.1.b Past History 
+ 
+B.1.b.i Past medical history includes, but is not limited to, neoplasm (or 
+recurrence), gout/pseudogout, infections, significant knee femur 
+and/or leg trauma, arthritis, and diabetes; 
+ 
+B.1.b.ii A review of systems should be conducted, the elements of 
+which may include signs or symptoms related to the following 
+systems: constitutional symptoms; eyes; ear, nose, mouth, and 
+throat; cardiovascular; respiratory; gastrointestinal; 
+genitourinary; musculoskeletal; integumentary/breast; 
+
+[page 14]
+ 
+NYS WCB MTG – Knee Injury   14   
+ 
+neurological; psychiatric; endocrine; hematologic/lymphatic; 
+allergic/immunologic. Based on the underlying condition being 
+addressed, and clinical judgement, the breadth and focus of the 
+review of systems can be tailored on a case by case basis.    
+ 
+B.1.b.iii  Smoking history; 
+ 
+B.1.b.iv Vocational, military service, and recreational pursuits; 
+ 
+B.1.b.v Prior imaging studies; and 
+ 
+B.1.b.vi Past surgical history. 
+ 
+B.1.c Physical Examination 
+ 
+Examination of a joint should include the joint above and below the 
+affected area. Physical examinations should include accepted tests and 
+exam techniques applicable to the joint or area being examined, 
+including: 
+ 
+B.1.c.i Visual Inspection; 
+ 
+B.1.c.ii Palpation 
+ 
+B.1.c.iii Range of motion/quality of motion; 
+ 
+B.1.c.iv Strength with attention given to evaluate for atrophy and 
+muscle fasciculations; 
+ 
+B.1.c.v Joint stability; 
+ 
+B.1.c.vi Examination for a displaced or abnormally displaceable patella; 
+ 
+B.1.c.vii If applicable to injury, integrity of distal circulation, sensory, and 
+motor function; and 
+ 
+B.1.c.viii If applicable, full neurological exam including muscle atrophy 
+and gait abnormality. 
+ 
+B.1.d Red Flags 
+ 
+Certain findings, “red flags”, raise suspicion of potentially serious 
+medical conditions. Assessment (history and physical 
+examination) should include evaluation for red flags. In the knee 
+these findings or indicators may include: fracture, dislocations, and 
+ligamentous tears; infection or inflammation; neurological or 
+vascular compromise including compartment syndrome; and 
+history of trauma, including but not necessarily limited to serious 
+motor vehicle crashes, crush injuries, or falls from heights. Further 
+evaluation/consultation or urgent/emergency intervention may be 
+indicated, and the New York Knee Injury Medical Treatment 
+
+[page 15]
+ 
+NYS WCB MTG – Knee Injury   15   
+ 
+Guidelines incorporate changes in clinical management triggered 
+by the presence of “red flags.” 
+ 
+B.2 Radiographic Imaging (X-Ray) 
+Recommended - In select patients. 
+ 
+Indications: 
+ 
+B.2.a Inability to transfer weight for four steps at the time of the initial visit, 
+regardless of limping; 
+ 
+B.2.b History of significant trauma, especially blunt trauma or fall from a height; 
+ 
+B.2.c Age over 55 years; 
+ 
+B.2.d Unexplained or persistent pain over two weeks. (Occult fractures, 
+especially stress fractures, may not be visible on initial x-ray. A follow-up 
+radiograph and/or bone scan may be required to make the diagnosis); 
+ 
+B.2.e History or exam suggestive of intravenous drug abuse or osteomyelitis; 
+and 
+ 
+B.2.f Pain with swelling and/or range of motion (ROM) limitation localizing to an 
+area of prior fracture, internal fixation, or joint prosthesis. 
+ 
+Presence of deformity at time of injury that may or may not have reduced with 
+knee extension  
+ 
+B.3 Laboratory Testing 
+Laboratory tests are rarely indicated at the time of initial evaluation, 
+unless there is suspicion of systemic illness, infection, neoplasia, 
+connective tissue disorder, or underlying arthritis or rheumatologic 
+disorder based on history and/or physical examination. Laboratory 
+tests can provide useful diagnostic information. Tests include, but 
+are not limited to: 
+ 
+B.3.a Complete Blood Count (CBC) with Differential  
+ 
+Recommended - for patients with suspicion of infection, blood 
+dyscrasias, and medication side effects. 
+ 
+B.3.b Erythrocyte sedimentation rate (ESR), rheumatoid factor (RF), anti-
+nuclear antigen (ANA), human leukocyte antigen (HLA), C-reactive 
+protein (CRP) and if indicated by activity history, Lyme serology. 
+ 
+ 
+
+[page 16]
+ 
+NYS WCB MTG – Knee Injury   16   
+ 
+           Recommended - To detect evidence of a rheumatologic, infection, or       
+connective tissue disorder. 
+ 
+B.3.c Serum calcium, phosphorous, uric acid, alkaline phosphatase, and 
+acid phosphatase  
+ Recommended - In select patients with suspicion of metabolic bone 
+disease. 
+ 
+B.3.d Liver and Kidney Function 
+  
+Recommended - In select patients with prolonged anti-inflammatory use 
+or other medications requiring monitoring. 
+ 
+B.3.e Joint Aspiration  
+ 
+Recommended - to evaluate joint effusion for bacteria, white cell  count, 
+red cell count, fat globules, crystalline birefringence and chemistry. 
+ 
+B.4 Diagnostic Testing and Procedures 
+ 
+As outlined in detail in General Principles section A-13, the selection of 
+diagnostic imaging studies depends on the case-specific clinical presentation, as 
+well as clinical judgment. In addition, there may be instances where repeat or 
+alternate diagnostic imaging may be clinically indicated. Such instances include, 
+but are not necessarily limited to when: a prior test is of poor quality and/or 
+nondiagnostic; the clinical situation changes (e.g., new or worsening symptoms, 
+preparing for surgery or therapeutic injections, etc.); it is necessary to monitor 
+clinical progress (e.g., post-operatively) or deterioration over time.  
+Prudent choice of procedure(s) or a proper sequential order in multiple 
+procedures will ensure maximum diagnostic accuracy, minimize adverse effect to 
+patients and promote clinical efficiency. Repeat procedures result in an increase 
+in cumulative radiation dose and associated risks. 
+ 
+Diagnostic imaging procedures have varying degrees of sensitivity and specificity 
+for any diagnosis. Clinical history, physical examination and clinical judgment 
+should be the basis for selection and interpretation of imaging studies.   
+ 
+Generally, plain X-rays are a useful starting point, but they are not always 
+sufficient. Magnetic resonance imaging (MRI), arthrography, or computed axial 
+tomography (CT) scanning following arthrography may provide useful information 
+for many knee disorders. In certain circumstances as stated above, repeat or 
+alternate imaging may be warranted. Usually, selection of one procedure over 
+others depends upon multiple factors.   
+ 
+When indicated, the following additional imaging studies can be utilized for 
+further evaluation of the lower extremity, based upon the mechanism of injury, 
+symptoms, and patient history. The studies below are listed in frequency of use, 
+not importance. 
+ 
+ 
+
+[page 17]
+ 
+NYS WCB MTG – Knee Injury   17   
+ 
+B.4.a Imaging Studies 
+ 
+B.4.a.i Magnetic Resonance Imaging (MRI) 
+ 
+Recommended – in select patients. 
+ 
+Indications: Magnetic Resonance Imaging (MRI) 
+provides a more definitive visualization of soft 
+tissue structures, including ligaments, tendons, 
+joint capsule, menisci and joint cartilage 
+structures, than x-ray or Computed Axial 
+Tomography in the evaluation of traumatic or 
+degenerative injuries. The addition of intravenous 
+or intra-articular contrast can enhance definition of 
+selected pathologies. 
+ 
+In general, the high field, conventional, MRI 
+provides better resolution than that of a lower field 
+scan (open field MRI). A lower field scan may be 
+indicated when a patient cannot fit into a high field 
+scanner or is too claustrophobic despite sedation. 
+Inadequate resolution on a first scan may require 
+a second MRI using a different technique. A 
+subsequent diagnostic MRI may be a repeat of 
+the same procedure, when the rehabilitation 
+physician, radiologist or surgeon says the study 
+was of inadequate quality to make a diagnosis. All 
+questions in this regard should be discussed with 
+the MRI center and/or radiologist. 
+ 
+Ferrous material/metallic objects present in the 
+tissues is a contraindication for the performance of 
+an MRI. 
+ 
+B.4.a.ii Computed Tomography (CT) 
+ 
+ Recommended – in select patients. 
+ 
+Indications: Computed Axial Tomography (CT) 
+provides excellent visualization of bone and is 
+used to further evaluate bony masses and 
+suspected fractures not clearly identified on 
+radiographic window evaluation. 
+ 
+Instrument scatter-reduction software provides 
+better resolution when metallic artifact is of 
+concern. When ferrous/metallic materials are 
+present in the tissues, CT should be ordered 
+rather than MRI. CT examinations entail exposure 
+to ionizing radiation, with associated radiation-
+related risks. 
+
+[page 18]
+ 
+NYS WCB MTG – Knee Injury   18   
+ 
+ 
+B.4.a.iii Lineal Tomography 
+ 
+ Not Recommended 
+ 
+B.4.a.iv Bone Scan (Radioisotope Bone Scanning) 
+ 
+ Recommended – in select patients. 
+ 
+Indications: 99MTechnecium diphosphonate 
+uptake reflects osteoblastic activity and may be 
+useful in trauma, metastatic or primary bone 
+tumors, stress fractures, occult fractures 
+osteomyelitis, and inflammatory lesions, but 
+cannot distinguish among these entities. 
+ 
+B.4.a.v Other Radionuclide Scanning 
+ 
+ Recommended – in select patients. 
+ 
+Indications: Indium and gallium scans are 
+procedures usually used to help diagnose lesions 
+seen on other diagnostic imaging studies. 
+67Gallium citrate scans are used to localize tumor, 
+infection, and abscesses. 
+111
+Indium-labeled 
+leukocyte scanning is utilized for localization of 
+infection or inflammation. 
+ 
+B.4.a.vi Arthrograms 
+ 
+ Recommended – in select patients 
+ 
+Indications: Arthograms may be useful in the 
+evaluation of internal derangement of a joint, 
+only when MRI or other tests are 
+contraindicated, are not considered diagnostic or 
+not available. This testing may be indicated in 
+select patients for whom the clinical benefits 
+outweigh the risks, and for whom MRI is either 
+non-diagnostic, or not clinically indicated or 
+clinically contraindicated.  
+ 
+Note: Potential complications of this more 
+invasive technique include pain, infection, and 
+allergic reactions. 
+ 
+B.4.a.vii Diagnostic Arthroscopy 
+ 
+   Refer to Table 1. 
+ 
+
+[page 19]
+ 
+NYS WCB MTG – Knee Injury   19   
+ 
+Table 1. 
+IF the diagnosis is supported by AND this has been done (if 
+recommended)  
+The following may be 
+appropriate  
+ 
+CLINICAL FINDINGS 
+ 
+SUBJECTIVE                OBJECTIVE          IMAGING 
+CONSERVATIVE CARE PROCEDURE 
+Pain and functional 
+limitations continue 
+despite conservative 
+care 
+ Imaging is 
+inconclusive  
+Medications  
+ 
+AND / OR 
+ 
+Physical 
+Therapy 
+ 
+Diagnostic 
+Arthroscopy 
+ 
+ 
+B.4.b Other Tests 
+ 
+ The studies below are listed by frequency of use, not importance. 
+ 
+B.4.b.i Electromyography (EMG) and Nerve Conduction Velocity 
+Studies (NCV) 
+ 
+ Recommended – in select patients. 
+ 
+Indications: Electrodiagnostic studies have limited 
+use with knee disorders. It is recommended and 
+preferred that EDX in the out-patient setting be 
+performed and interpreted by physicians board-
+certified in Neurology or Physical Medicine and 
+Rehabilitation. 
+ 
+B.4.b.ii Somatosensory Evoked Potentials (SSEP) 
+ 
+ Not Recommended 
+ 
+B.4.b.iii Doppler Ultrasonography/Plethysmography 
+ 
+ Recommended – in select patients 
+ 
+Indications: Doppler 
+Ultrasonography/Plethysmography is useful in 
+establishing the diagnosis of arterial and venous 
+disease in the lower extremity and should be 
+considered prior to the more invasive venogram 
+or arteriogram study. Doppler is less sensitive in 
+detecting deep-vein thrombosis in the calf 
+muscle area. If the test is initially negative, an 
+ultrasound should be repeated 7 days post initial 
+symptoms to rule out popliteal thrombosis. It is 
+also useful for the diagnosis of popliteal mass 
+when MRI is not available or contraindicated. 
+  
+
+[page 20]
+ 
+NYS WCB MTG – Knee Injury   20   
+ 
+Note: A Doppler study is useful in the 
+investigation of the popliteal space for masses. 
+Ultrasound may be used by some physicians to 
+guide diagnostic procedures and aspirations of 
+loculated fluid collections.  
+ 
+B.4.b.iv Venogram/Arteriogram 
+ 
+ Recommended – in select patients 
+ 
+Indications: Venogram/Arteriogram is useful for 
+investigation of vascular injuries or disease, 
+including deep-venous thrombosis. Potential 
+complications may include pain, allergic reaction, 
+and deep-vein thrombosis. 
+B.5 Other Procedures 
+ 
+B.5.a Joint Aspiration 
+ 
+Joint Aspiration is a procedure used when specifically 
+indicated and performed by individuals properly trained in 
+these techniques.  
+ 
+Recommended - in select patients. 
+ 
+Indications: When history and/or physical examination are 
+of concern for a septic joint, massive joint effusion or 
+bursitis (even at the initial evaluation). Aspiration should 
+not be performed through an infected area. 
+ 
+Aspiration of a large knee effusion can help to decrease pain 
+and speed functional recovery. Persistent or unexplained 
+effusions may be examined for evidence of infection, 
+rheumatologic, or inflammatory processes. The presence of 
+blood and fat globules in the effusion strongly suggests 
+occult fracture. A large hemorrhagic effusion should prompt 
+suspicion that a fracture or ligament tear may be present. 
+ 
+ 
+C.  Specific Knee Injury Diagnoses, Testing and Treatment  
+C.1 Chondral Defects (Cartilage or Cartilage and Bone Defects) 
+ 
+  C.1.a Description/ Definition 
+Cartilage or cartilage and bone defect at the articular or 
+meniscal surface of a joint. 
+ 
+C.1.b Mechanism of Injury 
+ Usually caused by a traumatic knee injury, particularly as a result of 
+
+[page 21]
+ 
+NYS WCB MTG – Knee Injury   21   
+ 
+contusion. 
+ 
+C.1.c Specific Physical Findings 
+ Knee effusion, pain in joint. 
+ 
+C.1.d Testing Procedures 
+ 
+ MRI, Radiographs, CT 
+ 
+ Recommended – in select patients as clinically indicated. 
+ 
+Indications: MRI may show bone bruising, osteochondral 
+lesion, or possibly articular cartilage injury. Radiographs and 
+CT may also be used. Following an acute injury an MRI 
+usually shows bone bruising. 
+ 
+C.1.e Non-Operative Treatment 
+ 
+ Recommended - in select patients as clinically indicated. 
+ 
+Rest/restricted activity, off-loading with crutches or cane, ice, 
+elevation, bracing, active and/or passive therapy, NSAIDs, 
+APAP therapeutic injections, which may at a late date 
+include hyaluronate therapy. 
+ 
+C.1.f Surgical Indications / Operative Treatment 
+ 
+ Osteochondral Autograft and Autologous Chrondrocyte 
+Implantation (ACI) are not included on the list of pre-
+authorized procedures. 
+ 
+Providers who want to perform one of these procedures 
+must request pre-authorization from the carrier before 
+performing the procedure. Refer to Table 3 for criteria. 
+ 
+If a non-operative treatment approach is initially 
+recommended, surgery may be indicated after the failure of 
+conservative management. The patient must continue to 
+exhibit the designated objective findings, subjective 
+symptoms and (where applicable) imaging findings. Refer to 
+Table 3. 
+ 
+C.1.g Autologous Chondrocyte Implantation (ACI) Exclusion Criteria 
+ 
+ ACI is not a covered procedure in any of the following circumstances: 
+ 
+i. Lesion that involves any portion of the patellofemoral articular 
+cartilage, bone, or is due to osteochondritis dissecans. 
+ 
+
+[page 22]
+ 
+NYS WCB MTG – Knee Injury   22   
+ 
+ii. A “kissing lesion” or Modified Outerbridge Grade II, III, or IV exists 
+on the opposite tibial surface. 
+ 
+iii. Mild to severe localized or diffuse arthritic condition that appears 
+on standing x-ray as joint space narrowing, osteophytes, or 
+changes in the underlying bone. 
+ 
+iv. Unhealthy cartilage border; the synovial membrane in the joint 
+may be used as a substitute border for up to ¼ of the total 
+circumference. 
+ 
+v. Prior total meniscectomy of either compartment in the affected 
+knee. Must have at least 1/3 of the posterior meniscal rim. 
+ 
+vi. History of anaphylaxis to gentamycin or sensitivity to materials of 
+bovine origin. 
+ 
+vii. Chondrocalcinosis is diagnosed during the cell culture process. 
+ 
+Table 2:  Modified Outerbridge Classification 
+ 
+I Articular cartilage softening  
+II Chondral fissures or fibrillation < 1.25 cm in diameter  
+III Chondral fibrillation > 1.25 cm in diameter (“crabmeat changes”)  
+IV Exposed subchondral bone  
+ 
+ 
+ 
+C.1.h Post-Operative Therapy 
+ 
+ May include restricted weight-bearing, bracing, active 
+and/or passive therapy. Continuous passive movement is 
+suggested after microfracture. 
+ 
+Table 3:  Chondral Defects 
+ 
+ 
+If the patient 
+has 
+ 
+AND the diagnosis is supported  
+ 
+by 
+ 
+AND this has 
+been done (if 
+recommended)  
+ 
+The following  
+surgery may be 
+appropriate  
+ 
+DIAGNOSIS 
+ 
+CLINICAL FINDINGS 
+ 
+SUBJECTIVE  OBJECTIVE  
+ 
+ 
+ 
+IMAGING 
+ 
+CONSERVATIVE 
+CARE 
+ 
+SURGICAL 
+PROCEDURE 
+ 
+Chondral 
+Defects 
+ 
+Joint 
+pain 
+ 
+Effusion  
+  
+Medication  
+ 
+Chondroplasty  
+  
+AND 
+ 
+Swelling  
+OR 
+ 
+Crepitus 
+AND/OR 
+ 
+Physical therapy 
+(Shaving  or 
+debridement of 
+an articular  
+surface)  
+
+[page 23]
+ 
+NYS WCB MTG – Knee Injury   23   
+ 
+  OR   
+  Limited ROM   
+ 
+Chondral 
+Defects 
+ 
+Joint 
+pain  
+ 
+AND  
+ 
+Swelling  
+ 
+Small full thickness 
+chondral defect on the 
+weight bearing portion 
+of the 
+medial or lateral 
+femoral condyle  
+ 
+AND 
+ 
+Chondral  
+defect on the 
+weight 
+bearing  
+portion of 
+the medial 
+or lateral 
+femoral  
+condyle on: 
+ 
+Medication 
+AND/OR 
+Physical therapy 
+ 
+ 
+ 
+Subchondral 
+drilling OR 
+Micro-Fracture 
+  Knee is stable with 
+intact, fully 
+functional menisci 
+and ligaments  
+MRI 
+OR 
+  
+  AND Diagnostic    
+  Normal joint space  Arthroscopy   
+  AND    
+  Ideal age 45 or 
+younger  
+   
+ 
+ 
+ 
+Table 3:  Chondral Defects (Cont’d) 
+ 
+ 
+If the patient 
+has 
+ 
+AND the diagnosis is supported  
+ 
+by 
+ 
+AND this has been 
+done (if 
+recommended  
+ 
+The following  
+surgery may be 
+appropriate  
+ 
+DIAGNOSIS 
+ 
+CLINICAL FINDINGS 
+ 
+SUBJECTIVE  OBJECTIVE  
+  
+ 
+ 
+IMAGING 
+ 
+CONSERVATIVE 
+CARE 
+ 
+SURGICAL 
+PROCEDURE 
+
+[page 24]
+ 
+NYS WCB MTG – Knee Injury   24   
+ 
+ 
+Chondral 
+Defects 
+ 
+Joint pain 
+AND 
+Swelling  
+ 
+Failure of 
+previous  
+subchondral 
+drilling or 
+microfracture  
+ 
+Large full 
+thickness 
+chondral defect 
+that  m easures  
+less than 3  cm  
+in diam eter and 
+1 cm in  bone  
+depth  on the  
+weight bearing 
+portion of the 
+medial or  
+lateral femoral 
+condyle  
+ 
+Chondral  
+defect on the 
+weight 
+bearing  
+portion of 
+the medial 
+or lateral 
+femoral  
+condyle on: 
+MRI 
+OR 
+ 
+Arthroscopy 
+ 
+Medication 
+AND/OR 
+Physical therapy 
+ 
+Osteochondral 
+Autograft 
+(Mosaicplasty 
+or OATS 
+Procedure)  
+  AND    
+  Knee is stable 
+with intact, 
+fully functional 
+menisci and  
+ligaments  
+   
+  AND    
+  Normal knee 
+alignment  
+   
+  AND    
+  Body mass 
+index of less 
+than 35 
+   
+ 
+Body Mass Index (BMI): The equation for calculating the BMI = (Weight in pounds ÷ by height in inches divided ÷ by 
+height in inches) x 703. For example, a person weighing 210 pounds and 6 feet tall would have a BMI of (210 
+pounds ÷ by 72 inches ÷ by 72 inches) x 703=28.5. 
+ 
+ 
+Table 3:  Chondral Defects (Cont’d) 
+ 
+ 
+If the patient 
+has 
+ 
+AND the diagnosis is supported  
+ 
+by 
+ 
+AND this has been 
+done (if 
+recommended)  
+ 
+The following  
+surgery may be 
+appropriate  
+ 
+DIAGNOSIS 
+ 
+CLINICAL FINDINGS 
+ 
+SUBJECTIVE  OBJECTIVE  
+ 
+ 
+ 
+IMAGING 
+ 
+CONSERVATIVE 
+CARE 
+ 
+SURGICAL 
+PROCEDURE 
+
+[page 25]
+ 
+NYS WCB MTG – Knee Injury   25   
+ 
+ 
+Chondral 
+Defects 
+ 
+Patient is 
+capable  
+and willing 
+to follow  
+the 
+rehabilita - 
+tion 
+protocol. 
+ 
+Failure of 
+traditional 
+surgical  
+interventions (i. 
+e., 
+microfracture, 
+drilling,  
+abrasion,  
+osteochondral 
+graft). 
+Debridement  
+alone does not 
+constitute a 
+traditional 
+surgical  
+intervention for 
+ACI. 
+ 
+Chondral defect 
+on the  weight  
+bearing surface 
+of the  m edial  
+or lateral 
+femoral  
+condyle on: 
+ 
+ 
+ 
+MRI 
+OR 
+Diagnostic 
+Arthroscopy 
+ 
+Physical therapy for a 
+minimum of 2  
+months  
+ 
+Autologous 
+Chondrocyte  
+Implantation (ACI) 
+ 
+See ACI exclusion 
+criteria, Section D.1 
+.g 
+  AND    
+  Single, clinically 
+significant,  
+lesion that 
+measures  
+between 1 to 10 
+sq. cm in area 
+that affects a 
+weight-bearing 
+surface of the 
+medial femoral 
+condyle or the 
+lateral femoral 
+condyle. 
+   
+  AND    
+  Full-thickness 
+lesion (Modified 
+Outerbridge  
+Grade III-IV) 
+that involves only 
+cartilage  
+   
+  AND    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Knee is stable 
+with intact, fully 
+functional  
+menisci and 
+ligaments  
+ 
+AND 
+ 
+   
+
+[page 26]
+ 
+NYS WCB MTG – Knee Injury   26   
+ 
+ 
+Chondral Defects  Normal knee 
+alignment  
+ 
+AND 
+ 
+Normal joint space 
+ 
+AND 
+ 
+Patient is less 
+than 60 years old 
+AND 
+Body Mass Index of 
+less than 35. 
+ 
+Body Mass Index (BMI): The equation for calculating the BMI = (Weight in pounds ÷ by height in 
+inches divided ÷ by height in inches) x 703. For example, a person weighing 210 pounds and 6 
+feet tall would have a BMI of (210 pounds ÷ by 72 inches ÷ by 72 inches) x 703=28.5.  
+ 
+C.2 Aggravated Osteoarthritis 
+   
+  C.2.a Description/Definition 
+ 
+Swelling and/or pain in a joint due to an aggravation by an injury, or in the 
+context of an aggravating activity in a patient with pre-existing 
+degenerative change in a joint. 
+ 
+C.2.b Mechanism of Injury 
+ 
+ May be caused by local trauma such as a blow, repetitive activity, or from 
+postural imbalance resulting from a constant malposition. 
+ 
+C.2.c Specific Physical Findings 
+ 
+ Increased pain and swelling in a joint 
+ 
+C.2.d Testing Procedures 
+ 
+ Radiographs 
+ 
+ Recommended – as clinically indicated 
+ 
+C.2.e Non-Operative Treatment 
+ 
+ Recommended – in select patients as clinically indicated. 
+ 
+ Rest/restricted activity, off-loading with crutches or cane, 
+
+[page 27]
+ 
+NYS WCB MTG – Knee Injury   27   
+ 
+ice, elevation, bracing, active and/or passive therapy, 
+NSAIDs, APAP therapeutic injections, which may at a late 
+date include hyaluronate therapy. 
+ 
+C.2.f Surgical Indications / Operative Treatment 
+ 
+ Recommended – in select patients. 
+ 
+ Indications: Symptoms with functional limitations not responsive to 
+conservative therapy. Debridement with or without removal of loose 
+bodies.  
+ 
+Not Recommended - Arthroscopic joint lavage. 
+ 
+Note: For symptoms not responsive to conservative 
+measures, treatment may involve knee arthroplasty. 
+Refer to Table 8. 
+ 
+C.2.g Post-Operative Therapy 
+ 
+ Recommended – as clinically indicated. 
+ 
+ Rest/restricted activity, off-loading with crutches or cane, ice, elevation, 
+bracing, active and/or passive therapy, NSAIDs, APAP therapeutic 
+injections, which may at a late date include hyaluronate therapy. 
+C.3 Collateral Ligament Injury 
+ 
+C.3.a Description / Definition 
+ 
+Sprain/strain or rupture of the medial or lateral collateral 
+ligament. Injury of the medial collateral ligament may also 
+be associated with a concomitant medial meniscus injury. 
+ 
+C.3.b Mechanism of Injury 
+ 
+ Valgus or varus trauma force applied to the knee. 
+ 
+C.3.c Specific Physical Findings 
+ 
+ Medial-lateral instability (knee should be tested in slight 
+flexion), tenderness over medial or lateral collateral 
+ligament which increases with valgus or varus force applied 
+to the knee. 
+ 
+C.3.d Diagnostic Testing Procedures 
+ 
+ MRI 
+ 
+ Recommended – in select patients with suspected Grade 
+
+[page 28]
+ 
+NYS WCB MTG – Knee Injury   28   
+ 
+II or Grade III tears. 
+  
+C.3.e Non-Operative Treatment 
+ 
+ Isolated Grade I collateral ligament tears and many Grade II 
+tears have been shown to heal with excellent results without 
+surgical intervention. When accompanying cruciate or 
+meniscus injuries are ruled out, the patient can be treated 
+non-operatively.  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Rest/restricted activity, off-loading with crutches or cane, ice, 
+elevation, bracing, casting, orthotics, rehabilitation and active 
+and/or passive therapy, NSAIDs, APAP and therapeutic 
+injections. 
+ 
+C.3.f Surgical Indications / Operative Treatment 
+ 
+ Recommended - in select patient. 
+ 
+Indications: A complete Grade III collateral ligament tear 
+should be referred to an orthopedic surgeon. 
+C.4 Anterior Cruciate Ligament (ACL) Injury 
+ 
+C.4.a Description / Definition 
+ 
+ Rupture or partial rupture of the anterior cruciate ligament; 
+may be associated with other internal derangement of the 
+knee. 
+ 
+C.4.b Mechanism of Injury 
+ 
+ May be caused by virtually any traumatic force to the knee 
+but most often caused by a twisting or a hyperextension 
+force. 
+ 
+C.4.c Specific Physical Findings 
+  
+Findings on physical exam include effusion or hemarthrosis, 
+instability, Lachman’s test, pivot shift test, and anterior 
+drawer test. 
+ 
+C.4.d Diagnostic Testing Procedures 
+ 
+ MRI, Radiographs  
+ 
+Recommended - in select patients. 
+ 
+
+[page 29]
+ 
+NYS WCB MTG – Knee Injury   29   
+ 
+Indications: May show avulsed portion of tibial spine but 
+this is a rare finding. 
+ 
+C.4.e Non-Operative Treatment 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Rest/restricted activity, off-loading with crutches or cane, ice, 
+elevation, bracing, casting, orthotics, rehabilitation and active 
+and/or passive therapy, NSAIDs, APAP and therapeutic 
+injections.  
+ 
+C.4.f Surgical Indications / Operative Treatment 
+ 
+If a non-operative treatment approach is initially 
+recommended, surgery may be indicated after the failure of 
+conservative management. The patient must continue to 
+exhibit the designated objective findings, subjective 
+symptoms and (where applicable) imaging findings. Refer to 
+Table 4. 
+ 
+ Recommended- in select patients as clinically indicated 
+ 
+C.4.g Post-Operative Therapy 
+ 
+Therapy, bracing. 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Table 4:  Anterior Cruciate Ligament Injury 
+ 
+ 
+If the patient 
+has 
+ 
+AND the diagnosis is supported  
+ 
+by 
+ 
+AND this has been 
+done (if 
+recommended)  
+ 
+The following 
+surgery may 
+be appropriate  
+ 
+DIAGNOSIS 
+ 
+CLINICAL FINDINGS 
+ 
+SUBJECTIVE  OBJECTIVE  
+  
+ 
+ 
+IMAGING 
+ 
+CONSERVATIVE 
+CARE 
+ 
+SURGICAL 
+PROCEDURE 
+
+[page 30]
+ 
+NYS WCB MTG – Knee Injury   30   
+ 
+ 
+Anterior 
+Cruciate 
+Ligament Injury 
+ 
+Pain alone is 
+not an 
+indication for 
+surgery 
+ 
+Instability of 
+the knee, 
+described as 
+“buckling or 
+giving way” 
+ 
+OR 
+ 
+Significant  
+effusion at the 
+time of injury 
+ 
+Positive 
+Lachman’ s 
+sign 
+ 
+OR 
+ 
+Positive pivot 
+shift 
+ 
+OR 
+ 
+Positive 
+anterior 
+drawer 
+ 
+(Not required if 
+acute 
+effusion,  
+hemarthrosis, 
+and 
+instability; or 
+documented  
+history of 
+effusion,  
+hemarthrosis 
+and 
+instability)  
+ 
+ACL 
+disruption 
+on: 
+ 
+In the presence of 
+a com plete tear in 
+a patient  f or 
+whom surgical 
+repair is 
+contemplated, a 
+course of 
+conservative  
+treatment need 
+not be completed 
+prior to surgery. 
+Physical therapy 
+OR 
+ 
+Anterior 
+Cruciate 
+Ligament  
+(ACL) Repair 
+  
+OR 
+ 
+MRI 
+Brace  
+ 
+Description of  
+injury indicates 
+rotary twisting or 
+hyperextension  
+incident  
+ OR 
+Arthroscopy 
+OR 
+  
+   Arthrogram    
+ 
+ 
+ 
+C.5 Posterior Cruciate Ligament (PCL) Injury 
+ 
+C.5.a Description / Definition 
+ 
+ Rupture of PCL; may have concurrent ACL rupture. 
+ 
+C.5.b Mechanism of Injury 
+  
+ Most often caused by a posterior directed force to flexed knee. 
+ 
+C.5.c Specific Physical Findings 
+ 
+ Findings on physical exam include acute effusion, instability, 
+reverse Lachman’s test, reverse pivot shift, posterior drawer 
+test. 
+ 
+C.5.d  Diagnostic Testing Procedures 
+ 
+ MRI, Radiographs  
+ 
+Recommended - in select patients as clinically indicated and/or with 
+suspicion of avulsed bone. 
+ 
+
+[page 31]
+ 
+NYS WCB MTG – Knee Injury   31   
+ 
+C.5.e Non-Operative Treatment 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+ Rest/restricted activity, off-loading with crutches or cane, 
+ice, elevation, bracing, casting, orthotics, rehabilitation and 
+active and/or passive therapy, NSAIDs, APAP and 
+therapeutic injections. 
+    
+C.5.f Operative Treatment 
+ 
+ Autograft or allograft reconstruction. 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Complaints of instability. Carefully consider the patients’ 
+normal daily activity level before initiation of surgical intervention. Most 
+commonly done when the PCL rupture is accompanied by multiligament 
+injury. 
+ 
+C.5.g Post-Operative Therapy 
+ 
+Therapy, bracing. 
+ 
+Recommended - in select patients as clinically indicated.  
+C.6 Meniscus Injury 
+ 
+C.6.a Description / Definition 
+ 
+ A tear, disruption, or avulsion of medial or lateral meniscus tissue. 
+ 
+C.6.b Mechanism of Injury 
+ 
+Trauma to the menisci from rotational, shearing, 
+torsion, and/or impact injuries. 
+ 
+C.6.c Specific Physical Findings 
+ 
+Patient describes a popping, tearing, or catching sensation. Findings on 
+physical exam may include joint line tenderness, locked joint, or 
+occasionally, effusion. Pertinent elements on physical examination might 
+include positive findings on McMurray, Apley, Steinman (parts 1 and 2) or  
+Childress tests. 
+ 
+C.6.d Diagnostic Testing Procedures 
+ 
+Radiographs, MRI 
+ 
+Recommended - in select patients as clinically indicated. 
+
+[page 32]
+ 
+NYS WCB MTG – Knee Injury   32   
+ 
+ 
+Indications: Radiographs including standing Posterior/Anterior (PA), 
+lateral, tunnel, and skyline views. MRI is the definitive imaging test. MRI is 
+sensitive and specific for meniscal tear. However, meniscal MRI is 
+frequently abnormal in asymptomatic injuries. Clinical correlation with 
+history and physical exam findings specific for meniscus injury is critically 
+important. 
+ 
+Providers planning treatment should therefore consider the patient's 
+complaints and presence of arthritis on MRI carefully, knowing that not all 
+meniscus tears in the middle aged and older population are related to the 
+patients’ complaints of pain. 
+ 
+Note: MRI arthrograms may be appropriate to diagnose recurrent 
+meniscal tears, particularly after previous surgery. 
+ 
+C.6.e Non-Operative Treatment 
+ 
+Rest/restricted activity, off-loading with crutches or cane, NSAIDs, 
+APAP, that may be followed by active and/or passive therapy, 
+bracing.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Note: A trial of manipulation may be attempted for a locked 
+knee. Clinical response should be seen within two to three 
+treatments. 
+ 
+C.6.f Surgical Indications / Operative Treatment 
+ 
+C.6.f.i Meniscal Allograft Transplantation 
+ 
+   Recommended – in rare patients, as clinically indicated. 
+ 
+Meniscal Allograft Transplantation is not 
+included on the list of pre- authorized 
+procedures. Providers who want to perform one 
+of these procedures must request pre-
+authorization from the carrier before performing 
+the procedure. Refer to Table 5. 
+ 
+C.6.f.ii Meniscectomy/Meniscus Repair 
+ 
+Recommended – in select patients, as clinically indicated. 
+ 
+ 
+ 
+C.6.g Post-Operative Therapy 
+ 
+Therapy, bracing. 
+ 
+
+[page 33]
+ 
+NYS WCB MTG – Knee Injury   33   
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+
+[page 34]
+ 
+NYS WCB MTG – Knee Injury   34   
+ 
+Table 5:  Meniscus Injury 
+ 
+ 
+If the patient 
+has 
+ 
+AND the diagnosis is supported  
+ 
+by 
+ 
+AND this has 
+been done (if 
+recommended)  
+ 
+The following 
+surgery may 
+be appropriate  
+ 
+DIAGNOSIS 
+ 
+CLINICAL FINDINGS 
+ 
+SUBJECTIVE  OBJECTIVE  
+ 
+ 
+ 
+IMAGING 
+ 
+CONSERVATIVE 
+CARE 
+ 
+SURGICAL 
+PROCEDURE 
+ 
+Meniscus Injury 
+ 
+Joint pain 
+ 
+Positive Mc 
+Murray’s sign 
+ 
+(Not required 
+for locked 
+knee) 
+ 
+Meniscal tear 
+on MRI 
+(Surgical 
+Repair  of 
+Grade I tear is 
+not indicated 
+except  in  
+unusual  
+circumstances)  
+ 
+In the presence 
+of a locked knee, 
+in a patient f or 
+whom  surgical  
+repair is 
+contemplated, a 
+course of 
+conservative  
+treatment need 
+not be performed 
+prior to surgery 
+ 
+Manipulation of 
+the knee joint,  
+Physical therapy 
+OR 
+Medication 
+OR 
+Activity 
+modification  
+ 
+Meniscectomy  
+ OR  OR 
+  OR  
+ Swelling  
+ 
+OR 
+ 
+Joint line  
+tenderness  
+Meniscus 
+Repair 
+ Feeling of 
+giving way 
+OR 
+ 
+Effusion  
+ 
+ OR  
+OR 
+ 
+ Locking, 
+clicking or 
+popping  
+ 
+Limited range 
+of motion  
+ 
+  OR  
+  Locking, 
+clicking, or 
+popping  
+ 
+  OR  
+  Crepitus  
+ 
+ 
+ 
+Table 5:  Meniscus Injury (Cont’d) 
+ 
+ 
+If the patient 
+has 
+ 
+AND the diagnosis is supported  
+ 
+by 
+ 
+AND this has 
+been done (if 
+recommended)  
+ 
+The following  
+surgery may be 
+appropriate  
+ 
+DIAGNOSIS 
+ 
+CLINICAL FINDINGS 
+ 
+SUBJECTIVE  OBJECTIVE  
+  
+ 
+ 
+IMAGING 
+ 
+CONSERVATIVE 
+CARE 
+ 
+SURGICAL 
+PROCEDURE 
+
+[page 35]
+ 
+NYS WCB MTG – Knee Injury   35   
+ 
+ 
+Meniscus 
+Injury 
+ 
+Capable and 
+willing to 
+follow the 
+rehabilitation 
+protocol 
+ 
+AND 
+ 
+Knee pain that 
+has not 
+responded to 
+conservative 
+treatment 
+ 
+Previous 
+meniscectomy 
+with at least 
+two-thirds of 
+the meniscus 
+removed  
+ 
+AND 
+ 
+If Modified 
+Outerbridge  
+Scale Graft III 
+then 
+debridement 
+must first 
+produce an 
+articular surface 
+sufficiently free of 
+irregularities to 
+maintain the  
+integrity of the 
+transplanted  
+meniscus. (See 
+Table 6 for 
+Modified  
+Outerbridge  
+Classification)  
+ 
+Articular 
+cartilage in 
+the affected  
+com partment 
+dem onstrates 
+a chondrosis 
+classif ied by 
+the Modif ied 
+Outerbridge 
+Scale  as  
+Grade  I, 
+Grade II or 
+Grade III 
+ 
+Physical therapy 
+OR 
+NSAID 
+OR 
+Activity 
+modification  
+ 
+Meniscal 
+Allograft  
+Transplantation  
+ 
+See meniscal 
+allograft  
+transplantation 
+exclusion  
+criteria next 
+page 
+  AND    
+  Stable knee with 
+intact ligaments, 
+normal  
+alignment, and 
+normal joint  
+space. 
+   
+  AND Ideal age 20-
+45 years (too 
+young for total 
+knee) 
+   
+  AND Body Mass 
+Index of less 
+than 35 
+   
+ 
+ 
+ 
+ 
+C.7 Meniscal Allograft Transplantation Exclusion Criteria 
+Meniscal Allograft Transplantation  
+Not Recommended - in any of the following circumstances: 
+a) Mild to severe localized or diffuse arthritic condition that appears on standing 
+
+[page 36]
+ 
+NYS WCB MTG – Knee Injury   36   
+ 
+x-ray as joint space narrowing, osteophytes or changes in the underlying bone. 
+ 
+b) Articular cartilage in the affected compartment demonstrates a chondrosis 
+classified by the Mod ified Outerbridge Scale as Grade III that has not 
+undergone debridement; Grade III with debridement that has not produced an 
+articular surface that can maintain the integrity of the transplanted meniscus; 
+or Grade IV. 
+ 
+Table 6:  Modified Outerbridge Classification 
+ 
+I   Articular cartilage softening  
+II   Chondral fissures or fibrillation < 1.25 cm in diameter  
+III   Chondral fibrillation > 1.25 cm in diameter (“crabmeat changes”)  
+IV   Exposed subchondral bone  
+Body Mass Index (BMI): The equation for calculating the BMI = (Weight in pounds ÷ by height in 
+inches divided ÷ by height in inches) x 703. For example, a person weighing 210 pounds and 6 feet 
+tall would have a BMI of (210 pounds ÷ by 72 inches ÷ by 72 inches) x 703=28.5.  
+ 
+ 
+C.8 Patellar Subluxation 
+ 
+C.8.a Description / Definition 
+ 
+An incomplete subluxation or dislocation of the patella. Recurrent 
+episodes can lead to subluxation syndrome that can cause frank 
+dislocation of the patella. 
+ 
+C.8.b Mechanism of Injury 
+ 
+Primarily associated with contusion, lateral force direct contact. 
+Secondary causes associated with shearing forces on the patella. 
+ 
+C.8.c Specific Physical Findings 
+ 
+Patient may report buckling sensation. Findings on physical exam may 
+include retinacular weakness, swelling, effusion, marked pain with 
+patellofemoral tracking/compression and glides. In addition, other findings 
+include atrophy of muscles, positive patellar apprehension test, patella 
+alta. 
+ 
+C.8.d Diagnostic Testing Procedures 
+ 
+Radiographs  
+ 
+Recommended - in select patients as clinically indicated and may include 
+Merchant views, Q-angle versus congruents. 
+ 
+
+[page 37]
+ 
+NYS WCB MTG – Knee Injury   37   
+ 
+C.8.e Non-Operative Treatment 
+ 
+Rest/restricted activity, off-loading with crutches or cane, NSAIDs, 
+APAP that may be followed by active and/or passive therapy, 
+bracing, therapeutic injection. 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+C.8.f Operative Treatment 
+ 
+Open reduction internal fixation with fracture.  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Fracture, recurrent subluxation or recurrent effusion, or 
+symptoms not responsive to conservative therapy. 
+ 
+Note: Following a patellar dislocation, surgical consultation no sooner than 
+two to three months of conservative therapy. Retinacular release, 
+quadriceps reefing, and patellar tendon transfer should only be 
+considered after a minimum of four to five months of conservative therapy. 
+ 
+C.8.g Post-Operative Therapy 
+ 
+Therapy, bracing. 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+C.9 Retropatellar Pain Syndrome (Chondromalacia Patella) 
+ 
+C.9.a Description / Definition 
+ 
+A retropatellar pain syndrome lasting over three months. Retropatellar 
+pathologies are associated with resultant weakening instability, and pain 
+of the patellofemoral mechanism. Can include malalignment, persistent 
+quadriceps tendinitis, distal patellar tendinitis, patellofemoral arthrosis, 
+and symptomatic plica syndrome. 
+ 
+C.9.b Mechanism of Injury 
+ 
+May be associated with contusion, repetitive patellar compressive forces, 
+shearing articular injuries associated with subluxation or dislocation of 
+patella, fractures, infection, and connective tissue disease. 
+ 
+C.9.c Specific Physical Findings 
+ 
+ Patient complains of pain, instability and tenderness that interfere with 
+daily living and work functions. Findings on physical exam may include 
+retinacular tenderness, pain with patellar compressive ranging, positive 
+patellar glide test, atrophy of quadriceps muscles, positive patellar 
+
+[page 38]
+ 
+NYS WCB MTG – Knee Injury   38   
+ 
+apprehensive test. Associated anatomical findings may include increased 
+Q angle; rotational lower extremity joints; ligament laxity, and effusion. 
+ 
+C.9.d Diagnostic Testing Procedures 
+ 
+C.9.d.i Radiographs  
+ 
+Recommended - in select patients as clinically 
+indicated. May include tunnel, Merchant, or 
+Laurin views.  
+ 
+C.9.d.ii CT or Bone Scan 
+ 
+ Recommended - in very select patients. 
+ 
+C.9.d.iii MRI 
+ 
+ Not Recommended - as it rarely identifies 
+pathology.  
+ 
+C.9.e Non-Operative Treatment 
+ 
+Rest/restricted activity, off-loading with crutches or cane, NSAIDs, APAP 
+that may be followed by active and/or passive therapy, functional electrical 
+stimulation of the vastus medialis, bracing, orthotics, therapeutic 
+injections. 
+ 
+Recommended - in select patients as clinically 
+indicated.  
+ 
+C.9.f Surgical Indications 
+ 
+Patellar tendon disruption, quadriceps tendon rupture/avulsion, fracture, 
+or symptoms not responsive to conservative therapy. There is very limited 
+data on long term outcomes of surgical treatment for anterior knee pain. 
+Surgical intervention should be considered after failure of a 
+comprehensive rehabilitation program that has included quadriceps 
+strengthening. 
+ 
+C.9.g Operative Treatment 
+ 
+Arthroscopic debridement of articular surface, plica, synovial tissue, loose 
+bodies, arthrotomy, open reduction internal fixation with fracture, patellar 
+button (prosthesis) with grade III-IV osteoarthritis (modified Outerbridge 
+classification) and possible patellectomy. 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Patellar tendon disruption, quadriceps tendon 
+rupture/avulsion, fracture, or symptoms not responsive to conservative 
+therapy. There is very limited data on long term outcomes of surgical 
+
+[page 39]
+ 
+NYS WCB MTG – Knee Injury   39   
+ 
+treatment for anterior knee pain. Surgical intervention should be 
+considered after failure of a comprehensive rehabilitation program that 
+has included quadriceps strengthening. 
+ 
+Note: Retinacular release, quadriceps reefing, and tibial transfer 
+procedures should only be considered after four to six months of 
+conservative therapy. Refer to Table 7. 
+ 
+C.9.h Post-Operative Therapy 
+ 
+Therapy; bracing. 
+ 
+Recommended 
+ 
+Table 7:  Retropatellar Pain Syndrome  
+ 
+ 
+If the patient has 
+ 
+AND the diagnosis is supported  
+ 
+by 
+ 
+AND this has 
+been done (if 
+recommended)  
+ 
+The following 
+surgery may be 
+appropriate  
+ 
+DIAGNOSIS 
+ 
+CLINICAL FINDINGS 
+ 
+SUBJECTIVE  OBJECTIVE  
+  
+ 
+ 
+IMAGING 
+ 
+CONSERVATIVE 
+CARE 
+ 
+SURGICAL 
+PROCEDURE 
+ 
+Retropateliar Pain 
+Syndrome  
+(Chondromalacia 
+Patella) 
+ 
+Knee pain with 
+sitting 
+ 
+OR 
+ 
+Pain with 
+patellar/femoral 
+movement  
+ 
+Lateral 
+tracking of 
+the patella  
+ 
+OR 
+ 
+Recurrent 
+effusion  
+ 
+Abnormal  
+patellar tilt 
+on: x -ray or 
+MRI 
+Physical therapy 
+(not required  
+for acute 
+patellar  
+dislocation with 
+associated intra - 
+articular  
+f racture)  
+ 
+Lateral 
+Retinacular 
+Release 
+ 
+OR 
+ 
+Patellar 
+Tendon 
+Realignment  
+ OR OR   
+OR 
+ 
+OR 
+ Recurrent 
+dislocations  
+Patellar 
+apprehension  
+  
+Medications  
+ 
+Maquet 
+Procedure  
+  OR    
+  Synovitis 
+with or 
+without 
+crepitus 
+   
+  OR    
+  Increased Q 
+angle > 15 
+degrees  
+   
+ 
+
+[page 40]
+ 
+NYS WCB MTG – Knee Injury   40   
+ 
+C.10 Tendinitis / Tenosynovitis 
+ 
+C.10.a Description / Definition 
+ 
+Inflammation of the lining of the tendon sheath or of the enclosed tendon. 
+Usually occurs at the point of insertion into bone or a point of muscular 
+origin. Can be associated with bursitis, or calcium deposits or systemic 
+connective diseases. 
+ 
+C.10.b Mechanism of Injury 
+ 
+May be caused by extreme or repetitive trauma, strain, or excessive 
+unaccustomed exercise or work. 
+ 
+C.10.c Specific Physical Findings 
+ 
+Involved tendons may be visibly swollen with possible fluid accumulation 
+and inflammation; popping or crepitus; and decreased range of motion. 
+ 
+C.10.d Diagnostic Testing Procedures 
+ 
+Not Recommended - diagnostic testing procedures for 
+Tendinitis/Tenosynovitis are rarely indicated and thus is not 
+recommended. 
+ 
+C.10.e Non-Operative Treatment 
+ 
+Rest/restricted activity, off-loading with crutches or cane, NSAIDS, APAP, 
+that may be followed by active and/or passive therapy, including 
+ergonomic changes at workstation(s), NSAIDs, therapeutic injections. 
+ 
+Recommended- in select patients as clinically indicated.  
+ 
+C.10.f Surgical Indications 
+ 
+Suspected avulsion fracture or severe functional impairment unresponsive 
+to conservative therapy. 
+ 
+C.10.g Operative Treatment 
+ 
+Rarely indicated and only after extensive conservative therapy. 
+    
+Recommended - in very select patients.  
+ 
+Indications: Suspected avulsion fracture or severe functional impairment 
+unresponsive to conservative therapy. 
+ 
+C.10.h Post-Operative Therapy 
+ 
+Recommended - in select patients as clinically indicated. 
+
+[page 41]
+ 
+NYS WCB MTG – Knee Injury   41   
+ 
+C.11 Bursitis 
+ 
+C.11.a Description 
+ 
+Inflammation of bursa tissue. Can be precipitated by 
+tendinitis, bone spurs, foreign bodies, gout, arthritis, muscle 
+tears, or infection. 
+ 
+C.11.b Mechanism of Injury 
+ 
+May be caused by sudden change in work habits, frequent 
+repetitive motions in non-routine work profile, postural 
+changes, contusion, frequent climbing, soft tissue trauma, 
+fracture, continuous work on uneven surfaces, sustained 
+compression force. 
+ 
+C.11.c Specific Physical Findings 
+ 
+Palpable, tender and enlarged bursa, decreased range 
+of motion, warmth. May have increased pain with 
+range of motion. 
+ 
+C.11.d Diagnostic Testing Procedures 
+ 
+Bursal Fluid Aspiration  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: May be obtained in patients with need for 
+testing for connective tissue disorders, rheumatic disease, 
+and infection.  
+ 
+C.11.e Radiographs, CT, MRI  
+ 
+Not Recommended  
+ 
+C.11.f Non-Operative Treatment 
+ 
+Rest/restricted activity, off-loading with crutches or cane, 
+NSAIDs, APAP, that may be followed by active and/or 
+passive therapy, ice, therapeutic injection, treatment of an 
+underlying infection, if present. 
+ 
+   Recommended - in select patients as clinically indicated.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 42]
+ 
+NYS WCB MTG – Knee Injury   42   
+ 
+C.11.g Operative Treatment 
+ 
+ Surgical Excision of the Bursa 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications:  bursa excision after failure of conservative 
+therapy 
+ 
+C.11.h Post-Operative Therapy 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+D. Therapeutic Procedures:  Non-Operative 
+ 
+Before initiation of any therapeutic procedure, the authorized treating provider, employer 
+and insurer must consider these important issues in the care of the injured worker. 
+ 
+First, patients undergoing therapeutic procedure(s) should be released or returned to 
+modified, restricted, or full duty during their rehabilitation at the earliest appropriate time. 
+ 
+Second, cessation and/or review of treatment modalities should be undertaken when no 
+further significant subjective or objective improvement in the patient’s condition is noted. 
+If patients are not responding within the recommended duration periods, alternative 
+treatment interventions, further diagnostic studies or consultations should be pursued. 
+ 
+Third, providers should provide and document education to the patient. No treatment 
+plan is complete without addressing issues of individual and/or group patient education 
+as a means of facilitating self-management of symptoms. 
+ 
+In unusual cases where a patient is unable to attend an outpatient center, home therapy 
+may be necessary. Home therapy may include active and passive therapeutic 
+procedures as well as other modalities to assist in alleviating pain, swelling, and 
+abnormal muscle tone. Home therapy is usually of short duration. 
+ 
+The following procedures are listed in alphabetical order. 
+ 
+D.1 Acupuncture 
+ 
+Recommended - in select patients as an adjunct to physical rehabilitation and/or 
+surgical intervention to hasten the return of functional activity. 
+ 
+Indications:  Include joint pain, joint stiffness, soft tissue pain and inflammation, 
+paresthesia, post-surgical pain relief, muscle spasm, and scar tissue pain. 
+ 
+Frequency: Typically, one to three times per week with three to six treatments 
+needed to produce effect and a maximum of ten treatments as clinically 
+indicated.  
+  
+
+[page 43]
+ 
+NYS WCB MTG – Knee Injury   43   
+ 
+Note: Total Time Frames for Acupuncture and Acupuncture with Electrical 
+Stimulation; time frames are not meant to be applied to each of the above 
+sections separately. The time frames are to be applied to all acupuncture 
+treatments regardless of the type or combination of therapies being provided. 
+ 
+D.2 Biofeedback 
+ 
+Not Recommended 
+ 
+D.3 Injections:  Therapeutic 
+ 
+Therapeutic injections involve the delivery of anesthetic and/or anti-inflammatory 
+medications to the painful structure. Therapeutic injections have many potential 
+benefits. Ideally, a therapeutic injection will: (a) reduce inflammation in a specific 
+target area; (b) relieve secondary muscle spasm; (c) allow a break from pain; and 
+(d) support therapy directed to functional recovery. Diagnostic and therapeutic 
+injections should be used early and selectively to establish a diagnosis and 
+support rehabilitation. If injections are overused or used outside the context of a 
+monitored rehabilitation program, they may be of significantly less value. 
+ 
+Contraindications: General contraindications include local or systemic infection, 
+bleeding disorders, allergy to medications used and patient refusal. Specific 
+contraindications may apply to individual injections. 
+ 
+D.3.a Soft Tissue Joint Injections 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Soft tissue and joint injections may be performed as 
+analgesic or anti- inflammatory procedures. Injections into the tendon are 
+not recommended. 
+ 
+Frequency: Not more than two to three times annually. Usually one or two 
+injections adequate.  
+ 
+Time to produce effect: Immediate with local anesthetic, or within three 
+days with corticosteroids. 
+ 
+Optimum/maximum duration: Limited to three injections annually to the 
+same site 
+ 
+Note: A minimum of three weeks interval between injections is 
+recommended.  
+ 
+ 
+D.3.b Trigger Point Injections 
+ 
+ Not Recommended 
+
+[page 44]
+ 
+NYS WCB MTG – Knee Injury   44   
+ 
+ 
+D.3.c Prolotherapy (also known as sclerotherapy) 
+ 
+ Not Recommended 
+ 
+D.3.d Protein Rich Plasma (PRP) 
+ 
+ Not Recommended 
+ 
+D.3.e Intra-Capsular Acid Salts – Viscosupplementation 
+ 
+ A form of treatment for osteoarthritis or degenerative changes in the knee 
+joint.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: It is recommended that these injections be considered a 
+therapeutic alternative in patients who have failed non- pharmacological 
+and analgesic treatment, and particularly, if non- steroidal anti-
+inflammatory drug treatment is contraindicated or surgery is not an option. 
+The utility of viscosupplementation in severe osteoarthritis and its efficacy 
+beyond six months is not well known. 
+ 
+Frequency: One series of injections, per product instructions. If the first 
+use is associated with decreased symptoms and increased function, 
+repeat use may be considered after six months if symptoms recur. 
+Optimum duration varies. Efficacy beyond six months is not well known.  
+D.4 Medications 
+ 
+For most patients, ibuprofen, naproxen, or other older generation NSAIDs are 
+recommended as first-line medications. Acetaminophen (or the analog 
+paracetamol) may be a reasonable alternative to NSAIDs for patients who are 
+not candidates for NSAIDs, although most evidence suggests acetaminophen is 
+modestly less effective. There is evidence that NSAIDs are as effective for relief 
+of pain as opioids (including tramadol) and less impairing.  
+  
+D.4.a Non-Steroidal Anti-inflammatory Drugs (NSAIDs) for Treatment of 
+Acute, Subacute, or Chronic Knee pain  
+ 
+Recommended - for treatment of acute, subacute, or chronic knee pain  
+ 
+Indications:  For acute, subacute, or chronic knee pain, NSAIDs are 
+recommended for treatment. Over-the-counter (OTC) agents may suffice 
+and should be tried first. 
+ 
+Frequency/Duration:  As needed use may be reasonable for many 
+patients.  
+ 
+Indications for Discontinuation:  Resolution of symptoms, lack of efficacy, 
+or development of adverse effects, that necessitate discontinuation. 
+
+[page 45]
+ 
+NYS WCB MTG – Knee Injury   45   
+ 
+ 
+D.4.b NSAIDs for Patients at High Risk of Gastrointestinal Bleeding  
+ 
+Recommended – for concominent use of cytoprotective classes of drugs: 
+misoprostol, sucralfate, histamine Type 2 receptor blockers, and proton 
+pump inhibitors for patients at high risk of gastrointestinal bleeding.  
+ 
+Indications: For patients with a high-risk factor profile who also have 
+indications for NSAIDs, cytoprotective medications should be considered, 
+particularly if longer term treatment is contemplated. At-risk patients 
+include those with a history of prior gastrointestinal bleeding, elderly, 
+diabetics, and cigarette smokers. 
+ 
+Frequency/Dose/Duration: Proton pump inhibitors, misoprostol, 
+sucralfate, H2 blockers recommended. Dose and frequency per 
+manufacturer. There is not generally believed to be substantial 
+differences in efficacy for prevention of gastrointestinal bleeding. 
+ 
+Indications for Discontinuation: Intolerance, development of adverse 
+effects, or discontinuation of NSAID. 
+ 
+D.4.c  NSAIDs for Patients at Risk for Cardiovascular Adverse Effects 
+ 
+ Patients with known cardiovascular disease or multiple risk factors for 
+cardiovascular disease should have the risks and benefits of NSAID 
+therapy for pain discussed. 
+ 
+ Recommended - Acetaminophen or aspirin as the first-line therapy 
+appear to be the safest regarding cardiovascular adverse effects. 
+  
+ Recommended - If needed, NSAIDs that are non-selective are preferred 
+over COX-2 specific drugs. In patients receiving low-dose aspirin for 
+primary or secondary cardiovascular disease prevention, to minimize the 
+potential for the NSAID to counteract the beneficial effects of aspirin, the 
+NSAID should be taken at least 30 minutes after or eight hours before the 
+daily aspirin.  
+  
+D.4.d  Acetaminophen     
+ 
+Recommended - for treatment of knee pain, particularly in patients with 
+contraindications for NSAIDs. 
+ 
+Indications: All patients with knee pain, including acute, subacute, 
+chronic, and post-operative. 
+ 
+Dose/Frequency: Per manufacturer’s recommendations; may be utilized 
+on an as-needed basis. There is evidence of hepatic toxicity when 
+exceeding four gm/day. 
+ 
+Indications for Discontinuation: Resolution of pain, adverse effects or 
+intolerance. 
+
+[page 46]
+ 
+NYS WCB MTG – Knee Injury   46   
+ 
+ 
+Rationale for Recommendations:  For most patients, generic 
+ibuprofen, naproxen, or other older generation NSAIDs are 
+recommended as first-line medications. Second-line medications should 
+include one of the other generic medications. Acetaminophen (or the 
+analog paracetamol) may be a reasonable alternative for these patients, 
+although most evidence suggests acetaminophen is modestly less 
+effective for arthrosis patients. There is evidence that NSAIDs are as 
+effective for relief of pain as opioids (and tramadol) and less 
+impairing. 
+ 
+D.4.e Topical Medications  
+ 
+Recommended – In select patients for treatment of pain associated with 
+acute, subacute, or chronic knee pain, including topical creams, 
+ointments, and lidocaine patches   
+ 
+Rationale for Recommendation:  TOPICAL DRUG DELIVERY (e.g., 
+capsaicin, topical lidocaine, topical NSAIDs and topical salicylates and 
+nonsalicylates) may be an acceptable form of treatment in selected 
+patients. A topical agent should be prescribed with strict instructions for 
+application and maximum number of applications per day to obtain the 
+desired benefit and avoid potential toxicity. For most patients, the effects 
+of long-term use are unknown and thus may be better used episodically. 
+These agents may be used in those patients who prefer topical 
+treatments over oral medications. Localized skin reactions may occur, 
+depending on the medication agent used. Prescribers should consider 
+that topical medication can result in toxic blood levels. 
+ 
+Capsaicin offers a safe and effective alternative to systemic NSAIDs, 
+although its use is limited by local stinging or burning sensation that 
+typically disappears with regular use. Patients should be advised to apply 
+the cream on the affected area with a plastic glove or cotton applicator to 
+avoid inadvertent contact with eyes and mucous membranes. Long-term 
+use of capsaicin is not recommended. 
+ 
+Topical Lidocaine is only indicated when there is documentation of a 
+diagnosis of neuropathic pain. In this instance, a trial for a period of not 
+greater than four weeks can be considered, with the need for 
+documentation of functional gains as criteria for additional use. 
+ 
+Topical NSAIDs (e.g., diclofenac gel) may achieve tissue levels that are 
+potentially therapeutic. Overall the low level of systemic absorption can 
+be advantageous, allowing the topical use of these medications when 
+systemic administration is relatively contraindicated (such as patients with 
+hypertension, cardiac failure, peptic ulcer disease or renal insufficiency). 
+ 
+Topical Salicylates or Nonsalicylates (e.g., methyl salicylate) overall do 
+not appear to be more effective than topical NSAIDs. May be used for a 
+short-term course especially in patients with chronic conditions in whom 
+
+[page 47]
+ 
+NYS WCB MTG – Knee Injury   47   
+ 
+systemic medication is relatively contraindicated or as an adjuvant to 
+systemic medication. 
+ 
+ 
+D.4.f Opioids 
+ 
+Not Recommended – for acute, subacute, or chronic knee pain. 
+   
+Recommended – for limited use (not more than seven days) for post-
+operative pain management as adjunctive therapy to more effective 
+treatments.  
+ 
+Indications: For post-operative pain management, a brief prescription of 
+opioids as adjuncts to more efficacious treatments (especially NSAIDs, 
+acetaminophen) is often required, especially nocturnally.  
+ 
+Frequency/Duration: Prescribed as needed throughout the day, then later 
+only at night, before weaning off completely.  
+ 
+Rationale for Recommendation: Some patients have insufficient pain 
+relief with NSAIDs, thus judicious use of opioids may be helpful, 
+particularly for nocturnal use. Opioids are recommended for brief, select 
+use in post-operative patients with primary use at night to achieve sleep 
+post-operatively.  
+ 
+D.4.g Minor Tranquilizer / Muscle Relaxants 
+ 
+ Not Recommended 
+ 
+D.5 Orthotics and Prosthetics 
+ 
+D.5.a Fabrication / Modification of Orthotics 
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications:  Used when there is need to normalize weight-bearing, 
+facilitate better motion response, stabilize a joint with insufficient muscle 
+or proprioceptive/reflex competencies, to protect subacute conditions as 
+needed during movement, and correct biomechanical problems. 
+ 
+Frequency: Typically one to two times per week with one to three 
+sessions needed to produce effect (includes wearing schedule 
+evaluation).  
+Optimum/maximum duration: Four sessions of evaluation, casting, fitting, 
+and re-evaluation. 
+ 
+ 
+ 
+
+[page 48]
+ 
+NYS WCB MTG – Knee Injury   48   
+ 
+D.5.b Orthotic / Prosthetic Training 
+ 
+Orthotic/Prosthetic Training is the skilled instruction (preferably by 
+qualified providers) in the proper use of orthotic devices and/or prosthetic 
+limbs including stump preparation, donning and doffing limbs, instruction 
+in wearing schedule and orthotic/prosthetic maintenance training. Training 
+can include gait, mobility, transfer and self-care techniques. 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Frequency:  Three times per week with two to six sessions needed to 
+produce effect.  
+Optimum/maximum duration: Two to four months. 
+ 
+D.5.c Splints or Adaptive Equipment 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Design, fabrication and/or modification indications include the 
+need to control neurological and orthopedic injuries for reduced stress 
+during functional activities and modify tasks through instruction in the use 
+of a device or physical modification of a device, which reduces stress on 
+the injury. Equipment should improve safety and reduce risk of re-injury. 
+This includes high and low technology assistive options such as 
+workplace modifications, computer interface or seating, crutch or walker 
+training, and self-care aids. 
+ 
+Frequency: One to three sessions or as indicated to establish 
+independent use.  
+  
+                                    Optimum/maximum duration: One to three sessions. 
+D.6 Rehabilitation  
+ 
+Rehabilitation (supervised formal therapy) required as a result of a work-related 
+injury should be focused on restoring functional ability required to meet the 
+patient’s daily and work activities and return to work; striving to restore the 
+injured worker to pre-injury status in so far as is feasible.  
+ 
+Active therapy requires an internal effort by the patient to complete a specific 
+exercise or task. Passive therapy are those interventions not requiring the 
+exertion of effort on the part of the patient, but rather are dependent on 
+modalities delivered by a therapist. Generally passive interventions are viewed 
+as a means to facilitate progress in an active therapy program with concomitant 
+attainment of objective functional gains. Active interventions should be 
+emphasized over passive interventions.  
+ 
+
+[page 49]
+ 
+NYS WCB MTG – Knee Injury   49   
+ 
+The patient should be instructed to continue both active and passive therapies at 
+home as an extension of the treatment process in order to maintain improvement 
+levels. 
+ 
+Assistive devices may be included as an adjunctive measure incorporated into 
+the rehabilitation plan to facilitate functional gains.  
+ 
+ 
+D.6.a Physical / Occupational Therapy 
+ 
+Recommended - to improve function, including range of motion and 
+strength. 
+ 
+Frequency/Dose/Duration: Total numbers of visits may be as few as two 
+to three for patients with mild functional deficits or up to 12 to 15 with 
+more severe deficits with documentation of ongoing objective functional 
+improvement.  
+ 
+When there are ongoing functional deficits, more than 12 to 15 visits may 
+be indicated if there is documentation of functional improvement towards 
+specific objective functional goals (e.g., range of motion, advancing ability 
+to perform work activities). As part of the rehabilitation plan a home 
+exercise program should be developed and performed in conjunction with 
+the therapy.  
+ 
+Indications for Discontinuation: Resolution of pain, intolerance, lack of 
+efficacy or noncompliance. 
+ 
+D.6.b Activities of Daily Living (ADL) 
+ 
+Activities of Daily Living are instruction, active-assisted 
+training and/or adaptation of activities or equipment to 
+improve a person's capacity in normal daily activities such as 
+self-care, work re- integration training, homemaking and 
+driving. 
+ 
+   Recommended - in select patients as clinically indicated. 
+ 
+Frequency: Typically, two to three times per week with four to five 
+treatments needed to produce effect and a maximum of three weeks 
+as clinically indicated.  
+ 
+D.6.c Functional Electrical Stimulation 
+ 
+Functional Electrical Stimulation is the application of 
+electrical current to elicit involuntary or assisted 
+contractions of atrophied and/or impaired muscles.  
+ 
+Recommended - in select patients as clinically indicated. 
+ 
+Indications: Include muscle atrophy, weakness, and 
+
+[page 50]
+ 
+NYS WCB MTG – Knee Injury   50   
+ 
+sluggish muscle contraction secondary to pain, injury, 
+neuromuscular dysfunction or peripheral nerve lesion or 
+where the potential for atrophy exists. May be an 
+appropriate treatment in conjunction with an active exercise 
+program. 
+ 
+Frequency: Typically, three times per week with two to six treatments 
+needed to produce effect and a maximum of eight weeks as clinically 
+indicated.  
+ 
+D.6.d Gait Training 
+ 
+Gait Training is crutch walking, cane or walker instruction  
+ 
+Recommended - in select patients with lower extremity 
+injury or surgery. 
+ 
+Indications: include the need to promote normal gait pattern 
+with assistive devices; instruct in the safety and proper use 
+of assistive devices; instruct in progressive use of more 
+independent devices (i.e., platform-walker, to walker, to 
+crutches, to cane); instruct in gait on uneven surfaces and 
+steps (with and without railings) to reduce risk of fall, or loss 
+of balance; and/or instruct in equipment to limit weight-
+bearing for the protection of a healing injury or surgery. 
+ 
+Frequency: Typically, two to three times per week with three to four 
+treatments needed to produce effect and a maximum duration of two 
+weeks as clinically indicated.  
+ 
+D.6.e Neuromuscular Re-Education 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: May be indicated for retropatellar and patella-femoral 
+degenerative joint conditions.  
+ 
+Frequency:  Two to three times per week with three to four treatments 
+needed to produce effect.  
+ 
+Optimum/Maximum Duration: Two weeks.  
+ 
+D.6.f Therapeutic Exercise 
+Therapeutic Exercise, with or without mechanical assistance 
+or resistance, may include isoinertial, isotonic, isometric and 
+isokinetic types of exercises.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Include the need for cardiovascular fitness, reduced edema, 
+improved muscle strength, improved connective tissue strength and 
+
+[page 51]
+ 
+NYS WCB MTG – Knee Injury   51   
+ 
+integrity, increased bone density, promotion of circulation to enhance soft 
+tissue healing, improvement of muscle recruitment, increased range of 
+motion, and promotion of normal movement patterns. Can also include 
+complementary/ alternative exercise movement therapy. 
+ 
+Frequency: Typically, three to five times per week with two to six 
+treatments needed to produce effect and a maximum of eight weeks 
+as clinically indicated.  
+ 
+ 
+D.6.g Wheelchair Management and Propulsion 
+Wheelchair Management and Propulsion is the instruction and training of 
+self-propulsion and proper use of a wheelchair. This includes transferring 
+and safety instruction.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: For patients who are not able to ambulate due to bilateral 
+lower extremity injuries, inability to use ambulatory assistive devices, and 
+in cases of multiple traumas. 
+ 
+Frequency: Typically, two to three times per week with two to six 
+treatments needed to produce effect and a maximum duration of two 
+weeks as clinically indicated.  
+ 
+ 
+D.6.h Continuous Passive Movement (CPM) 
+Continuous Passive Movement is a form of passive motion using 
+specialized machinery that acts to move a joint and may also pump blood 
+and edema fluid away from the joint and periarticular tissues.  
+ 
+Recommended - in select post-operative patients. 
+  
+Indications: CPM is effective in preventing the development of joint 
+stiffness if applied immediately following surgery. It should be continued 
+until the swelling that limits motion of the joint no longer develops. Range 
+of motion for the joint begins at the level of patient tolerance and is 
+increased twice a day as tolerated. Use of this equipment may require 
+home visits. 
+ 
+Frequency: Up to four times per day for up to three weeks post-surgery. 
+ 
+D.6.i Contrast Baths 
+ 
+ Not Recommended 
+ 
+D.6.j Electrical Stimulation (Physician or Therapist Applied) 
+ 
+Recommended - as a component of a comprehensive 
+treatment plan. 
+ 
+
+[page 52]
+ 
+NYS WCB MTG – Knee Injury   52   
+ 
+Frequency: Two to three times week for a maximum of up to two months. 
+ 
+Not Recommended - as a stand-alone treatment. 
+ 
+ 
+D.6.k Fluidotherapy 
+ 
+Fluidotherapy employs a stream of dry, heated air that passes over the 
+injured body part. The injured body part can be exercised during the 
+application of dry heat.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Include the need to enhance collagen extensibility before 
+stretching, reduce muscle guarding, or reduce inflammatory response. 
+ 
+Frequency: Typically, one to three times per week with one to four 
+treatments needed to produce effect and a maximum of one month as 
+clinically indicated.  
+ 
+D.6.l Infrared Therapy 
+ 
+ Not Recommended 
+ 
+D.6.m Iontophoresis 
+ 
+Not Recommended 
+ 
+D.6.n Kinesiotaping, Taping or Strapping 
+ 
+Recommended - in select patients.  
+ 
+Indications: Acute joint immobilization (for example, acute ankle sprain) 
+ 
+Not Recommended - for acute or non-acute pain. 
+ 
+D.6.o Manipulation 
+ 
+Manipulation is manual therapy that moves a joint beyond the physiologic 
+range of motion but not beyond the anatomic range of motion.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Locked knee, contracture, or pain and loss of range of motion 
+due to adhesions or contractures. 
+ 
+Frequency: Typically, one to five times per week (as indicated by the 
+severity of involvement and the desired effect) with immediate effect and a 
+maximum of ten treatments as clinically indicated.  
+ 
+ 
+
+[page 53]
+ 
+NYS WCB MTG – Knee Injury   53   
+ 
+D.6.p Manual Electrical Stimulation 
+ 
+Manual Electrical Stimulation is used for peripheral nerve injuries or pain 
+reduction that requires continuous application, supervision, or involves 
+extensive teaching.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: include muscle spasm (including TENS), atrophy, decreased 
+circulation, osteogenic stimulation, inflammation, and the need to facilitate 
+muscle hypertrophy, muscle strengthening, muscle responsiveness in 
+Spinal Cord Injury/Brain Injury (SCI/BI), and peripheral neuropathies. 
+ 
+Frequency: Typically, three to seven times per week and a maximum 
+duration of two months as clinically indicated.  
+ 
+D.6.q Massage: Manual or Mechanical 
+ 
+ Not Recommended 
+ 
+D.6.r Mobilization (Joint) 
+ 
+Mobilization is passive movement, which may include passive range of 
+motion performed in such a manner (particularly in relation to the speed of 
+the movement) that it is, at all times, within the ability of the patient to 
+prevent the movement if they so choose. It may include skilled manual 
+joint tissue stretching.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Include the need to improve joint play, improve intracapsular 
+arthrokinematics, or reduce pain associated with tissue 
+impingement/maltraction. 
+ 
+Frequency: Typically, three times per week with six to nine treatments 
+needed to produce effect and a maximum of ten treatments as clinically 
+indicated.  
+ 
+D.6.s Mobilization (Soft Tissue) 
+ 
+Mobilization (Soft Tissue) is the skilled application of manual techniques 
+designed to normalize movement patterns through the reduction of soft 
+tissue pain and restrictions.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Include muscle spasm around a joint, trigger points, 
+adhesions, and neural compression. 
+ 
+Frequency: Typically, two to three times per week with two to three weeks 
+
+[page 54]
+ 
+NYS WCB MTG – Knee Injury   54   
+ 
+needed to produce effect and a maximum of ten treatments as clinically 
+indicated.  
+ 
+D.6.t Paraffin Bath 
+ 
+ Not Recommended 
+ 
+ 
+ 
+D.6.u Superficial Heat and Cold Therapy 
+ 
+Superficial heat and cold therapies are thermal agents applied in various 
+manners that lower or raise the body tissue temperature for the reduction 
+of pain, inflammation, and/or effusion resulting from injury or induced by 
+exercise. It may be used acutely with compression and elevation.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Include acute pain, edema and hemorrhage, need to increase 
+pain threshold, reduce muscle spasm and promote stretching/flexibility. 
+Includes portable cryotherapy units and application of heat just above the 
+surface of the skin at acupuncture points. May be performed in 
+conjunction with other active therapy or may be self-administered by the 
+patient. 
+ 
+Frequency: Typically, two to five times per week with immediate effect a 
+maximum duration of two months.  
+Optimum duration: Three weeks as primary, or up to two months if used 
+intermittently as an adjunct to other therapeutic procedures. 
+ 
+ 
+D.6.v Short-Wave Diathermy 
+ 
+ Not Recommended 
+ 
+D.6.w Traction 
+ 
+Not Recommended 
+ 
+D.6.x Transcutaneous Electrical Nerve Stimulation (TENS) 
+ 
+Transcutaneous Electrical Nerve Stimulation (TENS) treatment should 
+include at least one instructional session for proper application and use.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Include muscle spasm, atrophy and control of concomitant 
+pain in the office setting. Minimal TENS unit parameters should include 
+pulse rate, pulse width and amplitude modulation. Consistent, 
+measurable, functional improvement must be documented and 
+
+[page 55]
+ 
+NYS WCB MTG – Knee Injury   55   
+ 
+determination of the likelihood of chronicity prior to the provision of a 
+home unit. TENS treatment should be used in conjunction with active 
+physical therapy.  
+ 
+• Time to produce effect: Immediate. 
+• Frequency: Variable. 
+• Optimum duration: Three sessions. 
+• Maximum duration: Three sessions. Purchase or provide with 
+home unit if effective. 
+ 
+D.6.y Ultrasound 
+ 
+Ultrasound uses sonic generators to deliver acoustic energy for 
+therapeutic thermal effects.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Include scar tissue, adhesions, contractures and muscle 
+spasm, and the need to extend muscle tissue or accelerate the soft tissue 
+healing. 
+ 
+Frequency: Typically, three times per week with six to 15 treatments 
+needed to produce effect and a maximum of two months as clinically 
+indicated.  
+ 
+D.6.z Vasopneumatic Devices 
+ 
+ Not Recommended 
+ 
+D.6.aa Whirlpool 
+ 
+Whirlpool is conductive exposure to water at temperatures that best elicits 
+the desired effect (cold vs. heat). It generally includes massage by water 
+propelled by a turbine or Jacuzzi jet system and has the same thermal 
+effects as hot packs if higher than tissue temperature. It has the same 
+thermal effects as cold application if comparable temperature water used.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Include the need for analgesia, relaxing muscle spasm, 
+reducing joint stiffness, enhancing mechanical debridement and 
+facilitating and preparing for exercise. 
+ 
+Frequency: Typically, three to five times per week with two to four 
+treatments needed to produce effect and a maximum of two months as 
+clinically indicated.  
+ 
+Optimum duration: Three weeks as primary, or up to two months if used 
+intermittently as an adjunct to other therapeutic procedures. 
+
+[page 56]
+ 
+NYS WCB MTG – Knee Injury   56   
+ 
+D.7 Therapy:  Ongoing Maintenance Care 
+ 
+Recommended - in select patients as clinically indicated.  
+Indications: A maintenance program of physical therapy or occupational therapy 
+may be indicated in certain situations, after the determination of MMI, when tied to 
+maintenance of functional status. 
+ 
+In certain situations in order to maintain functional status, without which an 
+objective deterioration of function has been previously observed and documented 
+in the medical record. 
+ 
+• Specific objective goals should be identified and measured in order to 
+support the need for ongoing maintenance care. 
+ 
+• Progressively longer trials of therapeutic withdrawal are to be attempted 
+to ascertain whether therapeutic goals can be maintained in the absence 
+of clinical interventions. 
+ 
+• Within a year and annually thereafter, a trial without maintenance 
+treatment should be instituted. 
+ 
+• The care of chronic knee symptoms should include an ongoing patient 
+self -management program performed by the patient regularly and a self -
+directed pain management program initiated as indicated: 
+ 
+o An ongoing clinically appropriate self-management program, 
+typically independent, home-based and self-directed, developed 
+jointly by the provider and patient, should be implemented to 
+encourage physical activity and/or work activities despite residual 
+pain, with the goal of preserving function. 
+ 
+o In addition to the self-management program, a self-directed pain 
+management plan should be developed which can be initiated by 
+the patient in the event that symptoms worsen and function 
+decreases. 
+ 
+• If deterioration of ability to maintain function is documented, reinstatement 
+restitution of ongoing maintenance may be acceptable. 
+ 
+Frequency: Maximum up to ten visits/year, after the determination MMI, 
+according to objectively documented maintenance of functional status. No 
+variance from the maximum frequency is permitted. 
+ 
+Ongoing Maintenance Care is a component of the Functional Maintenance Care 
+recommendations detailed in the New York Non-Acute Pain Medical Treatment 
+Guidelines. Please consult the New York Non-Acute Pain Medical Treatment 
+Guidelines for additional information. 
+
+[page 57]
+ 
+NYS WCB MTG – Knee Injury   57   
+ 
+D.8 Therapeutic Procedures:  Operative 
+All operative interventions must be based upon positive correlation of clinical 
+findings, clinical course and diagnostic tests. A comprehensive assimilation of 
+these factors must lead to a specific diagnosis with positive identification of 
+pathologic condition(s). It is imperative to rule out non-physiologic modifiers of 
+pain presentation or non-operative conditions mimicking radiculopathy or 
+instability (e.g., peripheral neuropathy, piriformis syndrome, myofascial pain, 
+scleratogenous or sympathetically mediated pain syndromes, sacroiliac 
+dysfunction, psychological conditions, etc.) prior to consideration of elective 
+surgical intervention. 
+ 
+In addition, operative treatment is indicated when the natural history of surgically 
+treated lesions is better than the natural history for non-operatively treated 
+lesions. All patients being considered for surgical intervention should first 
+undergo a comprehensive neuromusculoskeletal examination to identify 
+mechanical pain generators that may respond to non-surgical techniques or may 
+be refractory to surgical intervention. 
+ 
+D.8.a Knee Fusion 
+ 
+D.8.a.i Description / Definition 
+ 
+ Surgical fusion of femur to tibia at the knee joint. 
+ 
+D.8.a.ii Diagnostic Testing Procedures 
+ 
+Radiographs, MRI, gallium scan (R/O 
+infection). Lab work as indicated. 
+ 
+D.8.a.iii Non-Operative 
+ 
+Therapy for weight-sharing braces; NSAIDs. 
+ 
+Recommended - in select patients as clinically 
+indicated.  
+ 
+D.8.a.iv Operative Treatment 
+ 
+Recommended - in select patients as clinically 
+indicated.  
+ 
+Usually open reduction, grafting, and internal 
+fixation. External fixation or intramedullary rodding 
+may also be used. 
+ 
+Indications: All reasonable conservative 
+measures have been exhausted and other 
+reasonable surgical options have been seriously 
+considered or implemented. 
+
+[page 58]
+ 
+NYS WCB MTG – Knee Injury   58   
+ 
+ 
+D.8.a.v Post-Operative Therapy 
+Rest/restricted activity, off-loading with crutches or cane, 
+NSAIDs, APAP, that is to be followed by active therapy for 
+protected weight-bearing and gait training. 
+ 
+Recommended - in select patients as clinically 
+indicated.  
+ 
+ 
+D.8.b Knee Arthroplasty 
+ 
+Knee Arthroplasty (Total or Partial Knee Joint Replacement) is not 
+included on the list of pre-authorized procedures. Providers who want to 
+perform one of these procedures must request pre-authorization from the 
+carrier before performing the procedure. 
+Refer to Table 8. 
+ 
+      
+ 
+Table 8:  Criteria for Knee Arthroplasty 
+ 
+ 
+IF the diagnosis is supported  
+ 
+by 
+ 
+AND this has been 
+done (if 
+recommended)  
+ 
+The following surgery 
+may be appropriate  
+ 
+CLINICAL FINDINGS 
+ 
+ 
+ 
+SUBJECTIVE  OBJECTIVE  
+  
+ 
+ 
+ 
+ 
+IMAGING 
+ 
+CONSERVATIVE 
+CARE 
+ 
+SURGICAL PROCEDURE 
+ 
+Limited range 
+of motion  
+ 
+Over 50 years 
+of age 
+ 
+Osteoarthritis 
+on: 
+ 
+Medications  
+ 
+Knee Joint Replacement  
+ 
+OR 
+ 
+Night time 
+joint pain 
+ 
+OR 
+ 
+No pain relief 
+with  
+conservative 
+care  
+ 
+AND 
+ 
+Body Mass 
+Index of less 
+than 35 
+ 
+Standing x- 
+ray  
+ 
+OR 
+ 
+Arthroscopy 
+OR 
+ 
+Viscosupplementation 
+injections  
+ 
+OR 
+ 
+Steroid injection  
+If only 1 compartment is 
+affected, a 
+unicompartmental or 
+partial replacement if 
+indicated  
+ 
+If 2 of the 3 
+compartments are  
+affected, a total joint 
+replacement is indicated  
+ 
+ 
+ 
+ 
+ 
+
+[page 59]
+ 
+NYS WCB MTG – Knee Injury   59   
+ 
+D.8.c Amputation 
+ 
+D.8.c.i Description / Definition 
+Surgical removal of a portion of the lower extremity. 
+ 
+D.8.c.ii Mechanism of Injury 
+Usually secondary to post-traumatic bone, soft tissue, vascular 
+or neurologic compromise of part of the extremity. 
+ 
+D.8.c.iii Specific Physical Findings 
+ 
+Non-useful or non-viable portion of the lower extremity. 
+ 
+D.8.c.iv Diagnostic Testing Procedures 
+ 
+Radiographs, vascular studies.  
+ 
+Recommended - as clinically indicated. 
+ 
+D.8.c.v Non-Operative Treatment 
+ 
+Not Recommended 
+ 
+D.8.c.vi Operative Treatment Amputation 
+ 
+Recommended - in select patients as clinically 
+indicated.  
+  
+Indications: Non-useful or non-viable portion of the extremity 
+ 
+D.8.c.vii Post-Operative Therapy 
+ 
+Rest/restricted activity, off-loading with crutches 
+or cane, NSAIDs, APAP, that is to be followed by 
+active and/or passive therapy for prosthetic 
+fitting, construction and training, protected 
+weight-bearing. 
+ 
+Recommended - in select patients as clinically 
+indicated.  
+ 
+D.8.d Manipulation Under Anesthesia (MUA) 
+ 
+D.8.d.i Description / Definition 
+ 
+Passive range of motion of a joint under anesthesia. 
+ 
+D.8.d.ii Mechanism of Injury 
+ 
+Joint stiffness that usually results from a traumatic 
+injury, compensation related surgery, or other 
+
+[page 60]
+ 
+NYS WCB MTG – Knee Injury   60   
+ 
+treatment. 
+ 
+ 
+D.8.d.iii Specific Physical Findings 
+ 
+Joint stiffness in both active and passive modes. 
+ 
+ 
+D.8.d.iv Diagnostic Procedures 
+ 
+Radiographs. 
+ 
+D.8.d.v Non-Operative Treatment 
+ 
+Therapy for active and passive range of 
+motion exercises. 
+ 
+Recommended - in select patients as clinically 
+indicated.  
+ 
+D.8.d.vi Surgical Indications 
+ 
+Is indicated in cases of intractable restriction and 
+may be performed by a duly qualified surgeon. 
+Consider if routine therapeutic modalities, 
+including physical therapy and/or dynamic 
+bracing, do not restore the degree of motion that 
+should be expected after a reasonable period of 
+time, usually at least 12 weeks. 
+ 
+D.8.d.vii Operative Treatment 
+ 
+Not Recommended. 
+ 
+ 
+D.8.d.viii Post-Operative Therapy 
+ 
+Therapy for active and passive range of motion. 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+D.8.e Bursectomy 
+ 
+D.8.e.i Description / Definition 
+ 
+Surgical removal of peri-articular bursa. 
+ 
+D.8.e.ii Mechanism of Injury 
+ 
+Usually a traumatic local injury or repetitive minor local 
+irritation. 
+
+[page 61]
+ 
+NYS WCB MTG – Knee Injury   61   
+ 
+ 
+D.8.e.iii Specific Physical Findings 
+ 
+Swelling, tenderness over the bursa. 
+ 
+D.8.e.iv Diagnostic Testing Procedures 
+ 
+ Radiographs 
+  
+ Recommended – as clinically indicated. 
+ 
+D.8.e.v Non-Operative Treatment 
+ 
+Therapy for splinting, rest, NSAIDs, steroid 
+injection. 
+ 
+Recommended - in select patients as clinically 
+indicated.  
+ 
+D.8.e.vi Surgical Indications 
+ 
+Persistent pain, swelling despite treatment. 
+ 
+D.8.e.vii Operative Treatment 
+ 
+Surgical removal of the bursa. 
+ 
+D.8.e.viii Post-Operative Therapy 
+ 
+Rest/restricted activity, off-loading with crutches or cane, 
+APAP, NSAIDs, that may be followed by active and/or passive 
+therapy for graduated range of motion exercises. 
+ 
+Recommended - in select patients as clinically 
+indicated.  
+ 
+D.8.f Osteotomy 
+ 
+D.8.f.i Description / Definition 
+ 
+A reconstructive procedure involving the surgical cutting of 
+bone for realignment and is useful in patients that would benefit 
+from realignment in lieu of total joint replacement. 
+ 
+D.8.f.ii Mechanism of Injury 
+Post-traumatic arthritis or deformity. 
+ 
+D.8.f.iii Specific Physical Findings 
+Painful decreased range of motion and/or deformity. 
+ 
+ 
+
+[page 62]
+ 
+NYS WCB MTG – Knee Injury   62   
+ 
+D.8.f.iv Diagnostic Testing Procedures 
+ 
+Radiographs, MRI, CT scan.  
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+D.8.f.v Non-Operative Treatment 
+Therapy for activity modification, bracing, NSAIDs. 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+ 
+ 
+D.8.f.vi Operative Treatment 
+ 
+Peri-articular opening or closing wedge of bone, usually with 
+grafting and internal or external fixation. 
+ 
+Recommended - in select patients as clinically indicated.  
+ 
+Indications: Failure of non-surgical treatment. Avoidance of 
+total joint arthroplasty desirable. 
+ 
+D.8.f.vii Post-Operative Therapy 
+ 
+Rest/restricted activity, off-loading with crutches or cane, 
+NSAIDs, APAP that is to be followed by active and/or 
+passive therapy for protected weight-bearing, progressive 
+range of motion. 
+ 
+Recommended - in select patients as clinically 
+indicated.  
+ 
+D.8.g Hardware Removal 
+ 
+D.8.g.i Description / Definition  
+ 
+ Surgical removal of internal or external fixation device. 
+ 
+D.8.g.ii Mechanism of Injury 
+ 
+ Usually following healing of a post-traumatic injury that required 
+fixation or reconstruction using instrumentation. 
+ 
+D.8.g.iii Specific Physical Findings 
+ 
+ Local pain to palpation, swelling, erythema. 
+ 
+D.8.g.iv Diagnostic Testing Procedures 
+ 
+ Radiographs, tomography, CT scan, MRI 
+
+[page 63]
+ 
+NYS WCB MTG – Knee Injury   63   
+ 
+ 
+D.8.g.v Non-Operative Treatment 
+ 
+ Active and/or passive therapy for local modalities, activity 
+modification, NSAIDs 
+ 
+ Recommended – in select patients as clinically indicated. 
+ 
+D.8.g.vi Operative Treatment 
+ 
+ Removal of instrumentation. Some instrumentation may be 
+removed in the course of standard treatment without local 
+irritation. 
+ 
+ Recommended – in select patients as clinically indicated. 
+ 
+D.8.g.vii Post-Operative Therapy 
+ 
+ Rest/restricted activity, off-loading with crutches or cane, 
+NSAIDs, APAP that is to be followed by active and/or 
+passive therapy for progressive weight-bearing, range of 
+motion. 
+ 
+ Recommended – in select patients as clinically indicated. 
+ 
+D.8.h Release of Contracture 
+ 
+D.8.h.i Description / Definition 
+ 
+ Surgical incision or lengthening of contracted tendon or peri-
+articular soft tissue. 
+ 
+D.8.h.ii Mechanism of Injury 
+ 
+ Usually following a post-traumatic injury. 
+ 
+D.8.h.iii Specific Physical Findings 
+ 
+ Shortened tendon or stiff joint. 
+ 
+D.8.h.iv Diagnostic Testing Procedures 
+ 
+ Radiographs, CT scan, MRI scan. 
+ 
+D.8.h.v Non-Operative Treatment 
+ 
+ Therapy for stretching range of motion exercises 
+ 
+ Recommended – in select patients as clinically indicated. 
+ 
+ 
+
+[page 64]
+ 
+NYS WCB MTG – Knee Injury   64   
+ 
+D.8.h.vi Operative Treatment 
+ 
+ Surgical incision or lengthening of involved soft tissue 
+ 
+ Recommended – in select patients as clinically indicated. 
+ 
+D.8.h.vii Post-Operative Therapy 
+ 
+Rest/restricted activity, off-loading with crutches or cane, 
+NSAIDs, APAP that is to be followed by active and/or 
+passive therapy for stretching, range of motion exercises. 
+ 
+Recommended – in select patients as clinically indicated. 
+ 
+ 
+D.8.i Meniscectomy 
+ 
+D.8.i.i Description / Definition 
+ 
+ The surgical excision of a meniscus 
+ 
+D.8.i.ii Evaluation and Management 
+ 
+ See Table 5. 
+ 
+D.8.j Ligament Repair 
+ 
+D.8.j.i Description / Definition 
+ 
+ The surgical reattachment of torn anterior or posterior cruciate 
+ligaments or medial or lateral collateral ligaments. 
+ 
+D.8.j.ii Evaluation and Management 
+ 
+ See Table 4 
+ 
+ 
+Sources: 
+ 
+This Treatment Guideline is adopted, with modification, from the State of Colorado’s Lower 
+Extremity Medical Treatment Guideline, and the State of Washington's Medical and Surgical 
+Treatment Guidelines. 
+ 
+Third Edition, September 15, 2014 
+Revised, July 2021 
+ 
+ 
+ 
+ 
