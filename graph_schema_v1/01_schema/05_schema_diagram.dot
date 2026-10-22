@@ -1,0 +1,85 @@
+digraph G {
+graph [rankdir=LR, compound=true, fontname="Helvetica", fontsize=12, nodesep=0.25, ranksep=0.7, pad=0.3, labelloc=t, label="GraphRAG schema v1: 24 node labels, 42 relationship types. Solid box = present for every claim; dashed box = present when the notes mention it; dashed arrow = goes to any person or organization. Numbers = nodes in the last build."];
+node [shape=box, style="rounded,filled", fillcolor=white, fontname="Helvetica", fontsize=11, penwidth=1];
+edge [fontname="Helvetica", fontsize=8, color="#666666", arrowsize=0.6];
+subgraph cluster_L1_claim_record { label="1. Claim record"; style="rounded,filled"; fillcolor="#E8F1FB"; color="#BBBBBB";
+  Claim [label="Claim\n(15)"];
+  Claimant [label="Claimant\n(15)"];
+  Employer [label="Employer\n(12)"];
+  Carrier [label="Carrier\n(8)"];
+  County [label="County\n(9)"];
+  IncidentLocation [label="IncidentLocation\n(15)"];
+  InjuryNature [label="InjuryNature\n(5)"];
+  BodyPart [label="BodyPart\n(21)"];
+  InjuryCause [label="InjuryCause\n(10)"];
+}
+subgraph cluster_L2_people_and_orgs { label="2. People and organizations"; style="rounded,filled"; fillcolor="#EAF6EC"; color="#BBBBBB";
+  ClaimsStaff [label="ClaimsStaff\n(16)"];
+  EmployerContact [label="EmployerContact\n(30)", style="rounded,filled,dashed"];
+  HealthcareFacility [label="HealthcareFacility\n(21)", style="rounded,filled,dashed"];
+  Clinician [label="Clinician\n(28)", style="rounded,filled,dashed"];
+  Attorney [label="Attorney\n(5)", style="rounded,filled,dashed"];
+}
+subgraph cluster_L3_medical { label="3. Medical"; style="rounded,filled"; fillcolor="#FDF3E4"; color="#BBBBBB";
+  Diagnosis [label="Diagnosis\n(15)", style="rounded,filled,dashed"];
+  Treatment [label="Treatment\n(10)", style="rounded,filled,dashed"];
+  Medication [label="Medication\n(6)", style="rounded,filled,dashed"];
+}
+subgraph cluster_L4_notes_and_text { label="4. Notes and text"; style="rounded,filled"; fillcolor="#F1EEF8"; color="#BBBBBB";
+  Note [label="Note\n(1,513)"];
+  Chunk [label="Chunk\n(1,560)"];
+  Document [label="Document\n(19)", style="rounded,filled,dashed"];
+}
+subgraph cluster_L5_claim_events { label="5. Claim events"; style="rounded,filled"; fillcolor="#FCE9EC"; color="#BBBBBB";
+  ClaimEvent [label="ClaimEvent\n(2,491)"];
+}
+subgraph cluster_L6_process_knowledge { label="6. Public process knowledge"; style="rounded,filled"; fillcolor="#EEF2F3"; color="#BBBBBB";
+  ProcessStep [label="ProcessStep\n(18)", style="rounded,filled,dashed"];
+  Form [label="Form\n(7)", style="rounded,filled,dashed"];
+  Role [label="Role\n(7)", style="rounded,filled,dashed"];
+}
+Claim -> Claimant [label="FILED_BY"];
+Claim -> Employer [label="HAS_EMPLOYER"];
+Claim -> Carrier [label="INSURED_BY"];
+Claim -> County [label="OCCURRED_IN_COUNTY"];
+Claim -> IncidentLocation [label="OCCURRED_AT"];
+IncidentLocation -> County [label="LOCATED_IN"];
+Claim -> InjuryNature [label="HAS_INJURY_NATURE"];
+Claim -> BodyPart [label="HAS_BODY_PART"];
+Claim -> InjuryCause [label="HAS_CAUSE"];
+Claim -> ClaimsStaff [label="HANDLED_BY"];
+Claim -> EmployerContact [label="HAS_EMPLOYER_CONTACT"];
+EmployerContact -> Employer [label="WORKS_FOR"];
+Claim -> HealthcareFacility [label="TREATED_AT"];
+Claim -> Clinician [label="SEEN_BY"];
+Clinician -> HealthcareFacility [label="PRACTICES_AT"];
+Claim -> Attorney [label="REPRESENTED_BY"];
+Claim -> Diagnosis [label="HAS_DIAGNOSIS"];
+Diagnosis -> BodyPart [label="DIAGNOSIS_AFFECTS"];
+Claim -> Note [label="HAS_NOTE"];
+Note -> Note [label="NEXT_NOTE"];
+Note -> ClaimsStaff [label="WRITTEN_BY", lhead=cluster_L2_people_and_orgs, style=dashed];
+Note -> Attorney [label="CONTAINS_MESSAGE_FROM", lhead=cluster_L2_people_and_orgs, style=dashed];
+Note -> Note [label="CORRECTS"];
+Note -> Note [label="DUPLICATES"];
+Note -> Chunk [label="HAS_CHUNK"];
+Document -> Chunk [label="HAS_CHUNK"];
+Chunk -> Chunk [label="NEXT_CHUNK"];
+Chunk -> ClaimsStaff [label="MENTIONS", lhead=cluster_L2_people_and_orgs, style=dashed];
+Claim -> ClaimEvent [label="HAS_EVENT"];
+ClaimEvent -> Note [label="EVIDENCED_BY"];
+ClaimEvent -> ClaimEvent [label="NEXT_EVENT"];
+ClaimEvent -> Clinician [label="INVOLVES", lhead=cluster_L2_people_and_orgs, style=dashed];
+ClaimEvent -> Diagnosis [label="ABOUT_DIAGNOSIS"];
+ClaimEvent -> Treatment [label="INCLUDES_TREATMENT"];
+ClaimEvent -> Medication [label="RECORDS_MEDICATION"];
+ClaimEvent -> Form [label="REFERENCES_FORM"];
+ClaimEvent -> ProcessStep [label="INSTANCE_OF"];
+ClaimEvent -> ClaimEvent [label="CONFLICTS_WITH"];
+ProcessStep -> Document [label="DESCRIBED_IN"];
+Form -> Document [label="DESCRIBED_IN"];
+ProcessStep -> Role [label="PERFORMED_BY"];
+ProcessStep -> Form [label="USES_FORM"];
+ProcessStep -> ProcessStep [label="PRECEDES"];
+Document -> BodyPart [label="COVERS_BODY_PART"];
+}

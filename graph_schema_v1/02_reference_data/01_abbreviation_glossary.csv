@@ -1,0 +1,45 @@
+term,meaning,maps_to
+cx,claimant,Claimant
+clmt,claimant,Claimant
+EE,employee (the claimant),Claimant
+IW,injured worker,Claimant
+pt,"patient (the claimant), in medical notes; or physical therapy when written PT",Claimant / Treatment
+ER,employer (not emergency room) in claims notes,Employer
+ER contact,HR or payroll person at the employer,EmployerContact
+ER supervisor,worker's supervisor at the employer,EmployerContact
+SIF,State Insurance Fund,Carrier
+State Ins Fund,State Insurance Fund,Carrier
+on the risk,is the responsible carrier,Carrier
+DOI,date of injury,ClaimEvent injury_occurred
+dx,diagnosis,Diagnosis
+sx,symptoms,ClaimEvent medical_visit
+tx,treatment,Treatment
+Rx,prescription,Medication
+restr,restrictions,ClaimEvent work_status_update
+RTW,return to work,ClaimEvent work_status_update
+RTC,return to clinic (next visit),ClaimEvent appointment_scheduled
+f/u,follow-up visit,ClaimEvent appointment_scheduled
+HEP,home exercise program,Treatment
+PT,physical therapy (or physical therapist),Treatment / Clinician
+ROM,range of motion,ClaimEvent medical_visit
+FROM,full range of motion,ClaimEvent medical_visit
+prn,as needed,Medication
+NCM,nurse case manager,ClaimsStaff
+IME,independent medical examination,ClaimEvent ime_scheduled / ime_report
+MMI,maximum medical improvement,ClaimEvent permanency_evaluation
+LM,left message,ClaimEvent contact_attempt
+VM,voicemail,ClaimEvent contact_attempt
+diary +30,next file review in 30 days,Note
+eCase,Board's electronic case file,Document
+auth / auth'd,authorization / authorized,ClaimEvent authorization_decision
+rec'd,received,ClaimEvent form_activity
+atty,attorney,Attorney
+PPO pharmacy network,pharmacy network the worker must use,ClaimEvent pharmacy_review
+OTC,over the counter,Medication
+NSAIDs,anti-inflammatory pain medicines,Medication
+lost time,days the worker could not work,ClaimEvent benefit_payment
+reserve,money set aside for the expected cost of the claim,ClaimEvent reserve_review
+fee schedule,state price list for medical bills,ClaimEvent bill_review
+light duty / modified duty,reduced or changed work while healing,ClaimEvent work_status_update
+Section 32,negotiated settlement approved by the Board,ClaimEvent settlement_discussion
+the Board,NY Workers' Compensation Board,Role workers_compensation_board

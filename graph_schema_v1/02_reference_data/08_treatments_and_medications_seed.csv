@@ -1,0 +1,17 @@
+name,kind,patterns
+physical therapy,treatment,(?-i:\bPT\b)(?! visit \d+/)|physical therapy|therapy session|rehab note
+home exercise program,treatment,\bHEP\b|home exercise
+therapeutic exercise,treatment,quad sets|core stabilization|pendulums|grip strengthening|straight leg raises|scapular stabilization|theraband|putty|bridging
+ice,treatment,(?<!on )\bice\b(?! in the lot)
+heat,treatment,\bheat\b
+activity modification,treatment,activity modification
+brace or splint,treatment,brace|splint
+walking program,treatment,walking program
+orthopedic consult,treatment,ortho consult
+hearing protection,treatment,hearing protection
+Tylenol,medication,tylenol
+ibuprofen,medication,ibuprofen
+naproxen,medication,naproxen
+Flexeril,medication,flexeril
+NSAIDs,medication,nsaids?
+OTC pain relievers,medication,OTC pain relievers?

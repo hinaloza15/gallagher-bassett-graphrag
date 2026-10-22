@@ -1,0 +1,8 @@
+role_name,description,instance_labels
+claimant,Injured worker,Claimant
+employer,Employer of the injured worker,Employer; EmployerContact
+insurer,"Insurance carrier, State Insurance Fund or self-insured employer, and its claims administrator",Carrier; ClaimsStaff
+health_care_provider,Authorized treating provider,HealthcareFacility; Clinician
+workers_compensation_board,NY Workers' Compensation Board,
+workers_compensation_law_judge,Judge who holds Board hearings,
+claimant_attorney,Attorney or licensed representative of the claimant,Attorney

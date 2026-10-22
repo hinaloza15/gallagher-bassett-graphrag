@@ -1,0 +1,8 @@
+form_code,title,filed_by_role,purpose,described_in_doc_id,aliases_in_notes
+C-3,Employee Claim,claimant,Worker files the claim with the Board (within two years),RD01,C-3
+C-2F,Employer's First Report of Work-Related Injury/Illness,employer,Employer reports the injury to the insurer,RD13,C-2F
+C-4.2,Doctor's Progress Report,health_care_provider,Treating doctor reports progress,,C-4.2
+C-7,Notice That Right to Compensation Is Controverted,insurer,Insurer disputes (controverts) the claim,,C-7
+C-257,Claimant's Record of Medical and Travel Expenses and Request for Reimbursement,claimant,"Worker asks to be repaid for mileage, travel and prescriptions",RD08,C-257
+MG-2,Attending Doctor's Request for Approval of Variance and Carrier's Response,health_care_provider,Doctor asks to give care that varies from the treatment guidelines,RD10,MG-2
+RFA-1,Request for Further Action (attorney version RFA-1LC: Request for Further Action by Legal Counsel),claimant_attorney,"Asks the Board to act on the claim, e.g. schedule a hearing",RD12,RFA-1; RFA-1LC

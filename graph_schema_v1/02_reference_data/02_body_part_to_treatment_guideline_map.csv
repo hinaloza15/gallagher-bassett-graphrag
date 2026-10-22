@@ -1,0 +1,14 @@
+specific_body_part,doc_id,mapping_status,note
+knee,RD14,draft,
+low back,RD15,draft,
+back,RD15,uncertain,"Note says only ""back"""
+neck,RD16,draft,
+shoulder,RD17,draft,
+upper arm,RD17,uncertain,Upper-arm strain with overhead restrictions; needs clinical review
+hand,RD18,draft,
+wrist,RD18,draft,
+forearm,RD18,draft,
+hip,RD19,draft,
+buttock,RD19,uncertain,Hip/buttock contusion; needs clinical review
+lower leg,,no_guideline,No NY guideline found for lower-leg contusion
+ear,,no_guideline,No NY Medical Treatment Guideline for hearing loss

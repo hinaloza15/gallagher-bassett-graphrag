@@ -1,0 +1,48 @@
+event_type,event_category,definition,key_attributes,example_phrase_from_notes,process_step_ids
+injury_occurred,intake,The work injury or exposure itself,date_of_injury; mechanism; location_text,"DOI December 9, Chloe was hit at an intersection driving the company vehicle",
+injury_reported_to_employer,intake,Worker told the employer about the injury,reported_to; report_timing,Reported to Ravi Brandt same day,PS01
+employer_reported_to_carrier,intake,Employer reported the injury to the insurer (or sent Form C-2F),report_date,Employer reported it to SIF on December 14,PS03
+first_report_received,intake,Adjuster's first summary when the claim is assigned,assignment_date,"First report: Chloe Nguyen / City Operations Dept, DOI December 9, SIF",
+prior_claims_check,intake,Search for earlier claims by the same worker,result,"prior claims search done, no hits",
+claimant_statement_taken,investigation,Recorded statement from the injured worker,statement_date,Statement from Chloe Nguyen: Chloe states she was hit...,
+supervisor_statement_taken,investigation,Written statement from the employer supervisor,statement_date; witness,Statement 12/15/2025 from Ravi Brandt at City Operations Department,
+compensability_decision,investigation,Decision to accept the claim or dispute it,decision; reason; lost_time_status,Disputing for now we need causation support C-7 sent to the Board,PS05
+medical_visit,medical,Treating doctor's visit or office note,pain_score; assessment; work_status; restrictions; findings; next_appointment,OFFICE NOTE 12/29/25 (Dr Haddad): SUBJECTIVE...,PS08
+therapy_visit,medical,Physical therapy session,visit_number; visits_planned; pain_before; pain_after; attendance,PT visit 2/6 January 16 (Riverbend PT). Tolerated tx well,PS08
+imaging_ordered,medical,Imaging test authorized or ordered,modality; imaging_facility,"MRI auth'd, Northeast Diagnostic Imaging to schedule",
+imaging_result,medical,Result of an imaging test,modality; result_text,"MRI ordered January 7, result January 18: mild disc bulge L4-5",
+nurse_case_review,medical,Nurse case manager contact or review,pain_score; barrier_to_return_to_work; restrictions,Barrier to RTW: Transportation,
+appointment_scheduled,medical,A future medical or therapy appointment named in a note,appointment_date,next appt 12/14,
+missed_appointment,medical,Worker did not attend an appointment,facility,says Chloe no showed the last appt,
+permanency_evaluation,medical,Maximum medical improvement (MMI) or permanency rating discussed,mmi_reached; rating_status,"DR Haddad says MMI reached, rating pending",
+authorization_request,authorization_and_billing,Provider or attorney asks for approval of treatment or tests,service; quantity; requested_by,"We are requesting 6 PT visits, please advise",PS09
+authorization_decision,authorization_and_billing,Adjuster approves or reviews a treatment request,service; decision; auth_number,"approved 6 PT visits at Riverbend Physical Therapy, auth # 44790",PS09
+bill_submitted,authorization_and_billing,Provider says it sent a bill,amount; sent_date,Our billing for $152 was sent on December 12,
+bill_review,authorization_and_billing,Bill review result,service; amount; decision; reason,PT visits ... $87.50 denied - no auth on file,
+pharmacy_review,authorization_and_billing,Prescription or pharmacy network check,result; pharmacy,PPO pharmacy network rule explained to clmt,PS11
+mileage_reimbursement_request,authorization_and_billing,Worker asks about or sends travel/mileage expenses (Form C-257),action,"Asked about mileage reimbursement, told to send C-257 with receipts",PS10
+wage_information,money,Employer gives the worker's pre-injury weekly wage,average_weekly_wage,Our payroll shows Chloe Nguyen earned about $690 a week,PS07
+benefit_payment,money,Wage-loss payment or ledger entry,weekly_rate; paid_through; amount_outstanding; lost_time,Paid $657.00/wk thru 01JAN26,PS06; PS07
+reserve_review,money,Reserve set or reviewed by adjuster or supervisor,reserve_type; amount; action,"med reserve $6,000. ok to keep the reserve as is",
+paid_to_date_statement,money,A note states the total paid so far on the claim,amount,approx $520 paid to date,
+work_status_update,return_to_work,Work status or restrictions reported,work_status; restrictions,"Work status: Restr per Dr Haddad: No lifting over 10 lbs, no repeated bending",PS17
+return_to_full_duty,return_to_work,Date the worker went back to full duty,effective_date,Back to full duty from February 18,PS17
+light_duty_offer,return_to_work,Employer offers light or modified duty,start_date; hours,"We can offer light duty starting Nov 30, 4 hrs/day",PS17
+attendance_report,return_to_work,Employer reports missed days or lateness,missed_days; period,Employer says Chloe missed 9 days last month,
+ime_scheduled,legal,Independent medical examination set up,exam_date; examiner; purpose,IME sched February 20 with Dr Fischer. Purpose: Causation,
+ime_report,legal,IME report received,report_date; examiner; finding; fee,IME report in: Says tx is reasonable and ongoing,
+hearing_scheduled,legal,Board hearing or conciliation conference set,hearing_date; hearing_kind,Next hearing is on November 10,PS12
+hearing_held,legal,Board hearing or conciliation took place,hearing_date; hearing_kind; outcome; adjournment_reason,"Hearing held February 20, adjourned for medical records",PS12
+board_determination,legal,Board decision or administrative determination notice received without a hearing,determination_date,"""Admin determination notice rec'd 1/22/26""",
+attorney_request,legal,"Attorney asks for records, payment, authorization or a hearing",request_types,"Please send the claim file, medical and wage records",
+settlement_discussion,legal,Settlement (Section 32) raised,topic,need Medicare status check before any Section 32,PS14; PS15
+contact,communication,Two-way contact with a party (phone call or email),party_type; channel,Spoke with Chloe Nguyen . Address and phone confirmed,
+contact_attempt,communication,Unsuccessful attempt to reach a party,party_type; result,"tried clmt again, VM full",
+worker_message,communication,"Message from the worker (portal, text, email, voicemail)",channel; concerns,portal msg (Chloe): nobody called me back abt MRI report,
+supervisor_direction,communication,Instruction from the claims supervisor,directions; due_date,need hearing prep done by 08/24/2026,
+status_report_sent,communication,Formal status report sent to the client or carrier contact,recipient_first_name,Subject: Status Report - Claim 6977160,
+file_review,communication,Adjuster diary check or file review: what the adjuster says the claim status is and what is next,claim_status_statement; last_med_report; next_review_date; work_status_mention,"""File review January 9 ... claim is open, hearing coming up""",
+form_activity,communication,"A WCB form is received, sent, requested or pending",form_code; action,"MG-2 rec'd for low back, hip and both knees, reviewing",PS02; PS03; PS09
+pending_item,communication,Something the file is waiting for,item,Still waiting on wage statement from the employer,
+claim_closed,closure,Claim or diary closed,closed_date; total_paid,"Closing note cx back to full duty since 12/9/25, no f/u needed",
+reopen_request,closure,Worker reports a flare-up after closure,body_region,"EE called, says ears flared up again",
