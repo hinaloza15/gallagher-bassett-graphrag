@@ -1,0 +1,10 @@
+pandas
+numpy
+pymupdf
+neo4j
+sentence-transformers
+scikit-learn
+python-dotenv
+transformers
+accelerate
+torch
