@@ -1,0 +1,7 @@
+question_id,claim_id,category,question,gold_note_ids,notes
+Q01,6977140,entity_resolution,"Who is Maya Patel in this claim, and what roles does the evidence show?",,"Fill gold note IDs after manual review"
+Q02,6977140,timeline,"How did treatment and work restrictions change over time?",,"Fill gold note IDs after manual review"
+Q03,6977160,provenance,"What notes support the claimant's current work restrictions?",,"Fill gold note IDs after manual review"
+Q04,6977160,timeline,"How did the claimant's work status and restrictions change over time?",,"Fill gold note IDs after manual review"
+Q05,6977194,conflict,"What date of injury is supported by the claim history, and were any conflicting dates corrected?",,"Fill gold note IDs after manual review"
+Q06,6977178,conflict,"Were there conflicting dates of injury in this claim, and what correction was recorded?",,"Fill gold note IDs after manual review"
