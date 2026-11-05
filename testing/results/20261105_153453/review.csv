@@ -1,0 +1,143 @@
+question_id,claim_id,method,question,status,answer,note_ids,correctness,citation_support,completeness,review_notes
+Q1,6977160,baseline,How did the claimant's work restrictions change over time?,generated_pending_review,"The claimant's work restrictions changed over time as follows:
+
+- Initially, the restrictions were set at ""No lifting over 20 lbs"" and ""limit bending.""
+- Later, these restrictions were adjusted to ""No lifting over 10 lbs"" and ""no repeated bending.""
+
+These changes reflect the evolving nature of the claimant's condition and the adjustments made by the treating physician, Dr. Haddad, based on the latest medical assessment. The employer should ensure that any new restrictions are documented in writing to maintain clarity and compliance with workplace safety protocols.",SYN-6977160-056; SYN-6977160-011; SYN-6977160-059; SYN-6977160-039; SYN-6977160-044,,,,
+Q1,6977160,graphrag,How did the claimant's work restrictions change over time?,generated_pending_review,"The claimant's work restrictions changed over time as follows:
+
+- Initially, the restrictions were set at ""No lifting over 20 lbs, limit bending"" based on Dr. Haddad's assessment.
+- Later, the restrictions were adjusted to ""No lifting over 10 lbs, no repeated bending,"" also according to Dr. Haddad's advice.
+- The current restrictions are ""No lifting over 20 lbs, limit bending.""
+
+These changes reflect adjustments made by the treating physician and possibly updates from the employer or other relevant parties regarding the claimant's ability to perform specific tasks during their workday.",SYN-6977160-056; SYN-6977160-011; SYN-6977160-039; SYN-6977160-044; SYN-6977160-021,,,,
+Q1,6977160,hybrid,How did the claimant's work restrictions change over time?,generated_pending_review,"The claimant's work restrictions changed over time as follows:
+
+- Initially, the restrictions were set at ""No lifting over 20 lbs"" and ""limit bending.""
+- Later, these restrictions were adjusted to ""No lifting over 10 lbs"" and ""no repeated bending.""
+
+These changes reflect the evolving nature of the claimant's condition and the adjustments made by the treating physician, Dr. Haddad, based on the latest medical assessment. The employer should ensure that any new restrictions are documented in writing to maintain clarity and compliance with workplace safety protocols.",SYN-6977160-056; SYN-6977160-011; SYN-6977160-059; SYN-6977160-039; SYN-6977160-044,,,,
+Q2,6977160,baseline,What are the claimant's latest work restrictions?,generated_pending_review,"Based on the evidence provided:
+
+- The claimant, Chloe Nguyen, is currently working regular duty.
+- Her latest work restrictions according to Dr. Haddad are:
+  - No lifting over 20 lbs
+  - Limiting bending
+- There is no mention of any changes or updates regarding her work restrictions since the last reported information in the evidence.
+
+Therefore, as of the last available information, Chloe Nguyen's latest work restrictions include no lifting over 20 lbs and limiting bending.",SYN-6977160-056; SYN-6977160-011; SYN-6977160-059; SYN-6977160-039; SYN-6977160-098,,,,
+Q2,6977160,graphrag,What are the claimant's latest work restrictions?,generated_pending_review,"Based on the evidence provided, the claimant's latest work restrictions are:
+
+No lifting over 20 lbs, limit bending.",SYN-6977160-056; SYN-6977160-011; SYN-6977160-039; SYN-6977160-098; SYN-6977160-108,,,,
+Q2,6977160,hybrid,What are the claimant's latest work restrictions?,generated_pending_review,"Based on the evidence provided:
+
+- The claimant, Chloe Nguyen, is currently working regular duty.
+- Her latest work restrictions according to Dr. Haddad are:
+  - No lifting over 20 lbs
+  - Limiting bending
+- There is no mention of any changes or updates regarding her work restrictions since the last reported information in the evidence.
+
+Therefore, as of the last available information, Chloe Nguyen's latest work restrictions include no lifting over 20 lbs and limiting bending.",SYN-6977160-056; SYN-6977160-011; SYN-6977160-059; SYN-6977160-039; SYN-6977160-098,,,,
+Q3,6977178,baseline,What is the corrected date of injury?,generated_pending_review,"The corrected date of injury is **December 16, 2025**. This can be determined from the following evidence:
+
+1. In Evidence E3, it states ""Compensability 12/26/25: Accepting as work related, the company confirms Julian was on shift. No lost time to date, medical only so far."" This indicates that the compensability date is December 26, 2025.
+2. In Evidence E4, it mentions ""DOI 12/16/25"" which directly corresponds to the date of injury.
+3. In Evidence E5, it also refers to ""DOI 12/16/25,"" further confirming this date.
+
+Therefore, the correct date of injury based on all available evidence is December 16, 2025.",SYN-6977178-032; SYN-6977178-021; SYN-6977178-018; SYN-6977178-053; SYN-6977178-092,,,,
+Q3,6977178,graphrag,What is the corrected date of injury?,generated_pending_review,"The corrected date of injury appears to be December 16, as indicated by the note ""SUP STMT December 24"" which suggests this is the most recent statement made regarding the incident. The text also confirms that Julian Bell slipped on ice in the lot on December 16 and was taken to Brooklyn Occupational Medicine on December 19, where he received treatment for a contusion of the left hip/buttock without any fractures noted on an X-ray.",SYN-6977178-015,,,,
+Q3,6977178,hybrid,What is the corrected date of injury?,generated_pending_review,"The corrected date of injury is **December 16, 2025**. This can be determined from the following evidence:
+
+1. In Evidence E3, it states ""Compensability 12/26/25: Accepting as work related, the company confirms Julian was on shift. No lost time to date, medical only so far."" This indicates that the compensability date is December 26, 2025.
+2. In Evidence E4, it mentions ""DOI 12/16/25"" which directly corresponds to the date of injury.
+3. In Evidence E5, it also refers to ""DOI 12/16/25,"" further confirming this date.
+
+Therefore, the correct date of injury based on all available evidence is December 16, 2025.",SYN-6977178-032; SYN-6977178-021; SYN-6977178-018; SYN-6977178-053; SYN-6977178-092,,,,
+Q4,6977140,baseline,"Who is Maya Patel, and what roles does that name have in this claim?",generated_pending_review,"Maya Patel appears to be involved with multiple aspects of this worker's compensation claim:
+
+1. **Claimant**: The claimant identified by her name is Maya Patel.
+   
+2. **Incident Report**: She received an incident report dated December 3rd.
+
+3. **Insurance Information**: Her insurance company is listed as SIF, and her adjuster is named Maya.
+
+4. **Visit Notes**: There are records indicating she visited the clinic on March 3rd, where a note was attached.
+
+5. **Restrictions**: She was restricted to light duty starting January 7th, working four hours per day.
+
+6. **Payroll Details**: Her earnings were noted at approximately $1105 per week prior to the injury.
+
+The conflicting information suggests there might be inconsistencies or additional details not included in the provided evidence. For instance, while one document mentions her being restricted to light duty, another indicates she had full-time work responsibilities. Additionally, the claimant herself mentioned ongoing issues with her upper arm after the injury, which could indicate ongoing treatment or limitations beyond those initially documented.",SYN-6977140-068; SYN-6977140-058; SYN-6977140-079; SYN-6977140-023; SYN-6977140-094,,,,
+Q4,6977140,graphrag,"Who is Maya Patel, and what roles does that name have in this claim?",generated_pending_review,"Maya Patel appears to be involved with multiple aspects of this worker's compensation claim:
+
+1. **Claimant**: The claimant identified by her name is Maya Patel.
+   
+2. **Incident Report**: She received an incident report dated December 3rd.
+
+3. **Insurance Information**: Her insurance company is listed as SIF, and her adjuster is named Maya.
+
+4. **Visit Notes**: There are records indicating she visited the clinic on March 3rd, where a note was attached.
+
+5. **Restrictions**: She was restricted to light duty starting January 7th, working four hours per day.
+
+6. **Payroll Details**: Her earnings were noted at approximately $1105 per week prior to the injury.
+
+The conflicting information suggests there might be inconsistencies or additional details not included in the provided evidence. For instance, while one document mentions her being restricted to light duty, another indicates she had full-time work responsibilities. Additionally, the claimant herself mentioned ongoing issues with her upper arm after the injury, which could indicate ongoing treatment or limitations beyond those initially documented.",SYN-6977140-068; SYN-6977140-058; SYN-6977140-079; SYN-6977140-023; SYN-6977140-094,,,,
+Q4,6977140,hybrid,"Who is Maya Patel, and what roles does that name have in this claim?",generated_pending_review,"Maya Patel appears to be involved with multiple aspects of this worker's compensation claim:
+
+1. **Claimant**: The claimant identified by her name is Maya Patel.
+   
+2. **Incident Report**: She received an incident report dated December 3rd.
+
+3. **Insurance Information**: Her insurance company is listed as SIF, and her adjuster is named Maya.
+
+4. **Visit Notes**: There are records indicating she visited the clinic on March 3rd, where a note was attached.
+
+5. **Restrictions**: She was restricted to light duty starting January 7th, working four hours per day.
+
+6. **Payroll Details**: Her earnings were noted at approximately $1105 per week prior to the injury.
+
+The conflicting information suggests there might be inconsistencies or additional details not included in the provided evidence. For instance, while one document mentions her being restricted to light duty, another indicates she had full-time work responsibilities. Additionally, the claimant herself mentioned ongoing issues with her upper arm after the injury, which could indicate ongoing treatment or limitations beyond those initially documented.",SYN-6977140-068; SYN-6977140-058; SYN-6977140-079; SYN-6977140-023; SYN-6977140-094,,,,
+Q5,6977160,baseline,What treatments were documented for this claimant?,generated_pending_review,"The treatments documented for Claim 6977160 include:
+
+1. Office Visit (SN-6977160-070)
+   - Date: April 1, 2026
+   - Reason: Payment for an office visit was requested.
+   - Status: Pending Authorization.
+
+2. Medical Treatment (SN-6977160-109)
+   - Date: September 2, 2026
+   - Reason: Authorization for treatment recommended by Dr. Haddad was requested.
+   - Status: Pending Authorization.
+
+These treatments are part of the ongoing claim process with Dr. Haddad's recommendations being reviewed and authorized before payment can be made to the claimant.",SYN-6977160-104; SYN-6977160-123; SYN-6977160-076; SYN-6977160-070; SYN-6977160-109,,,,
+Q5,6977160,graphrag,What treatments were documented for this claimant?,generated_pending_review,"The treatments documented for Claim 6977160 include:
+
+1. Office Visit (SN-6977160-070)
+   - Date: April 1, 2026
+   - Reason: Payment for an office visit was requested.
+   - Status: Pending Authorization.
+
+2. Medical Treatment (SN-6977160-109)
+   - Date: September 2, 2026
+   - Reason: Authorization for treatment recommended by Dr. Haddad was requested.
+   - Status: Pending Authorization.
+
+These treatments are part of the ongoing claim process with Dr. Haddad's recommendations being reviewed and authorized before payment can be made to the claimant.",SYN-6977160-104; SYN-6977160-123; SYN-6977160-076; SYN-6977160-070; SYN-6977160-109,,,,
+Q5,6977160,hybrid,What treatments were documented for this claimant?,generated_pending_review,"The treatments documented for Claim 6977160 include:
+
+1. Office Visit (SN-6977160-070)
+   - Date: April 1, 2026
+   - Reason: Payment for an office visit was requested.
+   - Status: Pending Authorization.
+
+2. Medical Treatment (SN-6977160-109)
+   - Date: September 2, 2026
+   - Reason: Authorization for treatment recommended by Dr. Haddad was requested.
+   - Status: Pending Authorization.
+
+These treatments are part of the ongoing claim process with Dr. Haddad's recommendations being reviewed and authorized before payment can be made to the claimant.",SYN-6977160-104; SYN-6977160-123; SYN-6977160-076; SYN-6977160-070; SYN-6977160-109,,,,
+Q6,6977160,baseline,What is the claimant's favorite food?,generated_pending_review,The claimant's favorite food is not specified in the provided evidence.,SYN-6977160-100; SYN-6977160-104; SYN-6977160-076; SYN-6977160-059; SYN-6977160-109,,,,
+Q6,6977160,graphrag,What is the claimant's favorite food?,generated_pending_review,The claimant's favorite food is not specified in the provided evidence.,SYN-6977160-100; SYN-6977160-104; SYN-6977160-076; SYN-6977160-059; SYN-6977160-109,,,,
+Q6,6977160,hybrid,What is the claimant's favorite food?,generated_pending_review,The claimant's favorite food is not specified in the provided evidence.,SYN-6977160-100; SYN-6977160-104; SYN-6977160-076; SYN-6977160-059; SYN-6977160-109,,,,
