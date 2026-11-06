@@ -3,7 +3,7 @@ import time
 import pandas as pd
 
 from src.retrieval.baseline_retriever import retrieve as baseline_retrieve
-from src.retrieval.graph_retriever import retrieve as graph_retrieve
+from src.retrieval.graphrag_retriever import retrieve as graph_retrieve
 from src.retrieval.hybrid_retriever import retrieve as hybrid_retrieve
 from src.generation.answer_generator import generate_answer
 

@@ -51,14 +51,14 @@ MONTHS = {
 
 def _question_months(question: str) -> set[int]:
     q = question.lower()
-    return {num for name, num in MONTHS.items() if re.search(rf"\\b{re.escape(name)}\\b", q)}
+    return {num for name, num in MONTHS.items() if re.search(rf"\b{re.escape(name)}\b", q)}
 
 
 def _question_cutoff(question: str):
     """Parse simple 'by March 11' style cutoffs as (month, day)."""
     q = question.lower()
     names = "|".join(sorted(MONTHS, key=len, reverse=True))
-    m = re.search(rf"\\bby\\s+({names})\\s+(\\d{{1,2}})\\b", q)
+    m = re.search(rf"\bby\s+({names})\s+(\d{{1,2}})\b", q)
     if not m:
         return None
     return MONTHS[m.group(1)], int(m.group(2))
@@ -80,7 +80,7 @@ def _parse_date_parts(value):
         return None
     text = str(value)
     # neo4j dates normally stringify as YYYY-MM-DD
-    m = re.search(r"(\\d{4})-(\\d{2})-(\\d{2})", text)
+    m = re.search(r"(\d{4})-(\d{2})-(\d{2})", text)
     if not m:
         return None
     return tuple(map(int, m.groups()))
@@ -578,30 +578,45 @@ def _ensure_correction_pair(rows: List[dict], top_k: int) -> List[dict]:
     return selected
 
 
-def retrieve(question: str, claim_id: str, top_k=5):
-    claim_id = normalize_claim_id(claim_id)
-    analysis = analyze_question(question)
-    candidate_meta = graph_candidates(question, claim_id, analysis)
-    candidate_ids = list(candidate_meta)
+def rank_and_select(
+    question: str,
+    claim_id: str,
+    analysis: Dict[str, List[str]],
+    candidate_meta: Dict[str, dict],
+    top_k: int = 5,
+    extra_bonus: Optional[Dict[str, float]] = None,
+    retrieval_method: str = "graphrag_llm_planned_graph_first",
+) -> List[dict]:
+    """Fuse BGE-M3 + graph structural scores, then apply coverage-aware Top-K.
 
+    Shared by GraphRAG and Hybrid RAG. ``extra_bonus`` lets a caller add a
+    per-chunk score (e.g. Hybrid's vector-seed bonus) without changing GraphRAG.
+    """
+    candidate_ids = list(candidate_meta)
     if not candidate_ids:
         return []
+    extra_bonus = extra_bonus or {}
 
     # Ask BGE for enough rows to allow the graph-aware selector to diversify Top-K.
     semantic_rows = semantic_rank(
         question,
         claim_id,
-        top_k=min(len(candidate_ids), MAX_CANDIDATES),
+        top_k=len(candidate_ids),
         candidate_ids=candidate_ids,
     )
     semantic_norm = _normalize_semantic([r["semantic_score"] for r in semantic_rows])
 
     ranked = []
-    max_structural = max([m["structural_score"] for m in candidate_meta.values()] or [1.0])
+    max_structural = max([m["structural_score"] for m in candidate_meta.values()] or [1.0]) or 1.0
     for row, sem_norm in zip(semantic_rows, semantic_norm):
         meta = candidate_meta.get(row["chunk_id"], {})
         graph_norm = float(meta.get("structural_score", 0.0)) / max_structural
-        final_score = SEMANTIC_WEIGHT * sem_norm + GRAPH_WEIGHT * graph_norm + _temporal_bonus(question, meta)
+        final_score = (
+            SEMANTIC_WEIGHT * sem_norm
+            + GRAPH_WEIGHT * graph_norm
+            + _temporal_bonus(question, meta)
+            + extra_bonus.get(row["chunk_id"], 0.0)
+        )
         out = dict(row)
         out.update({
             "graph_score": graph_norm,
@@ -626,11 +641,11 @@ def retrieve(question: str, claim_id: str, top_k=5):
         # If timeline diversity yielded fewer than K, fill with next best evidence.
         used = {r.get("note_id") for r in selected}
         for row in ranked:
+            if len(selected) >= top_k:
+                break
             if row.get("note_id") not in used:
                 selected.append(row)
                 used.add(row.get("note_id"))
-            if len(selected) >= top_k:
-                break
     elif "provenance" in intents:
         selected = _select_provenance(ranked, question, top_k)
     elif "multi_note" in intents and len(analysis.get("event_types", [])) > 1:
@@ -640,7 +655,7 @@ def retrieve(question: str, claim_id: str, top_k=5):
 
     for rank, row in enumerate(selected[:top_k], start=1):
         row["rank"] = rank
-        row["retrieval_method"] = "graphrag_llm_planned_graph_first"
+        row["retrieval_method"] = retrieval_method
         row["detected_intents"] = analysis.get("intents", [])
         row["detected_entities"] = analysis.get("entities", [])
         row["detected_event_types"] = analysis.get("event_types", [])
@@ -649,6 +664,13 @@ def retrieve(question: str, claim_id: str, top_k=5):
         row["candidate_count"] = len(candidate_ids)
 
     return selected[:top_k]
+
+
+def retrieve(question: str, claim_id: str, top_k=5):
+    claim_id = normalize_claim_id(claim_id)
+    analysis = analyze_question(question)
+    candidate_meta = graph_candidates(question, claim_id, analysis)
+    return rank_and_select(question, claim_id, analysis, candidate_meta, top_k=top_k)
 
 
 if __name__ == "__main__":
