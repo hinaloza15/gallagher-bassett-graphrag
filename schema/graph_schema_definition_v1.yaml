@@ -1,0 +1,260 @@
+# 01_graph_schema_definition_v1.yaml
+# Machine-readable definition of the GraphRAG schema, version 1.
+# The graph builder (03_code/02_build_graph_from_claim_notes.py) rejects any node label,
+# relationship type, or (from -> to) pair that is not listed here.
+# Human-readable tables generated from this file: 02_entity_definitions.csv,
+# 03_relationship_definitions.csv, 04_claim_event_types.csv.
+
+schema_name: gb_claims_graphrag
+schema_version: "1.0.0"
+date: "2026-10-21"
+built_for: "15 synthetic claims, about 100 noisy notes each (claim_notes_v2_15), plus public NY WCB documents"
+
+layers:
+  L1_claim_record:      "Facts from the structured columns of the notes file (one value per claim)"
+  L2_people_and_orgs:   "People and organizations named in note headers and note text"
+  L3_medical:           "Diagnoses, treatments and medications named in the notes"
+  L4_notes_and_text:    "The notes themselves and the text passages (chunks) used for retrieval and citation"
+  L5_claim_events:      "Things that happened on a date, extracted from note text, each linked back to its note"
+  L6_process_knowledge: "Public WCB rules: process steps, forms, roles, reference documents"
+
+# Common provenance properties carried by EVERY relationship (rule 4 in README).
+relationship_provenance_properties:
+  source_type:    "claim_record | note_header | note_text | reference_seed | derived"
+  source_id:      "Note ID, document ID or seed file row that supports the edge"
+  method:         "structured_field | header_field | rule_v1 | alias_match | fuzzy_match | curated | computed"
+  review_status:  "approved (deterministic) | unreviewed (extracted, needs audit) | draft (curated, needs team review)"
+  schema_version: "Version of this file that created the edge"
+  scope_claim_id: "Claim the edge belongs to (empty for global edges)"
+
+node_labels:
+
+  # ---------------- L1 claim record ----------------
+  Claim:
+    layer: L1_claim_record
+    key: claim_id
+    description: "One workers' compensation claim"
+    required: true
+    properties: {claim_id: str, claim_status_source: str, claimant_name: str, first_note_date: date, last_note_date: date, note_count: int,
+                 accident_date_record: date, carrier_type_record: str, claim_injury_type_record: str, highest_process_record: str,
+                 district_record: str, industry_code_record: str, industry_description_record: str}
+    record_properties_note: "*_record properties are filled only when the NY public claims file is passed with --ny-claims" 
+  Claimant:
+    layer: L1_claim_record
+    key: claimant_id            # CLMT-<claim_id>; never the name (names repeat across roles)
+    description: "The injured worker on one claim"
+    required: true
+    properties: {claimant_id: str, name: str, aliases: list}
+  Employer:
+    layer: L1_claim_record
+    key: employer_id
+    description: "Employer of record"
+    required: true
+    properties: {employer_id: str, name: str, email_domain: str, aliases: list}
+  Carrier:
+    layer: L1_claim_record
+    key: carrier_id
+    description: "Insurer, State Insurance Fund, or self-insured employer responsible for the claim"
+    required: true
+    properties: {carrier_id: str, name: str, aliases: list}
+  County:
+    layer: L1_claim_record
+    key: county_name
+    description: "New York county of injury"
+    required: true
+    properties: {county_name: str}
+  IncidentLocation:
+    layer: L1_claim_record
+    key: location_id
+    description: "Where the injury happened, as named in the record (e.g. 'Rockland County warehouse')"
+    required: true
+    properties: {location_id: str, name: str, site_type: str}
+  InjuryNature:
+    layer: L1_claim_record
+    key: nature_id
+    description: "WCIO nature of injury from the record (e.g. STRAIN OR TEAR)"
+    required: true
+    properties: {nature_id: str, name: str, wcio_code: str}
+  BodyPart:
+    layer: L1_claim_record
+    key: body_part_id
+    description: "A body part. granularity='wcio' = record category (e.g. MULTIPLE); granularity='specific' = part named in notes (e.g. low back)"
+    required: true
+    properties: {body_part_id: str, name: str, granularity: str, wcio_code: str}
+  InjuryCause:
+    layer: L1_claim_record
+    key: cause_id
+    description: "WCIO cause of injury from the record"
+    required: true
+    properties: {cause_id: str, name: str, cause_group: str, wcio_code: str}
+
+  # ---------------- L2 people and organizations ----------------
+  ClaimsStaff:
+    layer: L2_people_and_orgs
+    key: staff_id
+    description: "Person at the claims administrator: adjuster, assistant, supervisor, nurse case manager, benefits/pharmacy specialist"
+    required: true
+    properties: {staff_id: str, name: str, primary_role: str, initials: str, aliases: list}
+  EmployerContact:
+    layer: L2_people_and_orgs
+    key: contact_id
+    description: "Person at the employer: HR/payroll contact or the worker's supervisor"
+    required: false
+    properties: {contact_id: str, name: str, contact_role: str, email: str, aliases: list}
+  HealthcareFacility:
+    layer: L2_people_and_orgs
+    key: facility_id
+    description: "Clinic, physical therapy practice, imaging center or pharmacy"
+    required: false
+    properties: {facility_id: str, name: str, facility_type: str, email_domain: str, aliases: list}
+  Clinician:
+    layer: L2_people_and_orgs
+    key: clinician_id
+    description: "Treating doctor, physical therapist or independent medical examiner (IME doctor)"
+    required: false
+    properties: {clinician_id: str, name: str, clinician_type: str, aliases: list}
+  Attorney:
+    layer: L2_people_and_orgs
+    key: attorney_id
+    description: "Claimant's attorney"
+    required: false
+    properties: {attorney_id: str, name: str, firm_email_domain: str, aliases: list}
+
+  # ---------------- L3 medical ----------------
+  Diagnosis:
+    layer: L3_medical
+    key: diagnosis_id
+    description: "A diagnosis stated in the notes for one claim (e.g. 'strain of the low back, hip and both knees')"
+    required: false
+    properties: {diagnosis_id: str, text: str, condition: str}
+  Treatment:
+    layer: L3_medical
+    key: treatment_id
+    description: "A treatment type shared across claims (physical therapy, home exercise program, ice, splint...)"
+    required: false
+    properties: {treatment_id: str, name: str}
+  Medication:
+    layer: L3_medical
+    key: medication_id
+    description: "A medication named in the notes (Tylenol, ibuprofen, NSAIDs, OTC pain relievers)"
+    required: false
+    properties: {medication_id: str, name: str}
+
+  # ---------------- L4 notes and text ----------------
+  Note:
+    layer: L4_notes_and_text
+    key: note_id
+    description: "One entry in the claim log, exactly as written (noise kept)"
+    required: true
+    properties: {note_id: str, claim_id: str, note_date: date, note_type: str, author_name: str, author_role: str, text: str, word_count: int, has_copied_history: bool, has_pasted_email: bool, looks_truncated: bool}
+  Chunk:
+    layer: L4_notes_and_text
+    key: chunk_id
+    description: "A passage of a note or reference document; the unit that is embedded, retrieved and cited"
+    required: true
+    properties: {chunk_id: str, parent_id: str, parent_kind: str, position: int, text: str, char_start: int, char_end: int, word_count: int}
+  Document:
+    layer: L4_notes_and_text
+    key: doc_id
+    description: "A public reference document (WCB web page, form, fact sheet, treatment guideline)"
+    required: false
+    properties: {doc_id: str, title: str, doc_type: str, publisher: str, url: str, local_file: str, redistribution: str, downloaded: bool}
+
+  # ---------------- L5 claim events ----------------
+  ClaimEvent:
+    layer: L5_claim_events
+    key: event_id
+    description: "Something that happened on a claim on a date (visit, work-status change, bill decision, hearing...). event_type comes from 04_claim_event_types.csv"
+    required: true
+    properties: {event_id: str, claim_id: str, event_type: str, event_category: str, event_date: date, date_basis: str, summary: str,
+                 attributes_json: str, evidence_count: int, primary_evidence_count: int, support: str,
+                 decision: str, outcome: str, reason: str, service: str, amount: float, work_status: str, restrictions: str,
+                 examiner: str, finding: str, result_text: str, average_weekly_wage: float, weekly_rate: float, pain_score: int, has_conflicting_values: bool}
+    promoted_attributes_note: "decision ... pain_score are copied from attributes_json so they can be queried directly; if the notes give several values they are joined with ' | ' and has_conflicting_values is true"
+
+  # ---------------- L6 process knowledge ----------------
+  ProcessStep:
+    layer: L6_process_knowledge
+    key: step_id
+    description: "A step or rule in the NY claims process, quoted from a public WCB document"
+    required: false
+    properties: {step_id: str, name: str, rule_text: str, deadline_days: int, deadline_text: str}
+  Form:
+    layer: L6_process_knowledge
+    key: form_code
+    description: "A WCB form (C-3, C-2F, C-4.2, C-7, C-257, MG-2, RFA-1...)"
+    required: false
+    properties: {form_code: str, title: str, filed_by: str, purpose: str}
+  Role:
+    layer: L6_process_knowledge
+    key: role_name
+    description: "Generic role in the claims process (claimant, employer, insurer, health care provider, Board, law judge, claimant attorney)"
+    required: false
+    properties: {role_name: str, description: str, instance_labels: list}
+
+relationship_types:
+
+  # ---------------- L1 claim record ----------------
+  FILED_BY:            {from: [Claim], to: [Claimant], layer: L1_claim_record, meaning: "Claim belongs to this injured worker", created_by: structured_field}
+  HAS_EMPLOYER:        {from: [Claim], to: [Employer], layer: L1_claim_record, meaning: "Employer of record on the claim", created_by: structured_field}
+  INSURED_BY:          {from: [Claim], to: [Carrier], layer: L1_claim_record, meaning: "Carrier responsible for the claim", created_by: structured_field}
+  OCCURRED_IN_COUNTY:  {from: [Claim], to: [County], layer: L1_claim_record, meaning: "County of injury", created_by: structured_field}
+  OCCURRED_AT:         {from: [Claim], to: [IncidentLocation], layer: L1_claim_record, meaning: "Injury location", created_by: structured_field}
+  LOCATED_IN:          {from: [IncidentLocation], to: [County], layer: L1_claim_record, meaning: "Location lies in county", created_by: structured_field}
+  HAS_INJURY_NATURE:   {from: [Claim], to: [InjuryNature], layer: L1_claim_record, meaning: "Nature of injury on the record", created_by: structured_field}
+  HAS_BODY_PART:       {from: [Claim], to: [BodyPart], layer: L1_claim_record, meaning: "Body part category on the record (granularity=wcio)", created_by: structured_field}
+  HAS_CAUSE:           {from: [Claim], to: [InjuryCause], layer: L1_claim_record, meaning: "Cause of injury on the record", created_by: structured_field}
+
+  # ---------------- L2 people and organizations ----------------
+  HANDLED_BY:          {from: [Claim], to: [ClaimsStaff], layer: L2_people_and_orgs, meaning: "Staff member who worked on the claim (property role: adjuster, assistant, supervisor, nurse_case_manager, specialist)", created_by: "header_field / note_text"}
+  HAS_EMPLOYER_CONTACT: {from: [Claim], to: [EmployerContact], layer: L2_people_and_orgs, meaning: "Employer person involved in the claim (property role: hr_payroll_contact, supervisor)", created_by: note_text}
+  WORKS_FOR:           {from: [EmployerContact], to: [Employer], layer: L2_people_and_orgs, meaning: "Contact is employed by this employer", created_by: note_text}
+  TREATED_AT:          {from: [Claim], to: [HealthcareFacility], layer: L2_people_and_orgs, meaning: "Facility used on the claim (property service: treating_clinic, physical_therapy, imaging, pharmacy)", created_by: "structured_field / note_text"}
+  SEEN_BY:             {from: [Claim], to: [Clinician], layer: L2_people_and_orgs, meaning: "Clinician on the claim (property role: treating_physician, physical_therapist, ime_examiner)", created_by: "header_field / note_text"}
+  PRACTICES_AT:        {from: [Clinician], to: [HealthcareFacility], layer: L2_people_and_orgs, meaning: "Clinician works at this facility", created_by: note_text}
+  REPRESENTED_BY:      {from: [Claim], to: [Attorney], layer: L2_people_and_orgs, meaning: "Claimant is represented by this attorney on this claim", created_by: note_text}
+
+  # ---------------- L3 medical ----------------
+  HAS_DIAGNOSIS:       {from: [Claim], to: [Diagnosis], layer: L3_medical, meaning: "Diagnosis recorded on the claim", created_by: note_text}
+  DIAGNOSIS_AFFECTS:   {from: [Diagnosis], to: [BodyPart], layer: L3_medical, meaning: "Diagnosis involves this specific body part (property laterality: left, right, both)", created_by: note_text}
+
+  # ---------------- L4 notes and text ----------------
+  HAS_NOTE:            {from: [Claim], to: [Note], layer: L4_notes_and_text, meaning: "Note belongs to claim", created_by: header_field}
+  NEXT_NOTE:           {from: [Note], to: [Note], layer: L4_notes_and_text, meaning: "Next note in the same claim, by date then note number", created_by: header_field}
+  WRITTEN_BY:          {from: [Note], to: [ClaimsStaff, Clinician, EmployerContact], layer: L4_notes_and_text, meaning: "Author in the note header", created_by: header_field}
+  CONTAINS_MESSAGE_FROM: {from: [Note], to: [Claimant, EmployerContact, Attorney, ClaimsStaff, HealthcareFacility, Clinician], layer: L4_notes_and_text, meaning: "Note quotes an email, text or voicemail from this party (the content author is not the note author)", created_by: note_text}
+  CORRECTS:            {from: [Note], to: [Note], layer: L4_notes_and_text, meaning: "A 'Correction to my <date> note' entry and the note it corrects", created_by: note_text}
+  DUPLICATES:          {from: [Note], to: [Note], layer: L4_notes_and_text, meaning: "Later note has the same text as an earlier note on the same claim", created_by: computed}
+  HAS_CHUNK:           {from: [Note, Document], to: [Chunk], layer: L4_notes_and_text, meaning: "Text split into passages", created_by: computed}
+  NEXT_CHUNK:          {from: [Chunk], to: [Chunk], layer: L4_notes_and_text, meaning: "Reading order inside one note or document", created_by: computed}
+  MENTIONS:            {from: [Chunk], to: [Claimant, Employer, Carrier, ClaimsStaff, EmployerContact, HealthcareFacility, Clinician, Attorney, Form, Treatment, Medication], layer: L4_notes_and_text, meaning: "Passage names this entity (bridge from text search into the graph)", created_by: "alias_match / fuzzy_match"}
+
+  # ---------------- L5 claim events ----------------
+  HAS_EVENT:           {from: [Claim], to: [ClaimEvent], layer: L5_claim_events, meaning: "Event belongs to claim", created_by: note_text}
+  EVIDENCED_BY:        {from: [ClaimEvent], to: [Note], layer: L5_claim_events, meaning: "Note that supports the event (property evidence_kind: primary = first-hand entry, restated = copied history or summary; quote; char_start; char_end; chunk_id)", created_by: note_text}
+  NEXT_EVENT:          {from: [ClaimEvent], to: [ClaimEvent], layer: L5_claim_events, meaning: "Next event on the same claim by event date", created_by: computed}
+  INVOLVES:            {from: [ClaimEvent], to: [Claimant, Employer, Carrier, ClaimsStaff, EmployerContact, HealthcareFacility, Clinician, Attorney], layer: L5_claim_events, meaning: "Party taking part in the event (property role, e.g. examiner, billing_provider, requester)", created_by: note_text}
+  ABOUT_DIAGNOSIS:     {from: [ClaimEvent], to: [Diagnosis], layer: L5_claim_events, meaning: "Event assesses or refers to this diagnosis", created_by: note_text}
+  INCLUDES_TREATMENT:  {from: [ClaimEvent], to: [Treatment], layer: L5_claim_events, meaning: "Event orders, gives, authorizes or bills this treatment", created_by: note_text}
+  RECORDS_MEDICATION:  {from: [ClaimEvent], to: [Medication], layer: L5_claim_events, meaning: "Event records this medication", created_by: note_text}
+  REFERENCES_FORM:     {from: [ClaimEvent], to: [Form], layer: L5_claim_events, meaning: "Event sends, receives, requests or files this form (property action)", created_by: note_text}
+  INSTANCE_OF:         {from: [ClaimEvent], to: [ProcessStep], layer: L5_claim_events, meaning: "Event is a real example of this public process step", created_by: curated}
+  CONFLICTS_WITH:      {from: [ClaimEvent], to: [ClaimEvent], layer: L5_claim_events, meaning: "Two events on one claim state different values for a fact that should have one value (property fact, value_a, value_b)", created_by: computed}
+
+  # ---------------- L6 process knowledge ----------------
+  DESCRIBED_IN:        {from: [ProcessStep, Form], to: [Document], layer: L6_process_knowledge, meaning: "Where the step or form is described (property quote)", created_by: curated}
+  PERFORMED_BY:        {from: [ProcessStep], to: [Role], layer: L6_process_knowledge, meaning: "Role responsible for the step", created_by: curated}
+  USES_FORM:           {from: [ProcessStep], to: [Form], layer: L6_process_knowledge, meaning: "Form used in the step", created_by: curated}
+  PRECEDES:            {from: [ProcessStep], to: [ProcessStep], layer: L6_process_knowledge, meaning: "Order stated or implied by the source", created_by: curated}
+  COVERS_BODY_PART:    {from: [Document], to: [BodyPart], layer: L6_process_knowledge, meaning: "Treatment guideline applies to this specific body part (draft mapping)", created_by: curated}
+
+# Facts that must have ONE value per claim. If two events state different values,
+# the builder links them with CONFLICTS_WITH instead of overwriting (rule 6).
+single_value_facts:
+  date_of_injury:            {event_type: injury_occurred, attribute: date_of_injury}
+  return_to_full_duty_date:  {event_type: return_to_full_duty, attribute: effective_date}
+  hearing_outcome_same_date: {event_type: hearing_held, attribute: outcome, group_by: hearing_date}
+  adjournment_reason_same_date: {event_type: hearing_held, attribute: adjournment_reason, group_by: hearing_date}
+  ime_examiner:              {event_type: ime_report, attribute: examiner}
+  average_weekly_wage:       {event_type: wage_information, attribute: average_weekly_wage}
+  paid_to_date_never_decreases: {event_type: paid_to_date_statement, attribute: amount, rule: non_decreasing_over_time}

@@ -1,0 +1,69 @@
+layer,relationship_type,from_label,to_label,meaning,created_by,count_in_last_build
+L1_claim_record,FILED_BY,Claim,Claimant,Claim belongs to this injured worker,structured_field,15
+L1_claim_record,HAS_EMPLOYER,Claim,Employer,Employer of record on the claim,structured_field,15
+L1_claim_record,INSURED_BY,Claim,Carrier,Carrier responsible for the claim,structured_field,15
+L1_claim_record,OCCURRED_IN_COUNTY,Claim,County,County of injury,structured_field,15
+L1_claim_record,OCCURRED_AT,Claim,IncidentLocation,Injury location,structured_field,15
+L1_claim_record,LOCATED_IN,IncidentLocation,County,Location lies in county,structured_field,15
+L1_claim_record,HAS_INJURY_NATURE,Claim,InjuryNature,Nature of injury on the record,structured_field,15
+L1_claim_record,HAS_BODY_PART,Claim,BodyPart,Body part category on the record (granularity=wcio),structured_field,15
+L1_claim_record,HAS_CAUSE,Claim,InjuryCause,Cause of injury on the record,structured_field,15
+L2_people_and_orgs,HANDLED_BY,Claim,ClaimsStaff,"Staff member who worked on the claim (property role: adjuster, assistant, supervisor, nurse_case_manager, specialist)",header_field / note_text,67
+L2_people_and_orgs,HAS_EMPLOYER_CONTACT,Claim,EmployerContact,"Employer person involved in the claim (property role: hr_payroll_contact, supervisor)",note_text,30
+L2_people_and_orgs,WORKS_FOR,EmployerContact,Employer,Contact is employed by this employer,note_text,30
+L2_people_and_orgs,TREATED_AT,Claim,HealthcareFacility,"Facility used on the claim (property service: treating_clinic, physical_therapy, imaging, pharmacy)",structured_field / note_text,52
+L2_people_and_orgs,SEEN_BY,Claim,Clinician,"Clinician on the claim (property role: treating_physician, physical_therapist, ime_examiner)",header_field / note_text,28
+L2_people_and_orgs,PRACTICES_AT,Clinician,HealthcareFacility,Clinician works at this facility,note_text,24
+L2_people_and_orgs,REPRESENTED_BY,Claim,Attorney,Claimant is represented by this attorney on this claim,note_text,5
+L3_medical,HAS_DIAGNOSIS,Claim,Diagnosis,Diagnosis recorded on the claim,note_text,15
+L3_medical,DIAGNOSIS_AFFECTS,Diagnosis,BodyPart,"Diagnosis involves this specific body part (property laterality: left, right, both)",note_text,34
+L4_notes_and_text,HAS_NOTE,Claim,Note,Note belongs to claim,header_field,1513
+L4_notes_and_text,NEXT_NOTE,Note,Note,"Next note in the same claim, by date then note number",header_field,1498
+L4_notes_and_text,WRITTEN_BY,Note,ClaimsStaff,Author in the note header,header_field,1336
+L4_notes_and_text,WRITTEN_BY,Note,Clinician,Author in the note header,header_field,162
+L4_notes_and_text,WRITTEN_BY,Note,EmployerContact,Author in the note header,header_field,15
+L4_notes_and_text,CONTAINS_MESSAGE_FROM,Note,Claimant,"Note quotes an email, text or voicemail from this party (the content author is not the note author)",note_text,67
+L4_notes_and_text,CONTAINS_MESSAGE_FROM,Note,EmployerContact,"Note quotes an email, text or voicemail from this party (the content author is not the note author)",note_text,64
+L4_notes_and_text,CONTAINS_MESSAGE_FROM,Note,Attorney,"Note quotes an email, text or voicemail from this party (the content author is not the note author)",note_text,27
+L4_notes_and_text,CONTAINS_MESSAGE_FROM,Note,ClaimsStaff,"Note quotes an email, text or voicemail from this party (the content author is not the note author)",note_text,16
+L4_notes_and_text,CONTAINS_MESSAGE_FROM,Note,HealthcareFacility,"Note quotes an email, text or voicemail from this party (the content author is not the note author)",note_text,65
+L4_notes_and_text,CONTAINS_MESSAGE_FROM,Note,Clinician,"Note quotes an email, text or voicemail from this party (the content author is not the note author)",note_text,
+L4_notes_and_text,CORRECTS,Note,Note,A 'Correction to my <date> note' entry and the note it corrects,note_text,19
+L4_notes_and_text,DUPLICATES,Note,Note,Later note has the same text as an earlier note on the same claim,computed,5
+L4_notes_and_text,HAS_CHUNK,Note,Chunk,Text split into passages,computed,1560
+L4_notes_and_text,HAS_CHUNK,Document,Chunk,Text split into passages,computed,
+L4_notes_and_text,NEXT_CHUNK,Chunk,Chunk,Reading order inside one note or document,computed,47
+L4_notes_and_text,MENTIONS,Chunk,Claimant,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,509
+L4_notes_and_text,MENTIONS,Chunk,Employer,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,95
+L4_notes_and_text,MENTIONS,Chunk,Carrier,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,271
+L4_notes_and_text,MENTIONS,Chunk,ClaimsStaff,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,341
+L4_notes_and_text,MENTIONS,Chunk,EmployerContact,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,540
+L4_notes_and_text,MENTIONS,Chunk,HealthcareFacility,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,912
+L4_notes_and_text,MENTIONS,Chunk,Clinician,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,612
+L4_notes_and_text,MENTIONS,Chunk,Attorney,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,122
+L4_notes_and_text,MENTIONS,Chunk,Form,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,155
+L4_notes_and_text,MENTIONS,Chunk,Treatment,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,551
+L4_notes_and_text,MENTIONS,Chunk,Medication,Passage names this entity (bridge from text search into the graph),alias_match / fuzzy_match,87
+L5_claim_events,HAS_EVENT,Claim,ClaimEvent,Event belongs to claim,note_text,2491
+L5_claim_events,EVIDENCED_BY,ClaimEvent,Note,"Note that supports the event (property evidence_kind: primary = first-hand entry, restated = copied history or summary; quote; char_start; char_end; chunk_id)",note_text,3790
+L5_claim_events,NEXT_EVENT,ClaimEvent,ClaimEvent,Next event on the same claim by event date,computed,2476
+L5_claim_events,INVOLVES,ClaimEvent,Claimant,"Party taking part in the event (property role, e.g. examiner, billing_provider, requester)",note_text,413
+L5_claim_events,INVOLVES,ClaimEvent,Employer,"Party taking part in the event (property role, e.g. examiner, billing_provider, requester)",note_text,81
+L5_claim_events,INVOLVES,ClaimEvent,Carrier,"Party taking part in the event (property role, e.g. examiner, billing_provider, requester)",note_text,116
+L5_claim_events,INVOLVES,ClaimEvent,ClaimsStaff,"Party taking part in the event (property role, e.g. examiner, billing_provider, requester)",note_text,521
+L5_claim_events,INVOLVES,ClaimEvent,EmployerContact,"Party taking part in the event (property role, e.g. examiner, billing_provider, requester)",note_text,189
+L5_claim_events,INVOLVES,ClaimEvent,HealthcareFacility,"Party taking part in the event (property role, e.g. examiner, billing_provider, requester)",note_text,321
+L5_claim_events,INVOLVES,ClaimEvent,Clinician,"Party taking part in the event (property role, e.g. examiner, billing_provider, requester)",note_text,407
+L5_claim_events,INVOLVES,ClaimEvent,Attorney,"Party taking part in the event (property role, e.g. examiner, billing_provider, requester)",note_text,5
+L5_claim_events,ABOUT_DIAGNOSIS,ClaimEvent,Diagnosis,Event assesses or refers to this diagnosis,note_text,43
+L5_claim_events,INCLUDES_TREATMENT,ClaimEvent,Treatment,"Event orders, gives, authorizes or bills this treatment",note_text,348
+L5_claim_events,RECORDS_MEDICATION,ClaimEvent,Medication,Event records this medication,note_text,29
+L5_claim_events,REFERENCES_FORM,ClaimEvent,Form,"Event sends, receives, requests or files this form (property action)",note_text,282
+L5_claim_events,INSTANCE_OF,ClaimEvent,ProcessStep,Event is a real example of this public process step,curated,698
+L5_claim_events,CONFLICTS_WITH,ClaimEvent,ClaimEvent,"Two events on one claim state different values for a fact that should have one value (property fact, value_a, value_b)",computed,42
+L6_process_knowledge,DESCRIBED_IN,ProcessStep,Document,Where the step or form is described (property quote),curated,18
+L6_process_knowledge,DESCRIBED_IN,Form,Document,Where the step or form is described (property quote),curated,5
+L6_process_knowledge,PERFORMED_BY,ProcessStep,Role,Role responsible for the step,curated,18
+L6_process_knowledge,USES_FORM,ProcessStep,Form,Form used in the step,curated,6
+L6_process_knowledge,PRECEDES,ProcessStep,ProcessStep,Order stated or implied by the source,curated,7
+L6_process_knowledge,COVERS_BODY_PART,Document,BodyPart,Treatment guideline applies to this specific body part (draft mapping),curated,11

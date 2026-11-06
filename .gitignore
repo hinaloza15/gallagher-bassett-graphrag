@@ -7,3 +7,5 @@ __pycache__/
 
 data/claims/
 data/processed/*.pkl
+data/graph/
+evaluation/results/
