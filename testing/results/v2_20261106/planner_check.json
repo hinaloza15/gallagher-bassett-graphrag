@@ -1,0 +1,24 @@
+{
+  "question": "How did Chloe Nguyen's work restrictions change over time?",
+  "plan": {
+    "intents": [
+      "medical",
+      "multi_note",
+      "timeline"
+    ],
+    "entities": [
+      "ClaimEvent",
+      "Claimant"
+    ],
+    "event_types": [
+      "work_status_update",
+      "return_to_full_duty"
+    ],
+    "relationships": [
+      "NEXT_EVENT",
+      "HAS_EVENT",
+      "EVIDENCED_BY"
+    ],
+    "planner": "rules_plus_ollama:qwen3:14b"
+  }
+}

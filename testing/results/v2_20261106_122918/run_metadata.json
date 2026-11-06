@@ -1,0 +1,9 @@
+{
+  "commit": "e8ea0c480d3ade1a0bc50a28a7b83ec8248c8d68",
+  "planner_model": "qwen3:14b",
+  "planner_backend": "ollama",
+  "semantic_weight": "0.60",
+  "max_candidates": "120",
+  "top_k": 5,
+  "split": "dev"
+}
