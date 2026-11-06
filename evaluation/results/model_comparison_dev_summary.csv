@@ -1,0 +1,5 @@
+approach,hit_at_5,precision_at_5,recall_at_5,mrr,retrieval_seconds
+baseline,0.611,0.2,0.319,0.369,1.76
+graphrag,0.778,0.285,0.399,0.481,5.821
+hybrid,0.833,0.289,0.424,0.495,3.352
+hybrid_seeded,0.611,0.2,0.319,0.369,1.34
